@@ -1,0 +1,1 @@
+window.__ABP_DIASTOLIC_READING_1_EXAM_C={"concept_id":"ABP_DIASTOLIC_READING_1","exam":"C","n":316,"missing":1,"mean":71.9651,"sd":18.7958,"p50":70,"p99":164.58};

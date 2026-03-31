@@ -1,0 +1,1 @@
+window.__F08_OTKAG_EXAM_E={"concept_id":"F08_OTKAG","exam":"E","n":3949,"missing":3895,"mean":23.2963,"sd":11.7419,"p50":24.5,"p99":39};

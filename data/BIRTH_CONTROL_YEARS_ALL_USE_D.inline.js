@@ -1,0 +1,1 @@
+window.__BIRTH_CONTROL_YEARS_ALL_USE_EXAM_D={"concept_id":"BIRTH_CONTROL_YEARS_ALL_USE","exam":"D","n":448,"missing":8,"mean":8.8568,"sd":4.8316,"p50":9,"p99":19.61};

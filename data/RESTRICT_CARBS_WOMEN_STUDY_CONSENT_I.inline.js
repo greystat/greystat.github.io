@@ -1,0 +1,1 @@
+window.__RESTRICT_CARBS_WOMEN_STUDY_CONSENT_EXAM_I={"concept_id":"RESTRICT_CARBS_WOMEN_STUDY_CONSENT","exam":"I","n":63,"missing":0,"mean":2,"sd":0,"p50":2,"p99":2};

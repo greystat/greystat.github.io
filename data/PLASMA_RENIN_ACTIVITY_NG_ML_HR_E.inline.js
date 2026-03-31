@@ -1,0 +1,1 @@
+window.__PLASMA_RENIN_ACTIVITY_NG_ML_HR_EXAM_E={"concept_id":"PLASMA_RENIN_ACTIVITY_NG_ML_HR","exam":"E","n":232,"missing":0,"mean":1.225,"sd":1.186,"p50":0.905,"p99":5.1476};

@@ -1,0 +1,1 @@
+window.__COUGH_EPISODIC_WITH_PHLEGM_EXAM_A={"concept_id":"COUGH_EPISODIC_WITH_PHLEGM","exam":"A","n":5114,"missing":30,"n_levels":3,"mode_level":"No"};

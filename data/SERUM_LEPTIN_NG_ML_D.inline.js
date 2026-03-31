@@ -1,0 +1,1 @@
+window.__SERUM_LEPTIN_NG_ML_EXAM_D={"concept_id":"SERUM_LEPTIN_NG_ML","exam":"D","n":400,"missing":12,"mean":15.176,"sd":16.9986,"p50":7.8,"p99":75.072};

@@ -1,0 +1,1 @@
+window.__F08_LUNAG_EXAM_D={"concept_id":"F08_LUNAG","exam":"D","n":4085,"missing":4084,"mean":26,"sd":"NA","p50":26,"p99":26};

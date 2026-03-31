@@ -1,0 +1,1 @@
+window.__FRUIT_JUICE_USUAL_AMOUNT_EXAM_I={"concept_id":"FRUIT_JUICE_USUAL_AMOUNT","exam":"I","n":3278,"missing":823,"n_levels":4,"mode_level":"2"};

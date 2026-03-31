@@ -1,0 +1,1 @@
+window.__ONE_MIN_PULSE_AUTO_EXAM_I={"concept_id":"ONE_MIN_PULSE_AUTO","exam":"I","n":3358,"missing":23,"mean":67.1772,"sd":17.2002,"p50":66,"p99":96};

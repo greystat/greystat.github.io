@@ -1,0 +1,52 @@
+{
+  "concept_id": "DIABETES_DIAGNOSIS",
+  "title": "Diabetes diagnosis",
+  "chips": ["categorical", "1 levels"],
+  "members": [
+    {
+      "concept_id": "DIABETES_DIAGNOSIS",
+      "exam": "D",
+      "exam_year": "",
+      "dataset": "dflwup1",
+      "dataset_stub": "dflwup1",
+      "varname": "FY096DBT",
+      "family": "FLWUP",
+      "form_label": "",
+      "n_labels": "",
+      "instrument": "FLWUP",
+      "notes": ""
+    },
+    {
+      "concept_id": "DIABETES_DIAGNOSIS",
+      "exam": "D",
+      "exam_year": "",
+      "dataset": "dflwup1",
+      "dataset_stub": "dflwup1",
+      "varname": "FY108DBT",
+      "family": "FLWUP",
+      "form_label": "",
+      "n_labels": "",
+      "instrument": "FLWUP",
+      "notes": ""
+    },
+    {
+      "concept_id": "DIABETES_DIAGNOSIS",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f83",
+      "dataset_stub": "g3f83",
+      "varname": "G83DIA",
+      "family": "F83",
+      "form_label": "Non-attendence telephone survey",
+      "n_labels": "1",
+      "instrument": "F83: Non-attendence telephone survey",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    }
+  ]
+}

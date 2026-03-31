@@ -1,0 +1,1 @@
+window.__HOSPITALIZED_SINCE_LAST_EXAM_EXAM_F={"concept_id":"HOSPITALIZED_SINCE_LAST_EXAM","exam":"F","n":3671,"missing":24,"n_levels":4,"mode_level":"\"No\""};

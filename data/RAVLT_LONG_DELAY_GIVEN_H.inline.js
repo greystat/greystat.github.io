@@ -1,0 +1,1 @@
+window.__RAVLT_LONG_DELAY_GIVEN_EXAM_H={"concept_id":"RAVLT_LONG_DELAY_GIVEN","exam":"H","n":3386,"missing":24,"mean":1.9955,"sd":0.0667,"p50":2,"p99":2};

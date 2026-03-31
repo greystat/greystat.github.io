@@ -1,0 +1,1 @@
+window.__VIOLENCE_EPISODES_WITH_FAMILY_MEMBER_EXAM_B={"concept_id":"VIOLENCE_EPISODES_WITH_FAMILY_MEMBER","exam":"B","n":4623,"missing":64,"mean":1.0897,"sd":6.3145,"p50":0,"p99":20};

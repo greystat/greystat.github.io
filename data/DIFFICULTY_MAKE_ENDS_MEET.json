@@ -1,0 +1,59 @@
+{
+  "concept_id": "DIFFICULTY_MAKE_ENDS_MEET",
+  "title": "Difficulty making ends meet",
+  "chips": ["categorical", "6 levels", "F03 · Sociodemographic Questionnaire", "Sociodemographic"],
+  "members": [
+    {
+      "concept_id": "DIFFICULTY_MAKE_ENDS_MEET",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a5f03",
+      "dataset_stub": "a5f03",
+      "varname": "A03ENMET",
+      "family": "F03",
+      "form_label": "Sociodemographics",
+      "n_labels": "6",
+      "instrument": "F03: Sociodemographics",
+      "notes": ""
+    },
+    {
+      "concept_id": "DIFFICULTY_MAKE_ENDS_MEET",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f03",
+      "dataset_stub": "b2f03",
+      "varname": "B03ENMET",
+      "family": "F03",
+      "form_label": "Sociodemographics",
+      "n_labels": "6",
+      "instrument": "F03: Sociodemographics",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Frequently have trouble making ends meet?"
+    },
+    {
+      "code": "2",
+      "label": "Occasionally have trouble?"
+    },
+    {
+      "code": "3",
+      "label": "Hardly ever have trouble?"
+    },
+    {
+      "code": "4",
+      "label": "Never have trouble?"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    },
+    {
+      "code": "9",
+      "label": "No answer"
+    }
+  ]
+}

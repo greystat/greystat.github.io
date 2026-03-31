@@ -1,0 +1,50 @@
+{
+  "concept_id": "EYE_COLOR_LEFT",
+  "title": "Left eye color",
+  "chips": ["categorical", "7 levels", "F20 · Anthropometry", "Anthropometry"],
+  "members": [
+    {
+      "concept_id": "EYE_COLOR_LEFT",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f20",
+      "dataset_stub": "c1f20",
+      "varname": "C20EYEL",
+      "family": "F20",
+      "form_label": "Anthropometry",
+      "n_labels": "7",
+      "instrument": "F20: Anthropometry",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Brown"
+    },
+    {
+      "code": "2",
+      "label": "Hazel"
+    },
+    {
+      "code": "3",
+      "label": "Green"
+    },
+    {
+      "code": "4",
+      "label": "Grey"
+    },
+    {
+      "code": "5",
+      "label": "Blue"
+    },
+    {
+      "code": "6",
+      "label": "Other"
+    },
+    {
+      "code": "7",
+      "label": "Missing"
+    }
+  ]
+}

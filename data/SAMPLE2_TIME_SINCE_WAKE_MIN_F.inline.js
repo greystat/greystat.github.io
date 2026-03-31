@@ -1,0 +1,1 @@
+window.__SAMPLE2_TIME_SINCE_WAKE_MIN_EXAM_F={"concept_id":"SAMPLE2_TIME_SINCE_WAKE_MIN","exam":"F","n":811,"missing":4,"mean":49.1512,"sd":16.9991,"p50":45,"p99":99.7};

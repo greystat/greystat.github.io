@@ -1,0 +1,30 @@
+{
+  "concept_id": "CHILDREN_YN_YEAR7",
+  "title": "Had children at year 7 exam",
+  "chips": ["categorical", "2 levels", "F18 · Physical Activity History", "Physical Activity"],
+  "members": [
+    {
+      "concept_id": "CHILDREN_YN_YEAR7",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f18r",
+      "dataset_stub": "f1f18r",
+      "varname": "F18R7CHD",
+      "family": "F18",
+      "form_label": "Physical Activity Questionnaire",
+      "n_labels": "2",
+      "instrument": "F18: Physical Activity Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

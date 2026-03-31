@@ -1,0 +1,91 @@
+{
+  "concept_id": "EXAM_AMPM",
+  "title": "Exam time of day (AM/PM)",
+  "chips": ["categorical", "1 levels", "F02 · Blood Pressure", "Cardiovascular"],
+  "members": [
+    {
+      "concept_id": "EXAM_AMPM",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b3f02",
+      "dataset_stub": "b2f02",
+      "varname": "AM_PM_1",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "EXAM_AMPM",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b3f02",
+      "dataset_stub": "b2f02",
+      "varname": "AM_PM_2",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "EXAM_AMPM",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f02",
+      "dataset_stub": "g3f02c",
+      "varname": "G02CAMPM",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "EXAM_AMPM",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f02v2",
+      "dataset_stub": "h3f02v2",
+      "varname": "H02AMPM",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "EXAM_AMPM",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f02",
+      "dataset_stub": "i1f02",
+      "varname": "I02AMPM",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "EXAM_AMPM",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f02",
+      "dataset_stub": "j1f02",
+      "varname": "J02AMPM",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "AM"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__OVARIAN_SURGERY_INTERVIEWER_ID_EXAM_H={"concept_id":"OVARIAN_SURGERY_INTERVIEWER_ID","exam":"H","n":273,"missing":5,"mean":276.4216,"sd":134.4956,"p50":222,"p99":807};

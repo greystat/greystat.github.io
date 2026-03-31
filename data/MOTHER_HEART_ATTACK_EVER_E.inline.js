@@ -1,0 +1,1 @@
+window.__MOTHER_HEART_ATTACK_EVER_EXAM_E={"concept_id":"MOTHER_HEART_ATTACK_EVER","exam":"E","n":3949,"missing":95,"n_levels":4,"mode_level":"No"};

@@ -1,0 +1,1 @@
+window.__HEROIN_OPIATE_TYPE_HEROIN_EXAM_F={"concept_id":"HEROIN_OPIATE_TYPE_HEROIN","exam":"F","n":3671,"missing":3559,"n_levels":2,"mode_level":"(Missing)"};

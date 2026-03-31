@@ -1,0 +1,1 @@
+window.__BETA_CAROTENE_FREQUENCY_EXAM_F={"concept_id":"BETA_CAROTENE_FREQUENCY","exam":"F","n":3671,"missing":3630,"n_levels":4,"mode_level":"(Missing)"};

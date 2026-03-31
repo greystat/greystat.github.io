@@ -1,0 +1,46 @@
+{
+  "concept_id": "BICYCLE_USE",
+  "title": "Bicycle use",
+  "chips": ["categorical", "6 levels", "F32 · Dietary Assessment (Follow-up)", "Diet"],
+  "members": [
+    {
+      "concept_id": "BICYCLE_USE",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f32",
+      "dataset_stub": "b2f32",
+      "varname": "B32CYCLE",
+      "family": "F32",
+      "form_label": "Safety/Accident Questionnaire",
+      "n_labels": "6",
+      "instrument": "F32: Safety/Accident Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Never or almost never"
+    },
+    {
+      "code": "2",
+      "label": "Less than 1 day per week"
+    },
+    {
+      "code": "3",
+      "label": "About 1 day per week"
+    },
+    {
+      "code": "4",
+      "label": "About 2-3 days per week"
+    },
+    {
+      "code": "5",
+      "label": "About 4-6 days per week"
+    },
+    {
+      "code": "6",
+      "label": "Daily or almost daily"
+    }
+  ]
+}

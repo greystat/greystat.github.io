@@ -1,0 +1,1 @@
+window.__WEIGHTED_NETWORK_ADEQUACY_SCORE_EXAM_A={"concept_id":"WEIGHTED_NETWORK_ADEQUACY_SCORE","exam":"A","n":5114,"missing":26,"mean":2.6325,"sd":0.5324,"p50":2.75,"p99":3.75};

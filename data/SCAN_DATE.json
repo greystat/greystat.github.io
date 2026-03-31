@@ -1,0 +1,36 @@
+{
+  "concept_id": "SCAN_DATE",
+  "title": "Date of CT scan",
+  "unit": {},
+  "chips": ["numeric", "EBCT · Electron Beam CT", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "SCAN_DATE",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g5ebct",
+      "dataset_stub": "g5ebct",
+      "varname": "GR3SNDAT",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    },
+    {
+      "concept_id": "SCAN_DATE",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h4ebct",
+      "dataset_stub": "h4ebct",
+      "varname": "HR3SNDAT",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    }
+  ]
+}

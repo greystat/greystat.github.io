@@ -1,0 +1,1 @@
+window.__HOUSEHOLD_LIGHT_CHORES_MONTHS_PER_YEAR_EXAM_E={"concept_id":"HOUSEHOLD_LIGHT_CHORES_MONTHS_PER_YEAR","exam":"E","n":3949,"missing":42,"mean":11.3481,"sd":2.3774,"p50":12,"p99":12};

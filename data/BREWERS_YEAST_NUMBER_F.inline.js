@@ -1,0 +1,1 @@
+window.__BREWERS_YEAST_NUMBER_EXAM_F={"concept_id":"BREWERS_YEAST_NUMBER","exam":"F","n":3671,"missing":3659,"n_levels":6,"mode_level":"(Missing)"};

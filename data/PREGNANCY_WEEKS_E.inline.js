@@ -1,0 +1,1 @@
+window.__PREGNANCY_WEEKS_EXAM_E={"concept_id":"PREGNANCY_WEEKS","exam":"E","n":698,"missing":5,"mean":28.8557,"sd":14.4529,"p50":38,"p99":42.08};

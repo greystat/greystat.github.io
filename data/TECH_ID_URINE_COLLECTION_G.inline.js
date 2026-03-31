@@ -1,0 +1,1 @@
+window.__TECH_ID_URINE_COLLECTION_EXAM_G={"concept_id":"TECH_ID_URINE_COLLECTION","exam":"G","n":3537,"missing":19,"mean":288.44,"sd":104.0151,"p50":305,"p99":439};

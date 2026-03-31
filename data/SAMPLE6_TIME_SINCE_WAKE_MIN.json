@@ -1,0 +1,22 @@
+{
+  "concept_id": "SAMPLE6_TIME_SINCE_WAKE_MIN",
+  "title": "Saliva sample 6 time since waking (min)",
+  "unit": "min",
+  "chips": ["numeric", "min"],
+  "members": [
+    {
+      "concept_id": "SAMPLE6_TIME_SINCE_WAKE_MIN",
+      "exam": "F",
+      "exam_year": "",
+      "dataset": "f4scort",
+      "dataset_stub": "f3scort",
+      "varname": "FLHS6MIN",
+      "family": "SCORT",
+      "form_label": "",
+      "units_std": "min",
+      "units_class": "duration",
+      "instrument": "SCORT",
+      "notes": ""
+    }
+  ]
+}

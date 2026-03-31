@@ -1,0 +1,1 @@
+window.__MAX_HOT_FLASHES_PER_DAY_EXAM_J={"concept_id":"MAX_HOT_FLASHES_PER_DAY","exam":"J","n":1421,"missing":415,"mean":4.5427,"sd":5.4899,"p50":3,"p99":24};

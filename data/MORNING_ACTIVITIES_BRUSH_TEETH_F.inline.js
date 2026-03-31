@@ -1,0 +1,1 @@
+window.__MORNING_ACTIVITIES_BRUSH_TEETH_EXAM_F={"concept_id":"MORNING_ACTIVITIES_BRUSH_TEETH","exam":"F","n":814,"missing":3,"n_levels":3,"mode_level":"0"};

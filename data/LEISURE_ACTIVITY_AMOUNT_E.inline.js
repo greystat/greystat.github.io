@@ -1,0 +1,1 @@
+window.__LEISURE_ACTIVITY_AMOUNT_EXAM_E={"concept_id":"LEISURE_ACTIVITY_AMOUNT","exam":"E","n":3949,"missing":41,"n_levels":6,"mode_level":"The same"};

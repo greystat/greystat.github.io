@@ -1,0 +1,1 @@
+window.__FORM_EXAM_DATE_EXAM_G={"concept_id":"FORM_EXAM_DATE","exam":"G","n":14050,"missing":10958,"mean":2005.468,"sd":0.5131,"p50":2005,"p99":2006};

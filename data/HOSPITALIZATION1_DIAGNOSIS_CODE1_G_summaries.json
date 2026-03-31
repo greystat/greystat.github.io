@@ -1,0 +1,373 @@
+{
+  "concept_id": "HOSPITALIZATION1_DIAGNOSIS_CODE1",
+  "exam": "G",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 184,
+        "missing": 177,
+        "mean": 66,
+        "sd": 10.2144,
+        "p05": 52.6,
+        "q1": 59,
+        "median": 70,
+        "q3": 70.5,
+        "p95": 78,
+        "iqr": 11.5
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 78,
+        "missing": 75,
+        "mean": 74,
+        "sd": 6.0828,
+        "p05": 70.1,
+        "q1": 70.5,
+        "median": 71,
+        "q3": 76,
+        "p95": 80,
+        "iqr": 5.5
+      },
+      {
+        "label": "sex: 2",
+        "n": 106,
+        "missing": 102,
+        "mean": 60,
+        "sd": 8.4853,
+        "p05": 52.3,
+        "q1": 53.5,
+        "median": 59,
+        "q3": 65.5,
+        "p95": 69.1,
+        "iqr": 12
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 95,
+        "missing": 91,
+        "mean": 65.75,
+        "sd": 9.1788,
+        "p05": 54.7,
+        "q1": 65.5,
+        "median": 70,
+        "q3": 70.25,
+        "p95": 70.85,
+        "iqr": 4.75
+      },
+      {
+        "label": "race: 5",
+        "n": 89,
+        "missing": 86,
+        "mean": 66.3333,
+        "sd": 13.6504,
+        "p05": 55,
+        "q1": 59,
+        "median": 64,
+        "q3": 72.5,
+        "p95": 79.3,
+        "iqr": 13.5
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 174,
+        "missing": 167,
+        "mean": 66,
+        "sd": 10.2144,
+        "p05": 52.6,
+        "q1": 59,
+        "median": 70,
+        "q3": 70.5,
+        "p95": 78,
+        "iqr": 11.5
+      },
+      {
+        "label": "center: 2",
+        "n": 10,
+        "missing": 10,
+        "mean": "NA",
+        "sd": "NA",
+        "p05": "NA",
+        "q1": "NA",
+        "median": "NA",
+        "q3": "NA",
+        "p95": "NA",
+        "iqr": "NA"
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 44,
+        "missing": 42,
+        "mean": 70.5,
+        "sd": 0.7071,
+        "p05": 70.05,
+        "q1": 70.25,
+        "median": 70.5,
+        "q3": 70.75,
+        "p95": 70.95,
+        "iqr": 0.5
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 51,
+        "missing": 49,
+        "mean": 61,
+        "sd": 12.7279,
+        "p05": 52.9,
+        "q1": 56.5,
+        "median": 61,
+        "q3": 65.5,
+        "p95": 69.1,
+        "iqr": 9
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 34,
+        "missing": 33,
+        "mean": 81,
+        "sd": "NA",
+        "p05": 81,
+        "q1": 81,
+        "median": 81,
+        "q3": 81,
+        "p95": 81,
+        "iqr": 0
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 55,
+        "missing": 53,
+        "mean": 59,
+        "sd": 7.0711,
+        "p05": 54.5,
+        "q1": 56.5,
+        "median": 59,
+        "q3": 61.5,
+        "p95": 63.5,
+        "iqr": 5
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 73,
+        "missing": 70,
+        "mean": 74,
+        "sd": 6.0828,
+        "p05": 70.1,
+        "q1": 70.5,
+        "median": 71,
+        "q3": 76,
+        "p95": 80,
+        "iqr": 5.5
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 5,
+        "missing": 5,
+        "mean": "NA",
+        "sd": "NA",
+        "p05": "NA",
+        "q1": "NA",
+        "median": "NA",
+        "q3": "NA",
+        "p95": "NA",
+        "iqr": "NA"
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 101,
+        "missing": 97,
+        "mean": 60,
+        "sd": 8.4853,
+        "p05": 52.3,
+        "q1": 53.5,
+        "median": 59,
+        "q3": 65.5,
+        "p95": 69.1,
+        "iqr": 12
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 5,
+        "missing": 5,
+        "mean": "NA",
+        "sd": "NA",
+        "p05": "NA",
+        "q1": "NA",
+        "median": "NA",
+        "q3": "NA",
+        "p95": "NA",
+        "iqr": "NA"
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 92,
+        "missing": 88,
+        "mean": 65.75,
+        "sd": 9.1788,
+        "p05": 54.7,
+        "q1": 65.5,
+        "median": 70,
+        "q3": 70.25,
+        "p95": 70.85,
+        "iqr": 4.75
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 3,
+        "missing": 3,
+        "mean": "NA",
+        "sd": "NA",
+        "p05": "NA",
+        "q1": "NA",
+        "median": "NA",
+        "q3": "NA",
+        "p95": "NA",
+        "iqr": "NA"
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 82,
+        "missing": 79,
+        "mean": 66.3333,
+        "sd": 13.6504,
+        "p05": 55,
+        "q1": 59,
+        "median": 64,
+        "q3": 72.5,
+        "p95": 79.3,
+        "iqr": 13.5
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 7,
+        "missing": 7,
+        "mean": "NA",
+        "sd": "NA",
+        "p05": "NA",
+        "q1": "NA",
+        "median": "NA",
+        "q3": "NA",
+        "p95": "NA",
+        "iqr": "NA"
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 43,
+        "missing": 41,
+        "mean": 70.5,
+        "sd": 0.7071,
+        "p05": 70.05,
+        "q1": 70.25,
+        "median": 70.5,
+        "q3": 70.75,
+        "p95": 70.95,
+        "iqr": 0.5
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 1,
+        "missing": 1,
+        "mean": "NA",
+        "sd": "NA",
+        "p05": "NA",
+        "q1": "NA",
+        "median": "NA",
+        "q3": "NA",
+        "p95": "NA",
+        "iqr": "NA"
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 49,
+        "missing": 47,
+        "mean": 61,
+        "sd": 12.7279,
+        "p05": 52.9,
+        "q1": 56.5,
+        "median": 61,
+        "q3": 65.5,
+        "p95": 69.1,
+        "iqr": 9
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 2,
+        "missing": 2,
+        "mean": "NA",
+        "sd": "NA",
+        "p05": "NA",
+        "q1": "NA",
+        "median": "NA",
+        "q3": "NA",
+        "p95": "NA",
+        "iqr": "NA"
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 30,
+        "missing": 29,
+        "mean": 81,
+        "sd": "NA",
+        "p05": 81,
+        "q1": 81,
+        "median": 81,
+        "q3": 81,
+        "p95": 81,
+        "iqr": 0
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 4,
+        "missing": 4,
+        "mean": "NA",
+        "sd": "NA",
+        "p05": "NA",
+        "q1": "NA",
+        "median": "NA",
+        "q3": "NA",
+        "p95": "NA",
+        "iqr": "NA"
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 52,
+        "missing": 50,
+        "mean": 59,
+        "sd": 7.0711,
+        "p05": 54.5,
+        "q1": 56.5,
+        "median": 59,
+        "q3": 61.5,
+        "p95": 63.5,
+        "iqr": 5
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 3,
+        "missing": 3,
+        "mean": "NA",
+        "sd": "NA",
+        "p05": "NA",
+        "q1": "NA",
+        "median": "NA",
+        "q3": "NA",
+        "p95": "NA",
+        "iqr": "NA"
+      }
+    ]
+  }
+}

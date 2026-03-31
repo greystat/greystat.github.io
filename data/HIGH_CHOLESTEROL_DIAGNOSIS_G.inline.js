@@ -1,0 +1,1 @@
+window.__HIGH_CHOLESTEROL_DIAGNOSIS_EXAM_G={"concept_id":"HIGH_CHOLESTEROL_DIAGNOSIS","exam":"G","n":184,"missing":0,"n_levels":2,"mode_level":"\"No\""};

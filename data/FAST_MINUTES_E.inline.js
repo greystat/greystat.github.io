@@ -1,0 +1,1 @@
+window.__FAST_MINUTES_EXAM_E={"concept_id":"FAST_MINUTES","exam":"E","n":3949,"missing":104,"mean":1256.0687,"sd":12473.9734,"p50":800,"p99":1681.16};

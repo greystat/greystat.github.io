@@ -1,0 +1,1 @@
+window.__CESD_ITEM_ENJOYED_LIFE_EXAM_H={"concept_id":"CESD_ITEM_ENJOYED_LIFE","exam":"H","n":3474,"missing":4,"n_levels":5,"mode_level":"Most or all of the time"};

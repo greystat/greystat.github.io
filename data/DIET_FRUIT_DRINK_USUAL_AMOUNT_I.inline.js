@@ -1,0 +1,1 @@
+window.__DIET_FRUIT_DRINK_USUAL_AMOUNT_EXAM_I={"concept_id":"DIET_FRUIT_DRINK_USUAL_AMOUNT","exam":"I","n":3278,"missing":2572,"n_levels":4,"mode_level":"(Missing)"};

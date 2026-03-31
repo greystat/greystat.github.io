@@ -1,0 +1,1 @@
+window.__FRONTAL_SCOUT_SERIES_NUMBER_EXAM_H={"concept_id":"FRONTAL_SCOUT_SERIES_NUMBER","exam":"H","n":3215,"missing":49,"mean":1.0651,"sd":2.3198,"p50":1,"p99":1};

@@ -1,0 +1,1 @@
+window.__CAN_CONTINUE_LIVING_WITH_INCOME_LOSS_EXAM_G={"concept_id":"CAN_CONTINUE_LIVING_WITH_INCOME_LOSS","exam":"G","n":3537,"missing":5,"n_levels":6,"mode_level":"More than 1 year"};

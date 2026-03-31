@@ -1,0 +1,1 @@
+window.__STROOP_SUBTEST2_NUM_CORRECT_EXAM_H={"concept_id":"STROOP_SUBTEST2_NUM_CORRECT","exam":"H","n":3391,"missing":18,"mean":39.7999,"sd":1.4313,"p50":40,"p99":40};

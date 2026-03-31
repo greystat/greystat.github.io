@@ -1,0 +1,1 @@
+window.__URINE_CGMP_CONC_PMOL_ML_EXAM_C={"concept_id":"URINE_CGMP_CONC_PMOL_ML","exam":"C","n":600,"missing":18,"mean":471.1065,"sd":427.1465,"p50":339,"p99":2273.69};

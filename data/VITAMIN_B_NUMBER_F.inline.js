@@ -1,0 +1,1 @@
+window.__VITAMIN_B_NUMBER_EXAM_F={"concept_id":"VITAMIN_B_NUMBER","exam":"F","n":3671,"missing":3259,"mean":1.8932,"sd":2.7229,"p50":1,"p99":10};

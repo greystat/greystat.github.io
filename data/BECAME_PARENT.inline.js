@@ -1,0 +1,1 @@
+window.__BECAME_PARENT_CONCEPT={"concept_id":"BECAME_PARENT","title":"Became a parent","chips":"categorical","members":[{"concept_id":"BECAME_PARENT","exam":"A","exam_year":"","dataset":"aflwup1","dataset_stub":"aflwup1","varname":"FY012PRT","family":"FLWUP","form_label":"","n_labels":"","instrument":"FLWUP","notes":""}],"dictionary":{}};

@@ -1,0 +1,1 @@
+window.__DIABETES_AGE_EXAM_B={"concept_id":"DIABETES_AGE","exam":"B","n":53,"missing":0,"mean":21.9623,"sd":6.5895,"p50":22,"p99":32};

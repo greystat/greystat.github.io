@@ -1,0 +1,1 @@
+window.__INJURY_EVENT_LOCATION_CODED_EXAM_C={"concept_id":"INJURY_EVENT_LOCATION_CODED","exam":"C","n":1539,"missing":12,"mean":5.2213,"sd":5.5442,"p50":4,"p99":14};

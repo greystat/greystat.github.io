@@ -1,0 +1,1 @@
+window.__LAD_LESION_COUNT_EXAM_H={"concept_id":"LAD_LESION_COUNT","exam":"H","n":3197,"missing":8,"mean":0.7676,"sd":2.1125,"p50":0,"p99":10};

@@ -1,0 +1,1 @@
+window.__LUPUS_BLOOD_TEST_EXAM_G={"concept_id":"LUPUS_BLOOD_TEST","exam":"G","n":3467,"missing":6,"n_levels":3,"mode_level":"\"No\""};

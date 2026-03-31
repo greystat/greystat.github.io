@@ -1,0 +1,1 @@
+window.__UNEMPLOYED_LOOKING_FOR_WORK_PAST_2Y_EXAM_A={"concept_id":"UNEMPLOYED_LOOKING_FOR_WORK_PAST_2Y","exam":"A","n":5114,"missing":4,"n_levels":5,"mode_level":"No"};

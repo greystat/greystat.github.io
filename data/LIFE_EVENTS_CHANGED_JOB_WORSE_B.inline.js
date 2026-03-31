@@ -1,0 +1,1 @@
+window.__LIFE_EVENTS_CHANGED_JOB_WORSE_EXAM_B={"concept_id":"LIFE_EVENTS_CHANGED_JOB_WORSE","exam":"B","n":4623,"missing":61,"n_levels":4,"mode_level":"No"};

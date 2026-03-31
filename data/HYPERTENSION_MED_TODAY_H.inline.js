@@ -1,0 +1,1 @@
+window.__HYPERTENSION_MED_TODAY_EXAM_H={"concept_id":"HYPERTENSION_MED_TODAY","exam":"H","n":3496,"missing":2,"n_levels":4,"mode_level":"Do not take blood pressure medication"};

@@ -1,0 +1,1 @@
+window.__GENERAL_MED_NAME_SOURCE_EXAM_J={"concept_id":"GENERAL_MED_NAME_SOURCE","exam":"J","n":6227,"missing":55,"n_levels":4,"mode_level":"List of medications"};

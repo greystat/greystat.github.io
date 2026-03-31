@@ -1,0 +1,1 @@
+window.__F08_BCAG_EXAM_I={"concept_id":"F08_BCAG","exam":"I","n":3356,"missing":3255,"mean":44.2376,"sd":10.2442,"p50":46,"p99":59};

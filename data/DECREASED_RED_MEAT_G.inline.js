@@ -1,0 +1,1 @@
+window.__DECREASED_RED_MEAT_EXAM_G={"concept_id":"DECREASED_RED_MEAT","exam":"G","n":3142,"missing":1198,"n_levels":3,"mode_level":"No"};

@@ -1,0 +1,1 @@
+window.__CORE_QC_URINE_ALIQUOT_2ML_YN_EXAM_F={"concept_id":"CORE_QC_URINE_ALIQUOT_2ML_YN","exam":"F","n":3671,"missing":3229,"n_levels":4,"mode_level":"(Missing)"};

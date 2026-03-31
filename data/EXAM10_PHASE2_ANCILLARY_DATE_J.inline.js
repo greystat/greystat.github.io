@@ -1,0 +1,1 @@
+window.__EXAM10_PHASE2_ANCILLARY_DATE_EXAM_J={"concept_id":"EXAM10_PHASE2_ANCILLARY_DATE","exam":"J","n":3789,"missing":1942,"mean":2021.3249,"sd":0.4943,"p50":2021,"p99":2023};

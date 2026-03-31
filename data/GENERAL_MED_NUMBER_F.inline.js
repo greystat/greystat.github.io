@@ -1,0 +1,1 @@
+window.__GENERAL_MED_NUMBER_EXAM_F={"concept_id":"GENERAL_MED_NUMBER","exam":"F","n":3230,"missing":21,"mean":2.3609,"sd":1.957,"p50":2,"p99":10};

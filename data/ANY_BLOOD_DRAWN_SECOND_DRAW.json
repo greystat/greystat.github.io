@@ -1,0 +1,30 @@
+{
+  "concept_id": "ANY_BLOOD_DRAWN_SECOND_DRAW",
+  "title": "Any blood drawn at second blood draw",
+  "chips": ["categorical", "2 levels", "F05 · Phlebotomy", "Specimen Collection"],
+  "members": [
+    {
+      "concept_id": "ANY_BLOOD_DRAWN_SECOND_DRAW",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f05",
+      "dataset_stub": "e1f05",
+      "varname": "E05BLDD2",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

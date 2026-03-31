@@ -1,0 +1,36 @@
+{
+  "concept_id": "HBA1C_QNS_FLAG",
+  "title": "HbA1c quantity-not-sufficient flag",
+  "unit": {},
+  "chips": ["numeric", "HBA1C · Hemoglobin A1c", "Glycemia", "Lab"],
+  "members": [
+    {
+      "concept_id": "HBA1C_QNS_FLAG",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h3hba1c",
+      "dataset_stub": "h3hba1c",
+      "varname": "H0YHBA1CF",
+      "family": "HBA1C",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "HBA1C",
+      "notes": ""
+    },
+    {
+      "concept_id": "HBA1C_QNS_FLAG",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i3hba1c",
+      "dataset_stub": "i3hba1c",
+      "varname": "I0YHBA1CF",
+      "family": "HBA1C",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "HBA1C",
+      "notes": ""
+    }
+  ]
+}

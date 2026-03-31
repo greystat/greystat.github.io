@@ -1,0 +1,982 @@
+{
+  "concept_id": "ASPIRIN_PURPOSE_DETAILED",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 606,
+        "missing": 6,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 462,
+            "pct": 76.2
+          },
+          {
+            "level": "2",
+            "count": 138,
+            "pct": 22.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 6,
+            "pct": 1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 309,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 243,
+            "pct": 78.6
+          },
+          {
+            "level": "2",
+            "count": 63,
+            "pct": 20.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 297,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 219,
+            "pct": 73.7
+          },
+          {
+            "level": "2",
+            "count": 75,
+            "pct": 25.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 1
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 283,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 226,
+            "pct": 79.9
+          },
+          {
+            "level": "2",
+            "count": 54,
+            "pct": 19.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 323,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 236,
+            "pct": 73.1
+          },
+          {
+            "level": "2",
+            "count": 84,
+            "pct": 26
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.9
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 160,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 132,
+            "pct": 82.5
+          },
+          {
+            "level": "2",
+            "count": 28,
+            "pct": 17.5
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 127,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 102,
+            "pct": 80.3
+          },
+          {
+            "level": "2",
+            "count": 23,
+            "pct": 18.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 157,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 112,
+            "pct": 71.3
+          },
+          {
+            "level": "2",
+            "count": 45,
+            "pct": 28.7
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 162,
+        "missing": 4,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 116,
+            "pct": 71.6
+          },
+          {
+            "level": "2",
+            "count": 42,
+            "pct": 25.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 2.5
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 129,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 104,
+            "pct": 80.6
+          },
+          {
+            "level": "2",
+            "count": 23,
+            "pct": 17.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 154,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 122,
+            "pct": 79.2
+          },
+          {
+            "level": "2",
+            "count": 31,
+            "pct": 20.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 180,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 139,
+            "pct": 77.2
+          },
+          {
+            "level": "2",
+            "count": 40,
+            "pct": 22.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 143,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 97,
+            "pct": 67.8
+          },
+          {
+            "level": "2",
+            "count": 44,
+            "pct": 30.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 1.4
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 79,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 63,
+            "pct": 79.7
+          },
+          {
+            "level": "2",
+            "count": 16,
+            "pct": 20.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 70,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 56,
+            "pct": 80
+          },
+          {
+            "level": "2",
+            "count": 14,
+            "pct": 20
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 86,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 65,
+            "pct": 75.6
+          },
+          {
+            "level": "2",
+            "count": 21,
+            "pct": 24.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 74,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 59,
+            "pct": 79.7
+          },
+          {
+            "level": "2",
+            "count": 12,
+            "pct": 16.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 4.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 81,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 69,
+            "pct": 85.2
+          },
+          {
+            "level": "2",
+            "count": 12,
+            "pct": 14.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 57,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 46,
+            "pct": 80.7
+          },
+          {
+            "level": "2",
+            "count": 9,
+            "pct": 15.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 71,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 47,
+            "pct": 66.2
+          },
+          {
+            "level": "2",
+            "count": 24,
+            "pct": 33.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 88,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 57,
+            "pct": 64.8
+          },
+          {
+            "level": "2",
+            "count": 30,
+            "pct": 34.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 1.1
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 86,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 72,
+            "pct": 83.7
+          },
+          {
+            "level": "2",
+            "count": 14,
+            "pct": 16.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 54,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 45,
+            "pct": 83.3
+          },
+          {
+            "level": "2",
+            "count": 9,
+            "pct": 16.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 59,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 40,
+            "pct": 67.8
+          },
+          {
+            "level": "2",
+            "count": 19,
+            "pct": 32.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 84,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 69,
+            "pct": 82.1
+          },
+          {
+            "level": "2",
+            "count": 12,
+            "pct": 14.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 3.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 74,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 60,
+            "pct": 81.1
+          },
+          {
+            "level": "2",
+            "count": 14,
+            "pct": 18.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 73,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 57,
+            "pct": 78.1
+          },
+          {
+            "level": "2",
+            "count": 14,
+            "pct": 19.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 2.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 98,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 72,
+            "pct": 73.5
+          },
+          {
+            "level": "2",
+            "count": 26,
+            "pct": 26.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 78,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 47,
+            "pct": 60.3
+          },
+          {
+            "level": "2",
+            "count": 30,
+            "pct": 38.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 1.3
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 37,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 26,
+            "pct": 70.3
+          },
+          {
+            "level": "2",
+            "count": 11,
+            "pct": 29.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 24,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 20,
+            "pct": 83.3
+          },
+          {
+            "level": "2",
+            "count": 4,
+            "pct": 16.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 29,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 24,
+            "pct": 82.8
+          },
+          {
+            "level": "2",
+            "count": 5,
+            "pct": 17.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 39,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 34,
+            "pct": 87.2
+          },
+          {
+            "level": "2",
+            "count": 3,
+            "pct": 7.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 5.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 49,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 46,
+            "pct": 93.9
+          },
+          {
+            "level": "2",
+            "count": 3,
+            "pct": 6.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 30,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 25,
+            "pct": 83.3
+          },
+          {
+            "level": "2",
+            "count": 5,
+            "pct": 16.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 30,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 16,
+            "pct": 53.3
+          },
+          {
+            "level": "2",
+            "count": 14,
+            "pct": 46.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 45,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 35,
+            "pct": 77.8
+          },
+          {
+            "level": "2",
+            "count": 9,
+            "pct": 20
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 42,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 37,
+            "pct": 88.1
+          },
+          {
+            "level": "2",
+            "count": 5,
+            "pct": 11.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 46,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 36,
+            "pct": 78.3
+          },
+          {
+            "level": "2",
+            "count": 10,
+            "pct": 21.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 57,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 41,
+            "pct": 71.9
+          },
+          {
+            "level": "2",
+            "count": 16,
+            "pct": 28.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 35,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 25,
+            "pct": 71.4
+          },
+          {
+            "level": "2",
+            "count": 9,
+            "pct": 25.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 32,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 23,
+            "pct": 71.9
+          },
+          {
+            "level": "2",
+            "count": 9,
+            "pct": 28.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 27,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 21,
+            "pct": 77.8
+          },
+          {
+            "level": "2",
+            "count": 4,
+            "pct": 14.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 7.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 41,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 31,
+            "pct": 75.6
+          },
+          {
+            "level": "2",
+            "count": 10,
+            "pct": 24.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 43,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+        "freq": [
+          {
+            "level": "\"Mentioned avoiding heart attack and/or stroke or thinning blood\"",
+            "count": 22,
+            "pct": 51.2
+          },
+          {
+            "level": "2",
+            "count": 21,
+            "pct": 48.8
+          }
+        ]
+      }
+    ]
+  }
+}

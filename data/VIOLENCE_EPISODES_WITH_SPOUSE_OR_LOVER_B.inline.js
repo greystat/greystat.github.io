@@ -1,0 +1,1 @@
+window.__VIOLENCE_EPISODES_WITH_SPOUSE_OR_LOVER_EXAM_B={"concept_id":"VIOLENCE_EPISODES_WITH_SPOUSE_OR_LOVER","exam":"B","n":4623,"missing":56,"mean":2.118,"sd":8.6426,"p50":0,"p99":50};

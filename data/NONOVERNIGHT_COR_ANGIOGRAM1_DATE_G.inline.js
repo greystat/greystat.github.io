@@ -1,0 +1,1 @@
+window.__NONOVERNIGHT_COR_ANGIOGRAM1_DATE_EXAM_G={"concept_id":"NONOVERNIGHT_COR_ANGIOGRAM1_DATE","exam":"G","n":184,"missing":181,"mean":2005.3333,"sd":0.5774,"p50":2005,"p99":2005.98};

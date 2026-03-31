@@ -1,0 +1,1 @@
+window.__TOBACCO_CIGARETTES_PER_DAY_EXAM_D={"concept_id":"TOBACCO_CIGARETTES_PER_DAY","exam":"D","n":2404,"missing":1301,"mean":12.9701,"sd":9.4164,"p50":10,"p99":40};

@@ -1,0 +1,1 @@
+window.__BIACROMIAL_DIAMETER1_CM_EXAM_B={"concept_id":"BIACROMIAL_DIAMETER1_CM","exam":"B","n":4623,"missing":28,"mean":38.832,"sd":3.0953,"p50":38.5,"p99":46.5};

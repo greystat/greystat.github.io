@@ -1,0 +1,1 @@
+window.__SPIROMETER_FEF50_TRIAL_VALUES_EXAM_E={"concept_id":"SPIROMETER_FEF50_TRIAL_VALUES","exam":"E","n":3949,"missing":3810,"mean":4.0242,"sd":1.464,"p50":4,"p99":7.7812};

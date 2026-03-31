@@ -1,0 +1,1 @@
+window.__WEIGHTED_INSTRUMENTAL_SUPPORT_EXAM_A={"concept_id":"WEIGHTED_INSTRUMENTAL_SUPPORT","exam":"A","n":5114,"missing":100,"mean":1.415,"sd":0.692,"p50":1.25,"p99":3};

@@ -1,0 +1,1 @@
+window.__MRI_QC_AGREEMENT_WITH_SITE_EXAM_I={"concept_id":"MRI_QC_AGREEMENT_WITH_SITE","exam":"I","n":663,"missing":1,"n_levels":2,"mode_level":"2"};

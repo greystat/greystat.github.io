@@ -1,0 +1,1027 @@
+{
+  "concept_id": "COOK_MEDLEY_ITEM_SLEEP",
+  "exam": "A",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 5114,
+        "missing": 24,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 3273,
+            "pct": 64
+          },
+          {
+            "level": "False",
+            "count": 1817,
+            "pct": 35.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 24,
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 2327,
+        "missing": 11,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 1370,
+            "pct": 58.9
+          },
+          {
+            "level": "False",
+            "count": 946,
+            "pct": 40.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 11,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 2787,
+        "missing": 13,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 1903,
+            "pct": 68.3
+          },
+          {
+            "level": "False",
+            "count": 871,
+            "pct": 31.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 13,
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 2637,
+        "missing": 15,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 1693,
+            "pct": 64.2
+          },
+          {
+            "level": "False",
+            "count": 929,
+            "pct": 35.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 15,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 2477,
+        "missing": 9,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 1580,
+            "pct": 63.8
+          },
+          {
+            "level": "False",
+            "count": 888,
+            "pct": 35.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 9,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 1178,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 814,
+            "pct": 69.1
+          },
+          {
+            "level": "False",
+            "count": 364,
+            "pct": 30.9
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 1108,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 675,
+            "pct": 60.9
+          },
+          {
+            "level": "False",
+            "count": 432,
+            "pct": 39
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 1402,
+        "missing": 20,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 924,
+            "pct": 65.9
+          },
+          {
+            "level": "False",
+            "count": 458,
+            "pct": 32.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 20,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1426,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 860,
+            "pct": 60.3
+          },
+          {
+            "level": "False",
+            "count": 563,
+            "pct": 39.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 1157,
+        "missing": 8,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 687,
+            "pct": 59.4
+          },
+          {
+            "level": "False",
+            "count": 462,
+            "pct": 39.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 8,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1480,
+        "missing": 7,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 1006,
+            "pct": 68
+          },
+          {
+            "level": "False",
+            "count": 467,
+            "pct": 31.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 7,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 1170,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 683,
+            "pct": 58.4
+          },
+          {
+            "level": "False",
+            "count": 484,
+            "pct": 41.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1307,
+        "missing": 6,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 897,
+            "pct": 68.6
+          },
+          {
+            "level": "False",
+            "count": 404,
+            "pct": 30.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 6,
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 565,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 357,
+            "pct": 63.2
+          },
+          {
+            "level": "False",
+            "count": 208,
+            "pct": 36.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 509,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 276,
+            "pct": 54.2
+          },
+          {
+            "level": "False",
+            "count": 232,
+            "pct": 45.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 675,
+        "missing": 9,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 427,
+            "pct": 63.3
+          },
+          {
+            "level": "False",
+            "count": 239,
+            "pct": 35.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 9,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 578,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 310,
+            "pct": 53.6
+          },
+          {
+            "level": "False",
+            "count": 267,
+            "pct": 46.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 613,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 457,
+            "pct": 74.6
+          },
+          {
+            "level": "False",
+            "count": 156,
+            "pct": 25.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 599,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 399,
+            "pct": 66.6
+          },
+          {
+            "level": "False",
+            "count": 200,
+            "pct": 33.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 727,
+        "missing": 11,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 497,
+            "pct": 68.4
+          },
+          {
+            "level": "False",
+            "count": 219,
+            "pct": 30.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 11,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 848,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 550,
+            "pct": 64.9
+          },
+          {
+            "level": "False",
+            "count": 296,
+            "pct": 34.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 649,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 436,
+            "pct": 67.2
+          },
+          {
+            "level": "False",
+            "count": 213,
+            "pct": 32.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 552,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 356,
+            "pct": 64.5
+          },
+          {
+            "level": "False",
+            "count": 196,
+            "pct": 35.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 619,
+        "missing": 13,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 413,
+            "pct": 66.7
+          },
+          {
+            "level": "False",
+            "count": 193,
+            "pct": 31.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 13,
+            "pct": 2.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 817,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 488,
+            "pct": 59.7
+          },
+          {
+            "level": "False",
+            "count": 327,
+            "pct": 40
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 529,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 378,
+            "pct": 71.5
+          },
+          {
+            "level": "False",
+            "count": 151,
+            "pct": 28.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 556,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 319,
+            "pct": 57.4
+          },
+          {
+            "level": "False",
+            "count": 236,
+            "pct": 42.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 783,
+        "missing": 7,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 511,
+            "pct": 65.3
+          },
+          {
+            "level": "False",
+            "count": 265,
+            "pct": 33.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 7,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 609,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 372,
+            "pct": 61.1
+          },
+          {
+            "level": "False",
+            "count": 236,
+            "pct": 38.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 293,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 179,
+            "pct": 61.1
+          },
+          {
+            "level": "False",
+            "count": 114,
+            "pct": 38.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 235,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 137,
+            "pct": 58.3
+          },
+          {
+            "level": "False",
+            "count": 98,
+            "pct": 41.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 302,
+        "missing": 7,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 195,
+            "pct": 64.6
+          },
+          {
+            "level": "False",
+            "count": 100,
+            "pct": 33.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 7,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 327,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 176,
+            "pct": 53.8
+          },
+          {
+            "level": "False",
+            "count": 150,
+            "pct": 45.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 356,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 257,
+            "pct": 72.2
+          },
+          {
+            "level": "False",
+            "count": 99,
+            "pct": 27.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 317,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 219,
+            "pct": 69.1
+          },
+          {
+            "level": "False",
+            "count": 98,
+            "pct": 30.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 317,
+        "missing": 6,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 218,
+            "pct": 68.8
+          },
+          {
+            "level": "False",
+            "count": 93,
+            "pct": 29.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 6,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 490,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 312,
+            "pct": 63.7
+          },
+          {
+            "level": "False",
+            "count": 177,
+            "pct": 36.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 272,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 178,
+            "pct": 65.4
+          },
+          {
+            "level": "False",
+            "count": 94,
+            "pct": 34.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 274,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 139,
+            "pct": 50.7
+          },
+          {
+            "level": "False",
+            "count": 134,
+            "pct": 48.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 373,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 232,
+            "pct": 62.2
+          },
+          {
+            "level": "False",
+            "count": 139,
+            "pct": 37.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 251,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 134,
+            "pct": 53.4
+          },
+          {
+            "level": "False",
+            "count": 117,
+            "pct": 46.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 257,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 200,
+            "pct": 77.8
+          },
+          {
+            "level": "False",
+            "count": 57,
+            "pct": 22.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 282,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 180,
+            "pct": 63.8
+          },
+          {
+            "level": "False",
+            "count": 102,
+            "pct": 36.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 410,
+        "missing": 5,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 279,
+            "pct": 68
+          },
+          {
+            "level": "False",
+            "count": 126,
+            "pct": 30.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 5,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 358,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "True",
+        "freq": [
+          {
+            "level": "True",
+            "count": 238,
+            "pct": 66.5
+          },
+          {
+            "level": "False",
+            "count": 119,
+            "pct": 33.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      }
+    ]
+  }
+}

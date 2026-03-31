@@ -1,0 +1,36 @@
+{
+  "concept_id": "CIRCUMFERENTIAL_PEAK_STRAIN",
+  "title": "Circumferential peak strain (%)",
+  "unit": "%",
+  "chips": ["numeric", "%", "ECHO · Echocardiography", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "CIRCUMFERENTIAL_PEAK_STRAIN",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h10echo",
+      "dataset_stub": "h10echo",
+      "varname": "HECCAOP",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "%",
+      "units_class": "percent",
+      "instrument": "ECHO",
+      "notes": ""
+    },
+    {
+      "concept_id": "CIRCUMFERENTIAL_PEAK_STRAIN",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i5echo",
+      "dataset_stub": "i5echo",
+      "varname": "IECCAOP",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "%",
+      "units_class": "percent",
+      "instrument": "ECHO",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__FRONTAL_SCOUT_HEART_RATE_EXAM_H={"concept_id":"FRONTAL_SCOUT_HEART_RATE","exam":"H","n":3215,"missing":301,"mean":257.2563,"sd":1100.8301,"p50":65,"p99":6872.87};

@@ -1,0 +1,1 @@
+window.__INTERVIEWER_ID_EXAM_D={"concept_id":"INTERVIEWER_ID","exam":"D","n":5114,"missing":795,"mean":254.8979,"sd":152.5783,"p50":199,"p99":499};

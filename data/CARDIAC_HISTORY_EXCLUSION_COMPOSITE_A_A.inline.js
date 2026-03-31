@@ -1,0 +1,1 @@
+window.__CARDIAC_HISTORY_EXCLUSION_COMPOSITE_A_EXAM_A={"concept_id":"CARDIAC_HISTORY_EXCLUSION_COMPOSITE_A","exam":"A","n":5114,"missing":46,"n_levels":3,"mode_level":"No"};

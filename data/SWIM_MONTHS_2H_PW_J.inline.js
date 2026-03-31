@@ -1,0 +1,1 @@
+window.__SWIM_MONTHS_2H_PW_EXAM_J={"concept_id":"SWIM_MONTHS_2H_PW","exam":"J","n":2092,"missing":1810,"mean":3.1631,"sd":3.96,"p50":1,"p99":12};

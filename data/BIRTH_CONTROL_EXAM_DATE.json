@@ -1,0 +1,50 @@
+{
+  "concept_id": "BIRTH_CONTROL_EXAM_DATE",
+  "title": "Exam date for birth control pill form",
+  "unit": "date",
+  "chips": ["numeric", "date"],
+  "members": [
+    {
+      "concept_id": "BIRTH_CONTROL_EXAM_DATE",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f09mbc",
+      "dataset_stub": "b2f09mbc",
+      "varname": "B09ST_DT",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "BIRTH_CONTROL_EXAM_DATE",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f09bcp",
+      "dataset_stub": "f1f09bcp",
+      "varname": "F09CEXDT",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "BIRTH_CONTROL_EXAM_DATE",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09bcp",
+      "dataset_stub": "g3f09bcp",
+      "varname": "G09CEXDAT",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "date",
+      "units_class": "date",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

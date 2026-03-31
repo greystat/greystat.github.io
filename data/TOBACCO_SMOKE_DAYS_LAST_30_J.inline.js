@@ -1,0 +1,1 @@
+window.__TOBACCO_SMOKE_DAYS_LAST_30_EXAM_J={"concept_id":"TOBACCO_SMOKE_DAYS_LAST_30","exam":"J","n":968,"missing":934,"mean":19.1176,"sd":6.256,"p50":20,"p99":29.34};

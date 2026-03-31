@@ -1,0 +1,1 @@
+window.__ALWAYS_TRYING_IMPROVE_APPEARANCE_EXAM_D={"concept_id":"ALWAYS_TRYING_IMPROVE_APPEARANCE","exam":"D","n":4085,"missing":60,"n_levels":6,"mode_level":"Neither agree nor disagree"};

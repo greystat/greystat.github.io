@@ -1,0 +1,1 @@
+window.__ADEQUATE_TIME_TO_COMPLETE_JOB_EXAM_E={"concept_id":"ADEQUATE_TIME_TO_COMPLETE_JOB","exam":"E","n":3949,"missing":53,"n_levels":5,"mode_level":"Agree"};

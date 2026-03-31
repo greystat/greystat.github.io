@@ -1,0 +1,1 @@
+window.__NEIGHBORHOOD_FAST_FOOD_PRESENT_EXAM_I={"concept_id":"NEIGHBORHOOD_FAST_FOOD_PRESENT","exam":"I","n":3274,"missing":3,"n_levels":3,"mode_level":"2"};

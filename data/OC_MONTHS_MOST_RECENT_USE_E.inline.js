@@ -1,0 +1,1 @@
+window.__OC_MONTHS_MOST_RECENT_USE_EXAM_E={"concept_id":"OC_MONTHS_MOST_RECENT_USE","exam":"E","n":2044,"missing":1729,"mean":59.5619,"sd":59.8416,"p50":39,"p99":240.18};

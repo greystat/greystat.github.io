@@ -1,0 +1,1 @@
+window.__SPIROMETER_FVC_TRIAL_VALUES_EXAM_B={"concept_id":"SPIROMETER_FVC_TRIAL_VALUES","exam":"B","n":4623,"missing":4615,"mean":3.5112,"sd":0.8012,"p50":3.395,"p99":4.4893};

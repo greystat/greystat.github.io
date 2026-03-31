@@ -1,0 +1,1 @@
+window.__EXAM7_DATE_ALT_EXAM_G={"concept_id":"EXAM7_DATE_ALT","exam":"G","n":5114,"missing":1219,"mean":2005.4763,"sd":0.4995,"p50":2005,"p99":2006};

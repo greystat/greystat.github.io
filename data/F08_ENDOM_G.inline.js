@@ -1,0 +1,1 @@
+window.__F08_ENDOM_EXAM_G={"concept_id":"F08_ENDOM","exam":"G","n":3548,"missing":3325,"n_levels":3,"mode_level":"(Missing)"};

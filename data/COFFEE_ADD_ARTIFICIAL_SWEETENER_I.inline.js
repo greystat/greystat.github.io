@@ -1,0 +1,1 @@
+window.__COFFEE_ADD_ARTIFICIAL_SWEETENER_EXAM_I={"concept_id":"COFFEE_ADD_ARTIFICIAL_SWEETENER","exam":"I","n":3278,"missing":2824,"n_levels":2,"mode_level":"(Missing)"};

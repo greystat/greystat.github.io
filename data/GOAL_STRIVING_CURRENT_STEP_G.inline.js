@@ -1,0 +1,1 @@
+window.__GOAL_STRIVING_CURRENT_STEP_EXAM_G={"concept_id":"GOAL_STRIVING_CURRENT_STEP","exam":"G","n":3464,"missing":10,"mean":6.7345,"sd":1.6788,"p50":7,"p99":10};

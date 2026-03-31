@@ -1,0 +1,1 @@
+window.__CESD_ITEM_BOTHERED_BY_THINGS_EXAM_J={"concept_id":"CESD_ITEM_BOTHERED_BY_THINGS","exam":"J","n":2489,"missing":2,"n_levels":5,"mode_level":"\"Rarely or none of the time\""};

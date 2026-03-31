@@ -1,0 +1,1 @@
+window.__DRINKS_WINE_PER_WEEK_EXAM_J={"concept_id":"DRINKS_WINE_PER_WEEK","exam":"J","n":2100,"missing":514,"mean":2.2219,"sd":4.3479,"p50":0,"p99":21};

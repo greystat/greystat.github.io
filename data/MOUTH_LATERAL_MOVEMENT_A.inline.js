@@ -1,0 +1,1 @@
+window.__MOUTH_LATERAL_MOVEMENT_EXAM_A={"concept_id":"MOUTH_LATERAL_MOVEMENT","exam":"A","n":5114,"missing":143,"n_levels":3,"mode_level":"No"};

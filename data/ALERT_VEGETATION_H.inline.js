@@ -1,0 +1,1 @@
+window.__ALERT_VEGETATION_EXAM_H={"concept_id":"ALERT_VEGETATION","exam":"H","n":3470,"missing":3470,"n_levels":1,"mode_level":"(Missing)"};

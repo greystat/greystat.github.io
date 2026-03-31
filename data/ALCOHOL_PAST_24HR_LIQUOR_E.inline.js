@@ -1,0 +1,1 @@
+window.__ALCOHOL_PAST_24HR_LIQUOR_EXAM_E={"concept_id":"ALCOHOL_PAST_24HR_LIQUOR","exam":"E","n":3949,"missing":3885,"n_levels":8,"mode_level":"(Missing)"};

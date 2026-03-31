@@ -1,0 +1,1 @@
+window.__FAT_TYPE_COOKING_NUMERIC_CODES_EXAM_G={"concept_id":"FAT_TYPE_COOKING_NUMERIC_CODES","exam":"G","n":3142,"missing":3119,"mean":12894,"sd":23143.5093,"p50":1193,"p99":89889.32};

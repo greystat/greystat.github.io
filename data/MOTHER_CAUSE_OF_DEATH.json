@@ -1,0 +1,93 @@
+{
+  "concept_id": "MOTHER_CAUSE_OF_DEATH",
+  "title": "Mother cause of death",
+  "chips": ["categorical", "8 levels", "F11 · Family History", "Sociodemographic"],
+  "members": [
+    {
+      "concept_id": "MOTHER_CAUSE_OF_DEATH",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f11",
+      "dataset_stub": "a4f11",
+      "varname": "A11MDTH",
+      "family": "F11",
+      "form_label": "Family History Questionnaire",
+      "n_labels": "8",
+      "instrument": "F11: Family History Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "MOTHER_CAUSE_OF_DEATH",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f11",
+      "dataset_stub": "c1f11",
+      "varname": "C11MDTH",
+      "family": "F11",
+      "form_label": "Family History Questionnaire",
+      "n_labels": "6",
+      "instrument": "F11: Family History Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "MOTHER_CAUSE_OF_DEATH",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f11",
+      "dataset_stub": "e1f11",
+      "varname": "E11MDTH",
+      "family": "F11",
+      "form_label": "Family History Questionnaire",
+      "n_labels": "6",
+      "instrument": "F11: Family History Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "MOTHER_CAUSE_OF_DEATH",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f11",
+      "dataset_stub": "h4f11",
+      "varname": "H11MDTH",
+      "family": "F11",
+      "form_label": "Family History",
+      "n_labels": "6",
+      "instrument": "F11: Family History",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "3",
+      "label": "Accident"
+    },
+    {
+      "code": "4",
+      "label": "Cancer"
+    },
+    {
+      "code": "5",
+      "label": "Heart attack"
+    },
+    {
+      "code": "6",
+      "label": "Stroke"
+    },
+    {
+      "code": "7",
+      "label": "Other specify"
+    },
+    {
+      "code": "8",
+      "label": "Do not know"
+    }
+  ]
+}

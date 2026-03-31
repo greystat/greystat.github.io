@@ -1,0 +1,42 @@
+{
+  "concept_id": "MOTORCYCLE_HELMET_USE",
+  "title": "Motorcycle helmet use",
+  "chips": ["categorical", "5 levels", "F32 · Dietary Assessment (Follow-up)", "Diet"],
+  "members": [
+    {
+      "concept_id": "MOTORCYCLE_HELMET_USE",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f32",
+      "dataset_stub": "b2f32",
+      "varname": "B32MWEAR",
+      "family": "F32",
+      "form_label": "Safety/Accident Questionnaire",
+      "n_labels": "5",
+      "instrument": "F32: Safety/Accident Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Never"
+    },
+    {
+      "code": "2",
+      "label": "Seldom"
+    },
+    {
+      "code": "3",
+      "label": "Sometimes"
+    },
+    {
+      "code": "4",
+      "label": "Nearly always"
+    },
+    {
+      "code": "6",
+      "label": "Always"
+    }
+  ]
+}

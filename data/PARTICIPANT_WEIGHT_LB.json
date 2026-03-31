@@ -1,0 +1,36 @@
+{
+  "concept_id": "PARTICIPANT_WEIGHT_LB",
+  "title": "Weight (lb)",
+  "unit": "lb",
+  "chips": ["numeric", "lb", "F40 · Echo Technician Worksheet", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "PARTICIPANT_WEIGHT_LB",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f40",
+      "dataset_stub": "h4f40",
+      "varname": "H40WGT",
+      "family": "F40",
+      "form_label": "Echocardiography Technician's Worksheet",
+      "units_std": "lb",
+      "units_class": "mass",
+      "instrument": "F40: Echocardiography Technician's Worksheet",
+      "notes": ""
+    },
+    {
+      "concept_id": "PARTICIPANT_WEIGHT_LB",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f40",
+      "dataset_stub": "i1f40",
+      "varname": "I40WGT",
+      "family": "F40",
+      "form_label": "Echocardiography Technician's Worksheet",
+      "units_std": "lb",
+      "units_class": "mass",
+      "instrument": "F40: Echocardiography Technician's Worksheet",
+      "notes": ""
+    }
+  ]
+}

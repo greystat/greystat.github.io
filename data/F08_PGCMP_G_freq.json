@@ -1,0 +1,922 @@
+{
+  "concept_id": "F08_PGCMP",
+  "exam": "G",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3548,
+        "missing": 3333,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3333,
+            "pct": 93.9
+          },
+          {
+            "level": "1",
+            "count": 207,
+            "pct": 5.8
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 8,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1535,
+        "missing": 1535,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1535,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 2013,
+        "missing": 1798,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1798,
+            "pct": 89.3
+          },
+          {
+            "level": "1",
+            "count": 207,
+            "pct": 10.3
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 8,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1650,
+        "missing": 1500,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1500,
+            "pct": 90.9
+          },
+          {
+            "level": "1",
+            "count": 143,
+            "pct": 8.7
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 7,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1898,
+        "missing": 1833,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1833,
+            "pct": 96.6
+          },
+          {
+            "level": "1",
+            "count": 64,
+            "pct": 3.4
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 819,
+        "missing": 742,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 742,
+            "pct": 90.6
+          },
+          {
+            "level": "1",
+            "count": 74,
+            "pct": 9
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 3,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 793,
+        "missing": 757,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 757,
+            "pct": 95.5
+          },
+          {
+            "level": "1",
+            "count": 34,
+            "pct": 4.3
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 925,
+        "missing": 876,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 876,
+            "pct": 94.7
+          },
+          {
+            "level": "1",
+            "count": 47,
+            "pct": 5.1
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1011,
+        "missing": 958,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 958,
+            "pct": 94.8
+          },
+          {
+            "level": "1",
+            "count": 52,
+            "pct": 5.1
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 646,
+        "missing": 646,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 646,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1004,
+        "missing": 854,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 854,
+            "pct": 85.1
+          },
+          {
+            "level": "1",
+            "count": 143,
+            "pct": 14.2
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 7,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 889,
+        "missing": 889,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 889,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1009,
+        "missing": 944,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 944,
+            "pct": 93.6
+          },
+          {
+            "level": "1",
+            "count": 64,
+            "pct": 6.3
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 381,
+        "missing": 381,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 381,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 336,
+        "missing": 336,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 336,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 423,
+        "missing": 423,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 423,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 395,
+        "missing": 395,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 395,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 438,
+        "missing": 361,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 361,
+            "pct": 82.4
+          },
+          {
+            "level": "1",
+            "count": 74,
+            "pct": 16.9
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 3,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 457,
+        "missing": 421,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 421,
+            "pct": 92.1
+          },
+          {
+            "level": "1",
+            "count": 34,
+            "pct": 7.4
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 502,
+        "missing": 453,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 453,
+            "pct": 90.2
+          },
+          {
+            "level": "1",
+            "count": 47,
+            "pct": 9.4
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 616,
+        "missing": 563,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 563,
+            "pct": 91.4
+          },
+          {
+            "level": "1",
+            "count": 52,
+            "pct": 8.4
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 440,
+        "missing": 387,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 387,
+            "pct": 88
+          },
+          {
+            "level": "1",
+            "count": 51,
+            "pct": 11.6
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 363,
+        "missing": 337,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 337,
+            "pct": 92.8
+          },
+          {
+            "level": "1",
+            "count": 24,
+            "pct": 6.6
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 322,
+        "missing": 297,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 297,
+            "pct": 92.2
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 7.1
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 525,
+        "missing": 479,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 479,
+            "pct": 91.2
+          },
+          {
+            "level": "1",
+            "count": 45,
+            "pct": 8.6
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 379,
+        "missing": 355,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 355,
+            "pct": 93.7
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 6.1
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 430,
+        "missing": 420,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 420,
+            "pct": 97.7
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 603,
+        "missing": 579,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 579,
+            "pct": 96
+          },
+          {
+            "level": "1",
+            "count": 24,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 486,
+        "missing": 479,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 479,
+            "pct": 98.6
+          },
+          {
+            "level": "1",
+            "count": 7,
+            "pct": 1.4
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 177,
+        "missing": 177,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 177,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 131,
+        "missing": 131,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 131,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 139,
+        "missing": 139,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 139,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 199,
+        "missing": 199,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 199,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 263,
+        "missing": 210,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 210,
+            "pct": 79.8
+          },
+          {
+            "level": "1",
+            "count": 51,
+            "pct": 19.4
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 2,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 232,
+        "missing": 206,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 206,
+            "pct": 88.8
+          },
+          {
+            "level": "1",
+            "count": 24,
+            "pct": 10.3
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 2,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 183,
+        "missing": 158,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 158,
+            "pct": 86.3
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 12.6
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 2,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 326,
+        "missing": 280,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 280,
+            "pct": 85.9
+          },
+          {
+            "level": "1",
+            "count": 45,
+            "pct": 13.8
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 204,
+        "missing": 204,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 204,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 205,
+        "missing": 205,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 284,
+        "missing": 284,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 284,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 196,
+        "missing": 196,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 196,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 175,
+        "missing": 151,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 151,
+            "pct": 86.3
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 13.1
+          },
+          {
+            "level": "Pregnancy complications",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 225,
+        "missing": 215,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 215,
+            "pct": 95.6
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 4.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 319,
+        "missing": 295,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 295,
+            "pct": 92.5
+          },
+          {
+            "level": "1",
+            "count": 24,
+            "pct": 7.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 290,
+        "missing": 283,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 283,
+            "pct": 97.6
+          },
+          {
+            "level": "1",
+            "count": 7,
+            "pct": 2.4
+          }
+        ]
+      }
+    ]
+  }
+}

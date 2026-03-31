@@ -1,0 +1,877 @@
+{
+  "concept_id": "INSOMNIA_3MO",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1334,
+        "missing": 660,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 674,
+            "pct": 50.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 660,
+            "pct": 49.5
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 333,
+        "missing": 148,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 185,
+            "pct": 55.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 148,
+            "pct": 44.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1001,
+        "missing": 512,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 512,
+            "pct": 51.1
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 489,
+            "pct": 48.9
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 662,
+        "missing": 349,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 349,
+            "pct": 52.7
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 313,
+            "pct": 47.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 672,
+        "missing": 311,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 361,
+            "pct": 53.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 311,
+            "pct": 46.3
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 287,
+        "missing": 161,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 161,
+            "pct": 56.1
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 126,
+            "pct": 43.9
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 311,
+        "missing": 171,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 171,
+            "pct": 55
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 140,
+            "pct": 45
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 315,
+        "missing": 154,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 161,
+            "pct": 51.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 154,
+            "pct": 48.9
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 421,
+        "missing": 174,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 247,
+            "pct": 58.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 174,
+            "pct": 41.3
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 171,
+        "missing": 74,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 97,
+            "pct": 56.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 74,
+            "pct": 43.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 491,
+        "missing": 275,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 275,
+            "pct": 56
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 216,
+            "pct": 44
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 162,
+        "missing": 74,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 88,
+            "pct": 54.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 74,
+            "pct": 45.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 510,
+        "missing": 237,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 273,
+            "pct": 53.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 237,
+            "pct": 46.5
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 66,
+        "missing": 36,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 36,
+            "pct": 54.5
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 30,
+            "pct": 45.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 89,
+        "missing": 40,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 49,
+            "pct": 55.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 40,
+            "pct": 44.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 77,
+        "missing": 27,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 50,
+            "pct": 64.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 27,
+            "pct": 35.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 101,
+        "missing": 45,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 56,
+            "pct": 55.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 45,
+            "pct": 44.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 221,
+        "missing": 125,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 125,
+            "pct": 56.6
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 96,
+            "pct": 43.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 222,
+        "missing": 131,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 131,
+            "pct": 59
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 91,
+            "pct": 41
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 238,
+        "missing": 127,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 127,
+            "pct": 53.4
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 111,
+            "pct": 46.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 320,
+        "missing": 129,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 191,
+            "pct": 59.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 129,
+            "pct": 40.3
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 157,
+        "missing": 101,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 101,
+            "pct": 64.3
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 56,
+            "pct": 35.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 149,
+        "missing": 87,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 87,
+            "pct": 58.4
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 62,
+            "pct": 41.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 129,
+        "missing": 57,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 72,
+            "pct": 55.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 57,
+            "pct": 44.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 227,
+        "missing": 104,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 123,
+            "pct": 54.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 104,
+            "pct": 45.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 130,
+        "missing": 60,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 70,
+            "pct": 53.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 60,
+            "pct": 46.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 162,
+        "missing": 84,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 84,
+            "pct": 51.9
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 78,
+            "pct": 48.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 186,
+        "missing": 97,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 97,
+            "pct": 52.2
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 89,
+            "pct": 47.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 194,
+        "missing": 70,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 124,
+            "pct": 63.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 70,
+            "pct": 36.1
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 28,
+        "missing": 18,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 18,
+            "pct": 64.3
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 10,
+            "pct": 35.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 41,
+        "missing": 16,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 25,
+            "pct": 61
+          },
+          {
+            "level": "(Missing)",
+            "count": 16,
+            "pct": 39
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 43,
+        "missing": 12,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 31,
+            "pct": 72.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 12,
+            "pct": 27.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 59,
+        "missing": 28,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 31,
+            "pct": 52.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 28,
+            "pct": 47.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 129,
+        "missing": 83,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 83,
+            "pct": 64.3
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 46,
+            "pct": 35.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 108,
+        "missing": 71,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 71,
+            "pct": 65.7
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 37,
+            "pct": 34.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 86,
+        "missing": 45,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 45,
+            "pct": 52.3
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 41,
+            "pct": 47.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 168,
+        "missing": 76,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 92,
+            "pct": 54.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 76,
+            "pct": 45.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 38,
+        "missing": 18,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 20,
+            "pct": 52.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 18,
+            "pct": 47.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 48,
+        "missing": 24,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 24,
+            "pct": 50
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 24,
+            "pct": 50
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 34,
+        "missing": 15,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 19,
+            "pct": 55.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 15,
+            "pct": 44.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 42,
+        "missing": 17,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 25,
+            "pct": 59.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 17,
+            "pct": 40.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 92,
+        "missing": 42,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 50,
+            "pct": 54.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 42,
+            "pct": 45.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 114,
+        "missing": 60,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 60,
+            "pct": 52.6
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 54,
+            "pct": 47.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 152,
+        "missing": 82,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 82,
+            "pct": 53.9
+          },
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 70,
+            "pct": 46.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 152,
+        "missing": 53,
+        "n_levels": 2,
+        "mode_level": "Insomnia/sleep disturbances",
+        "freq": [
+          {
+            "level": "Insomnia/sleep disturbances",
+            "count": 99,
+            "pct": 65.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 53,
+            "pct": 34.9
+          }
+        ]
+      }
+    ]
+  }
+}

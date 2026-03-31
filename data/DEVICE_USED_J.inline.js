@@ -1,0 +1,1 @@
+window.__DEVICE_USED_EXAM_J={"concept_id":"DEVICE_USED","exam":"J","n":2125,"missing":2,"n_levels":3,"mode_level":"OmROn automated blood pressure monitor"};

@@ -1,0 +1,1 @@
+window.__MITRAL_PROPAGATION_VELOCITY_EXAM_I={"concept_id":"MITRAL_PROPAGATION_VELOCITY","exam":"I","n":3184,"missing":149,"mean":56.1099,"sd":18.6221,"p50":53.125,"p99":112.9144};

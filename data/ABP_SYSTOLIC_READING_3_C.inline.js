@@ -1,0 +1,1 @@
+window.__ABP_SYSTOLIC_READING_3_EXAM_C={"concept_id":"ABP_SYSTOLIC_READING_3","exam":"C","n":316,"missing":1,"mean":115.5556,"sd":17.6687,"p50":114,"p99":179.9};

@@ -1,0 +1,1 @@
+window.__VON_WILLEBRAND_ACTIVITY_PERCENT_EXAM_D={"concept_id":"VON_WILLEBRAND_ACTIVITY_PERCENT","exam":"D","n":1837,"missing":607,"mean":97.8423,"sd":39.3019,"p50":91,"p99":214};

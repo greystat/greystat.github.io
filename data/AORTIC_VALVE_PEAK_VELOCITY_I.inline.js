@@ -1,0 +1,1 @@
+window.__AORTIC_VALVE_PEAK_VELOCITY_EXAM_I={"concept_id":"AORTIC_VALVE_PEAK_VELOCITY","exam":"I","n":3184,"missing":122,"mean":132.547,"sd":27.728,"p50":128.979,"p99":215.8324};

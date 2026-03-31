@@ -1,0 +1,1 @@
+window.__CAREGIVING_PERSONAL_CARE_STRAIN_EXAM_G={"concept_id":"CAREGIVING_PERSONAL_CARE_STRAIN","exam":"G","n":3476,"missing":3225,"n_levels":4,"mode_level":"(Missing)"};

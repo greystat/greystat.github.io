@@ -1,0 +1,1 @@
+window.__JOINT_STIFFNESS_3MO_EXAM_J={"concept_id":"JOINT_STIFFNESS_3MO","exam":"J","n":1421,"missing":476,"n_levels":2,"mode_level":"Stiffness or soreness in joints, neck or shoulders"};

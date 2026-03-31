@@ -1,0 +1,1 @@
+window.__RACE_DISCRIMINATION_SUM_SCALE_EXAM_F={"concept_id":"RACE_DISCRIMINATION_SUM_SCALE","exam":"F","n":3671,"missing":30,"mean":2.3524,"sd":3.5763,"p50":0,"p99":14};

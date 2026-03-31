@@ -1,0 +1,1 @@
+window.__PRESCRIPTION_PAINMED_DAYS_USED_PAST_30_EXAM_J={"concept_id":"PRESCRIPTION_PAINMED_DAYS_USED_PAST_30","exam":"J","n":2389,"missing":2275,"mean":1.0614,"sd":4.9819,"p50":0,"p99":30};

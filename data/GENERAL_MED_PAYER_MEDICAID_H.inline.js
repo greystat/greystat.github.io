@@ -1,0 +1,1 @@
+window.__GENERAL_MED_PAYER_MEDICAID_EXAM_H={"concept_id":"GENERAL_MED_PAYER_MEDICAID","exam":"H","n":6729,"missing":6229,"n_levels":2,"mode_level":"(Missing)"};

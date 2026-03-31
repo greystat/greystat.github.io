@@ -1,0 +1,1 @@
+window.__MAJOR_HEALTH_PROBLEM1_AGE_EXAM_B={"concept_id":"MAJOR_HEALTH_PROBLEM1_AGE","exam":"B","n":304,"missing":6,"mean":18.7584,"sd":8.8972,"p50":21,"p99":32};

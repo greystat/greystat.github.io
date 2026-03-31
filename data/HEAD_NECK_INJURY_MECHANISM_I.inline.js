@@ -1,0 +1,1 @@
+window.__HEAD_NECK_INJURY_MECHANISM_EXAM_I={"concept_id":"HEAD_NECK_INJURY_MECHANISM","exam":"I","n":3264,"missing":6,"n_levels":3,"mode_level":"No"};

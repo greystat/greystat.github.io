@@ -1,0 +1,1 @@
+window.__HIP_GIRTH1_CM_EXAM_C={"concept_id":"HIP_GIRTH1_CM","exam":"C","n":4351,"missing":38,"mean":103.2526,"sd":11.7449,"p50":101,"p99":144};

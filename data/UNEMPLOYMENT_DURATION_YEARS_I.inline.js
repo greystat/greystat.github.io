@@ -1,0 +1,1 @@
+window.__UNEMPLOYMENT_DURATION_YEARS_EXAM_I={"concept_id":"UNEMPLOYMENT_DURATION_YEARS","exam":"I","n":3335,"missing":2491,"mean":2.0889,"sd":2.9071,"p50":1,"p99":15};

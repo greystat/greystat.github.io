@@ -1,0 +1,1 @@
+window.__SCOUT_IMAGE_NUMBER_EXAM_G={"concept_id":"SCOUT_IMAGE_NUMBER","exam":"G","n":3123,"missing":63,"mean":1.484,"sd":1.5325,"p50":1,"p99":3};

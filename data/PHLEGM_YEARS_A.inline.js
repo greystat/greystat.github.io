@@ -1,0 +1,1 @@
+window.__PHLEGM_YEARS_EXAM_A={"concept_id":"PHLEGM_YEARS","exam":"A","n":5114,"missing":36,"mean":0.946,"sd":3.0081,"p50":0,"p99":15};

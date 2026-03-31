@@ -1,0 +1,1 @@
+window.__VIGOROUS_DANCE_MONTHS_EXAM_B={"concept_id":"VIGOROUS_DANCE_MONTHS","exam":"B","n":4623,"missing":70,"mean":2.2297,"sd":3.7432,"p50":0,"p99":12};

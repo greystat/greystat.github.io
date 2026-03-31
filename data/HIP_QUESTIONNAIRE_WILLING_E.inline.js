@@ -1,0 +1,1 @@
+window.__HIP_QUESTIONNAIRE_WILLING_EXAM_E={"concept_id":"HIP_QUESTIONNAIRE_WILLING","exam":"E","n":2190,"missing":1357,"n_levels":3,"mode_level":"(Missing)"};

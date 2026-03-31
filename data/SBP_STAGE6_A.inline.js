@@ -1,0 +1,1 @@
+window.__SBP_STAGE6_EXAM_A={"concept_id":"SBP_STAGE6","exam":"A","n":5114,"missing":3122,"mean":189.0979,"sd":22.9286,"p50":190,"p99":242};

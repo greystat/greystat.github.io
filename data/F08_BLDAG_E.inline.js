@@ -1,0 +1,1 @@
+window.__F08_BLDAG_EXAM_E={"concept_id":"F08_BLDAG","exam":"E","n":3949,"missing":3942,"mean":27,"sd":6.3246,"p50":24,"p99":36.76};

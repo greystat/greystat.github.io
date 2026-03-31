@@ -1,0 +1,1 @@
+window.__SAX_QUALITY_SCORE_EXAM_I={"concept_id":"SAX_QUALITY_SCORE","exam":"I","n":3184,"missing":1,"mean":2.327,"sd":0.678,"p50":2,"p99":3};

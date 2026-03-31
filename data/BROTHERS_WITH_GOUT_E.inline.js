@@ -1,0 +1,1 @@
+window.__BROTHERS_WITH_GOUT_EXAM_E={"concept_id":"BROTHERS_WITH_GOUT","exam":"E","n":3949,"missing":1090,"mean":7.7398,"sd":24.9038,"p50":0,"p99":88};

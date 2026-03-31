@@ -1,0 +1,1 @@
+window.__BIRTH_CONTROL_YEARS_EX_USER_EXAM_D={"concept_id":"BIRTH_CONTROL_YEARS_EX_USER","exam":"D","n":448,"missing":7,"mean":4.0567,"sd":4.5019,"p50":2,"p99":17.6};

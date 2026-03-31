@@ -1,0 +1,1 @@
+window.__FORM10_INTERVIEWER_ID_EXAM_H={"concept_id":"FORM10_INTERVIEWER_ID","exam":"H","n":3492,"missing":1,"mean":337.0705,"sd":127.005,"p50":399,"p99":499};

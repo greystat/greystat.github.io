@@ -1,0 +1,1 @@
+window.__HELP_WHEN_SICK_FRIEND_EXAM_A={"concept_id":"HELP_WHEN_SICK_FRIEND","exam":"A","n":5114,"missing":60,"n_levels":3,"mode_level":"No"};

@@ -1,0 +1,36 @@
+{
+  "concept_id": "SUPRAILIAC_SKINFOLD3_MM",
+  "title": "Suprailiac skinfold third measurement (mm)",
+  "unit": "mm",
+  "chips": ["numeric", "mm", "F20 · Anthropometry", "Anthropometry"],
+  "members": [
+    {
+      "concept_id": "SUPRAILIAC_SKINFOLD3_MM",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f20",
+      "dataset_stub": "a4f20",
+      "varname": "A20SUP3",
+      "family": "F20",
+      "form_label": "Anthropometry",
+      "units_std": "mm",
+      "units_class": "length",
+      "instrument": "F20: Anthropometry",
+      "notes": ""
+    },
+    {
+      "concept_id": "SUPRAILIAC_SKINFOLD3_MM",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f20",
+      "dataset_stub": "b2f20",
+      "varname": "B20SUP3",
+      "family": "F20",
+      "form_label": "Anthropometry",
+      "units_std": "mm",
+      "units_class": "length",
+      "instrument": "F20: Anthropometry",
+      "notes": ""
+    }
+  ]
+}

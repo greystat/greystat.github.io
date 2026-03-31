@@ -1,0 +1,1 @@
+window.__WAIST_GIRTH_MEAN_CM_EXAM_I={"concept_id":"WAIST_GIRTH_MEAN_CM","exam":"I","n":2336,"missing":6,"mean":96.3187,"sd":16.3898,"p50":95.25,"p99":142.355};

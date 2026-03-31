@@ -1,0 +1,1 @@
+window.__BODY_WATER_LB_EXAM_E={"concept_id":"BODY_WATER_LB","exam":"E","n":3949,"missing":3719,"mean":90.2061,"sd":18.6051,"p50":85.85,"p99":144.17};

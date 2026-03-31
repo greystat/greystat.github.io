@@ -1,0 +1,1 @@
+window.__LM_AGATSTON_SCORE_EXAM_G={"concept_id":"LM_AGATSTON_SCORE","exam":"G","n":3139,"missing":17,"mean":0.9258,"sd":19.3019,"p50":0,"p99":14.019};

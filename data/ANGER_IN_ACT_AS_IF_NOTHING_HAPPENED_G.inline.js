@@ -1,0 +1,1 @@
+window.__ANGER_IN_ACT_AS_IF_NOTHING_HAPPENED_EXAM_G={"concept_id":"ANGER_IN_ACT_AS_IF_NOTHING_HAPPENED","exam":"G","n":3492,"missing":5,"n_levels":4,"mode_level":"Somewhat likely"};

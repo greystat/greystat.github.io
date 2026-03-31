@@ -1,0 +1,1 @@
+window.__LV_WALL_MOTION_SUMMARY_EXAM_C={"concept_id":"LV_WALL_MOTION_SUMMARY","exam":"C","n":4351,"missing":1114,"n_levels":4,"mode_level":"Yes"};

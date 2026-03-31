@@ -1,0 +1,1 @@
+window.__F08_BRTHC_EXAM_H={"concept_id":"F08_BRTHC","exam":"H","n":3485,"missing":1512,"n_levels":4,"mode_level":"Yes"};

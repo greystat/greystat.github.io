@@ -1,0 +1,36 @@
+{
+  "concept_id": "CT_TECHNOLOGIST_ID",
+  "title": "CT technologist ID",
+  "unit": "id",
+  "chips": ["numeric", "id", "F76 · Sleep Questionnaire", "Sleep"],
+  "members": [
+    {
+      "concept_id": "CT_TECHNOLOGIST_ID",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f76",
+      "dataset_stub": "g3f76",
+      "varname": "G76CTSID",
+      "family": "F76",
+      "form_label": "CT Exam Completion",
+      "units_std": "id",
+      "units_class": "identifier",
+      "instrument": "F76: CT Exam Completion",
+      "notes": ""
+    },
+    {
+      "concept_id": "CT_TECHNOLOGIST_ID",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f76",
+      "dataset_stub": "h3f76",
+      "varname": "H76CTSID",
+      "family": "F76",
+      "form_label": "CT Scan Completion",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F76: CT Scan Completion",
+      "notes": ""
+    }
+  ]
+}

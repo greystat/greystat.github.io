@@ -1,0 +1,1 @@
+window.__TOENAIL_POLISH_USE_FREQUENCY_PER_YEAR_EXAM_B={"concept_id":"TOENAIL_POLISH_USE_FREQUENCY_PER_YEAR","exam":"B","n":4623,"missing":398,"mean":6.968,"sd":31.4806,"p50":0,"p99":104};

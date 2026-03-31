@@ -1,0 +1,1 @@
+window.__F08_HYSTR_EXAM_J={"concept_id":"F08_HYSTR","exam":"J","n":2776,"missing":1215,"n_levels":4,"mode_level":"(Missing)"};

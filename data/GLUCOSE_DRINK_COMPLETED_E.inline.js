@@ -1,0 +1,1 @@
+window.__GLUCOSE_DRINK_COMPLETED_EXAM_E={"concept_id":"GLUCOSE_DRINK_COMPLETED","exam":"E","n":3949,"missing":1522,"n_levels":3,"mode_level":"Yes"};

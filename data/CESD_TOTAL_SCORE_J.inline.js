@@ -1,0 +1,1 @@
+window.__CESD_TOTAL_SCORE_EXAM_J={"concept_id":"CESD_TOTAL_SCORE","exam":"J","n":2489,"missing":130,"mean":9.4693,"sd":8.0662,"p50":8,"p99":37};

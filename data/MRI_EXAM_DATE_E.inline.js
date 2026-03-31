@@ -1,0 +1,1 @@
+window.__MRI_EXAM_DATE_EXAM_E={"concept_id":"MRI_EXAM_DATE","exam":"E","n":284,"missing":0,"mean":1995.3803,"sd":0.4863,"p50":1995,"p99":1996};

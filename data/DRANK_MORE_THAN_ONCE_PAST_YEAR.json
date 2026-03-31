@@ -1,0 +1,51 @@
+{
+  "concept_id": "DRANK_MORE_THAN_ONCE_PAST_YEAR",
+  "title": "Drank alcohol more than once or twice in past year",
+  "chips": ["categorical", "4 levels", "F07 · Alcohol Use Questionnaire", "Substance Use"],
+  "members": [
+    {
+      "concept_id": "DRANK_MORE_THAN_ONCE_PAST_YEAR",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f07",
+      "dataset_stub": "a4f07",
+      "varname": "A07NODRK",
+      "family": "F07",
+      "form_label": "Alcohol Use Questionnaire",
+      "n_labels": "4",
+      "instrument": "F07: Alcohol Use Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "DRANK_MORE_THAN_ONCE_PAST_YEAR",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f07",
+      "dataset_stub": "b2f07",
+      "varname": "B07NODRK",
+      "family": "F07",
+      "form_label": "Alcohol Use Questionnaire",
+      "n_labels": "",
+      "instrument": "F07: Alcohol Use Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    },
+    {
+      "code": "9",
+      "label": "No answer"
+    }
+  ]
+}

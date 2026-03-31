@@ -1,0 +1,1 @@
+window.__FASTING_GLUCOSE_ASSAY_DATE_Y25_VISIT1_EXAM_H={"concept_id":"FASTING_GLUCOSE_ASSAY_DATE_Y25_VISIT1","exam":"H","n":3479,"missing":1,"mean":2010.4359,"sd":0.4959,"p50":2010,"p99":2011};

@@ -1,0 +1,1 @@
+window.__MED_ADHERENCE_EXAM_DATE_EXAM_E={"concept_id":"MED_ADHERENCE_EXAM_DATE","exam":"E","n":947,"missing":0,"mean":1995.3664,"sd":0.4821,"p50":1995,"p99":1996};

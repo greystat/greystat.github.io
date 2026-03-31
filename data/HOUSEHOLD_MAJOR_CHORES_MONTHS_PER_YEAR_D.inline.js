@@ -1,0 +1,1 @@
+window.__HOUSEHOLD_MAJOR_CHORES_MONTHS_PER_YEAR_EXAM_D={"concept_id":"HOUSEHOLD_MAJOR_CHORES_MONTHS_PER_YEAR","exam":"D","n":4085,"missing":74,"mean":4.8863,"sd":4.8808,"p50":3,"p99":12};

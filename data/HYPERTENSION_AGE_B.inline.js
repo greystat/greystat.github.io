@@ -1,0 +1,1 @@
+window.__HYPERTENSION_AGE_EXAM_B={"concept_id":"HYPERTENSION_AGE","exam":"B","n":422,"missing":162,"mean":22.7385,"sd":5.3076,"p50":23,"p99":32};

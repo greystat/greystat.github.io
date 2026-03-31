@@ -1,0 +1,1 @@
+window.__SUPRAILIAC_SKINFOLD1_MM_EXAM_C={"concept_id":"SUPRAILIAC_SKINFOLD1_MM","exam":"C","n":4351,"missing":328,"mean":21.1591,"sd":10.6924,"p50":20,"p99":47};

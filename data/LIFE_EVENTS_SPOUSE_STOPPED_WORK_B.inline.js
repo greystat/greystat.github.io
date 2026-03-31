@@ -1,0 +1,1 @@
+window.__LIFE_EVENTS_SPOUSE_STOPPED_WORK_EXAM_B={"concept_id":"LIFE_EVENTS_SPOUSE_STOPPED_WORK","exam":"B","n":4623,"missing":2294,"n_levels":4,"mode_level":"(Missing)"};

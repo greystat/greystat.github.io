@@ -1,0 +1,1 @@
+window.__TECHNICIAN_ID_1_EXAM_G={"concept_id":"TECHNICIAN_ID_1","exam":"G","n":2890,"missing":5,"mean":291.0451,"sd":103.6053,"p50":311,"p99":429};

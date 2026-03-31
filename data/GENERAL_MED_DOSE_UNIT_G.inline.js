@@ -1,0 +1,1 @@
+window.__GENERAL_MED_DOSE_UNIT_EXAM_G={"concept_id":"GENERAL_MED_DOSE_UNIT","exam":"G","n":4721,"missing":4703,"n_levels":4,"mode_level":"(Missing)"};

@@ -1,0 +1,1 @@
+window.__F08_TUBAL_EXAM_G={"concept_id":"F08_TUBAL","exam":"G","n":3548,"missing":1539,"n_levels":4,"mode_level":"(Missing)"};

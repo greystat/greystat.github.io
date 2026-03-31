@@ -1,0 +1,1 @@
+window.__HOME_MAINTENANCE_MONTHS_EXAM_J={"concept_id":"HOME_MAINTENANCE_MONTHS","exam":"J","n":2092,"missing":794,"mean":7.1086,"sd":4.0786,"p50":6,"p99":12};

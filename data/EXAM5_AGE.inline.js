@@ -1,0 +1,1 @@
+window.__EXAM5_AGE_CONCEPT={"concept_id":"EXAM5_AGE","title":"Calculated age at exam 5","unit":{},"chips":["numeric","REF · Reference / Status","Administrative"],"members":[{"concept_id":"EXAM5_AGE","exam":"E","exam_year":"","dataset":"e3ref","dataset_stub":"e1ref","varname":"EX5_AGE","family":"REF","form_label":"","units_std":"","units_class":"","instrument":"REF","notes":""}]};

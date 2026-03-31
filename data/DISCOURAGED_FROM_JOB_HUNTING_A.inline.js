@@ -1,0 +1,1 @@
+window.__DISCOURAGED_FROM_JOB_HUNTING_EXAM_A={"concept_id":"DISCOURAGED_FROM_JOB_HUNTING","exam":"A","n":5114,"missing":652,"n_levels":3,"mode_level":"1"};

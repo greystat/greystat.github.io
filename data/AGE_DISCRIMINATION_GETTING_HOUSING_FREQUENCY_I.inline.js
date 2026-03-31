@@ -1,0 +1,1 @@
+window.__AGE_DISCRIMINATION_GETTING_HOUSING_FREQUENCY_EXAM_I={"concept_id":"AGE_DISCRIMINATION_GETTING_HOUSING_FREQUENCY","exam":"I","n":2286,"missing":2232,"n_levels":3,"mode_level":"(Missing)"};

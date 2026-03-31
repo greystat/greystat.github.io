@@ -1,0 +1,1 @@
+window.__HYPOTHYROIDISM_STATUS_EXAM_B={"concept_id":"HYPOTHYROIDISM_STATUS","exam":"B","n":98,"missing":64,"n_levels":4,"mode_level":"(Missing)"};

@@ -1,0 +1,1 @@
+window.__F08_YMAX_EXAM_E={"concept_id":"F08_YMAX","exam":"E","n":3949,"missing":29,"mean":183.8658,"sd":46.9195,"p50":178,"p99":335.81};

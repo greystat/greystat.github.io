@@ -1,0 +1,1 @@
+window.__EXAM5_AGE_EXAM_E={"concept_id":"EXAM5_AGE","exam":"E","n":5114,"missing":1171,"mean":35.0155,"sd":3.6574,"p50":35,"p99":41};

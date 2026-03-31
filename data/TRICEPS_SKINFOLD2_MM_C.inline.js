@@ -1,0 +1,1 @@
+window.__TRICEPS_SKINFOLD2_MM_EXAM_C={"concept_id":"TRICEPS_SKINFOLD2_MM","exam":"C","n":4351,"missing":166,"mean":18.217,"sd":9.6953,"p50":16,"p99":45};

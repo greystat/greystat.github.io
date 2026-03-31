@@ -1,0 +1,1 @@
+window.__SPIROMETER_REPRODUCIBILITY_MAX_FEV1_EXAM_E={"concept_id":"SPIROMETER_REPRODUCIBILITY_MAX_FEV1","exam":"E","n":7898,"missing":397,"mean":0.0496,"sd":0.0745,"p50":0.04,"p99":0.26};

@@ -1,0 +1,30 @@
+{
+  "concept_id": "FORM_COMMENTS_INDICATOR",
+  "title": "Comments present indicator",
+  "chips": ["categorical", "2 levels", "F28 · Reactivity Protocol", "Cardiovascular"],
+  "members": [
+    {
+      "concept_id": "FORM_COMMENTS_INDICATOR",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f28",
+      "dataset_stub": "b2f28",
+      "varname": "B28COMM",
+      "family": "F28",
+      "form_label": "Blood Pressure Reactivity Form",
+      "n_labels": "2",
+      "instrument": "F28: Blood Pressure Reactivity Form",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Yes"
+    },
+    {
+      "code": "2",
+      "label": "No"
+    }
+  ]
+}

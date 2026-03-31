@@ -1,0 +1,1 @@
+window.__SPIROMETER_MAX_FEF75_EXAM_C={"concept_id":"SPIROMETER_MAX_FEF75","exam":"C","n":4351,"missing":111,"mean":1.6662,"sd":0.7014,"p50":1.55,"p99":3.7805};

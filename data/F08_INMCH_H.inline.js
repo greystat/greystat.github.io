@@ -1,0 +1,1 @@
+window.__F08_INMCH_EXAM_H={"concept_id":"F08_INMCH","exam":"H","n":3485,"missing":2826,"n_levels":6,"mode_level":"(Missing)"};

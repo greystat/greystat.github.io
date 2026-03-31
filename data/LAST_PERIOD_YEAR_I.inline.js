@@ -1,0 +1,1 @@
+window.__LAST_PERIOD_YEAR_EXAM_I={"concept_id":"LAST_PERIOD_YEAR","exam":"I","n":1334,"missing":24,"mean":2007.4023,"sd":7.6791,"p50":2009,"p99":2016};

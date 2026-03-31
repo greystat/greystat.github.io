@@ -1,0 +1,50 @@
+{
+  "concept_id": "GFR_ML_MIN_1_73M2",
+  "title": "Glomerular filtration rate (mL/min/1.73m^2)",
+  "unit": "mL/min/1.73m^2",
+  "chips": ["numeric", "mL/min/1.73m^2", "CHEM · Chemistry Panel", "Chemistry", "Lab"],
+  "members": [
+    {
+      "concept_id": "GFR_ML_MIN_1_73M2",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g5chem",
+      "dataset_stub": "g5chem",
+      "varname": "GL7GFR",
+      "family": "CHEM",
+      "form_label": "",
+      "units_std": "mL/min/1.73m^2",
+      "units_class": "gfr",
+      "instrument": "CHEM",
+      "notes": ""
+    },
+    {
+      "concept_id": "GFR_ML_MIN_1_73M2",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h3chem",
+      "dataset_stub": "h3chem",
+      "varname": "HL7GFR",
+      "family": "CHEM",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "CHEM",
+      "notes": ""
+    },
+    {
+      "concept_id": "GFR_ML_MIN_1_73M2",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i2chem",
+      "dataset_stub": "i2chem",
+      "varname": "IL7GFR",
+      "family": "CHEM",
+      "form_label": "",
+      "units_std": "mL/min/1.73m^2",
+      "units_class": "gfr",
+      "instrument": "CHEM",
+      "notes": ""
+    }
+  ]
+}

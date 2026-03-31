@@ -1,0 +1,1 @@
+window.__ABP_OBS_DATE_EXAM_C={"concept_id":"ABP_OBS_DATE","exam":"C","n":25934,"missing":0,"mean":1990.3892,"sd":0.494,"p50":1990,"p99":1991};

@@ -1,0 +1,1 @@
+window.__JOB_REQUIRES_REPETITIVE_WORK_EXAM_E={"concept_id":"JOB_REQUIRES_REPETITIVE_WORK","exam":"E","n":3949,"missing":55,"n_levels":5,"mode_level":"Agree"};

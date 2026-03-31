@@ -1,0 +1,1 @@
+window.__DECREASED_SUGAR_EXAM_F={"concept_id":"DECREASED_SUGAR","exam":"F","n":3671,"missing":1840,"n_levels":3,"mode_level":"(Missing)"};

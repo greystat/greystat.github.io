@@ -1,0 +1,30 @@
+{
+  "concept_id": "LUNG_TROUBLE_BEFORE_16",
+  "title": "Any lung trouble before age 16",
+  "chips": ["categorical", "2 levels", "F12 · Lung Disease History", "Pulmonary"],
+  "members": [
+    {
+      "concept_id": "LUNG_TROUBLE_BEFORE_16",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f12",
+      "dataset_stub": "a4f12",
+      "varname": "A12LUNG",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "n_labels": "2",
+      "instrument": "F12: History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

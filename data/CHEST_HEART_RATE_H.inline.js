@@ -1,0 +1,1 @@
+window.__CHEST_HEART_RATE_EXAM_H={"concept_id":"CHEST_HEART_RATE","exam":"H","n":3215,"missing":72,"mean":102.5905,"sd":469.1513,"p50":66,"p99":105.58};

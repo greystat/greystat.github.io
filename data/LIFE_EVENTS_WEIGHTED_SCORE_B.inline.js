@@ -1,0 +1,1 @@
+window.__LIFE_EVENTS_WEIGHTED_SCORE_EXAM_B={"concept_id":"LIFE_EVENTS_WEIGHTED_SCORE","exam":"B","n":4623,"missing":60,"mean":1945.9737,"sd":1184.9659,"p50":1791,"p99":5524.9};

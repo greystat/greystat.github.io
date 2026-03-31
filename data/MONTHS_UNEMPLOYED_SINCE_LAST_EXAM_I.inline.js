@@ -1,0 +1,1 @@
+window.__MONTHS_UNEMPLOYED_SINCE_LAST_EXAM_EXAM_I={"concept_id":"MONTHS_UNEMPLOYED_SINCE_LAST_EXAM","exam":"I","n":3335,"missing":2494,"mean":2.8145,"sd":3.2753,"p50":2,"p99":11};

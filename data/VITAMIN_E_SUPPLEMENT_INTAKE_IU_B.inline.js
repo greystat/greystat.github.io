@@ -1,0 +1,1 @@
+window.__VITAMIN_E_SUPPLEMENT_INTAKE_IU_EXAM_B={"concept_id":"VITAMIN_E_SUPPLEMENT_INTAKE_IU","exam":"B","n":4623,"missing":58,"mean":21.6552,"sd":99.7098,"p50":0,"p99":430};

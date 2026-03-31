@@ -1,0 +1,1 @@
+window.__CHRONIC_BURDEN_FINANCIAL_STRAIN_EXAM_I={"concept_id":"CHRONIC_BURDEN_FINANCIAL_STRAIN","exam":"I","n":3283,"missing":9,"n_levels":5,"mode_level":"\"No\""};

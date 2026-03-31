@@ -1,0 +1,1 @@
+window.__INFLUENCE_COST_ON_FOOD_CHOICE_SCORE_EXAM_G={"concept_id":"INFLUENCE_COST_ON_FOOD_CHOICE_SCORE","exam":"G","n":3448,"missing":58,"mean":2.3929,"sd":1.4651,"p50":3,"p99":5};

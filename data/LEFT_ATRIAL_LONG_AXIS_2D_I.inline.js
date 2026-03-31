@@ -1,0 +1,1 @@
+window.__LEFT_ATRIAL_LONG_AXIS_2D_EXAM_I={"concept_id":"LEFT_ATRIAL_LONG_AXIS_2D","exam":"I","n":3184,"missing":59,"mean":5.0221,"sd":0.6281,"p50":4.989,"p99":6.6038};

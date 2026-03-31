@@ -1,0 +1,1 @@
+window.__SPIROMETER_MAX_CURVE_EXHAL_TIME_EXAM_E={"concept_id":"SPIROMETER_MAX_CURVE_EXHAL_TIME","exam":"E","n":7898,"missing":545,"mean":9.6069,"sd":2.827,"p50":9.25,"p99":17};

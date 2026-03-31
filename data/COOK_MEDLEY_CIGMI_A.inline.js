@@ -1,0 +1,1 @@
+window.__COOK_MEDLEY_CIGMI_EXAM_A={"concept_id":"COOK_MEDLEY_CIGMI","exam":"A","n":5114,"missing":20,"mean":4.4611,"sd":2.2692,"p50":4,"p99":9};

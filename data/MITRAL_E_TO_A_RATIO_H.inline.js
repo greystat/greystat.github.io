@@ -1,0 +1,1 @@
+window.__MITRAL_E_TO_A_RATIO_EXAM_H={"concept_id":"MITRAL_E_TO_A_RATIO","exam":"H","n":3474,"missing":57,"mean":1.296,"sd":0.3644,"p50":1.2,"p99":2.4};

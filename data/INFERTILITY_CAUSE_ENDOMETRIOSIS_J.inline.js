@@ -1,0 +1,1 @@
+window.__INFERTILITY_CAUSE_ENDOMETRIOSIS_EXAM_J={"concept_id":"INFERTILITY_CAUSE_ENDOMETRIOSIS","exam":"J","n":1421,"missing":1398,"n_levels":2,"mode_level":"(Missing)"};

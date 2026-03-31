@@ -1,0 +1,26 @@
+{
+  "concept_id": "ACTIVITY_MONITOR_NOT_RETURNED_REASON",
+  "title": "Reason activity monitor not returned",
+  "chips": ["categorical", "1 levels", "F85 · Activity Monitor Encounter", "Physical Activity"],
+  "members": [
+    {
+      "concept_id": "ACTIVITY_MONITOR_NOT_RETURNED_REASON",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f85",
+      "dataset_stub": "g3f85",
+      "varname": "G85RETREASON",
+      "family": "F85",
+      "form_label": "Activity Monitor Encounter Form",
+      "n_labels": "1",
+      "instrument": "F85: Activity Monitor Encounter Form",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"Lost\""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__RZ1_SBP_EXAM_F={"concept_id":"RZ1_SBP","exam":"F","n":3671,"missing":18,"mean":20.3252,"sd":5.9178,"p50":20,"p99":32};

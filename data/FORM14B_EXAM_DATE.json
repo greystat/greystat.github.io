@@ -1,0 +1,36 @@
+{
+  "concept_id": "FORM14B_EXAM_DATE",
+  "title": "Date of exam – Form 14B",
+  "unit": "date",
+  "chips": ["numeric", "date", "F14 · Social Support", "Psychosocial"],
+  "members": [
+    {
+      "concept_id": "FORM14B_EXAM_DATE",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f14b",
+      "dataset_stub": "g3f14b",
+      "varname": "G14BEXDAT",
+      "family": "F14",
+      "form_label": "Loneliness",
+      "units_std": "date",
+      "units_class": "date",
+      "instrument": "F14: Loneliness",
+      "notes": ""
+    },
+    {
+      "concept_id": "FORM14B_EXAM_DATE",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j2f14b",
+      "dataset_stub": "j2f14b",
+      "varname": "J14BEXDAT",
+      "family": "F14",
+      "form_label": "Loneliness",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F14: Loneliness",
+      "notes": ""
+    }
+  ]
+}

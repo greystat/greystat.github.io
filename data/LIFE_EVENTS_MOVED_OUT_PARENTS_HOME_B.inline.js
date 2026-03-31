@@ -1,0 +1,1 @@
+window.__LIFE_EVENTS_MOVED_OUT_PARENTS_HOME_EXAM_B={"concept_id":"LIFE_EVENTS_MOVED_OUT_PARENTS_HOME","exam":"B","n":4623,"missing":60,"n_levels":4,"mode_level":"No"};

@@ -1,0 +1,802 @@
+{
+  "concept_id": "ALERT_SEVERE_LV_DYSFUNCTION",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3470,
+        "missing": 3461,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3461,
+            "pct": 99.7
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 9,
+            "pct": 0.3
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1504,
+        "missing": 1496,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1496,
+            "pct": 99.5
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 8,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1966,
+        "missing": 1965,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1965,
+            "pct": 99.9
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1626,
+        "missing": 1620,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1620,
+            "pct": 99.6
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 6,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1844,
+        "missing": 1841,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1841,
+            "pct": 99.8
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 3,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 818,
+        "missing": 813,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 813,
+            "pct": 99.4
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 5,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 790,
+        "missing": 788,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 788,
+            "pct": 99.7
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 917,
+        "missing": 916,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 916,
+            "pct": 99.9
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 945,
+        "missing": 944,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 944,
+            "pct": 99.9
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 647,
+        "missing": 642,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 642,
+            "pct": 99.2
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 5,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 979,
+        "missing": 978,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 978,
+            "pct": 99.9
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 857,
+        "missing": 854,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 854,
+            "pct": 99.6
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 3,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 987,
+        "missing": 987,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 987,
+            "pct": 100
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 378,
+        "missing": 374,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 374,
+            "pct": 98.9
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 4,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 336,
+        "missing": 334,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 334,
+            "pct": 99.4
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 419,
+        "missing": 418,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 418,
+            "pct": 99.8
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 371,
+        "missing": 370,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 370,
+            "pct": 99.7
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 440,
+        "missing": 439,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 439,
+            "pct": 99.8
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 454,
+        "missing": 454,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 454,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 498,
+        "missing": 498,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 498,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 574,
+        "missing": 574,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 574,
+            "pct": 100
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 454,
+        "missing": 450,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 450,
+            "pct": 99.1
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 4,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 360,
+        "missing": 359,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 359,
+            "pct": 99.7
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 330,
+        "missing": 330,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 330,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 482,
+        "missing": 481,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 481,
+            "pct": 99.8
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 364,
+        "missing": 363,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 363,
+            "pct": 99.7
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 430,
+        "missing": 429,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 429,
+            "pct": 99.8
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 587,
+        "missing": 586,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 586,
+            "pct": 99.8
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 463,
+        "missing": 463,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 463,
+            "pct": 100
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 188,
+        "missing": 185,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 185,
+            "pct": 98.4
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 3,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 130,
+        "missing": 129,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 129,
+            "pct": 99.2
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 145,
+        "missing": 145,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 145,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 184,
+        "missing": 183,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 183,
+            "pct": 99.5
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 266,
+        "missing": 265,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 265,
+            "pct": 99.6
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 230,
+        "missing": 230,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 230,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 185,
+        "missing": 185,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 185,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 298,
+        "missing": 298,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 298,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 190,
+        "missing": 189,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 189,
+            "pct": 99.5
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 206,
+        "missing": 205,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 99.5
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 274,
+        "missing": 273,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 273,
+            "pct": 99.6
+          },
+          {
+            "level": "Severe LV dysfunction",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 187,
+        "missing": 187,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 187,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 174,
+        "missing": 174,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 174,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 224,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 224,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 313,
+        "missing": 313,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 313,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 276,
+        "missing": 276,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 276,
+            "pct": 100
+          }
+        ]
+      }
+    ]
+  }
+}

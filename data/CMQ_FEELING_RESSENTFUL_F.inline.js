@@ -1,0 +1,1 @@
+window.__CMQ_FEELING_RESSENTFUL_EXAM_F={"concept_id":"CMQ_FEELING_RESSENTFUL","exam":"F","n":3671,"missing":25,"n_levels":3,"mode_level":"True"};

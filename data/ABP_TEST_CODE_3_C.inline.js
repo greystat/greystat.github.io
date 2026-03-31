@@ -1,0 +1,1 @@
+window.__ABP_TEST_CODE_3_EXAM_C={"concept_id":"ABP_TEST_CODE_3","exam":"C","n":25934,"missing":25700,"n_levels":3,"mode_level":"(Missing)"};

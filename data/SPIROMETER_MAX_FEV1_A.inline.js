@@ -1,0 +1,1 @@
+window.__SPIROMETER_MAX_FEV1_EXAM_A={"concept_id":"SPIROMETER_MAX_FEV1","exam":"A","n":5114,"missing":254,"mean":3.5474,"sd":0.7834,"p50":3.46,"p99":5.5241};

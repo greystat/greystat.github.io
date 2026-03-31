@@ -1,0 +1,30 @@
+{
+  "concept_id": "MRI_PREGNANCY_TEST_RESULT",
+  "title": "Pregnancy test result",
+  "chips": ["categorical", "2 levels"],
+  "members": [
+    {
+      "concept_id": "MRI_PREGNANCY_TEST_RESULT",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f92v2",
+      "dataset_stub": "h3f92v2",
+      "varname": "H92PRGTR",
+      "family": "F92",
+      "form_label": "MRI Acquisition Form",
+      "n_labels": "2",
+      "instrument": "F92: MRI Acquisition Form",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Negative"
+    },
+    {
+      "code": "2",
+      "label": "Positive"
+    }
+  ]
+}

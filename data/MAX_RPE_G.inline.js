@@ -1,0 +1,1 @@
+window.__MAX_RPE_EXAM_G={"concept_id":"MAX_RPE","exam":"G","n":2890,"missing":41,"mean":17.7206,"sd":1.8152,"p50":18,"p99":20};

@@ -1,0 +1,82 @@
+{
+  "concept_id": "GLUCOSE_DRINK_END_AMPM",
+  "title": "Time glucose drink completed AM/PM indicator",
+  "chips": ["categorical", "2 levels", "F05 · Phlebotomy", "Specimen Collection"],
+  "members": [
+    {
+      "concept_id": "GLUCOSE_DRINK_END_AMPM",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f05",
+      "dataset_stub": "g4f05a",
+      "varname": "G05AGLENDX",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "GLUCOSE_DRINK_END_AMPM",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f05",
+      "dataset_stub": "h3f05",
+      "varname": "H05GLENDX",
+      "family": "F05",
+      "form_label": "Phlebotomy-Delayed OGTT",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy-Delayed OGTT",
+      "notes": ""
+    },
+    {
+      "concept_id": "GLUCOSE_DRINK_END_AMPM",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f05a",
+      "dataset_stub": "h3f05a",
+      "varname": "H05AGLENDX",
+      "family": "F05",
+      "form_label": "Phlebotomy-Delayed OGTT",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy-Delayed OGTT",
+      "notes": ""
+    },
+    {
+      "concept_id": "GLUCOSE_DRINK_END_AMPM",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f05",
+      "dataset_stub": "i1f05",
+      "varname": "I05GLENDX",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "GLUCOSE_DRINK_END_AMPM",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f05a",
+      "dataset_stub": "i1f05a",
+      "varname": "I05AGLENDX",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"AM\""
+    },
+    {
+      "code": "2",
+      "label": "PM"
+    }
+  ]
+}

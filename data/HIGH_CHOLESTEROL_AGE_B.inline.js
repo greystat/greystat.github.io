@@ -1,0 +1,1 @@
+window.__HIGH_CHOLESTEROL_AGE_EXAM_B={"concept_id":"HIGH_CHOLESTEROL_AGE","exam":"B","n":320,"missing":1,"mean":24.8558,"sd":4.4394,"p50":26,"p99":31.82};

@@ -1,0 +1,39 @@
+{
+  "concept_id": "LV_WALL_MOTION_SUMMARY",
+  "title": "Semi-quantitative LV wall motion summary",
+  "chips": ["categorical", "1 levels", "ECHO · Echocardiography", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "LV_WALL_MOTION_SUMMARY",
+      "exam": "C",
+      "exam_year": "",
+      "dataset": "c1echo",
+      "dataset_stub": "c1echo",
+      "varname": "QLWMSUM",
+      "family": "ECHO",
+      "form_label": "",
+      "n_labels": "",
+      "instrument": "ECHO",
+      "notes": ""
+    },
+    {
+      "concept_id": "LV_WALL_MOTION_SUMMARY",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h10echo",
+      "dataset_stub": "h10echo",
+      "varname": "HLVEF45",
+      "family": "ECHO",
+      "form_label": "",
+      "n_labels": "1",
+      "instrument": "ECHO",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Yes"
+    }
+  ]
+}

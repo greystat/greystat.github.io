@@ -1,0 +1,1 @@
+window.__DOMINANT_HAND_EXAM_B={"concept_id":"DOMINANT_HAND","exam":"B","n":4623,"missing":185,"n_levels":3,"mode_level":"3"};

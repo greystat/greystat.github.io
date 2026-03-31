@@ -1,0 +1,1 @@
+window.__HYSTERECTOMY_OR_TUBAL_LIGATION_HISTORY_EXAM_G={"concept_id":"HYSTERECTOMY_OR_TUBAL_LIGATION_HISTORY","exam":"G","n":3428,"missing":1538,"n_levels":3,"mode_level":"(Missing)"};

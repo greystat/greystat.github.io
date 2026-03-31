@@ -1,0 +1,1 @@
+window.__INFERTILITY_TREATMENT_DRUGS_OVULATION_EXAM_J={"concept_id":"INFERTILITY_TREATMENT_DRUGS_OVULATION","exam":"J","n":1421,"missing":1330,"n_levels":2,"mode_level":"(Missing)"};

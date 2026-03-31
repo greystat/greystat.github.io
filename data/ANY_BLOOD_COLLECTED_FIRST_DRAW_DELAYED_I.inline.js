@@ -1,0 +1,1 @@
+window.__ANY_BLOOD_COLLECTED_FIRST_DRAW_DELAYED_EXAM_I={"concept_id":"ANY_BLOOD_COLLECTED_FIRST_DRAW_DELAYED","exam":"I","n":63,"missing":1,"n_levels":3,"mode_level":"Yes"};

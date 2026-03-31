@@ -1,0 +1,50 @@
+{
+  "concept_id": "LM_AGATSTON_SCORE",
+  "title": "Agatston score in left main coronary artery",
+  "unit": {},
+  "chips": ["numeric", "EBCT · Electron Beam CT", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "LM_AGATSTON_SCORE",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g5ebct",
+      "dataset_stub": "g5ebct",
+      "varname": "GR3LMSNR1",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    },
+    {
+      "concept_id": "LM_AGATSTON_SCORE",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g5ebct",
+      "dataset_stub": "g5ebct",
+      "varname": "GR3LMSNR2",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    },
+    {
+      "concept_id": "LM_AGATSTON_SCORE",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h4ebct",
+      "dataset_stub": "h4ebct",
+      "varname": "HR3LMSNR",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    }
+  ]
+}

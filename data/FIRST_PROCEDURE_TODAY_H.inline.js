@@ -1,0 +1,1 @@
+window.__FIRST_PROCEDURE_TODAY_EXAM_H={"concept_id":"FIRST_PROCEDURE_TODAY","exam":"H","n":3496,"missing":7,"n_levels":3,"mode_level":"2"};

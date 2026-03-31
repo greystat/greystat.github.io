@@ -1,0 +1,1 @@
+window.__BIRTH_CONTROL_MONTHS_CURRENT_USER_EXAM_A={"concept_id":"BIRTH_CONTROL_MONTHS_CURRENT_USER","exam":"A","n":4008,"missing":3140,"mean":1.5876,"sd":2.8642,"p50":0,"p99":11};

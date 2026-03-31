@@ -1,0 +1,1 @@
+window.__CESD_ITEM_SLEEP_RESTLESS_EXAM_I={"concept_id":"CESD_ITEM_SLEEP_RESTLESS","exam":"I","n":3301,"missing":3,"n_levels":5,"mode_level":"Some of the time"};

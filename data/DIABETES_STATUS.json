@@ -1,0 +1,47 @@
+{
+  "concept_id": "DIABETES_STATUS",
+  "title": "Current status of diabetes",
+  "chips": ["categorical", "3 levels"],
+  "members": [
+    {
+      "concept_id": "DIABETES_STATUS",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f09gen",
+      "dataset_stub": "a4f09gen",
+      "varname": "A09DIBST",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "3",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "DIABETES_STATUS",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f09dib",
+      "dataset_stub": "b2f09dib",
+      "varname": "B09DIBST",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "3",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "3",
+      "label": "Still have"
+    },
+    {
+      "code": "4",
+      "label": "Under control"
+    },
+    {
+      "code": "5",
+      "label": "Cured or gone"
+    }
+  ]
+}

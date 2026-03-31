@@ -1,0 +1,64 @@
+{
+  "concept_id": "GENERAL_MED_TOTAL_COUNT",
+  "title": "Total number of medications",
+  "unit": "count",
+  "chips": ["numeric", "count"],
+  "members": [
+    {
+      "concept_id": "GENERAL_MED_TOTAL_COUNT",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09med",
+      "dataset_stub": "g3f09med",
+      "varname": "G09MDNO",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "count",
+      "units_class": "count",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENERAL_MED_TOTAL_COUNT",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f09med",
+      "dataset_stub": "h4f09med",
+      "varname": "H09MDNO",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENERAL_MED_TOTAL_COUNT",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f09med",
+      "dataset_stub": "i1f09med",
+      "varname": "I09MDNO",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "count",
+      "units_class": "count",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENERAL_MED_TOTAL_COUNT",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f09med",
+      "dataset_stub": "j1f09med",
+      "varname": "J09MDNO",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

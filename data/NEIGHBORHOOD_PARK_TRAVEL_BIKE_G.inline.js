@@ -1,0 +1,1 @@
+window.__NEIGHBORHOOD_PARK_TRAVEL_BIKE_EXAM_G={"concept_id":"NEIGHBORHOOD_PARK_TRAVEL_BIKE","exam":"G","n":2989,"missing":2490,"n_levels":3,"mode_level":"(Missing)"};

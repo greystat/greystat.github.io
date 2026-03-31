@@ -1,0 +1,36 @@
+{
+  "concept_id": "ANY_CAC_INDICATOR",
+  "title": "Any coronary artery calcium (CAC) at exam",
+  "unit": {},
+  "chips": ["numeric", "EBCT · Electron Beam CT", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "ANY_CAC_INDICATOR",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g5ebct",
+      "dataset_stub": "g5ebct",
+      "varname": "Y20cac",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    },
+    {
+      "concept_id": "ANY_CAC_INDICATOR",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h4ebct",
+      "dataset_stub": "h4ebct",
+      "varname": "Y25cac",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "concept_id": "MITRAL_A_WAVE_DURATION",
+  "title": "Mitral A-wave duration",
+  "unit": "ms",
+  "chips": ["numeric", "ms", "ECHO · Echocardiography", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "MITRAL_A_WAVE_DURATION",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h10echo",
+      "dataset_stub": "h10echo",
+      "varname": "HMVDETM",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "ms",
+      "units_class": "duration",
+      "instrument": "ECHO",
+      "notes": ""
+    },
+    {
+      "concept_id": "MITRAL_A_WAVE_DURATION",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i5echo",
+      "dataset_stub": "i5echo",
+      "varname": "IMVADUR",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "ECHO",
+      "notes": ""
+    }
+  ]
+}

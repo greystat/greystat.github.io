@@ -1,0 +1,1 @@
+window.__COGNITIVE_ACTIVITY_READING_NEWS_EXAM_I={"concept_id":"COGNITIVE_ACTIVITY_READING_NEWS","exam":"I","n":3264,"missing":9,"n_levels":8,"mode_level":"6"};

@@ -1,0 +1,972 @@
+{
+  "concept_id": "LIFE_EVENTS_SUCCESS_AT_WORK",
+  "exam": "A",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 5114,
+        "missing": 4,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 2795,
+            "pct": 54.7
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 2315,
+            "pct": 45.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 2327,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 1198,
+            "pct": 51.5
+          },
+          {
+            "level": "No",
+            "count": 1126,
+            "pct": 48.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 2787,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 1669,
+            "pct": 59.9
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 1117,
+            "pct": 40.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 2637,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 1458,
+            "pct": 55.3
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 1177,
+            "pct": 44.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 2477,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 1337,
+            "pct": 54
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 1138,
+            "pct": 45.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 1178,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 614,
+            "pct": 52.1
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 564,
+            "pct": 47.9
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 1108,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 573,
+            "pct": 51.7
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 535,
+            "pct": 48.3
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 1402,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 895,
+            "pct": 63.8
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 504,
+            "pct": 35.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1426,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 713,
+            "pct": 50
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 712,
+            "pct": 49.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 1157,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 600,
+            "pct": 51.9
+          },
+          {
+            "level": "No",
+            "count": 555,
+            "pct": 48
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1480,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 903,
+            "pct": 61
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 577,
+            "pct": 39
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 1170,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 598,
+            "pct": 51.1
+          },
+          {
+            "level": "No",
+            "count": 571,
+            "pct": 48.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1307,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 766,
+            "pct": 58.6
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 540,
+            "pct": 41.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 565,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 313,
+            "pct": 55.4
+          },
+          {
+            "level": "No",
+            "count": 252,
+            "pct": 44.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 509,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 273,
+            "pct": 53.6
+          },
+          {
+            "level": "No",
+            "count": 236,
+            "pct": 46.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 675,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 394,
+            "pct": 58.4
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 279,
+            "pct": 41.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 578,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 333,
+            "pct": 57.6
+          },
+          {
+            "level": "No",
+            "count": 244,
+            "pct": 42.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 613,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 362,
+            "pct": 59.1
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 251,
+            "pct": 40.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 599,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 337,
+            "pct": 56.3
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 262,
+            "pct": 43.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 727,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 501,
+            "pct": 68.9
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 225,
+            "pct": 30.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 848,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 469,
+            "pct": 55.3
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 379,
+            "pct": 44.7
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 649,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 353,
+            "pct": 54.4
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 296,
+            "pct": 45.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 552,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 322,
+            "pct": 58.3
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 230,
+            "pct": 41.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 619,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 391,
+            "pct": 63.2
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 226,
+            "pct": 36.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 817,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 425,
+            "pct": 52
+          },
+          {
+            "level": "No",
+            "count": 392,
+            "pct": 48
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 529,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 268,
+            "pct": 50.7
+          },
+          {
+            "level": "No",
+            "count": 261,
+            "pct": 49.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 556,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 305,
+            "pct": 54.9
+          },
+          {
+            "level": "No",
+            "count": 251,
+            "pct": 45.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 783,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 504,
+            "pct": 64.4
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 278,
+            "pct": 35.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 609,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 321,
+            "pct": 52.7
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 287,
+            "pct": 47.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 293,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 162,
+            "pct": 55.3
+          },
+          {
+            "level": "No",
+            "count": 131,
+            "pct": 44.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 235,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 122,
+            "pct": 51.9
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 113,
+            "pct": 48.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 302,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 170,
+            "pct": 56.3
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 130,
+            "pct": 43
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 327,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 195,
+            "pct": 59.6
+          },
+          {
+            "level": "No",
+            "count": 132,
+            "pct": 40.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 356,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 222,
+            "pct": 62.4
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 134,
+            "pct": 37.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 317,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 200,
+            "pct": 63.1
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 117,
+            "pct": 36.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 317,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 221,
+            "pct": 69.7
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 96,
+            "pct": 30.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 490,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 260,
+            "pct": 53.1
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 230,
+            "pct": 46.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 272,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 151,
+            "pct": 55.5
+          },
+          {
+            "level": "No",
+            "count": 121,
+            "pct": 44.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 274,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 160,
+            "pct": 58.4
+          },
+          {
+            "level": "No",
+            "count": 114,
+            "pct": 41.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 373,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 224,
+            "pct": 60.1
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 149,
+            "pct": 39.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 251,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 138,
+            "pct": 55
+          },
+          {
+            "level": "No",
+            "count": 112,
+            "pct": 44.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 257,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 140,
+            "pct": 54.5
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 117,
+            "pct": 45.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 282,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Yes, but not in last year",
+        "freq": [
+          {
+            "level": "Yes, but not in last year",
+            "count": 145,
+            "pct": 51.4
+          },
+          {
+            "level": "No",
+            "count": 137,
+            "pct": 48.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 410,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 280,
+            "pct": 68.3
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 129,
+            "pct": 31.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 358,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No",
+        "freq": [
+          {
+            "level": "No",
+            "count": 209,
+            "pct": 58.4
+          },
+          {
+            "level": "Yes, but not in last year",
+            "count": 149,
+            "pct": 41.6
+          }
+        ]
+      }
+    ]
+  }
+}

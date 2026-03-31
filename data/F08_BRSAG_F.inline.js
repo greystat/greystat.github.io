@@ -1,0 +1,1 @@
+window.__F08_BRSAG_EXAM_F={"concept_id":"F08_BRSAG","exam":"F","n":3671,"missing":3655,"mean":31.4375,"sd":9.9463,"p50":34,"p99":43.85};

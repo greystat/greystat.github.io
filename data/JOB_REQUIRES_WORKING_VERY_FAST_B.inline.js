@@ -1,0 +1,1 @@
+window.__JOB_REQUIRES_WORKING_VERY_FAST_EXAM_B={"concept_id":"JOB_REQUIRES_WORKING_VERY_FAST","exam":"B","n":4623,"missing":383,"n_levels":5,"mode_level":"Agree"};

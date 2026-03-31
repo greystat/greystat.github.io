@@ -1,0 +1,36 @@
+{
+  "concept_id": "RV_TISSUE_DOPPLER_S_VELOCITY",
+  "title": "RV tissue Doppler S-wave velocity",
+  "unit": "cm/s",
+  "chips": ["numeric", "cm/s", "ECHO · Echocardiography", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "RV_TISSUE_DOPPLER_S_VELOCITY",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h10echo",
+      "dataset_stub": "h10echo",
+      "varname": "HRVSM",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "cm/s",
+      "units_class": "speed",
+      "instrument": "ECHO",
+      "notes": ""
+    },
+    {
+      "concept_id": "RV_TISSUE_DOPPLER_S_VELOCITY",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i5echo",
+      "dataset_stub": "i5echo",
+      "varname": "IRVSM",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "cm/s",
+      "units_class": "speed",
+      "instrument": "ECHO",
+      "notes": ""
+    }
+  ]
+}

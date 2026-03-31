@@ -1,0 +1,972 @@
+{
+  "concept_id": "GENERAL_MED_DOSE_UNIT",
+  "exam": "G",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 4721,
+        "missing": 4703,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 4703,
+            "pct": 99.6
+          },
+          {
+            "level": "Milligram",
+            "count": 13,
+            "pct": 0.3
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 3,
+            "pct": 0.1
+          },
+          {
+            "level": "Unknown",
+            "count": 2,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1672,
+        "missing": 1667,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1667,
+            "pct": 99.7
+          },
+          {
+            "level": "Milligram",
+            "count": 3,
+            "pct": 0.2
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.1
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 3049,
+        "missing": 3036,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3036,
+            "pct": 99.6
+          },
+          {
+            "level": "Milligram",
+            "count": 10,
+            "pct": 0.3
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 2,
+            "pct": 0.1
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 2378,
+        "missing": 2369,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2369,
+            "pct": 99.6
+          },
+          {
+            "level": "Milligram",
+            "count": 6,
+            "pct": 0.3
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 2,
+            "pct": 0.1
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 2343,
+        "missing": 2334,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2334,
+            "pct": 99.6
+          },
+          {
+            "level": "Milligram",
+            "count": 7,
+            "pct": 0.3
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 1456,
+        "missing": 1450,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1450,
+            "pct": 99.6
+          },
+          {
+            "level": "Milligram",
+            "count": 4,
+            "pct": 0.3
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 2,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 802,
+        "missing": 798,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 798,
+            "pct": 99.5
+          },
+          {
+            "level": "Milligram",
+            "count": 4,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 1019,
+        "missing": 1019,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1019,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1444,
+        "missing": 1436,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1436,
+            "pct": 99.4
+          },
+          {
+            "level": "Milligram",
+            "count": 5,
+            "pct": 0.3
+          },
+          {
+            "level": "Unknown",
+            "count": 2,
+            "pct": 0.1
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 707,
+        "missing": 704,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 704,
+            "pct": 99.6
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.1
+          },
+          {
+            "level": "Milligram",
+            "count": 1,
+            "pct": 0.1
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1671,
+        "missing": 1665,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1665,
+            "pct": 99.6
+          },
+          {
+            "level": "Milligram",
+            "count": 5,
+            "pct": 0.3
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 965,
+        "missing": 963,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 963,
+            "pct": 99.8
+          },
+          {
+            "level": "Milligram",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1378,
+        "missing": 1371,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1371,
+            "pct": 99.5
+          },
+          {
+            "level": "Milligram",
+            "count": 5,
+            "pct": 0.4
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.1
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 564,
+        "missing": 561,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 561,
+            "pct": 99.5
+          },
+          {
+            "level": "Milligram",
+            "count": 2,
+            "pct": 0.4
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 265,
+        "missing": 265,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 265,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 408,
+        "missing": 408,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 408,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 435,
+        "missing": 433,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 433,
+            "pct": 99.5
+          },
+          {
+            "level": "Milligram",
+            "count": 1,
+            "pct": 0.2
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 892,
+        "missing": 889,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 889,
+            "pct": 99.7
+          },
+          {
+            "level": "Milligram",
+            "count": 2,
+            "pct": 0.2
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 537,
+        "missing": 533,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 533,
+            "pct": 99.3
+          },
+          {
+            "level": "Milligram",
+            "count": 4,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 611,
+        "missing": 611,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 611,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 1009,
+        "missing": 1003,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1003,
+            "pct": 99.4
+          },
+          {
+            "level": "Milligram",
+            "count": 4,
+            "pct": 0.4
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.1
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 833,
+        "missing": 831,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 831,
+            "pct": 99.8
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.1
+          },
+          {
+            "level": "Milligram",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 380,
+        "missing": 377,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 377,
+            "pct": 99.2
+          },
+          {
+            "level": "Milligram",
+            "count": 3,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 347,
+        "missing": 347,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 347,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 818,
+        "missing": 814,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 814,
+            "pct": 99.5
+          },
+          {
+            "level": "Milligram",
+            "count": 2,
+            "pct": 0.2
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.1
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 623,
+        "missing": 619,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 619,
+            "pct": 99.4
+          },
+          {
+            "level": "Milligram",
+            "count": 3,
+            "pct": 0.5
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 422,
+        "missing": 421,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 421,
+            "pct": 99.8
+          },
+          {
+            "level": "Milligram",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 672,
+        "missing": 672,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 672,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 626,
+        "missing": 622,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 622,
+            "pct": 99.4
+          },
+          {
+            "level": "Milligram",
+            "count": 3,
+            "pct": 0.5
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 251,
+        "missing": 250,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 250,
+            "pct": 99.6
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 100,
+        "missing": 100,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 100,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 111,
+        "missing": 111,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 111,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 245,
+        "missing": 243,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 243,
+            "pct": 99.2
+          },
+          {
+            "level": "Milligram",
+            "count": 1,
+            "pct": 0.4
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 582,
+        "missing": 581,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 581,
+            "pct": 99.8
+          },
+          {
+            "level": "Milligram",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 280,
+        "missing": 277,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 277,
+            "pct": 98.9
+          },
+          {
+            "level": "Milligram",
+            "count": 3,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 236,
+        "missing": 236,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 236,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 573,
+        "missing": 571,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 571,
+            "pct": 99.7
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.2
+          },
+          {
+            "level": "Milligram",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 313,
+        "missing": 311,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 311,
+            "pct": 99.4
+          },
+          {
+            "level": "Milligram",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 165,
+        "missing": 165,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 165,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 297,
+        "missing": 297,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 297,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 190,
+        "missing": 190,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 190,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 310,
+        "missing": 308,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 308,
+            "pct": 99.4
+          },
+          {
+            "level": "\"Gram\"",
+            "count": 1,
+            "pct": 0.3
+          },
+          {
+            "level": "Milligram",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 257,
+        "missing": 256,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 256,
+            "pct": 99.6
+          },
+          {
+            "level": "Milligram",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 375,
+        "missing": 375,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 375,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 436,
+        "missing": 432,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 432,
+            "pct": 99.1
+          },
+          {
+            "level": "Milligram",
+            "count": 3,
+            "pct": 0.7
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ]
+  }
+}

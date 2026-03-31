@@ -1,0 +1,1 @@
+window.__GENERAL_MED_EXAM_DATE_EXAM_I={"concept_id":"GENERAL_MED_EXAM_DATE","exam":"I","n":7992,"missing":0,"mean":2015.4113,"sd":0.4921,"p50":2015,"p99":2016};

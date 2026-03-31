@@ -1,0 +1,1 @@
+window.__URINARY_CREATININE_MGDL_EXAM_F={"concept_id":"URINARY_CREATININE_MGDL","exam":"F","n":3671,"missing":322,"mean":161.283,"sd":93.2027,"p50":152.4,"p99":416.536};

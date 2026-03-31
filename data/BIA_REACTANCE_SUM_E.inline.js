@@ -1,0 +1,1 @@
+window.__BIA_REACTANCE_SUM_EXAM_E={"concept_id":"BIA_REACTANCE_SUM","exam":"E","n":3949,"missing":3718,"mean":258.2727,"sd":48.053,"p50":252,"p99":402.5};

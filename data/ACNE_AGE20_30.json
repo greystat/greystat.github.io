@@ -1,0 +1,30 @@
+{
+  "concept_id": "ACNE_AGE20_30",
+  "title": "Had acne at age 20–30",
+  "chips": ["categorical", "2 levels", "F68 · Reproductive Health", "Reproductive Health"],
+  "members": [
+    {
+      "concept_id": "ACNE_AGE20_30",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f68",
+      "dataset_stub": "f1f68",
+      "varname": "F68TACNE",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health Questionnaire",
+      "n_labels": "2",
+      "instrument": "F68: Women's Reproductive Health Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

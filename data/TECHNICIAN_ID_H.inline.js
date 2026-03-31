@@ -1,0 +1,1 @@
+window.__TECHNICIAN_ID_EXAM_H={"concept_id":"TECHNICIAN_ID","exam":"H","n":3470,"missing":8,"mean":415.615,"sd":248.2261,"p50":447,"p99":805};

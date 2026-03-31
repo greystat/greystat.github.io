@@ -1,0 +1,592 @@
+{
+  "concept_id": "IRRITABILITY_3MO",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1964,
+        "missing": 1197,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1197,
+            "pct": 60.9
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 767,
+            "pct": 39.1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 1964,
+        "missing": 1197,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1197,
+            "pct": 60.9
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 767,
+            "pct": 39.1
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 975,
+        "missing": 666,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 666,
+            "pct": 68.3
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 309,
+            "pct": 31.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 989,
+        "missing": 531,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 531,
+            "pct": 53.7
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 458,
+            "pct": 46.3
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 440,
+        "missing": 283,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 283,
+            "pct": 64.3
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 157,
+            "pct": 35.7
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 448,
+        "missing": 292,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 292,
+            "pct": 65.2
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 156,
+            "pct": 34.8
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 498,
+        "missing": 287,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 287,
+            "pct": 57.6
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 211,
+            "pct": 42.4
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 578,
+        "missing": 335,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 335,
+            "pct": 58
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 243,
+            "pct": 42
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 975,
+        "missing": 666,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 666,
+            "pct": 68.3
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 309,
+            "pct": 31.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 989,
+        "missing": 531,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 531,
+            "pct": 53.7
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 458,
+            "pct": 46.3
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 440,
+        "missing": 283,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 283,
+            "pct": 64.3
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 157,
+            "pct": 35.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 448,
+        "missing": 292,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 292,
+            "pct": 65.2
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 156,
+            "pct": 34.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 498,
+        "missing": 287,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 287,
+            "pct": 57.6
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 211,
+            "pct": 42.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 578,
+        "missing": 335,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 335,
+            "pct": 58
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 243,
+            "pct": 42
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 266,
+        "missing": 192,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 192,
+            "pct": 72.2
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 74,
+            "pct": 27.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 226,
+        "missing": 163,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 163,
+            "pct": 72.1
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 63,
+            "pct": 27.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 186,
+        "missing": 113,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 113,
+            "pct": 60.8
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 73,
+            "pct": 39.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 297,
+        "missing": 198,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 198,
+            "pct": 66.7
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 99,
+            "pct": 33.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 174,
+        "missing": 91,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 91,
+            "pct": 52.3
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 83,
+            "pct": 47.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 222,
+        "missing": 129,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 129,
+            "pct": 58.1
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 93,
+            "pct": 41.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 312,
+        "missing": 174,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 174,
+            "pct": 55.8
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 138,
+            "pct": 44.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 281,
+        "missing": 137,
+        "n_levels": 2,
+        "mode_level": "Irritability or grouchiness",
+        "freq": [
+          {
+            "level": "Irritability or grouchiness",
+            "count": 144,
+            "pct": 51.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 137,
+            "pct": 48.8
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 266,
+        "missing": 192,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 192,
+            "pct": 72.2
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 74,
+            "pct": 27.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 226,
+        "missing": 163,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 163,
+            "pct": 72.1
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 63,
+            "pct": 27.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 186,
+        "missing": 113,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 113,
+            "pct": 60.8
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 73,
+            "pct": 39.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 297,
+        "missing": 198,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 198,
+            "pct": 66.7
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 99,
+            "pct": 33.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 174,
+        "missing": 91,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 91,
+            "pct": 52.3
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 83,
+            "pct": 47.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 222,
+        "missing": 129,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 129,
+            "pct": 58.1
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 93,
+            "pct": 41.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 312,
+        "missing": 174,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 174,
+            "pct": 55.8
+          },
+          {
+            "level": "Irritability or grouchiness",
+            "count": 138,
+            "pct": 44.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 281,
+        "missing": 137,
+        "n_levels": 2,
+        "mode_level": "Irritability or grouchiness",
+        "freq": [
+          {
+            "level": "Irritability or grouchiness",
+            "count": 144,
+            "pct": 51.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 137,
+            "pct": 48.8
+          }
+        ]
+      }
+    ]
+  }
+}

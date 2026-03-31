@@ -1,0 +1,36 @@
+{
+  "concept_id": "RMSSD_MSEC",
+  "title": "RMSSD of NN intervals (msec)",
+  "unit": {},
+  "chips": ["numeric", "HRV · Heart Rate Variability", "Cardiovascular"],
+  "members": [
+    {
+      "concept_id": "RMSSD_MSEC",
+      "exam": "F",
+      "exam_year": "",
+      "dataset": "f2hrv",
+      "dataset_stub": "f2hrv",
+      "varname": "FRSRMSD1",
+      "family": "HRV",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "HRV",
+      "notes": ""
+    },
+    {
+      "concept_id": "RMSSD_MSEC",
+      "exam": "F",
+      "exam_year": "",
+      "dataset": "f2hrv",
+      "dataset_stub": "f2hrv",
+      "varname": "FRSRMSD2",
+      "family": "HRV",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "HRV",
+      "notes": ""
+    }
+  ]
+}

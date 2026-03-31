@@ -1,0 +1,1 @@
+window.__MOTORCYCLE_USE_EXAM_B={"concept_id":"MOTORCYCLE_USE","exam":"B","n":4623,"missing":48,"n_levels":7,"mode_level":"Never or almost never"};

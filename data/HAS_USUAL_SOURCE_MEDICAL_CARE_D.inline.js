@@ -1,0 +1,1 @@
+window.__HAS_USUAL_SOURCE_MEDICAL_CARE_EXAM_D={"concept_id":"HAS_USUAL_SOURCE_MEDICAL_CARE","exam":"D","n":4085,"missing":31,"n_levels":3,"mode_level":"Yes"};

@@ -1,0 +1,1 @@
+window.__SKIN_REFLECTANCE_BLUE_PERCENT_EXAM_D={"concept_id":"SKIN_REFLECTANCE_BLUE_PERCENT","exam":"D","n":4085,"missing":163,"mean":20.8231,"sd":11.0042,"p50":22.35,"p99":39.616};

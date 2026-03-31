@@ -1,0 +1,1 @@
+window.__RPE_STAGE2_EXAM_D={"concept_id":"RPE_STAGE2","exam":"D","n":2982,"missing":440,"mean":11.9367,"sd":2.4118,"p50":12,"p99":18};

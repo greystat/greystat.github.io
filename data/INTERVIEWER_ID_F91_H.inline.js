@@ -1,0 +1,1 @@
+window.__INTERVIEWER_ID_F91_EXAM_H={"concept_id":"INTERVIEWER_ID_F91","exam":"H","n":3476,"missing":3,"mean":337.628,"sd":127.0221,"p50":399,"p99":499};

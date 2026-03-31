@@ -1,0 +1,1 @@
+window.__NEIGHBORHOOD_SIDEWALKS_PRESENT_EXAM_I={"concept_id":"NEIGHBORHOOD_SIDEWALKS_PRESENT","exam":"I","n":3274,"missing":5,"n_levels":3,"mode_level":"2"};

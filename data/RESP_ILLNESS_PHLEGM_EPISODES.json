@@ -1,0 +1,22 @@
+{
+  "concept_id": "RESP_ILLNESS_PHLEGM_EPISODES",
+  "title": "Number of illnesses with phlegm for 1+ weeks",
+  "unit": {},
+  "chips": ["numeric", "F12 · Lung Disease History", "Pulmonary"],
+  "members": [
+    {
+      "concept_id": "RESP_ILLNESS_PHLEGM_EPISODES",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f12",
+      "dataset_stub": "a4f12",
+      "varname": "A12NOILL",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F12: History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "notes": ""
+    }
+  ]
+}

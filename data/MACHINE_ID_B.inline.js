@@ -1,0 +1,1 @@
+window.__MACHINE_ID_EXAM_B={"concept_id":"MACHINE_ID","exam":"B","n":4623,"missing":13,"mean":280.1644,"sd":121.8391,"p50":370,"p99":403};

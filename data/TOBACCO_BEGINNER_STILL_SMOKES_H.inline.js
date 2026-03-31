@@ -1,0 +1,1 @@
+window.__TOBACCO_BEGINNER_STILL_SMOKES_EXAM_H={"concept_id":"TOBACCO_BEGINNER_STILL_SMOKES","exam":"H","n":1910,"missing":1904,"n_levels":3,"mode_level":"(Missing)"};

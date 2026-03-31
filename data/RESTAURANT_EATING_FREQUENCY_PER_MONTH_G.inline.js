@@ -1,0 +1,1 @@
+window.__RESTAURANT_EATING_FREQUENCY_PER_MONTH_EXAM_G={"concept_id":"RESTAURANT_EATING_FREQUENCY_PER_MONTH","exam":"G","n":3142,"missing":374,"mean":3.4158,"sd":0.493,"p50":3,"p99":4};

@@ -1,0 +1,1 @@
+window.__HIGH_SCHOOL_SPORTS_PARTICIPATION_EXAM_F={"concept_id":"HIGH_SCHOOL_SPORTS_PARTICIPATION","exam":"F","n":3671,"missing":33,"n_levels":4,"mode_level":"Yes"};

@@ -1,0 +1,1 @@
+window.__DIFFICULTY_GET_HEALTH_SERVICES_EXAM_I={"concept_id":"DIFFICULTY_GET_HEALTH_SERVICES","exam":"I","n":3335,"missing":3,"n_levels":6,"mode_level":"Not hard at all"};

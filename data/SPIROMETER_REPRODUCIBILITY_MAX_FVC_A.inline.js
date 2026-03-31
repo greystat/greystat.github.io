@@ -1,0 +1,1 @@
+window.__SPIROMETER_REPRODUCIBILITY_MAX_FVC_EXAM_A={"concept_id":"SPIROMETER_REPRODUCIBILITY_MAX_FVC","exam":"A","n":5114,"missing":562,"mean":0.071,"sd":0.0832,"p50":0.05,"p99":0.36};

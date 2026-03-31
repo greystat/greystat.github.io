@@ -1,0 +1,1 @@
+window.__JOB_REQUIRES_WORKING_VERY_HARD_EXAM_B={"concept_id":"JOB_REQUIRES_WORKING_VERY_HARD","exam":"B","n":4623,"missing":392,"n_levels":5,"mode_level":"Agree"};

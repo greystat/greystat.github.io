@@ -1,0 +1,1 @@
+window.__HOSPITALIZED_OVERNIGHT_PAST_YEAR_EXAM_A={"concept_id":"HOSPITALIZED_OVERNIGHT_PAST_YEAR","exam":"A","n":5114,"missing":658,"n_levels":3,"mode_level":"1"};

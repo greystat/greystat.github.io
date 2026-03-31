@@ -1,0 +1,1 @@
+window.__BODY_WATER_PERCENT_EXAM_E={"concept_id":"BODY_WATER_PERCENT","exam":"E","n":3949,"missing":3719,"mean":50.5391,"sd":7.6948,"p50":51,"p99":65};

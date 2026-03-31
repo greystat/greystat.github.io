@@ -1,0 +1,1 @@
+window.__CAROTENE_INTAKE_MG_EXAM_B={"concept_id":"CAROTENE_INTAKE_MG","exam":"B","n":4623,"missing":58,"mean":3450.3175,"sd":5108.6649,"p50":2307.2,"p99":19068.824};

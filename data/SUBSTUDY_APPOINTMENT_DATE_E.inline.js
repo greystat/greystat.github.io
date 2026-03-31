@@ -1,0 +1,1 @@
+window.__SUBSTUDY_APPOINTMENT_DATE_EXAM_E={"concept_id":"SUBSTUDY_APPOINTMENT_DATE","exam":"E","n":3949,"missing":3713,"mean":1995.3898,"sd":0.4887,"p50":1995,"p99":1996};

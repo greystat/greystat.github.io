@@ -1,0 +1,1 @@
+window.__ANALYSIS_DATE_HEART_EXAM_G={"concept_id":"ANALYSIS_DATE_HEART","exam":"G","n":3139,"missing":17,"mean":2005.532,"sd":0.5023,"p50":2006,"p99":2006};

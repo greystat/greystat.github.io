@@ -1,0 +1,1 @@
+window.__F08_BROAG_EXAM_E={"concept_id":"F08_BROAG","exam":"E","n":3949,"missing":3791,"mean":21.7595,"sd":10.7511,"p50":23,"p99":39};

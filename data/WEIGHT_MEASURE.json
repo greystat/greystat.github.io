@@ -1,0 +1,22 @@
+{
+  "concept_id": "WEIGHT_MEASURE",
+  "title": "Body weight",
+  "unit": "Weight",
+  "chips": ["numeric", "Weight", "F84 · DXA Encounter", "Anthropometry", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "WEIGHT_MEASURE",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f84",
+      "dataset_stub": "g4f84",
+      "varname": "G84WEIGHT",
+      "family": "F84",
+      "form_label": "DXA Encounter Form",
+      "units_std": "Weight",
+      "units_class": "other",
+      "instrument": "F84: DXA Encounter Form",
+      "notes": ""
+    }
+  ]
+}

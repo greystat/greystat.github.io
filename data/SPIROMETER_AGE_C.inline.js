@@ -1,0 +1,1 @@
+window.__SPIROMETER_AGE_EXAM_C={"concept_id":"SPIROMETER_AGE","exam":"C","n":4351,"missing":101,"mean":29.9826,"sd":3.6447,"p50":30,"p99":36};

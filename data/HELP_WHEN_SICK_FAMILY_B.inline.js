@@ -1,0 +1,1 @@
+window.__HELP_WHEN_SICK_FAMILY_EXAM_B={"concept_id":"HELP_WHEN_SICK_FAMILY","exam":"B","n":4623,"missing":52,"n_levels":3,"mode_level":"Yes"};

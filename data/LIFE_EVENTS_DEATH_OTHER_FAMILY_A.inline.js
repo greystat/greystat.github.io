@@ -1,0 +1,1 @@
+window.__LIFE_EVENTS_DEATH_OTHER_FAMILY_EXAM_A={"concept_id":"LIFE_EVENTS_DEATH_OTHER_FAMILY","exam":"A","n":5114,"missing":5,"n_levels":3,"mode_level":"No"};

@@ -1,0 +1,1 @@
+window.__F08_HRTCON_EXAM_J={"concept_id":"F08_HRTCON","exam":"J","n":4376,"missing":31,"n_levels":4,"mode_level":"\"No\""};

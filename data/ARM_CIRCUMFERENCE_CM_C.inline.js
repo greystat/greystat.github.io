@@ -1,0 +1,1 @@
+window.__ARM_CIRCUMFERENCE_CM_EXAM_C={"concept_id":"ARM_CIRCUMFERENCE_CM","exam":"C","n":4351,"missing":1,"mean":31.289,"sd":4.9619,"p50":31,"p99":46};

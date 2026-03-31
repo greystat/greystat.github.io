@@ -1,0 +1,1 @@
+window.__F08_OTZ_EXAM_H={"concept_id":"F08_OTZ","exam":"H","n":3485,"missing":2,"n_levels":4,"mode_level":"\"No\""};

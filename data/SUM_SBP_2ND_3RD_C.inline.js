@@ -1,0 +1,1 @@
+window.__SUM_SBP_2ND_3RD_EXAM_C={"concept_id":"SUM_SBP_2ND_3RD","exam":"C","n":4351,"missing":4,"mean":215.6352,"sd":23.1636,"p50":214,"p99":282};

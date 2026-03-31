@@ -1,0 +1,36 @@
+{
+  "concept_id": "YALTA_QC_ID",
+  "title": "YALTA quality control ID",
+  "unit": {},
+  "chips": ["numeric", "F05 · Phlebotomy", "Specimen Collection"],
+  "members": [
+    {
+      "concept_id": "YALTA_QC_ID",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f05",
+      "dataset_stub": "f1f05",
+      "varname": "F05YQCID",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "YALTA_QC_ID",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f05",
+      "dataset_stub": "h3f05",
+      "varname": "H05XOCID",
+      "family": "F05",
+      "form_label": "Phlebotomy-Delayed OGTT",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F05: Phlebotomy-Delayed OGTT",
+      "notes": ""
+    }
+  ]
+}

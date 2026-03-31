@@ -1,0 +1,1 @@
+window.__TOBACCO_YEARS_SINCE_QUIT_EXAM_A={"concept_id":"TOBACCO_YEARS_SINCE_QUIT","exam":"A","n":3044,"missing":2387,"mean":3.5632,"sd":4.9055,"p50":2,"p99":15};

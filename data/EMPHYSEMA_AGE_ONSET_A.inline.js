@@ -1,0 +1,1 @@
+window.__EMPHYSEMA_AGE_ONSET_EXAM_A={"concept_id":"EMPHYSEMA_AGE_ONSET","exam":"A","n":5114,"missing":16,"mean":0.3225,"sd":2.2431,"p50":0,"p99":1};

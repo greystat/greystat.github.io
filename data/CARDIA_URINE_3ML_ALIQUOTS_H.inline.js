@@ -1,0 +1,1 @@
+window.__CARDIA_URINE_3ML_ALIQUOTS_EXAM_H={"concept_id":"CARDIA_URINE_3ML_ALIQUOTS","exam":"H","n":3493,"missing":51,"n_levels":7,"mode_level":"3 mL urine aliquots, storage, pink, SPRL"};

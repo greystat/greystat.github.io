@@ -1,0 +1,1 @@
+window.__F08_ANGAG_EXAM_J={"concept_id":"F08_ANGAG","exam":"J","n":2776,"missing":2759,"mean":46.1765,"sd":12.4711,"p50":52,"p99":59.68};

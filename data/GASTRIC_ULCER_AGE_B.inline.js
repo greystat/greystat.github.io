@@ -1,0 +1,1 @@
+window.__GASTRIC_ULCER_AGE_EXAM_B={"concept_id":"GASTRIC_ULCER_AGE","exam":"B","n":235,"missing":59,"mean":20.4261,"sd":5.7376,"p50":20,"p99":32};

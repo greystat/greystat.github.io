@@ -1,0 +1,1 @@
+window.__MED_ADHERENCE_MISS_WHEN_SICK_EXAM_E={"concept_id":"MED_ADHERENCE_MISS_WHEN_SICK","exam":"E","n":947,"missing":9,"n_levels":3,"mode_level":"1"};

@@ -1,0 +1,1 @@
+window.__DIFFICULTY_PAY_MEDICAL_CARE_EXAM_H={"concept_id":"DIFFICULTY_PAY_MEDICAL_CARE","exam":"H","n":3484,"missing":1,"n_levels":7,"mode_level":"Not very hard"};

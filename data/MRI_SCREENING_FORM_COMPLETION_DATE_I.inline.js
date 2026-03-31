@@ -1,0 +1,1 @@
+window.__MRI_SCREENING_FORM_COMPLETION_DATE_EXAM_I={"concept_id":"MRI_SCREENING_FORM_COMPLETION_DATE","exam":"I","n":464,"missing":0,"mean":2015.3922,"sd":0.4888,"p50":2015,"p99":2016};

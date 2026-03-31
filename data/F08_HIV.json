@@ -1,0 +1,86 @@
+{
+  "concept_id": "F08_HIV",
+  "title": "HIV",
+  "chips": ["categorical", "3 levels", "F08 · Medical History", "Medical History"],
+  "members": [
+    {
+      "concept_id": "F08_HIV",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f08",
+      "dataset_stub": "f1f08",
+      "varname": "F08HIV",
+      "family": "F08",
+      "form_label": "Medical History Questionnaire",
+      "n_labels": "3",
+      "instrument": "F08: Medical History Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "F08_HIV",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f08",
+      "dataset_stub": "g3f08",
+      "varname": "G08HIV",
+      "family": "F08",
+      "form_label": "Medical History",
+      "n_labels": "1",
+      "instrument": "F08: Medical History",
+      "notes": ""
+    },
+    {
+      "concept_id": "F08_HIV",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f08",
+      "dataset_stub": "h3f08_1",
+      "varname": "H08HIV",
+      "family": "F08",
+      "form_label": "Weight History",
+      "n_labels": "1",
+      "instrument": "F08: Weight History",
+      "notes": ""
+    },
+    {
+      "concept_id": "F08_HIV",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f08",
+      "dataset_stub": "i1f08_1",
+      "varname": "I08HIV",
+      "family": "F08",
+      "form_label": "Medical History",
+      "n_labels": "1",
+      "instrument": "F08: Medical History",
+      "notes": ""
+    },
+    {
+      "concept_id": "F08_HIV",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f08",
+      "dataset_stub": "j1f08",
+      "varname": "J08HIV",
+      "family": "F08",
+      "form_label": "Medical History",
+      "n_labels": "",
+      "instrument": "F08: Medical History",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "8",
+      "label": "Not sure"
+    }
+  ]
+}

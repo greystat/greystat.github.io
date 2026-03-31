@@ -1,0 +1,1 @@
+window.__PULSE_30S_EXAM_J={"concept_id":"PULSE_30S","exam":"J","n":2125,"missing":3,"mean":33.0862,"sd":5.3427,"p50":32,"p99":48};

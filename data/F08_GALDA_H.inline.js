@@ -1,0 +1,1 @@
+window.__F08_GALDA_EXAM_H={"concept_id":"F08_GALDA","exam":"H","n":3485,"missing":3304,"mean":37.6133,"sd":9.9468,"p50":39,"p99":54};

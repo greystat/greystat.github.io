@@ -1,0 +1,1 @@
+window.__INJURY_EVENT_YEAR_EXAM_C={"concept_id":"INJURY_EVENT_YEAR","exam":"C","n":2272,"missing":2272,"n_levels":1,"mode_level":"(Missing)"};

@@ -1,0 +1,1 @@
+window.__PEAK_INFLATION_LEVEL_STD_EXAM_B={"concept_id":"PEAK_INFLATION_LEVEL_STD","exam":"B","n":4623,"missing":1,"mean":135.6502,"sd":10.5409,"p50":134,"p99":160};

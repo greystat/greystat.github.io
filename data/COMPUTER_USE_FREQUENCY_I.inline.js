@@ -1,0 +1,1 @@
+window.__COMPUTER_USE_FREQUENCY_EXAM_I={"concept_id":"COMPUTER_USE_FREQUENCY","exam":"I","n":3264,"missing":10,"n_levels":8,"mode_level":"6"};

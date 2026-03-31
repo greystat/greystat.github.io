@@ -1,0 +1,1 @@
+window.__HIGH_CHOLESTEROL_STATUS_EXAM_B={"concept_id":"HIGH_CHOLESTEROL_STATUS","exam":"B","n":320,"missing":40,"n_levels":4,"mode_level":"Under control"};

@@ -1,0 +1,1 @@
+window.__TOENAIL_MEDICATION_2_DURATION_DAYS_EXAM_B={"concept_id":"TOENAIL_MEDICATION_2_DURATION_DAYS","exam":"B","n":4623,"missing":417,"mean":0.169,"sd":6.181,"p50":0,"p99":0};

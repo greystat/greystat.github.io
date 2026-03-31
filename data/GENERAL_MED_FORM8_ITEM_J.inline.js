@@ -1,0 +1,1 @@
+window.__GENERAL_MED_FORM8_ITEM_EXAM_J={"concept_id":"GENERAL_MED_FORM8_ITEM","exam":"J","n":6227,"missing":82,"n_levels":8,"mode_level":"Any other medications (Item 36)"};

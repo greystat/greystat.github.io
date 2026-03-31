@@ -1,0 +1,1 @@
+window.__PULSE_OBLITERATION_PRESSURE_EXAM_C={"concept_id":"PULSE_OBLITERATION_PRESSURE","exam":"C","n":4351,"missing":2,"mean":105.8979,"sd":9.9395,"p50":104,"p99":130};

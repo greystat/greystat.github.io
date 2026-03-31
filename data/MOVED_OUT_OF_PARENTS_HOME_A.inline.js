@@ -1,0 +1,1 @@
+window.__MOVED_OUT_OF_PARENTS_HOME_EXAM_A={"concept_id":"MOVED_OUT_OF_PARENTS_HOME","exam":"A","n":5114,"missing":653,"n_levels":3,"mode_level":"1"};

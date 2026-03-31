@@ -1,0 +1,1 @@
+window.__HOURS_PER_WEEK_EXPOSED_HOME_EXAM_D={"concept_id":"HOURS_PER_WEEK_EXPOSED_HOME","exam":"D","n":4085,"missing":17,"mean":6.044,"sd":14.2344,"p50":0,"p99":72};

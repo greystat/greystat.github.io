@@ -1,0 +1,36 @@
+{
+  "concept_id": "FORM67_EXAM_DATE",
+  "title": "Form 67 exam date",
+  "unit": "date",
+  "chips": ["numeric", "date", "F67 · Sleep Habits", "Sleep"],
+  "members": [
+    {
+      "concept_id": "FORM67_EXAM_DATE",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f67",
+      "dataset_stub": "f1f67",
+      "varname": "F67EXDAT",
+      "family": "F67",
+      "form_label": "Sleep Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F67: Sleep Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "FORM67_EXAM_DATE",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f67",
+      "dataset_stub": "g3f67",
+      "varname": "G67EXDAT",
+      "family": "F67",
+      "form_label": "Sleep Habits",
+      "units_std": "date",
+      "units_class": "date",
+      "instrument": "F67: Sleep Habits",
+      "notes": ""
+    }
+  ]
+}

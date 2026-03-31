@@ -1,0 +1,1 @@
+window.__HEAVY_INTENSITY_SCORE_EXAM_G={"concept_id":"HEAVY_INTENSITY_SCORE","exam":"G","n":3528,"missing":1,"mean":201.2708,"sd":208.1606,"p50":140,"p99":883.48};

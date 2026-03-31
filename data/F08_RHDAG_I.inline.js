@@ -1,0 +1,1 @@
+window.__F08_RHDAG_EXAM_I={"concept_id":"F08_RHDAG","exam":"I","n":3356,"missing":3345,"mean":25.7273,"sd":18.0227,"p50":16,"p99":49.9};

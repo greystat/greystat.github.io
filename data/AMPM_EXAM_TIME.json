@@ -1,0 +1,52 @@
+{
+  "concept_id": "AMPM_EXAM_TIME",
+  "title": "Exam time AM/PM (later waves)",
+  "chips": ["categorical", "1 levels", "F02 · Blood Pressure", "Cardiovascular"],
+  "members": [
+    {
+      "concept_id": "AMPM_EXAM_TIME",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f02v2",
+      "dataset_stub": "h3f02v2",
+      "varname": "H02AMPM",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "AMPM_EXAM_TIME",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f02",
+      "dataset_stub": "i1f02",
+      "varname": "I02AMPM",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "AMPM_EXAM_TIME",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f02",
+      "dataset_stub": "j1f02",
+      "varname": "J02AMPM",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "AM"
+    }
+  ]
+}

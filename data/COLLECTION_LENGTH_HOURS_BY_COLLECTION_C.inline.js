@@ -1,0 +1,1 @@
+window.__COLLECTION_LENGTH_HOURS_BY_COLLECTION_EXAM_C={"concept_id":"COLLECTION_LENGTH_HOURS_BY_COLLECTION","exam":"C","n":1105,"missing":58,"mean":23.9691,"sd":1.6294,"p50":24,"p99":29.18};

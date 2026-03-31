@@ -1,0 +1,1 @@
+window.__VIGOROUS_JOB_LIFT_CARRY_DIG_PAST_YEAR_EXAM_G={"concept_id":"VIGOROUS_JOB_LIFT_CARRY_DIG_PAST_YEAR","exam":"G","n":3528,"missing":4,"n_levels":3,"mode_level":"\"No\""};

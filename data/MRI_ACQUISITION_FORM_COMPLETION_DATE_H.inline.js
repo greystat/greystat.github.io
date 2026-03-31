@@ -1,0 +1,1 @@
+window.__MRI_ACQUISITION_FORM_COMPLETION_DATE_EXAM_H={"concept_id":"MRI_ACQUISITION_FORM_COMPLETION_DATE","exam":"H","n":716,"missing":55,"mean":2010.8502,"sd":0.3571,"p50":2011,"p99":2011};

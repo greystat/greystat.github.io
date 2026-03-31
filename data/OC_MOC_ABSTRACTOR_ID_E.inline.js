@@ -1,0 +1,1 @@
+window.__OC_MOC_ABSTRACTOR_ID_EXAM_E={"concept_id":"OC_MOC_ABSTRACTOR_ID","exam":"E","n":2044,"missing":7,"mean":302.3456,"sd":143.4091,"p50":304,"p99":498};

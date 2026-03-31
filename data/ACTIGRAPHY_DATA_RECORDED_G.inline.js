@@ -1,0 +1,1 @@
+window.__ACTIGRAPHY_DATA_RECORDED_EXAM_G={"concept_id":"ACTIGRAPHY_DATA_RECORDED","exam":"G","n":2964,"missing":231,"n_levels":3,"mode_level":"2"};

@@ -1,0 +1,1 @@
+window.__NICOTINE_GUM_EVER_USED_EXAM_G={"concept_id":"NICOTINE_GUM_EVER_USED","exam":"G","n":3547,"missing":1555,"n_levels":4,"mode_level":"\"No\""};

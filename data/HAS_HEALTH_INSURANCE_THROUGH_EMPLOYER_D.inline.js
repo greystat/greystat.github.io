@@ -1,0 +1,1 @@
+window.__HAS_HEALTH_INSURANCE_THROUGH_EMPLOYER_EXAM_D={"concept_id":"HAS_HEALTH_INSURANCE_THROUGH_EMPLOYER","exam":"D","n":4085,"missing":31,"n_levels":4,"mode_level":"Yes"};

@@ -1,0 +1,1 @@
+window.__MOTHER_SMOKES_CIGARETTES_EXAM_A={"concept_id":"MOTHER_SMOKES_CIGARETTES","exam":"A","n":5114,"missing":17,"n_levels":4,"mode_level":"Yes"};

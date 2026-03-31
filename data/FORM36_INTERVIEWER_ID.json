@@ -1,0 +1,50 @@
+{
+  "concept_id": "FORM36_INTERVIEWER_ID",
+  "title": "Form 36 interviewer ID",
+  "unit": "id",
+  "chips": ["numeric", "id", "F36 · CES-Depression Scale", "Psychosocial"],
+  "members": [
+    {
+      "concept_id": "FORM36_INTERVIEWER_ID",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f36",
+      "dataset_stub": "g3f36",
+      "varname": "G36IVID",
+      "family": "F36",
+      "form_label": "CES Depression",
+      "units_std": "id",
+      "units_class": "identifier",
+      "instrument": "F36: CES Depression",
+      "notes": ""
+    },
+    {
+      "concept_id": "FORM36_INTERVIEWER_ID",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f36",
+      "dataset_stub": "h3f36",
+      "varname": "H36IVID",
+      "family": "F36",
+      "form_label": "CES Depression",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F36: CES Depression",
+      "notes": ""
+    },
+    {
+      "concept_id": "FORM36_INTERVIEWER_ID",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f36",
+      "dataset_stub": "i1f36",
+      "varname": "I36IVID",
+      "family": "F36",
+      "form_label": "CES-Depression",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F36: CES-Depression",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__TAPE_NUMBER_EXAM_G={"concept_id":"TAPE_NUMBER","exam":"G","n":3252,"missing":10,"mean":20.9688,"sd":12.4648,"p50":21,"p99":44};

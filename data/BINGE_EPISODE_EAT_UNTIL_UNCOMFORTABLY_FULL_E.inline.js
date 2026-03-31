@@ -1,0 +1,1 @@
+window.__BINGE_EPISODE_EAT_UNTIL_UNCOMFORTABLY_FULL_EXAM_E={"concept_id":"BINGE_EPISODE_EAT_UNTIL_UNCOMFORTABLY_FULL","exam":"E","n":3949,"missing":3655,"n_levels":3,"mode_level":"(Missing)"};

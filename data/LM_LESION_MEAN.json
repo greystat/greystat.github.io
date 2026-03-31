@@ -1,0 +1,50 @@
+{
+  "concept_id": "LM_LESION_MEAN",
+  "title": "Mean of lesions in left main coronary artery",
+  "unit": {},
+  "chips": ["numeric", "EBCT · Electron Beam CT", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "LM_LESION_MEAN",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g5ebct",
+      "dataset_stub": "g5ebct",
+      "varname": "GR3LMLM1",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    },
+    {
+      "concept_id": "LM_LESION_MEAN",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g5ebct",
+      "dataset_stub": "g5ebct",
+      "varname": "GR3LMLM2",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    },
+    {
+      "concept_id": "LM_LESION_MEAN",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h4ebct",
+      "dataset_stub": "h4ebct",
+      "varname": "HR3LMLM",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    }
+  ]
+}

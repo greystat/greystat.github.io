@@ -1,0 +1,36 @@
+{
+  "concept_id": "WORK_INDEX",
+  "title": "Occupational physical activity index",
+  "unit": {},
+  "chips": ["numeric", "F18 · Physical Activity History", "Physical Activity"],
+  "members": [
+    {
+      "concept_id": "WORK_INDEX",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f18a",
+      "dataset_stub": "c1f18a",
+      "varname": "C18WKIDX",
+      "family": "F18",
+      "form_label": "Physical Activity Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F18: Physical Activity Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "WORK_INDEX",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f18",
+      "dataset_stub": "e1f18",
+      "varname": "E18WKIDX",
+      "family": "F18",
+      "form_label": "Physical Activity Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F18: Physical Activity Questionnaire",
+      "notes": ""
+    }
+  ]
+}

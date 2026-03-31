@@ -1,0 +1,1 @@
+window.__TOBACCO_QUIT_INTEREST_SCORE_EXAM_E={"concept_id":"TOBACCO_QUIT_INTEREST_SCORE","exam":"E","n":2240,"missing":1232,"mean":6.752,"sd":3.1723,"p50":8,"p99":10};

@@ -1,0 +1,1 @@
+window.__YTUBE_DIASTOLIC_READING_1_EXAM_C={"concept_id":"YTUBE_DIASTOLIC_READING_1","exam":"C","n":316,"missing":5,"mean":72.1093,"sd":10.36,"p50":70,"p99":96};

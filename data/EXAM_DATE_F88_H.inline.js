@@ -1,0 +1,1 @@
+window.__EXAM_DATE_F88_EXAM_H={"concept_id":"EXAM_DATE_F88","exam":"H","n":3390,"missing":3389,"mean":2010,"sd":"NA","p50":2010,"p99":2010};

@@ -1,0 +1,1 @@
+window.__PARTICIPANT_WEIGHT_LB_EXAM_I={"concept_id":"PARTICIPANT_WEIGHT_LB","exam":"I","n":3186,"missing":149,"mean":194.05,"sd":48.8118,"p50":188,"p99":338.1};

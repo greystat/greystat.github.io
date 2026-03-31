@@ -1,0 +1,42 @@
+{
+  "concept_id": "FASTING_FREQUENCY",
+  "title": "Frequency of fasting to lose weight",
+  "chips": ["categorical", "5 levels", "F50 · Diet History (FFQ)", "Diet"],
+  "members": [
+    {
+      "concept_id": "FASTING_FREQUENCY",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f50",
+      "dataset_stub": "e1f50",
+      "varname": "E50FSTFR",
+      "family": "F50",
+      "form_label": "Binge Eating Disorder Questionnaire",
+      "n_labels": "5",
+      "instrument": "F50: Binge Eating Disorder Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Less than one day a week"
+    },
+    {
+      "code": "2",
+      "label": "One day a week"
+    },
+    {
+      "code": "3",
+      "label": "Two or three days a week"
+    },
+    {
+      "code": "4",
+      "label": "Four or five days a week"
+    },
+    {
+      "code": "5",
+      "label": "More than five times a week"
+    }
+  ]
+}

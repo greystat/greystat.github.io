@@ -1,0 +1,1 @@
+window.__COVERED_BY_MILITARY_HEALTH_CARE_EXAM_I={"concept_id":"COVERED_BY_MILITARY_HEALTH_CARE","exam":"I","n":3335,"missing":2,"n_levels":4,"mode_level":"No"};

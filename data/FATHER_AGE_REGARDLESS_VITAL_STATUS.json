@@ -1,0 +1,50 @@
+{
+  "concept_id": "FATHER_AGE_REGARDLESS_VITAL_STATUS",
+  "title": "Father age regardless of vital status",
+  "unit": {},
+  "chips": ["numeric", "F11 · Family History", "Sociodemographic"],
+  "members": [
+    {
+      "concept_id": "FATHER_AGE_REGARDLESS_VITAL_STATUS",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f11",
+      "dataset_stub": "a4f11",
+      "varname": "A11FAGE",
+      "family": "F11",
+      "form_label": "Family History Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F11: Family History Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "FATHER_AGE_REGARDLESS_VITAL_STATUS",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f11",
+      "dataset_stub": "c1f11",
+      "varname": "C11FAGE",
+      "family": "F11",
+      "form_label": "Family History Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F11: Family History Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "FATHER_AGE_REGARDLESS_VITAL_STATUS",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f11",
+      "dataset_stub": "e1f11",
+      "varname": "E11FAGE",
+      "family": "F11",
+      "form_label": "Family History Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F11: Family History Questionnaire",
+      "notes": ""
+    }
+  ]
+}

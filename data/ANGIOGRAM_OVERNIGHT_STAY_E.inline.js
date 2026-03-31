@@ -1,0 +1,1 @@
+window.__ANGIOGRAM_OVERNIGHT_STAY_EXAM_E={"concept_id":"ANGIOGRAM_OVERNIGHT_STAY","exam":"E","n":55,"missing":3,"n_levels":3,"mode_level":"2"};

@@ -1,0 +1,1 @@
+window.__F08_COLAG_EXAM_G={"concept_id":"F08_COLAG","exam":"G","n":3548,"missing":3514,"mean":10.1176,"sd":17.6786,"p50":1,"p99":47};

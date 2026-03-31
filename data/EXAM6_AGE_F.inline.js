@@ -1,0 +1,1 @@
+window.__EXAM6_AGE_EXAM_F={"concept_id":"EXAM6_AGE","exam":"F","n":5114,"missing":1443,"mean":40.1752,"sd":3.6355,"p50":41,"p99":46};

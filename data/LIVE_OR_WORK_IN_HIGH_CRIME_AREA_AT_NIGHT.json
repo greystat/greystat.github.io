@@ -1,0 +1,30 @@
+{
+  "concept_id": "LIVE_OR_WORK_IN_HIGH_CRIME_AREA_AT_NIGHT",
+  "title": "Live or work at night in high-crime area",
+  "chips": ["categorical", "2 levels", "F32 · Dietary Assessment (Follow-up)", "Diet"],
+  "members": [
+    {
+      "concept_id": "LIVE_OR_WORK_IN_HIGH_CRIME_AREA_AT_NIGHT",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f32",
+      "dataset_stub": "b2f32",
+      "varname": "B32CRIME",
+      "family": "F32",
+      "form_label": "Safety/Accident Questionnaire",
+      "n_labels": "2",
+      "instrument": "F32: Safety/Accident Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__RANDOM_ZERO_MACHINE_ID_EXAM_F={"concept_id":"RANDOM_ZERO_MACHINE_ID","exam":"F","n":3671,"missing":14,"mean":262.5015,"sd":146.8947,"p50":380,"p99":408};

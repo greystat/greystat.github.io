@@ -1,0 +1,50 @@
+{
+  "concept_id": "PLASMA_FIBRINOGEN_MGDL",
+  "title": "Plasma fibrinogen (mg/dL)",
+  "unit": "mg/dL",
+  "chips": ["numeric", "mg/dL", "FIBR · Fibrinogen", "Inflammation", "Lab"],
+  "members": [
+    {
+      "concept_id": "PLASMA_FIBRINOGEN_MGDL",
+      "exam": "C",
+      "exam_year": "",
+      "dataset": "c1fibr",
+      "dataset_stub": "c1fibr",
+      "varname": "CL6FIBR",
+      "family": "FIBR",
+      "form_label": "",
+      "units_std": "mg/dL",
+      "units_class": "concentration",
+      "instrument": "FIBR",
+      "notes": ""
+    },
+    {
+      "concept_id": "PLASMA_FIBRINOGEN_MGDL",
+      "exam": "D",
+      "exam_year": "",
+      "dataset": "d1fibr",
+      "dataset_stub": "d1fibr",
+      "varname": "DLEFIBR2",
+      "family": "FIBR",
+      "form_label": "",
+      "units_std": "mg/dL",
+      "units_class": "concentration",
+      "instrument": "FIBR",
+      "notes": ""
+    },
+    {
+      "concept_id": "PLASMA_FIBRINOGEN_MGDL",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g3fibr",
+      "dataset_stub": "g3fibr",
+      "varname": "GL6FIBR",
+      "family": "FIBR",
+      "form_label": "",
+      "units_std": "mg/dL",
+      "units_class": "concentration",
+      "instrument": "FIBR",
+      "notes": ""
+    }
+  ]
+}

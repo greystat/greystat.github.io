@@ -1,0 +1,1 @@
+window.__HOME_SHOVELING_MONTHS_3H_PW_EXAM_D={"concept_id":"HOME_SHOVELING_MONTHS_3H_PW","exam":"D","n":4085,"missing":1981,"mean":3.0585,"sd":3.8875,"p50":1,"p99":12};

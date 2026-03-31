@@ -1,0 +1,1 @@
+window.__GENERAL_MED_NAME_SOURCE_EXAM_F={"concept_id":"GENERAL_MED_NAME_SOURCE","exam":"F","n":3230,"missing":37,"n_levels":3,"mode_level":"Self-report"};

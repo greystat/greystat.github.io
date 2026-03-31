@@ -1,0 +1,412 @@
+{
+  "concept_id": "AVG_PERIOD_LENGTH_DAYS_AGE20_30",
+  "exam": "F",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 2051,
+        "missing": 437,
+        "mean": 5.0322,
+        "sd": 1.574,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 2051,
+        "missing": 437,
+        "mean": 5.0322,
+        "sd": 1.574,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1021,
+        "missing": 240,
+        "mean": 5.0192,
+        "sd": 1.8915,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 5,
+        "p95": 7,
+        "iqr": 1
+      },
+      {
+        "label": "race: 5",
+        "n": 1030,
+        "missing": 197,
+        "mean": 5.0444,
+        "sd": 1.2036,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 448,
+        "missing": 117,
+        "mean": 4.9577,
+        "sd": 1.257,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 5,
+        "p95": 7,
+        "iqr": 1
+      },
+      {
+        "label": "center: 2",
+        "n": 449,
+        "missing": 74,
+        "mean": 5.12,
+        "sd": 2.0051,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "center: 3",
+        "n": 524,
+        "missing": 104,
+        "mean": 4.9833,
+        "sd": 1.2329,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "center: 4",
+        "n": 630,
+        "missing": 142,
+        "mean": 5.0574,
+        "sd": 1.6516,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1021,
+        "missing": 240,
+        "mean": 5.0192,
+        "sd": 1.8915,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 5,
+        "p95": 7,
+        "iqr": 1
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1030,
+        "missing": 197,
+        "mean": 5.0444,
+        "sd": 1.2036,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 448,
+        "missing": 117,
+        "mean": 4.9577,
+        "sd": 1.257,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 5,
+        "p95": 7,
+        "iqr": 1
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 449,
+        "missing": 74,
+        "mean": 5.12,
+        "sd": 2.0051,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 524,
+        "missing": 104,
+        "mean": 4.9833,
+        "sd": 1.2329,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 630,
+        "missing": 142,
+        "mean": 5.0574,
+        "sd": 1.6516,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 268,
+        "missing": 72,
+        "mean": 4.8061,
+        "sd": 1.3061,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 5,
+        "p95": 7,
+        "iqr": 1
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 224,
+        "missing": 39,
+        "mean": 5.2216,
+        "sd": 2.6022,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 191,
+        "missing": 40,
+        "mean": 4.8543,
+        "sd": 1.2617,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 5,
+        "p95": 7,
+        "iqr": 1
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 338,
+        "missing": 89,
+        "mean": 5.1365,
+        "sd": 1.9565,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 180,
+        "missing": 45,
+        "mean": 5.1778,
+        "sd": 1.1517,
+        "p05": 3,
+        "q1": 5,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 1
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 225,
+        "missing": 35,
+        "mean": 5.0211,
+        "sd": 1.1591,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 333,
+        "missing": 64,
+        "mean": 5.0558,
+        "sd": 1.2127,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 292,
+        "missing": 53,
+        "mean": 4.9749,
+        "sd": 1.2567,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 5,
+        "p95": 7,
+        "iqr": 1
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 268,
+        "missing": 72,
+        "mean": 4.8061,
+        "sd": 1.3061,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 5,
+        "p95": 7,
+        "iqr": 1
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 39,
+        "mean": 5.2216,
+        "sd": 2.6022,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 191,
+        "missing": 40,
+        "mean": 4.8543,
+        "sd": 1.2617,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 5,
+        "p95": 7,
+        "iqr": 1
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 338,
+        "missing": 89,
+        "mean": 5.1365,
+        "sd": 1.9565,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 180,
+        "missing": 45,
+        "mean": 5.1778,
+        "sd": 1.1517,
+        "p05": 3,
+        "q1": 5,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 1
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 225,
+        "missing": 35,
+        "mean": 5.0211,
+        "sd": 1.1591,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 333,
+        "missing": 64,
+        "mean": 5.0558,
+        "sd": 1.2127,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 6,
+        "p95": 7,
+        "iqr": 2
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 292,
+        "missing": 53,
+        "mean": 4.9749,
+        "sd": 1.2567,
+        "p05": 3,
+        "q1": 4,
+        "median": 5,
+        "q3": 5,
+        "p95": 7,
+        "iqr": 1
+      }
+    ]
+  }
+}

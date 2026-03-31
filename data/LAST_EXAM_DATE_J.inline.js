@@ -1,0 +1,1 @@
+window.__LAST_EXAM_DATE_EXAM_J={"concept_id":"LAST_EXAM_DATE","exam":"J","n":2516,"missing":2437,"mean":2009.9873,"sd":2.2043,"p50":2010,"p99":2012.1};

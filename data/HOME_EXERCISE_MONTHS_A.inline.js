@@ -1,0 +1,1 @@
+window.__HOME_EXERCISE_MONTHS_EXAM_A={"concept_id":"HOME_EXERCISE_MONTHS","exam":"A","n":5114,"missing":251,"mean":3.3488,"sd":4.4165,"p50":1,"p99":12};

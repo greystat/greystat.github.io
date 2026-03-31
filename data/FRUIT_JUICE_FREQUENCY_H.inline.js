@@ -1,0 +1,1 @@
+window.__FRUIT_JUICE_FREQUENCY_EXAM_H={"concept_id":"FRUIT_JUICE_FREQUENCY","exam":"H","n":3475,"missing":3,"n_levels":11,"mode_level":"3"};

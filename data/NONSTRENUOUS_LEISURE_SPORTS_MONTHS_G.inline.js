@@ -1,0 +1,1 @@
+window.__NONSTRENUOUS_LEISURE_SPORTS_MONTHS_EXAM_G={"concept_id":"NONSTRENUOUS_LEISURE_SPORTS_MONTHS","exam":"G","n":3528,"missing":2074,"mean":5.5708,"sd":4.3181,"p50":4,"p99":12};

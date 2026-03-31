@@ -1,0 +1,1 @@
+window.__GENERAL_MED_INTERVIEWER_ID_EXAM_H={"concept_id":"GENERAL_MED_INTERVIEWER_ID","exam":"H","n":6729,"missing":5,"mean":294.3528,"sd":135.0498,"p50":237,"p99":807};

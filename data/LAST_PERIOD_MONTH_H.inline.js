@@ -1,0 +1,1 @@
+window.__LAST_PERIOD_MONTH_EXAM_H={"concept_id":"LAST_PERIOD_MONTH","exam":"H","n":1964,"missing":319,"mean":6.4395,"sd":3.3297,"p50":6,"p99":12};

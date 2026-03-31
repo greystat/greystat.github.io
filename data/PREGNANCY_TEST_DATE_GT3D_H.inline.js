@@ -1,0 +1,1 @@
+window.__PREGNANCY_TEST_DATE_GT3D_EXAM_H={"concept_id":"PREGNANCY_TEST_DATE_GT3D","exam":"H","n":3215,"missing":1797,"mean":1.7595,"sd":0.9684,"p50":1,"p99":3};

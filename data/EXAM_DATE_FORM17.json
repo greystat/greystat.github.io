@@ -1,0 +1,50 @@
+{
+  "concept_id": "EXAM_DATE_FORM17",
+  "title": "Date of exam for Form 17",
+  "unit": {},
+  "chips": ["numeric", "F17 · Non-Medical Drug Use", "Substance Use"],
+  "members": [
+    {
+      "concept_id": "EXAM_DATE_FORM17",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f17",
+      "dataset_stub": "e1f17",
+      "varname": "E17EXDAT",
+      "family": "F17",
+      "form_label": "Illicit Drug Use Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F17: Illicit Drug Use Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "EXAM_DATE_FORM17",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f17",
+      "dataset_stub": "f1f17",
+      "varname": "F17EXDAT",
+      "family": "F17",
+      "form_label": "Illicit Drug Use Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F17: Illicit Drug Use Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "EXAM_DATE_FORM17",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j2f17",
+      "dataset_stub": "j2f17",
+      "varname": "J17EXDAT",
+      "family": "F17",
+      "form_label": "Non-Medical Drug Use",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F17: Non-Medical Drug Use",
+      "notes": ""
+    }
+  ]
+}

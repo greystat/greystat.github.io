@@ -1,0 +1,1 @@
+window.__INTENSIVE_PHYSICAL_ACTIVITY_2H_EXAM_H={"concept_id":"INTENSIVE_PHYSICAL_ACTIVITY_2H","exam":"H","n":3496,"missing":4,"n_levels":3,"mode_level":"No"};

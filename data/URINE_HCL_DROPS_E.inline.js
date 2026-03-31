@@ -1,0 +1,1 @@
+window.__URINE_HCL_DROPS_EXAM_E={"concept_id":"URINE_HCL_DROPS","exam":"E","n":3949,"missing":3806,"mean":8.8462,"sd":9.7289,"p50":6,"p99":29.16};

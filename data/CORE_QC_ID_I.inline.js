@@ -1,0 +1,1 @@
+window.__CORE_QC_ID_EXAM_I={"concept_id":"CORE_QC_ID","exam":"I","n":3355,"missing":1646,"mean":31797.5354,"sd":11382.8917,"p50":35589,"p99":46124.92};

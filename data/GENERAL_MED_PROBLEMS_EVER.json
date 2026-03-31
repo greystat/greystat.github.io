@@ -1,0 +1,69 @@
+{
+  "concept_id": "GENERAL_MED_PROBLEMS_EVER",
+  "title": "Ever had problems with medication",
+  "chips": ["categorical", "2 levels"],
+  "members": [
+    {
+      "concept_id": "GENERAL_MED_PROBLEMS_EVER",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09med",
+      "dataset_stub": "g3f09med",
+      "varname": "G09MDPROB",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "1",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENERAL_MED_PROBLEMS_EVER",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f09med",
+      "dataset_stub": "h4f09med",
+      "varname": "H09MDPROB",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "2",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENERAL_MED_PROBLEMS_EVER",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f09med",
+      "dataset_stub": "i1f09med",
+      "varname": "I09MDPROB",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "2",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENERAL_MED_PROBLEMS_EVER",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f09med",
+      "dataset_stub": "j1f09med",
+      "varname": "J09MDPROB",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "1",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes (specify)"
+    }
+  ]
+}

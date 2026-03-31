@@ -1,0 +1,1 @@
+window.__VITAMIN_A_INTAKE_DIET_PLUS_SUPP_IU_EXAM_B={"concept_id":"VITAMIN_A_INTAKE_DIET_PLUS_SUPP_IU","exam":"B","n":4623,"missing":58,"mean":11947.0687,"sd":13345.0719,"p50":9027,"p99":62184.052};

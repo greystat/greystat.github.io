@@ -1,0 +1,1 @@
+window.__PULMONARY_VEIN_SYSTOLIC_VEL_EXAM_H={"concept_id":"PULMONARY_VEIN_SYSTOLIC_VEL","exam":"H","n":3474,"missing":309,"mean":52.8926,"sd":13.3592,"p50":52.7,"p99":86.136};

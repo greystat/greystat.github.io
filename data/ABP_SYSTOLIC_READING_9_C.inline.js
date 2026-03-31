@@ -1,0 +1,1 @@
+window.__ABP_SYSTOLIC_READING_9_EXAM_C={"concept_id":"ABP_SYSTOLIC_READING_9","exam":"C","n":316,"missing":308,"n_levels":9,"mode_level":"(Missing)"};

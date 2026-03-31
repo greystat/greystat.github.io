@@ -1,0 +1,36 @@
+{
+  "concept_id": "BIRTH_CONTROL_LAST_START_YEARS",
+  "title": "Years since last started birth control pills",
+  "unit": "years",
+  "chips": ["numeric", "years"],
+  "members": [
+    {
+      "concept_id": "BIRTH_CONTROL_LAST_START_YEARS",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f09bcp",
+      "dataset_stub": "f1f09bcp",
+      "varname": "F09BCTY1",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "BIRTH_CONTROL_LAST_START_YEARS",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09bcp",
+      "dataset_stub": "g3f09bcp",
+      "varname": "G09CBCTY1",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

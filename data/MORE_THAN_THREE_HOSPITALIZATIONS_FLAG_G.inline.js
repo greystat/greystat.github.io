@@ -1,0 +1,1 @@
+window.__MORE_THAN_THREE_HOSPITALIZATIONS_FLAG_EXAM_G={"concept_id":"MORE_THAN_THREE_HOSPITALIZATIONS_FLAG","exam":"G","n":184,"missing":184,"n_levels":1,"mode_level":"(Missing)"};

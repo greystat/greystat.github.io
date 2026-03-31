@@ -1,0 +1,1 @@
+window.__AORTIC_REGURGITATION_MOD_SEV_EXAM_I={"concept_id":"AORTIC_REGURGITATION_MOD_SEV","exam":"I","n":3184,"missing":0,"mean":0.1599,"sd":0.5732,"p50":0,"p99":3};

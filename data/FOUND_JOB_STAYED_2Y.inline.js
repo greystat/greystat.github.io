@@ -1,0 +1,1 @@
+window.__FOUND_JOB_STAYED_2Y_CONCEPT={"concept_id":"FOUND_JOB_STAYED_2Y","title":"Found job and stayed for 2 years","chips":"categorical","members":[{"concept_id":"FOUND_JOB_STAYED_2Y","exam":"A","exam_year":"","dataset":"aflwup1","dataset_stub":"aflwup1","varname":"FY012JOB","family":"FLWUP","form_label":"","n_labels":"","instrument":"FLWUP","notes":""}],"dictionary":{}};

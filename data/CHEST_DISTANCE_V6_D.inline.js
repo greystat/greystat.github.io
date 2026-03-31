@@ -1,0 +1,1 @@
+window.__CHEST_DISTANCE_V6_EXAM_D={"concept_id":"CHEST_DISTANCE_V6","exam":"D","n":2982,"missing":152,"mean":12.7769,"sd":2.1711,"p50":13,"p99":19};

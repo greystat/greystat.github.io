@@ -1,0 +1,50 @@
+{
+  "concept_id": "GXT_DURATION",
+  "title": "GXT duration",
+  "unit": "s",
+  "chips": ["numeric", "s", "F22 · Graded Exercise Treadmill Test", "Exercise Testing"],
+  "members": [
+    {
+      "concept_id": "GXT_DURATION",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a7f22",
+      "dataset_stub": "a7f22",
+      "varname": "A22DURTN",
+      "family": "F22",
+      "form_label": "Treadmill Exercise Test",
+      "units_std": "s",
+      "units_class": "duration",
+      "instrument": "F22: Treadmill Exercise Test",
+      "notes": ""
+    },
+    {
+      "concept_id": "GXT_DURATION",
+      "exam": "D",
+      "exam_year": "Y7",
+      "dataset": "d3f22",
+      "dataset_stub": "d2f22",
+      "varname": "D22DURTN",
+      "family": "F22",
+      "form_label": "Treadmill Exercise Test Form",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F22: Treadmill Exercise Test Form",
+      "notes": ""
+    },
+    {
+      "concept_id": "GXT_DURATION",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f22",
+      "dataset_stub": "g3f22",
+      "varname": "G22DURTN",
+      "family": "F22",
+      "form_label": "Graded Exercise Treadmill Test",
+      "units_std": "min:s",
+      "units_class": "duration",
+      "instrument": "F22: Graded Exercise Treadmill Test",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__WORK_TRAVEL_MODE_PERCENT_PUBLIC_EXAM_G={"concept_id":"WORK_TRAVEL_MODE_PERCENT_PUBLIC","exam":"G","n":2989,"missing":2104,"mean":23.6034,"sd":36.5589,"p50":0,"p99":100};

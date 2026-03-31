@@ -1,0 +1,36 @@
+{
+  "concept_id": "ECHO_READER_MAIN",
+  "title": "Reader who analyzed main measures",
+  "unit": {},
+  "chips": ["numeric", "ECHO · Echocardiography", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "ECHO_READER_MAIN",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h10echo",
+      "dataset_stub": "h10echo",
+      "varname": "HECHOANAL",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "ECHO",
+      "notes": ""
+    },
+    {
+      "concept_id": "ECHO_READER_MAIN",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i5echo",
+      "dataset_stub": "i5echo",
+      "varname": "IECHOANAL",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "ECHO",
+      "notes": ""
+    }
+  ]
+}

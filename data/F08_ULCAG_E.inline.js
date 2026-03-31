@@ -1,0 +1,1 @@
+window.__F08_ULCAG_EXAM_E={"concept_id":"F08_ULCAG","exam":"E","n":3949,"missing":3820,"mean":23.7287,"sd":8.3355,"p50":23,"p99":40};

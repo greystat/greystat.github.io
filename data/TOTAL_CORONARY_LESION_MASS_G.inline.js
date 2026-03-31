@@ -1,0 +1,1 @@
+window.__TOTAL_CORONARY_LESION_MASS_EXAM_G={"concept_id":"TOTAL_CORONARY_LESION_MASS","exam":"G","n":3139,"missing":17,"mean":5.4284,"sd":104.5436,"p50":0,"p99":91.9958};

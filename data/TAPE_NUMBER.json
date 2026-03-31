@@ -1,0 +1,22 @@
+{
+  "concept_id": "TAPE_NUMBER",
+  "title": "Carotid ultrasound tape number",
+  "unit": "count",
+  "chips": ["numeric", "count", "F77 · Carotid Ultrasound", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "TAPE_NUMBER",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f77",
+      "dataset_stub": "g3f77",
+      "varname": "G77TAPEN",
+      "family": "F77",
+      "form_label": "Carotid Ultrasound",
+      "units_std": "count",
+      "units_class": "count",
+      "instrument": "F77: Carotid Ultrasound",
+      "notes": ""
+    }
+  ]
+}

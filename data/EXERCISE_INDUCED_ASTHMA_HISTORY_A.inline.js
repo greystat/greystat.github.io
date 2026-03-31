@@ -1,0 +1,1 @@
+window.__EXERCISE_INDUCED_ASTHMA_HISTORY_EXAM_A={"concept_id":"EXERCISE_INDUCED_ASTHMA_HISTORY","exam":"A","n":5114,"missing":25,"n_levels":3,"mode_level":"\"No\""};

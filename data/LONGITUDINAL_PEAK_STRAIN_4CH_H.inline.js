@@ -1,0 +1,1 @@
+window.__LONGITUDINAL_PEAK_STRAIN_4CH_EXAM_H={"concept_id":"LONGITUDINAL_PEAK_STRAIN_4CH","exam":"H","n":3474,"missing":437,"mean":-15.0678,"sd":2.4267,"p50":-15.0775,"p99":-9.1438};

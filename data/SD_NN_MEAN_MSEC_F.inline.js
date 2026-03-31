@@ -1,0 +1,1 @@
+window.__SD_NN_MEAN_MSEC_EXAM_F={"concept_id":"SD_NN_MEAN_MSEC","exam":"F","n":757,"missing":0,"mean":46.3316,"sd":21.7928,"p50":42.955,"p99":121.9638};

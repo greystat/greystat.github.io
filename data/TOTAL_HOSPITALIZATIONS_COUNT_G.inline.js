@@ -1,0 +1,1 @@
+window.__TOTAL_HOSPITALIZATIONS_COUNT_EXAM_G={"concept_id":"TOTAL_HOSPITALIZATIONS_COUNT","exam":"G","n":184,"missing":160,"mean":1.2083,"sd":0.509,"p50":1,"p99":2.77};

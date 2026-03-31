@@ -1,0 +1,36 @@
+{
+  "concept_id": "HEART_RATE",
+  "title": "Heart rate",
+  "unit": {},
+  "chips": ["numeric", "F40 · Echo Technician Worksheet", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "HEART_RATE",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f40",
+      "dataset_stub": "c1f40",
+      "varname": "C40HR",
+      "family": "F40",
+      "form_label": "Echocardiography Sonographer's Worksheet",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F40: Echocardiography Sonographer's Worksheet",
+      "notes": ""
+    },
+    {
+      "concept_id": "HEART_RATE",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f40",
+      "dataset_stub": "e1f40",
+      "varname": "E40HR",
+      "family": "F40",
+      "form_label": "Echocardiography Sonographer's Worksheet",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F40: Echocardiography Sonographer's Worksheet",
+      "notes": ""
+    }
+  ]
+}

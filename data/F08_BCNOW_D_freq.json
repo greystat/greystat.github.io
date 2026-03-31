@@ -1,0 +1,967 @@
+{
+  "concept_id": "F08_BCNOW",
+  "exam": "D",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 4085,
+        "missing": 1842,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1842,
+            "pct": 45.1
+          },
+          {
+            "level": "No, never took birth control pills",
+            "count": 1793,
+            "pct": 43.9
+          },
+          {
+            "level": "Yes",
+            "count": 449,
+            "pct": 11
+          },
+          {
+            "level": "Not sure",
+            "count": 1,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1836,
+        "missing": 1836,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1836,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 2249,
+        "missing": 6,
+        "n_levels": 4,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 1793,
+            "pct": 79.7
+          },
+          {
+            "level": "Yes",
+            "count": 449,
+            "pct": 20
+          },
+          {
+            "level": "(Missing)",
+            "count": 6,
+            "pct": 0.3
+          },
+          {
+            "level": "Not sure",
+            "count": 1,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1974,
+        "missing": 835,
+        "n_levels": 3,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 926,
+            "pct": 46.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 835,
+            "pct": 42.3
+          },
+          {
+            "level": "Yes",
+            "count": 213,
+            "pct": 10.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 2111,
+        "missing": 1007,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1007,
+            "pct": 47.7
+          },
+          {
+            "level": "No, never took birth control pills",
+            "count": 867,
+            "pct": 41.1
+          },
+          {
+            "level": "Yes",
+            "count": 236,
+            "pct": 11.2
+          },
+          {
+            "level": "Not sure",
+            "count": 1,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 895,
+        "missing": 433,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 433,
+            "pct": 48.4
+          },
+          {
+            "level": "No, never took birth control pills",
+            "count": 353,
+            "pct": 39.4
+          },
+          {
+            "level": "Yes",
+            "count": 109,
+            "pct": 12.2
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 864,
+        "missing": 390,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 390,
+            "pct": 45.1
+          },
+          {
+            "level": "No, never took birth control pills",
+            "count": 380,
+            "pct": 44
+          },
+          {
+            "level": "Yes",
+            "count": 94,
+            "pct": 10.9
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 1139,
+        "missing": 551,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 551,
+            "pct": 48.4
+          },
+          {
+            "level": "No, never took birth control pills",
+            "count": 487,
+            "pct": 42.8
+          },
+          {
+            "level": "Yes",
+            "count": 101,
+            "pct": 8.9
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1187,
+        "missing": 468,
+        "n_levels": 4,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 573,
+            "pct": 48.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 468,
+            "pct": 39.4
+          },
+          {
+            "level": "Yes",
+            "count": 145,
+            "pct": 12.2
+          },
+          {
+            "level": "Not sure",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 831,
+        "missing": 831,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 831,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1143,
+        "missing": 4,
+        "n_levels": 3,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 926,
+            "pct": 81
+          },
+          {
+            "level": "Yes",
+            "count": 213,
+            "pct": 18.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 1005,
+        "missing": 1005,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1005,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1106,
+        "missing": 2,
+        "n_levels": 4,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 867,
+            "pct": 78.4
+          },
+          {
+            "level": "Yes",
+            "count": 236,
+            "pct": 21.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.2
+          },
+          {
+            "level": "Not sure",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 433,
+        "missing": 433,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 433,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 388,
+        "missing": 388,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 388,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 550,
+        "missing": 550,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 550,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 465,
+        "missing": 465,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 465,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 462,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 353,
+            "pct": 76.4
+          },
+          {
+            "level": "Yes",
+            "count": 109,
+            "pct": 23.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 476,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 380,
+            "pct": 79.8
+          },
+          {
+            "level": "Yes",
+            "count": 94,
+            "pct": 19.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 589,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 487,
+            "pct": 82.7
+          },
+          {
+            "level": "Yes",
+            "count": 101,
+            "pct": 17.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 722,
+        "missing": 3,
+        "n_levels": 4,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 573,
+            "pct": 79.4
+          },
+          {
+            "level": "Yes",
+            "count": 145,
+            "pct": 20.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.4
+          },
+          {
+            "level": "Not sure",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 472,
+        "missing": 203,
+        "n_levels": 3,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 208,
+            "pct": 44.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 203,
+            "pct": 43
+          },
+          {
+            "level": "Yes",
+            "count": 61,
+            "pct": 12.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 404,
+        "missing": 163,
+        "n_levels": 3,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 204,
+            "pct": 50.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 163,
+            "pct": 40.3
+          },
+          {
+            "level": "Yes",
+            "count": 37,
+            "pct": 9.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 434,
+        "missing": 215,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 215,
+            "pct": 49.5
+          },
+          {
+            "level": "No, never took birth control pills",
+            "count": 179,
+            "pct": 41.2
+          },
+          {
+            "level": "Yes",
+            "count": 40,
+            "pct": 9.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 664,
+        "missing": 254,
+        "n_levels": 3,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 335,
+            "pct": 50.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 254,
+            "pct": 38.3
+          },
+          {
+            "level": "Yes",
+            "count": 75,
+            "pct": 11.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 423,
+        "missing": 230,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 230,
+            "pct": 54.4
+          },
+          {
+            "level": "No, never took birth control pills",
+            "count": 145,
+            "pct": 34.3
+          },
+          {
+            "level": "Yes",
+            "count": 48,
+            "pct": 11.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 460,
+        "missing": 227,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 227,
+            "pct": 49.3
+          },
+          {
+            "level": "No, never took birth control pills",
+            "count": 176,
+            "pct": 38.3
+          },
+          {
+            "level": "Yes",
+            "count": 57,
+            "pct": 12.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 705,
+        "missing": 336,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 336,
+            "pct": 47.7
+          },
+          {
+            "level": "No, never took birth control pills",
+            "count": 308,
+            "pct": 43.7
+          },
+          {
+            "level": "Yes",
+            "count": 61,
+            "pct": 8.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 523,
+        "missing": 214,
+        "n_levels": 4,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 238,
+            "pct": 45.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 214,
+            "pct": 40.9
+          },
+          {
+            "level": "Yes",
+            "count": 70,
+            "pct": 13.4
+          },
+          {
+            "level": "Not sure",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 203,
+        "missing": 203,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 203,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 161,
+        "missing": 161,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 161,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 215,
+        "missing": 215,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 215,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 252,
+        "missing": 252,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 252,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 269,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 208,
+            "pct": 77.3
+          },
+          {
+            "level": "Yes",
+            "count": 61,
+            "pct": 22.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 243,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 204,
+            "pct": 84
+          },
+          {
+            "level": "Yes",
+            "count": 37,
+            "pct": 15.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 219,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 179,
+            "pct": 81.7
+          },
+          {
+            "level": "Yes",
+            "count": 40,
+            "pct": 18.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 412,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 335,
+            "pct": 81.3
+          },
+          {
+            "level": "Yes",
+            "count": 75,
+            "pct": 18.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 230,
+        "missing": 230,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 230,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 227,
+        "missing": 227,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 227,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 335,
+        "missing": 335,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 335,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 213,
+        "missing": 213,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 213,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 193,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 145,
+            "pct": 75.1
+          },
+          {
+            "level": "Yes",
+            "count": 48,
+            "pct": 24.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 233,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 176,
+            "pct": 75.5
+          },
+          {
+            "level": "Yes",
+            "count": 57,
+            "pct": 24.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 370,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 308,
+            "pct": 83.2
+          },
+          {
+            "level": "Yes",
+            "count": 61,
+            "pct": 16.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 310,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "No, never took birth control pills",
+        "freq": [
+          {
+            "level": "No, never took birth control pills",
+            "count": 238,
+            "pct": 76.8
+          },
+          {
+            "level": "Yes",
+            "count": 70,
+            "pct": 22.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.3
+          },
+          {
+            "level": "Not sure",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      }
+    ]
+  }
+}

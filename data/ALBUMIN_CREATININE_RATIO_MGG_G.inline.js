@@ -1,0 +1,1 @@
+window.__ALBUMIN_CREATININE_RATIO_MGG_EXAM_G={"concept_id":"ALBUMIN_CREATININE_RATIO_MGG","exam":"G","n":3406,"missing":4,"mean":13.2625,"sd":59.5202,"p50":4.5349,"p99":184.374};

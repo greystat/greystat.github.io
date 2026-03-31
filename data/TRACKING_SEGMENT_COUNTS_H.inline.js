@@ -1,0 +1,1 @@
+window.__TRACKING_SEGMENT_COUNTS_EXAM_H={"concept_id":"TRACKING_SEGMENT_COUNTS","exam":"H","n":3474,"missing":0,"mean":4.9275,"sd":1.8775,"p50":6,"p99":6};

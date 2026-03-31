@@ -1,0 +1,26 @@
+{
+  "concept_id": "HOSP_DIALYSIS_NOW",
+  "title": "On dialysis at present",
+  "chips": ["categorical", "1 levels", "F31 · Interim Health Contact", "Administrative"],
+  "members": [
+    {
+      "concept_id": "HOSP_DIALYSIS_NOW",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f31",
+      "dataset_stub": "j1f31",
+      "varname": "J31DIANW",
+      "family": "F31",
+      "form_label": "Interim Health Care Contact - Phase 1",
+      "n_labels": "1",
+      "instrument": "F31: Interim Health Care Contact - Phase 1",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    }
+  ]
+}

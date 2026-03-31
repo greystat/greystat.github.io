@@ -1,0 +1,1 @@
+window.__HOME_MAINTENANCE_MONTHS_5H_PW_EXAM_D={"concept_id":"HOME_MAINTENANCE_MONTHS_5H_PW","exam":"D","n":4085,"missing":1805,"mean":2.9618,"sd":3.7382,"p50":1,"p99":12};

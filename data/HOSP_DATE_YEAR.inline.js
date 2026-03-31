@@ -1,0 +1,1 @@
+window.__HOSP_DATE_YEAR_CONCEPT={"concept_id":"HOSP_DATE_YEAR","title":"Hospitalization date (year)","unit":{},"chips":"numeric","members":[{"concept_id":"HOSP_DATE_YEAR","exam":"D","exam_year":"","dataset":"dflwupt1","dataset_stub":"dflwupt1","varname":"FYPYEAR","family":"FLWUP","form_label":"","units_std":"","units_class":"","instrument":"FLWUP","notes":""}]};

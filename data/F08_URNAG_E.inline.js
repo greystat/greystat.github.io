@@ -1,0 +1,1 @@
+window.__F08_URNAG_EXAM_E={"concept_id":"F08_URNAG","exam":"E","n":3949,"missing":3855,"mean":20.4894,"sd":9.4069,"p50":20.5,"p99":38.14};

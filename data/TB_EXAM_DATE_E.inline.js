@@ -1,0 +1,1 @@
+window.__TB_EXAM_DATE_EXAM_E={"concept_id":"TB_EXAM_DATE","exam":"E","n":115,"missing":0,"mean":1995.4,"sd":0.492,"p50":1995,"p99":1996};

@@ -1,0 +1,1 @@
+window.__OTHER_MED_TOTAL_MONTHS_USE_EXAM_B={"concept_id":"OTHER_MED_TOTAL_MONTHS_USE","exam":"B","n":835,"missing":14,"mean":25.3971,"sd":46.4208,"p50":6,"p99":246.4};

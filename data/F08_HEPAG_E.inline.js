@@ -1,0 +1,1 @@
+window.__F08_HEPAG_EXAM_E={"concept_id":"F08_HEPAG","exam":"E","n":3949,"missing":3888,"mean":23,"sd":8.7159,"p50":22,"p99":39.2};

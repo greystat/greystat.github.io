@@ -1,0 +1,1 @@
+window.__ANGIOGRAM_REASON_EXAM_E={"concept_id":"ANGIOGRAM_REASON","exam":"E","n":55,"missing":0,"n_levels":5,"mode_level":"5"};

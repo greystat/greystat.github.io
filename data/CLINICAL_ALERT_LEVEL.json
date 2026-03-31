@@ -1,0 +1,51 @@
+{
+  "concept_id": "CLINICAL_ALERT_LEVEL",
+  "title": "MRI clinical alert level",
+  "chips": ["categorical", "4 levels"],
+  "members": [
+    {
+      "concept_id": "CLINICAL_ALERT_LEVEL",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f92v2",
+      "dataset_stub": "h3f92v2",
+      "varname": "H92ALTLVL",
+      "family": "F92",
+      "form_label": "MRI Acquisition Form",
+      "n_labels": "4",
+      "instrument": "F92: MRI Acquisition Form",
+      "notes": ""
+    },
+    {
+      "concept_id": "CLINICAL_ALERT_LEVEL",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f92c",
+      "dataset_stub": "i1f92c",
+      "varname": "I92ALTLVL",
+      "family": "F92",
+      "form_label": "Brain MRI Initial Contact-Screening Form",
+      "n_labels": "1",
+      "instrument": "F92: Brain MRI Initial Contact-Screening Form",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Level 1"
+    },
+    {
+      "code": "2",
+      "label": "Level 2"
+    },
+    {
+      "code": "3",
+      "label": "Level 3"
+    },
+    {
+      "code": "4",
+      "label": "Level 4"
+    }
+  ]
+}

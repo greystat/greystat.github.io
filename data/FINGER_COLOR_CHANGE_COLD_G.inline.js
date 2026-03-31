@@ -1,0 +1,1 @@
+window.__FINGER_COLOR_CHANGE_COLD_EXAM_G={"concept_id":"FINGER_COLOR_CHANGE_COLD","exam":"G","n":3467,"missing":18,"n_levels":3,"mode_level":"\"No\""};

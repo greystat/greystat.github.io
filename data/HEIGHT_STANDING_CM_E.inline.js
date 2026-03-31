@@ -1,0 +1,1 @@
+window.__HEIGHT_STANDING_CM_EXAM_E={"concept_id":"HEIGHT_STANDING_CM","exam":"E","n":3949,"missing":59,"mean":170.7938,"sd":9.4184,"p50":170.5,"p99":192.5};

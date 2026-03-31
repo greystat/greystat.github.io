@@ -1,0 +1,1 @@
+window.__VIGOROUS_JOB_MONTHS_EXAM_F={"concept_id":"VIGOROUS_JOB_MONTHS","exam":"F","n":7342,"missing":4821,"mean":8.6731,"sd":4.1752,"p50":12,"p99":12};

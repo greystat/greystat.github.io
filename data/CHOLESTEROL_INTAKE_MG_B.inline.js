@@ -1,0 +1,1 @@
+window.__CHOLESTEROL_INTAKE_MG_EXAM_B={"concept_id":"CHOLESTEROL_INTAKE_MG","exam":"B","n":4623,"missing":58,"mean":435.5719,"sd":413.1533,"p50":334.9,"p99":2022.984};

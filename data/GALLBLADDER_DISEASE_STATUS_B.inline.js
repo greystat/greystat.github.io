@@ -1,0 +1,1 @@
+window.__GALLBLADDER_DISEASE_STATUS_EXAM_B={"concept_id":"GALLBLADDER_DISEASE_STATUS","exam":"B","n":47,"missing":0,"n_levels":3,"mode_level":"Cured or gone"};

@@ -1,0 +1,22 @@
+{
+  "concept_id": "DUI_EPISODES_PAST_4_WEEKS",
+  "title": "Times drove under influence in past 4 weeks",
+  "unit": "count",
+  "chips": ["numeric", "count", "F32 · Dietary Assessment (Follow-up)", "Diet"],
+  "members": [
+    {
+      "concept_id": "DUI_EPISODES_PAST_4_WEEKS",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f32",
+      "dataset_stub": "b2f32",
+      "varname": "B32DRIVE",
+      "family": "F32",
+      "form_label": "Safety/Accident Questionnaire",
+      "units_std": "count",
+      "units_class": "count",
+      "instrument": "F32: Safety/Accident Questionnaire",
+      "notes": ""
+    }
+  ]
+}

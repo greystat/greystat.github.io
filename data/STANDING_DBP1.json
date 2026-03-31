@@ -1,0 +1,22 @@
+{
+  "concept_id": "STANDING_DBP1",
+  "title": "Standing blood pressure: 1st diastolic reading",
+  "unit": {},
+  "chips": ["numeric", "F02 · Blood Pressure", "Cardiovascular"],
+  "members": [
+    {
+      "concept_id": "STANDING_DBP1",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b3f02",
+      "dataset_stub": "b2f02",
+      "varname": "B02DBPS1",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    }
+  ]
+}

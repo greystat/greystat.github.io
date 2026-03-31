@@ -1,0 +1,1 @@
+window.__OVARIAN_SURGERY_MONTH_EXAM_F={"concept_id":"OVARIAN_SURGERY_MONTH","exam":"F","n":134,"missing":15,"mean":6.5462,"sd":3.3893,"p50":7,"p99":12};

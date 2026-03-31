@@ -1,0 +1,1 @@
+window.__ASTHMA_MED_EXAM_DATE_EXAM_D={"concept_id":"ASTHMA_MED_EXAM_DATE","exam":"D","n":286,"missing":0,"n_levels":1,"mode_level":"24"};

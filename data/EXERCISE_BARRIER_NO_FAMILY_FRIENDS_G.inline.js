@@ -1,0 +1,1 @@
+window.__EXERCISE_BARRIER_NO_FAMILY_FRIENDS_EXAM_G={"concept_id":"EXERCISE_BARRIER_NO_FAMILY_FRIENDS","exam":"G","n":2989,"missing":2488,"n_levels":3,"mode_level":"(Missing)"};

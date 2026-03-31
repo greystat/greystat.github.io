@@ -1,0 +1,38 @@
+{
+  "concept_id": "HIGH_SCHOOL_SPORTS_PARTICIPATION",
+  "title": "Participated in high school sports",
+  "chips": ["categorical", "4 levels", "F18 · Physical Activity History", "Physical Activity"],
+  "members": [
+    {
+      "concept_id": "HIGH_SCHOOL_SPORTS_PARTICIPATION",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f18r",
+      "dataset_stub": "f1f18r",
+      "varname": "F18RSPRT",
+      "family": "F18",
+      "form_label": "Physical Activity Questionnaire",
+      "n_labels": "4",
+      "instrument": "F18: Physical Activity Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    },
+    {
+      "code": "9",
+      "label": "Don't know"
+    }
+  ]
+}

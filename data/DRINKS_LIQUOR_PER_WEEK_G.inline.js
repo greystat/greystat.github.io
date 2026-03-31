@@ -1,0 +1,1 @@
+window.__DRINKS_LIQUOR_PER_WEEK_EXAM_G={"concept_id":"DRINKS_LIQUOR_PER_WEEK","exam":"G","n":3528,"missing":758,"mean":1.1726,"sd":4.0272,"p50":0,"p99":15};

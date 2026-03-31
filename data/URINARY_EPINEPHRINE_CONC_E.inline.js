@@ -1,0 +1,1 @@
+window.__URINARY_EPINEPHRINE_CONC_EXAM_E={"concept_id":"URINARY_EPINEPHRINE_CONC","exam":"E","n":233,"missing":0,"mean":32.5489,"sd":27.3159,"p50":25.47,"p99":143.1988};

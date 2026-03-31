@@ -1,0 +1,1 @@
+window.__AUSCULTATION_DIASTOLIC_MURMUR_PRESENT_EXAM_C={"concept_id":"AUSCULTATION_DIASTOLIC_MURMUR_PRESENT","exam":"C","n":10,"missing":2,"n_levels":2,"mode_level":"1"};

@@ -1,0 +1,1 @@
+window.__SPIROMETER_FEV1_FVC_RATIO_MAX_EXAM_B={"concept_id":"SPIROMETER_FEV1_FVC_RATIO_MAX","exam":"B","n":4623,"missing":157,"mean":0.8235,"sd":0.0664,"p50":0.8303,"p99":0.9588};

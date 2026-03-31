@@ -1,0 +1,59 @@
+{
+  "concept_id": "MYOCARDITIS_STATUS",
+  "title": "Current status of myocarditis",
+  "chips": ["categorical", "6 levels"],
+  "members": [
+    {
+      "concept_id": "MYOCARDITIS_STATUS",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f09gen",
+      "dataset_stub": "a4f09gen",
+      "varname": "A09MYCST",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "6",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "MYOCARDITIS_STATUS",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f09hrt",
+      "dataset_stub": "b2f09hrt",
+      "varname": "B09MYCST",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "3",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "3",
+      "label": "Do you still have the problem"
+    },
+    {
+      "code": "4",
+      "label": "Or is it controlled by medication or something else"
+    },
+    {
+      "code": "5",
+      "label": "Or is it completely cured or gone?"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    }
+  ]
+}

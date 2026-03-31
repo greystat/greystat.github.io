@@ -1,0 +1,1 @@
+window.__F08_BCNOW_EXAM_I={"concept_id":"F08_BCNOW","exam":"I","n":3356,"missing":1846,"n_levels":4,"mode_level":"(Missing)"};

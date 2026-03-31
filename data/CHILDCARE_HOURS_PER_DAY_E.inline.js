@@ -1,0 +1,1 @@
+window.__CHILDCARE_HOURS_PER_DAY_EXAM_E={"concept_id":"CHILDCARE_HOURS_PER_DAY","exam":"E","n":3949,"missing":1471,"mean":5.6453,"sd":4.185,"p50":4,"p99":18};

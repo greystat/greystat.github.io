@@ -1,0 +1,1 @@
+window.__GENERAL_MED_DOSES_PER_MONTH_EXAM_I={"concept_id":"GENERAL_MED_DOSES_PER_MONTH","exam":"I","n":7992,"missing":7147,"mean":7.4821,"sd":11.4087,"p50":4,"p99":59.52};

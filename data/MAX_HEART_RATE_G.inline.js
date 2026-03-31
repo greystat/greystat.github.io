@@ -1,0 +1,1 @@
+window.__MAX_HEART_RATE_EXAM_G={"concept_id":"MAX_HEART_RATE","exam":"G","n":2890,"missing":20,"mean":168.5533,"sd":16.3352,"p50":170,"p99":199};

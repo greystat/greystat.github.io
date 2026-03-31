@@ -1,0 +1,1 @@
+window.__URINE_COLLECTION3_DURATION_H_EXAM_C={"concept_id":"URINE_COLLECTION3_DURATION_H","exam":"C","n":600,"missing":40,"mean":23.9562,"sd":1.5431,"p50":24,"p99":29};

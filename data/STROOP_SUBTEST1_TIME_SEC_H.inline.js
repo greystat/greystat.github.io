@@ -1,0 +1,1 @@
+window.__STROOP_SUBTEST1_TIME_SEC_EXAM_H={"concept_id":"STROOP_SUBTEST1_TIME_SEC","exam":"H","n":3391,"missing":21,"mean":15.8825,"sd":3.4712,"p50":15,"p99":28};

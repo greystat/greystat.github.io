@@ -1,0 +1,1 @@
+window.__ANGER_IN_APOLOGIZE_EVEN_WHEN_RIGHT_EXAM_G={"concept_id":"ANGER_IN_APOLOGIZE_EVEN_WHEN_RIGHT","exam":"G","n":3492,"missing":4,"n_levels":4,"mode_level":"Not too likely"};

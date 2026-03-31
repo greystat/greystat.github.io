@@ -1,0 +1,1 @@
+window.__PROINSULIN_UU_PER_ML_EXAM_D={"concept_id":"PROINSULIN_UU_PER_ML","exam":"D","n":399,"missing":0,"mean":13.7469,"sd":39.5853,"p50":8,"p99":77.42};

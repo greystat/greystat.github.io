@@ -1,0 +1,1 @@
+window.__YALTA_URINE_ALIQUOT_3ML_COUNT_EXAM_G={"concept_id":"YALTA_URINE_ALIQUOT_3ML_COUNT","exam":"G","n":3537,"missing":152,"mean":2.9903,"sd":0.1382,"p50":3,"p99":3};

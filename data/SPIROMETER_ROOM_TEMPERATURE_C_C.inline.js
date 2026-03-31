@@ -1,0 +1,1 @@
+window.__SPIROMETER_ROOM_TEMPERATURE_C_EXAM_C={"concept_id":"SPIROMETER_ROOM_TEMPERATURE_C","exam":"C","n":4351,"missing":101,"mean":23.5179,"sd":1.6444,"p50":24,"p99":27};

@@ -1,0 +1,1 @@
+window.__LONGEST_PERIOD_LENGTH_DAYS_12MO_EXAM_G={"concept_id":"LONGEST_PERIOD_LENGTH_DAYS_12MO","exam":"G","n":1990,"missing":1645,"mean":8.087,"sd":6.1572,"p50":7,"p99":30};

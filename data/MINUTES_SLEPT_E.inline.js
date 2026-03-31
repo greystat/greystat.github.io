@@ -1,0 +1,1 @@
+window.__MINUTES_SLEPT_EXAM_E={"concept_id":"MINUTES_SLEPT","exam":"E","n":3949,"missing":3714,"mean":20.0298,"sd":17.0799,"p50":20,"p99":54.66};

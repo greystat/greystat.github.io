@@ -1,0 +1,1 @@
+window.__COUGH_YEARS_EXAM_B={"concept_id":"COUGH_YEARS","exam":"B","n":4623,"missing":4183,"mean":4.6614,"sd":5.994,"p50":3,"p99":29};

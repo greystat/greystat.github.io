@@ -1,0 +1,1 @@
+window.__DIET_CHANGE_PAST_5_YEARS_EXAM_G={"concept_id":"DIET_CHANGE_PAST_5_YEARS","exam":"G","n":3142,"missing":1,"n_levels":3,"mode_level":"2"};

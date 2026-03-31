@@ -1,0 +1,1 @@
+window.__OTHER_KIDNEY_PROBLEM_AGE_EXAM_A={"concept_id":"OTHER_KIDNEY_PROBLEM_AGE","exam":"A","n":4008,"missing":3823,"mean":16.1135,"sd":6.2782,"p50":17,"p99":29};

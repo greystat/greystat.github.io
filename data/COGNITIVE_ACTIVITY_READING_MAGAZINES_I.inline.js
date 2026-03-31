@@ -1,0 +1,1 @@
+window.__COGNITIVE_ACTIVITY_READING_MAGAZINES_EXAM_I={"concept_id":"COGNITIVE_ACTIVITY_READING_MAGAZINES","exam":"I","n":3264,"missing":14,"n_levels":8,"mode_level":"2"};

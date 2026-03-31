@@ -1,0 +1,1 @@
+window.__PARTICIPANT_HEIGHT_CM_EXAM_I={"concept_id":"PARTICIPANT_HEIGHT_CM","exam":"I","n":3186,"missing":151,"mean":169.8517,"sd":9.6327,"p50":169.5,"p99":191.33};

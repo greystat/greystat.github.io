@@ -1,0 +1,1 @@
+window.__AVG_FLOW_DAYS_12MO_EXAM_H={"concept_id":"AVG_FLOW_DAYS_12MO","exam":"H","n":1964,"missing":1196,"n_levels":4,"mode_level":"(Missing)"};

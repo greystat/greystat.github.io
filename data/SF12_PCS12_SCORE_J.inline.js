@@ -1,0 +1,1 @@
+window.__SF12_PCS12_SCORE_EXAM_J={"concept_id":"SF12_PCS12_SCORE","exam":"J","n":2508,"missing":109,"mean":48.7825,"sd":10.0312,"p50":52.683,"p99":61.6073};

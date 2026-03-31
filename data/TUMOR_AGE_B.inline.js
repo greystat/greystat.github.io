@@ -1,0 +1,1 @@
+window.__TUMOR_AGE_EXAM_B={"concept_id":"TUMOR_AGE","exam":"B","n":144,"missing":1,"mean":22.1678,"sd":5.5829,"p50":23,"p99":30.58};

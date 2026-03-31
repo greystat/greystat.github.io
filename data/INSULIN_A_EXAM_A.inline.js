@@ -1,0 +1,1 @@
+window.__INSULIN_A_EXAM_EXAM_A={"concept_id":"INSULIN_A_EXAM","exam":"A","n":5114,"missing":70,"mean":10.8639,"sd":7.9787,"p50":8.75,"p99":45.113};

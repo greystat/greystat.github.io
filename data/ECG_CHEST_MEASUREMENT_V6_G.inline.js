@@ -1,0 +1,1 @@
+window.__ECG_CHEST_MEASUREMENT_V6_EXAM_G={"concept_id":"ECG_CHEST_MEASUREMENT_V6","exam":"G","n":2890,"missing":6,"mean":134.9379,"sd":28.3557,"p50":130,"p99":200};

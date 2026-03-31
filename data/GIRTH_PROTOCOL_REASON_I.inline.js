@@ -1,0 +1,1 @@
+window.__GIRTH_PROTOCOL_REASON_EXAM_I={"concept_id":"GIRTH_PROTOCOL_REASON","exam":"I","n":2336,"missing":2318,"n_levels":2,"mode_level":"(Missing)"};

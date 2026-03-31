@@ -1,0 +1,1 @@
+window.__WALK_HIKE_MONTHS_EXAM_A={"concept_id":"WALK_HIKE_MONTHS","exam":"A","n":5114,"missing":160,"mean":5.9806,"sd":5.0163,"p50":5,"p99":12};

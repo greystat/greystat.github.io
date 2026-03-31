@@ -1,0 +1,50 @@
+{
+  "concept_id": "AVG_PERIOD_LENGTH_DAYS_12MO",
+  "title": "Average period length (days) in past 12 months",
+  "unit": "days",
+  "chips": ["numeric", "days", "F68 · Reproductive Health", "Reproductive Health"],
+  "members": [
+    {
+      "concept_id": "AVG_PERIOD_LENGTH_DAYS_12MO",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f68",
+      "dataset_stub": "f1f68",
+      "varname": "F68NMPNO",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F68: Women's Reproductive Health Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "AVG_PERIOD_LENGTH_DAYS_12MO",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f68",
+      "dataset_stub": "g3f68",
+      "varname": "G68NMPNO",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health",
+      "units_std": "days",
+      "units_class": "duration",
+      "instrument": "F68: Women's Reproductive Health",
+      "notes": ""
+    },
+    {
+      "concept_id": "AVG_PERIOD_LENGTH_DAYS_12MO",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f68",
+      "dataset_stub": "h3f68",
+      "varname": "H68NMPNO",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health Questionnaire",
+      "units_std": "days",
+      "units_class": "duration",
+      "instrument": "F68: Women's Reproductive Health Questionnaire",
+      "notes": ""
+    }
+  ]
+}

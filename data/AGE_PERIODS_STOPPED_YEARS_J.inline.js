@@ -1,0 +1,1 @@
+window.__AGE_PERIODS_STOPPED_YEARS_EXAM_J={"concept_id":"AGE_PERIODS_STOPPED_YEARS","exam":"J","n":1421,"missing":998,"mean":53.3948,"sd":95.5467,"p50":50,"p99":59.78};

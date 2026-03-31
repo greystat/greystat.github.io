@@ -1,0 +1,1 @@
+window.__TOBACCO_TAR_CURRENT_BRAND_EXAM_A={"concept_id":"TOBACCO_TAR_CURRENT_BRAND","exam":"A","n":3044,"missing":1569,"mean":13.5103,"sd":4.0644,"p50":15.7,"p99":20.46};

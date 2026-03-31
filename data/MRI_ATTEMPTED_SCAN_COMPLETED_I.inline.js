@@ -1,0 +1,1 @@
+window.__MRI_ATTEMPTED_SCAN_COMPLETED_EXAM_I={"concept_id":"MRI_ATTEMPTED_SCAN_COMPLETED","exam":"I","n":663,"missing":5,"n_levels":3,"mode_level":"2"};

@@ -1,0 +1,1 @@
+window.__ABP_ENDTEST_YTUBE_DIASTOLIC_3_EXAM_C={"concept_id":"ABP_ENDTEST_YTUBE_DIASTOLIC_3","exam":"C","n":316,"missing":8,"mean":72.4286,"sd":10.1197,"p50":72,"p99":99.86};

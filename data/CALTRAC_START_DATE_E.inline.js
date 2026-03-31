@@ -1,0 +1,1 @@
+window.__CALTRAC_START_DATE_EXAM_E={"concept_id":"CALTRAC_START_DATE","exam":"E","n":3949,"missing":3716,"mean":1995.3906,"sd":0.4977,"p50":1995,"p99":1996};

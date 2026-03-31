@@ -1,0 +1,1 @@
+window.__HARMONIZED_FASTING_INSULIN_Y25_EXAM_H={"concept_id":"HARMONIZED_FASTING_INSULIN_Y25","exam":"H","n":3478,"missing":21,"mean":11.1924,"sd":9.5035,"p50":8.6667,"p99":43.3867};

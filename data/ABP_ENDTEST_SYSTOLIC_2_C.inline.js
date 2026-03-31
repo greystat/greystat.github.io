@@ -1,0 +1,1 @@
+window.__ABP_ENDTEST_SYSTOLIC_2_EXAM_C={"concept_id":"ABP_ENDTEST_SYSTOLIC_2","exam":"C","n":316,"missing":11,"mean":120.7246,"sd":20.2641,"p50":118,"p99":205.92};

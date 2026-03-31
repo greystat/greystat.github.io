@@ -1,0 +1,1 @@
+window.__AGE_STEPCHILD_1_EXAM_B={"concept_id":"AGE_STEPCHILD_1","exam":"B","n":4623,"missing":4537,"mean":9.3256,"sd":4.523,"p50":9,"p99":18.75};

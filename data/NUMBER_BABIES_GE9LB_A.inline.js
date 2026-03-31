@@ -1,0 +1,1 @@
+window.__NUMBER_BABIES_GE9LB_EXAM_A={"concept_id":"NUMBER_BABIES_GE9LB","exam":"A","n":4008,"missing":2609,"mean":0.1015,"sd":0.3721,"p50":0,"p99":2};

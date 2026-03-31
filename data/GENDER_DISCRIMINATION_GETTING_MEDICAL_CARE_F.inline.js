@@ -1,0 +1,1 @@
+window.__GENDER_DISCRIMINATION_GETTING_MEDICAL_CARE_EXAM_F={"concept_id":"GENDER_DISCRIMINATION_GETTING_MEDICAL_CARE","exam":"F","n":3671,"missing":15,"n_levels":2,"mode_level":"Yes"};

@@ -1,0 +1,69 @@
+{
+  "concept_id": "HYPERTENSION_MED_TODAY",
+  "title": "Hypertension medication taken this morning",
+  "chips": ["categorical", "2 levels", "F02 · Blood Pressure", "Cardiovascular"],
+  "members": [
+    {
+      "concept_id": "HYPERTENSION_MED_TODAY",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f02",
+      "dataset_stub": "g3f02",
+      "varname": "G02BMED02",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "HYPERTENSION_MED_TODAY",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f02v2",
+      "dataset_stub": "h3f02v2",
+      "varname": "H02BMEDAM",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "HYPERTENSION_MED_TODAY",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f02",
+      "dataset_stub": "i1f02",
+      "varname": "I02BMEDAM",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "HYPERTENSION_MED_TODAY",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f02",
+      "dataset_stub": "j1f02",
+      "varname": "J02BMEDAM",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "9",
+      "label": "Do not take blood pressure medication"
+    }
+  ]
+}

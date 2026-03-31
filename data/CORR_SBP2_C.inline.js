@@ -1,0 +1,1 @@
+window.__CORR_SBP2_EXAM_C={"concept_id":"CORR_SBP2","exam":"C","n":4351,"missing":3,"mean":107.7477,"sd":11.805,"p50":106,"p99":142};

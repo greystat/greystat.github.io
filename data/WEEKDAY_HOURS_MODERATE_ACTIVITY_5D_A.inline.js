@@ -1,0 +1,1 @@
+window.__WEEKDAY_HOURS_MODERATE_ACTIVITY_5D_EXAM_A={"concept_id":"WEEKDAY_HOURS_MODERATE_ACTIVITY_5D","exam":"A","n":5114,"missing":5,"mean":9.781,"sd":10.1166,"p50":6,"p99":47};

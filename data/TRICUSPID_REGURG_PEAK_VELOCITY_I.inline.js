@@ -1,0 +1,1 @@
+window.__TRICUSPID_REGURG_PEAK_VELOCITY_EXAM_I={"concept_id":"TRICUSPID_REGURG_PEAK_VELOCITY","exam":"I","n":3184,"missing":1859,"mean":229.4546,"sd":27.9444,"p50":228.474,"p99":302.6289};

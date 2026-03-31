@@ -1,0 +1,1 @@
+window.__R2_DBP_EXAM_J={"concept_id":"R2_DBP","exam":"J","n":2125,"missing":0,"mean":73.9784,"sd":11.0225,"p50":73,"p99":102.76};

@@ -1,0 +1,1 @@
+window.__URINARY_CREATININE_COLLECT_DATE_EXAM_H={"concept_id":"URINARY_CREATININE_COLLECT_DATE","exam":"H","n":3446,"missing":1,"mean":2010.4357,"sd":0.4959,"p50":2010,"p99":2011};

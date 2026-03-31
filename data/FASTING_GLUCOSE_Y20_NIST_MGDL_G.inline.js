@@ -1,0 +1,1 @@
+window.__FASTING_GLUCOSE_Y20_NIST_MGDL_EXAM_G={"concept_id":"FASTING_GLUCOSE_Y20_NIST_MGDL","exam":"G","n":3503,"missing":2,"mean":99.5183,"sd":25.7606,"p50":95.5904,"p99":234.83};

@@ -1,0 +1,1 @@
+window.__MONTHS_SINCE_LAST_MENSTRUAL_PERIOD_EXAM_E={"concept_id":"MONTHS_SINCE_LAST_MENSTRUAL_PERIOD","exam":"E","n":2190,"missing":1989,"mean":4.2587,"sd":3.7806,"p50":4,"p99":11};

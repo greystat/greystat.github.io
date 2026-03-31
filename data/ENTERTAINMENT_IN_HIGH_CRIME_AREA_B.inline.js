@@ -1,0 +1,1 @@
+window.__ENTERTAINMENT_IN_HIGH_CRIME_AREA_EXAM_B={"concept_id":"ENTERTAINMENT_IN_HIGH_CRIME_AREA","exam":"B","n":4623,"missing":51,"n_levels":3,"mode_level":"No"};

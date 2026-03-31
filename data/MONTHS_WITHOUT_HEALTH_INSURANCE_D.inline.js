@@ -1,0 +1,1 @@
+window.__MONTHS_WITHOUT_HEALTH_INSURANCE_EXAM_D={"concept_id":"MONTHS_WITHOUT_HEALTH_INSURANCE","exam":"D","n":4085,"missing":3333,"mean":2.1609,"sd":3.0975,"p50":0,"p99":10};

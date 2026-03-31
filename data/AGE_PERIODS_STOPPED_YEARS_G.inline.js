@@ -1,0 +1,1 @@
+window.__AGE_PERIODS_STOPPED_YEARS_EXAM_G={"concept_id":"AGE_PERIODS_STOPPED_YEARS","exam":"G","n":1990,"missing":1545,"mean":41.2944,"sd":6.717,"p50":43,"p99":50};

@@ -1,0 +1,1 @@
+window.__SWIM_MONTHS_EXAM_D={"concept_id":"SWIM_MONTHS","exam":"D","n":4085,"missing":3183,"mean":3.4823,"sd":3.1112,"p50":3,"p99":12};

@@ -1,0 +1,1 @@
+window.__OTHER_CORONARY_AGATSTON_SCORE_EXAM_G={"concept_id":"OTHER_CORONARY_AGATSTON_SCORE","exam":"G","n":3139,"missing":17,"mean":3.3171,"sd":69.9369,"p50":0,"p99":22.4304};

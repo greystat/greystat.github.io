@@ -1,0 +1,1 @@
+window.__CLINICAL_ALERT_LEVEL_EXAM_H={"concept_id":"CLINICAL_ALERT_LEVEL","exam":"H","n":716,"missing":62,"n_levels":5,"mode_level":"Level 2"};

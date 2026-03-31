@@ -1,0 +1,1 @@
+window.__F08_EPIAG_EXAM_J={"concept_id":"F08_EPIAG","exam":"J","n":2776,"missing":2768,"mean":28,"sd":15.7661,"p50":23.5,"p99":53.72};

@@ -1,0 +1,1 @@
+window.__F08_TIAAG_EXAM_E={"concept_id":"F08_TIAAG","exam":"E","n":3949,"missing":3937,"mean":30.4167,"sd":9.5199,"p50":34.5,"p99":39.89};

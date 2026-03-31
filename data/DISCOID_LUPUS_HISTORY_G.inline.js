@@ -1,0 +1,1 @@
+window.__DISCOID_LUPUS_HISTORY_EXAM_G={"concept_id":"DISCOID_LUPUS_HISTORY","exam":"G","n":3467,"missing":8,"n_levels":3,"mode_level":"\"No\""};

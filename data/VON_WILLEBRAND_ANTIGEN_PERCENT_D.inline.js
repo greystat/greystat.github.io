@@ -1,0 +1,1 @@
+window.__VON_WILLEBRAND_ANTIGEN_PERCENT_EXAM_D={"concept_id":"VON_WILLEBRAND_ANTIGEN_PERCENT","exam":"D","n":1837,"missing":49,"mean":109.9966,"sd":47.7792,"p50":102,"p99":270.78};

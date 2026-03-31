@@ -1,0 +1,1 @@
+window.__RCA_LESION_VOLUME_EXAM_H={"concept_id":"RCA_LESION_VOLUME","exam":"H","n":3197,"missing":8,"mean":9.6286,"sd":61.2181,"p50":0,"p99":250.8638};

@@ -1,0 +1,1 @@
+window.__ALERT_FLAIL_LEAFLET_EXAM_I={"concept_id":"ALERT_FLAIL_LEAFLET","exam":"I","n":3186,"missing":3186,"n_levels":1,"mode_level":"(Missing)"};

@@ -1,0 +1,30 @@
+{
+  "concept_id": "CONTACT_LENSES_WORN",
+  "title": "Wearing contact lenses",
+  "chips": ["categorical", "2 levels", "F20 · Anthropometry", "Anthropometry"],
+  "members": [
+    {
+      "concept_id": "CONTACT_LENSES_WORN",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f20",
+      "dataset_stub": "c1f20",
+      "varname": "C20CONTA",
+      "family": "F20",
+      "form_label": "Anthropometry",
+      "n_labels": "2",
+      "instrument": "F20: Anthropometry",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

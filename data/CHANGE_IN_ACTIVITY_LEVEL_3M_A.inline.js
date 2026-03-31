@@ -1,0 +1,1 @@
+window.__CHANGE_IN_ACTIVITY_LEVEL_3M_EXAM_A={"concept_id":"CHANGE_IN_ACTIVITY_LEVEL_3M","exam":"A","n":5114,"missing":20,"n_levels":6,"mode_level":"About the same"};

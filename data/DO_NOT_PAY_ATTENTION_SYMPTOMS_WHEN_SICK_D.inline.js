@@ -1,0 +1,1 @@
+window.__DO_NOT_PAY_ATTENTION_SYMPTOMS_WHEN_SICK_EXAM_D={"concept_id":"DO_NOT_PAY_ATTENTION_SYMPTOMS_WHEN_SICK","exam":"D","n":4085,"missing":59,"n_levels":6,"mode_level":"Mostly disagree"};

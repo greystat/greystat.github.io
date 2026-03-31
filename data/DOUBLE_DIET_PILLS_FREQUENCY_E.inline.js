@@ -1,0 +1,1 @@
+window.__DOUBLE_DIET_PILLS_FREQUENCY_EXAM_E={"concept_id":"DOUBLE_DIET_PILLS_FREQUENCY","exam":"E","n":3949,"missing":3940,"n_levels":5,"mode_level":"(Missing)"};

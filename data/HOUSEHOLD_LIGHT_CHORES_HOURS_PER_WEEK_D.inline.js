@@ -1,0 +1,1 @@
+window.__HOUSEHOLD_LIGHT_CHORES_HOURS_PER_WEEK_EXAM_D={"concept_id":"HOUSEHOLD_LIGHT_CHORES_HOURS_PER_WEEK","exam":"D","n":4085,"missing":176,"mean":8.1727,"sd":7.9679,"p50":5,"p99":40};

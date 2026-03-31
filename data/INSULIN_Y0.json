@@ -1,0 +1,22 @@
+{
+  "concept_id": "INSULIN_Y0",
+  "title": "Year 0 insulin",
+  "unit": "µU/mL",
+  "chips": ["numeric", "µU/mL", "INS · Fasting Insulin", "Glycemia", "Lab"],
+  "members": [
+    {
+      "concept_id": "INSULIN_Y0",
+      "exam": "D",
+      "exam_year": "",
+      "dataset": "d2ins",
+      "dataset_stub": "d1ins",
+      "varname": "DL7INS0",
+      "family": "INS",
+      "form_label": "",
+      "units_std": "µU/mL",
+      "units_class": "concentration",
+      "instrument": "INS",
+      "notes": ""
+    }
+  ]
+}

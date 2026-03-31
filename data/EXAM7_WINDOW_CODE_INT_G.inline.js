@@ -1,0 +1,1 @@
+window.__EXAM7_WINDOW_CODE_INT_EXAM_G={"concept_id":"EXAM7_WINDOW_CODE_INT","exam":"G","n":5114,"missing":0,"mean":5.912,"sd":3.1881,"p50":6,"p99":11};

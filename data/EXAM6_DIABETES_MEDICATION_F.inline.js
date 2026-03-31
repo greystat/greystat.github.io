@@ -1,0 +1,1 @@
+window.__EXAM6_DIABETES_MEDICATION_EXAM_F={"concept_id":"EXAM6_DIABETES_MEDICATION","exam":"F","n":5114,"missing":1443,"n_levels":3,"mode_level":"No"};

@@ -1,0 +1,1 @@
+window.__OC_USED_LAST_3_MONTHS_EXAM_E={"concept_id":"OC_USED_LAST_3_MONTHS","exam":"E","n":2044,"missing":200,"mean":1.1958,"sd":0.3969,"p50":1,"p99":2};

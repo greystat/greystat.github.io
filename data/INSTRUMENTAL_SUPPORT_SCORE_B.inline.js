@@ -1,0 +1,1 @@
+window.__INSTRUMENTAL_SUPPORT_SCORE_EXAM_B={"concept_id":"INSTRUMENTAL_SUPPORT_SCORE","exam":"B","n":4623,"missing":74,"mean":5.4775,"sd":3.0155,"p50":5,"p99":12};

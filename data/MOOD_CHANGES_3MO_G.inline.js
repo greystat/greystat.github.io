@@ -1,0 +1,1 @@
+window.__MOOD_CHANGES_3MO_EXAM_G={"concept_id":"MOOD_CHANGES_3MO","exam":"G","n":1990,"missing":1529,"n_levels":3,"mode_level":"(Missing)"};

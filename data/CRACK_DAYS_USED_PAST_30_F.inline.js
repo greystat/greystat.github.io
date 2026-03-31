@@ -1,0 +1,1 @@
+window.__CRACK_DAYS_USED_PAST_30_EXAM_F={"concept_id":"CRACK_DAYS_USED_PAST_30","exam":"F","n":3671,"missing":3292,"mean":1.1346,"sd":6.1132,"p50":0,"p99":23.44};

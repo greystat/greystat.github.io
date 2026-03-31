@@ -1,0 +1,1 @@
+window.__ASTHMA_MED_NUMBER_EXAM_D={"concept_id":"ASTHMA_MED_NUMBER","exam":"D","n":286,"missing":0,"n_levels":7,"mode_level":"1"};

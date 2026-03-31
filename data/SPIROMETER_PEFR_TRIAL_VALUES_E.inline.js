@@ -1,0 +1,1 @@
+window.__SPIROMETER_PEFR_TRIAL_VALUES_EXAM_E={"concept_id":"SPIROMETER_PEFR_TRIAL_VALUES","exam":"E","n":3949,"missing":3810,"mean":7.7741,"sd":2.2636,"p50":7.67,"p99":13.224};

@@ -1,0 +1,1 @@
+window.__WEIGHT_LOSS_5_9_LB_COUNT_EXAM_E={"concept_id":"WEIGHT_LOSS_5_9_LB_COUNT","exam":"E","n":3949,"missing":41,"mean":1.4138,"sd":0.7854,"p50":1,"p99":5};

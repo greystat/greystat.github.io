@@ -1,0 +1,1 @@
+window.__ONE_A_DAY_MULTIVITAMIN_NUMBER_EXAM_E={"concept_id":"ONE_A_DAY_MULTIVITAMIN_NUMBER","exam":"E","n":3949,"missing":2619,"mean":1.4617,"sd":1.3401,"p50":1,"p99":7};

@@ -1,0 +1,1 @@
+window.__BIRTH_CONTROL_TABLETS_PER_YEAR_EXAM_G={"concept_id":"BIRTH_CONTROL_TABLETS_PER_YEAR","exam":"G","n":1626,"missing":105,"mean":298.4168,"sd":107.8147,"p50":365,"p99":365};

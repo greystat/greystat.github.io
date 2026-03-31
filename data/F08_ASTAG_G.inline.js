@@ -1,0 +1,1 @@
+window.__F08_ASTAG_EXAM_G={"concept_id":"F08_ASTAG","exam":"G","n":3548,"missing":3093,"mean":22.7912,"sd":16.0074,"p50":24,"p99":50};

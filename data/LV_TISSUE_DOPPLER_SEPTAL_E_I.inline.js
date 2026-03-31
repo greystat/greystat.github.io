@@ -1,0 +1,1 @@
+window.__LV_TISSUE_DOPPLER_SEPTAL_E_EXAM_I={"concept_id":"LV_TISSUE_DOPPLER_SEPTAL_E","exam":"I","n":3184,"missing":118,"mean":8.9118,"sd":2.4027,"p50":8.62,"p99":16.1687};

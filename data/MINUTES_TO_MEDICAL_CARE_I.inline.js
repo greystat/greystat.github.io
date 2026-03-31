@@ -1,0 +1,1 @@
+window.__MINUTES_TO_MEDICAL_CARE_EXAM_I={"concept_id":"MINUTES_TO_MEDICAL_CARE","exam":"I","n":3335,"missing":208,"mean":18.8286,"sd":22.7372,"p50":15,"p99":68.7};

@@ -1,0 +1,1 @@
+window.__HAY_FEVER_DOCTOR_CONFIRMED_EXAM_A={"concept_id":"HAY_FEVER_DOCTOR_CONFIRMED","exam":"A","n":5114,"missing":22,"n_levels":4,"mode_level":"0"};

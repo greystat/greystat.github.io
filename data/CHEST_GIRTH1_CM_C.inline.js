@@ -1,0 +1,1 @@
+window.__CHEST_GIRTH1_CM_EXAM_C={"concept_id":"CHEST_GIRTH1_CM","exam":"C","n":4351,"missing":40,"mean":95.5726,"sd":11.0511,"p50":94.5,"p99":127.45};

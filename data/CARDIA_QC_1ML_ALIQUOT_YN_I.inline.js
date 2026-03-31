@@ -1,0 +1,1 @@
+window.__CARDIA_QC_1ML_ALIQUOT_YN_EXAM_I={"concept_id":"CARDIA_QC_1ML_ALIQUOT_YN","exam":"I","n":3356,"missing":3201,"n_levels":3,"mode_level":"(Missing)"};

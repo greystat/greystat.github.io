@@ -1,0 +1,1 @@
+window.__DBP_BEFORE_GXT_EXAM_A={"concept_id":"DBP_BEFORE_GXT","exam":"A","n":5114,"missing":134,"mean":75.9388,"sd":11.0877,"p50":78,"p99":100};

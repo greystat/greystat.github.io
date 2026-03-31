@@ -1,0 +1,1 @@
+window.__RCA_LESION_COUNT_EXAM_G={"concept_id":"RCA_LESION_COUNT","exam":"G","n":3139,"missing":17,"mean":0.1598,"sd":0.9975,"p50":0,"p99":4.79};

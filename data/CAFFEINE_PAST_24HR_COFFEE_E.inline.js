@@ -1,0 +1,1 @@
+window.__CAFFEINE_PAST_24HR_COFFEE_EXAM_E={"concept_id":"CAFFEINE_PAST_24HR_COFFEE","exam":"E","n":3949,"missing":3812,"n_levels":10,"mode_level":"(Missing)"};

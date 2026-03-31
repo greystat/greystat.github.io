@@ -1,0 +1,1 @@
+window.__FIELD_CENTER_RADIOLOGIST_ID_EXAM_I={"concept_id":"FIELD_CENTER_RADIOLOGIST_ID","exam":"I","n":663,"missing":1,"mean":33,"sd":0,"p50":33,"p99":33};

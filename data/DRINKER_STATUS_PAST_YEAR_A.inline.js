@@ -1,0 +1,1 @@
+window.__DRINKER_STATUS_PAST_YEAR_EXAM_A={"concept_id":"DRINKER_STATUS_PAST_YEAR","exam":"A","n":5114,"missing":10,"n_levels":4,"mode_level":"\"Yes\""};

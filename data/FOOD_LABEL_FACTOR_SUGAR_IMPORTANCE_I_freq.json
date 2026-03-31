@@ -1,0 +1,877 @@
+{
+  "concept_id": "FOOD_LABEL_FACTOR_SUGAR_IMPORTANCE",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3277,
+        "missing": 1358,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 1919,
+            "pct": 58.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 1358,
+            "pct": 41.4
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1404,
+        "missing": 671,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 733,
+            "pct": 52.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 671,
+            "pct": 47.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1873,
+        "missing": 687,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 1186,
+            "pct": 63.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 687,
+            "pct": 36.7
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1549,
+        "missing": 711,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 838,
+            "pct": 54.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 711,
+            "pct": 45.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1728,
+        "missing": 647,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 1081,
+            "pct": 62.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 647,
+            "pct": 37.4
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 722,
+        "missing": 344,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 378,
+            "pct": 52.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 344,
+            "pct": 47.6
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 733,
+        "missing": 318,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 415,
+            "pct": 56.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 318,
+            "pct": 43.4
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 831,
+        "missing": 367,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 464,
+            "pct": 55.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 367,
+            "pct": 44.2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 991,
+        "missing": 329,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 662,
+            "pct": 66.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 329,
+            "pct": 33.2
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 622,
+        "missing": 340,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 340,
+            "pct": 54.7
+          },
+          {
+            "level": "Sugar",
+            "count": 282,
+            "pct": 45.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 927,
+        "missing": 371,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 556,
+            "pct": 60
+          },
+          {
+            "level": "(Missing)",
+            "count": 371,
+            "pct": 40
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 782,
+        "missing": 331,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 451,
+            "pct": 57.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 331,
+            "pct": 42.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 946,
+        "missing": 316,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 630,
+            "pct": 66.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 316,
+            "pct": 33.4
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 334,
+        "missing": 182,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 182,
+            "pct": 54.5
+          },
+          {
+            "level": "Sugar",
+            "count": 152,
+            "pct": 45.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 317,
+        "missing": 150,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 167,
+            "pct": 52.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 150,
+            "pct": 47.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 371,
+        "missing": 197,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 197,
+            "pct": 53.1
+          },
+          {
+            "level": "Sugar",
+            "count": 174,
+            "pct": 46.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 382,
+        "missing": 142,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 240,
+            "pct": 62.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 142,
+            "pct": 37.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 388,
+        "missing": 162,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 226,
+            "pct": 58.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 162,
+            "pct": 41.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 416,
+        "missing": 168,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 248,
+            "pct": 59.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 168,
+            "pct": 40.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 460,
+        "missing": 170,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 290,
+            "pct": 63
+          },
+          {
+            "level": "(Missing)",
+            "count": 170,
+            "pct": 37
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 609,
+        "missing": 187,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 422,
+            "pct": 69.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 187,
+            "pct": 30.7
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 400,
+        "missing": 197,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 203,
+            "pct": 50.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 197,
+            "pct": 49.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 337,
+        "missing": 176,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 176,
+            "pct": 52.2
+          },
+          {
+            "level": "Sugar",
+            "count": 161,
+            "pct": 47.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 289,
+        "missing": 159,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 159,
+            "pct": 55
+          },
+          {
+            "level": "Sugar",
+            "count": 130,
+            "pct": 45
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 523,
+        "missing": 179,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 344,
+            "pct": 65.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 179,
+            "pct": 34.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 322,
+        "missing": 147,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 175,
+            "pct": 54.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 147,
+            "pct": 45.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 396,
+        "missing": 142,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 254,
+            "pct": 64.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 142,
+            "pct": 35.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 542,
+        "missing": 208,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 334,
+            "pct": 61.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 208,
+            "pct": 38.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 468,
+        "missing": 150,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 318,
+            "pct": 67.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 150,
+            "pct": 32.1
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 167,
+        "missing": 98,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 98,
+            "pct": 58.7
+          },
+          {
+            "level": "Sugar",
+            "count": 69,
+            "pct": 41.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 128,
+        "missing": 75,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 75,
+            "pct": 58.6
+          },
+          {
+            "level": "Sugar",
+            "count": 53,
+            "pct": 41.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 128,
+        "missing": 85,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 85,
+            "pct": 66.4
+          },
+          {
+            "level": "Sugar",
+            "count": 43,
+            "pct": 33.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 199,
+        "missing": 82,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 117,
+            "pct": 58.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 82,
+            "pct": 41.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 233,
+        "missing": 99,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 134,
+            "pct": 57.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 99,
+            "pct": 42.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 209,
+        "missing": 101,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 108,
+            "pct": 51.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 101,
+            "pct": 48.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 161,
+        "missing": 74,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 87,
+            "pct": 54
+          },
+          {
+            "level": "(Missing)",
+            "count": 74,
+            "pct": 46
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 324,
+        "missing": 97,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 227,
+            "pct": 70.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 97,
+            "pct": 29.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 167,
+        "missing": 84,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 84,
+            "pct": 50.3
+          },
+          {
+            "level": "Sugar",
+            "count": 83,
+            "pct": 49.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 189,
+        "missing": 75,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 114,
+            "pct": 60.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 75,
+            "pct": 39.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 243,
+        "missing": 112,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 131,
+            "pct": 53.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 112,
+            "pct": 46.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 183,
+        "missing": 60,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 123,
+            "pct": 67.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 60,
+            "pct": 32.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 155,
+        "missing": 63,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 92,
+            "pct": 59.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 63,
+            "pct": 40.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 207,
+        "missing": 67,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 140,
+            "pct": 67.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 67,
+            "pct": 32.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 299,
+        "missing": 96,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 203,
+            "pct": 67.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 96,
+            "pct": 32.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 285,
+        "missing": 90,
+        "n_levels": 2,
+        "mode_level": "Sugar",
+        "freq": [
+          {
+            "level": "Sugar",
+            "count": 195,
+            "pct": 68.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 90,
+            "pct": 31.6
+          }
+        ]
+      }
+    ]
+  }
+}

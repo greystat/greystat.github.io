@@ -1,0 +1,1 @@
+window.__HR_BEFORE_GXT_EXAM_G={"concept_id":"HR_BEFORE_GXT","exam":"G","n":2890,"missing":25,"mean":76.8105,"sd":16.8326,"p50":76,"p99":112};

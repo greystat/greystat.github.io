@@ -1,0 +1,862 @@
+{
+  "concept_id": "GENERAL_MED_PAYER_MEDICAID",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 6729,
+        "missing": 6229,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 6229,
+            "pct": 92.6
+          },
+          {
+            "level": "Medicaid",
+            "count": 500,
+            "pct": 7.4
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 2434,
+        "missing": 2335,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2335,
+            "pct": 95.9
+          },
+          {
+            "level": "Medicaid",
+            "count": 99,
+            "pct": 4.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 4295,
+        "missing": 3894,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3894,
+            "pct": 90.7
+          },
+          {
+            "level": "Medicaid",
+            "count": 401,
+            "pct": 9.3
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 3554,
+        "missing": 3144,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3144,
+            "pct": 88.5
+          },
+          {
+            "level": "Medicaid",
+            "count": 410,
+            "pct": 11.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 3175,
+        "missing": 3085,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3085,
+            "pct": 97.2
+          },
+          {
+            "level": "Medicaid",
+            "count": 90,
+            "pct": 2.8
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 2023,
+        "missing": 1870,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1870,
+            "pct": 92.4
+          },
+          {
+            "level": "Medicaid",
+            "count": 153,
+            "pct": 7.6
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 1315,
+        "missing": 1160,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1160,
+            "pct": 88.2
+          },
+          {
+            "level": "Medicaid",
+            "count": 155,
+            "pct": 11.8
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 1599,
+        "missing": 1449,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1449,
+            "pct": 90.6
+          },
+          {
+            "level": "Medicaid",
+            "count": 150,
+            "pct": 9.4
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1792,
+        "missing": 1750,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1750,
+            "pct": 97.7
+          },
+          {
+            "level": "Medicaid",
+            "count": 42,
+            "pct": 2.3
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 1135,
+        "missing": 1044,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1044,
+            "pct": 92
+          },
+          {
+            "level": "Medicaid",
+            "count": 91,
+            "pct": 8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 2419,
+        "missing": 2100,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2100,
+            "pct": 86.8
+          },
+          {
+            "level": "Medicaid",
+            "count": 319,
+            "pct": 13.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 1299,
+        "missing": 1291,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1291,
+            "pct": 99.4
+          },
+          {
+            "level": "Medicaid",
+            "count": 8,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1876,
+        "missing": 1794,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1794,
+            "pct": 95.6
+          },
+          {
+            "level": "Medicaid",
+            "count": 82,
+            "pct": 4.4
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 749,
+        "missing": 730,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 730,
+            "pct": 97.5
+          },
+          {
+            "level": "Medicaid",
+            "count": 19,
+            "pct": 2.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 498,
+        "missing": 451,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 451,
+            "pct": 90.6
+          },
+          {
+            "level": "Medicaid",
+            "count": 47,
+            "pct": 9.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 620,
+        "missing": 590,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 590,
+            "pct": 95.2
+          },
+          {
+            "level": "Medicaid",
+            "count": 30,
+            "pct": 4.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 567,
+        "missing": 564,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 564,
+            "pct": 99.5
+          },
+          {
+            "level": "Medicaid",
+            "count": 3,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 1274,
+        "missing": 1140,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1140,
+            "pct": 89.5
+          },
+          {
+            "level": "Medicaid",
+            "count": 134,
+            "pct": 10.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 817,
+        "missing": 709,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 709,
+            "pct": 86.8
+          },
+          {
+            "level": "Medicaid",
+            "count": 108,
+            "pct": 13.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 979,
+        "missing": 859,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 859,
+            "pct": 87.7
+          },
+          {
+            "level": "Medicaid",
+            "count": 120,
+            "pct": 12.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 1225,
+        "missing": 1186,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1186,
+            "pct": 96.8
+          },
+          {
+            "level": "Medicaid",
+            "count": 39,
+            "pct": 3.2
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 1213,
+        "missing": 1088,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1088,
+            "pct": 89.7
+          },
+          {
+            "level": "Medicaid",
+            "count": 125,
+            "pct": 10.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 679,
+        "missing": 545,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 545,
+            "pct": 80.3
+          },
+          {
+            "level": "Medicaid",
+            "count": 134,
+            "pct": 19.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 631,
+        "missing": 522,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 522,
+            "pct": 82.7
+          },
+          {
+            "level": "Medicaid",
+            "count": 109,
+            "pct": 17.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 1031,
+        "missing": 989,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 989,
+            "pct": 95.9
+          },
+          {
+            "level": "Medicaid",
+            "count": 42,
+            "pct": 4.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 810,
+        "missing": 782,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 782,
+            "pct": 96.5
+          },
+          {
+            "level": "Medicaid",
+            "count": 28,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 636,
+        "missing": 615,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 615,
+            "pct": 96.7
+          },
+          {
+            "level": "Medicaid",
+            "count": 21,
+            "pct": 3.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 968,
+        "missing": 927,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 927,
+            "pct": 95.8
+          },
+          {
+            "level": "Medicaid",
+            "count": 41,
+            "pct": 4.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 761,
+        "missing": 761,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 761,
+            "pct": 100
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 394,
+        "missing": 376,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 376,
+            "pct": 95.4
+          },
+          {
+            "level": "Medicaid",
+            "count": 18,
+            "pct": 4.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 220,
+        "missing": 176,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 176,
+            "pct": 80
+          },
+          {
+            "level": "Medicaid",
+            "count": 44,
+            "pct": 20
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 216,
+        "missing": 190,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 190,
+            "pct": 88
+          },
+          {
+            "level": "Medicaid",
+            "count": 26,
+            "pct": 12
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 305,
+        "missing": 302,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 302,
+            "pct": 99
+          },
+          {
+            "level": "Medicaid",
+            "count": 3,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 819,
+        "missing": 712,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 712,
+            "pct": 86.9
+          },
+          {
+            "level": "Medicaid",
+            "count": 107,
+            "pct": 13.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 459,
+        "missing": 369,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 369,
+            "pct": 80.4
+          },
+          {
+            "level": "Medicaid",
+            "count": 90,
+            "pct": 19.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 415,
+        "missing": 332,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 332,
+            "pct": 80
+          },
+          {
+            "level": "Medicaid",
+            "count": 83,
+            "pct": 20
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 726,
+        "missing": 687,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 687,
+            "pct": 94.6
+          },
+          {
+            "level": "Medicaid",
+            "count": 39,
+            "pct": 5.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 355,
+        "missing": 354,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 354,
+            "pct": 99.7
+          },
+          {
+            "level": "Medicaid",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 278,
+        "missing": 275,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 275,
+            "pct": 98.9
+          },
+          {
+            "level": "Medicaid",
+            "count": 3,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 404,
+        "missing": 400,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 400,
+            "pct": 99
+          },
+          {
+            "level": "Medicaid",
+            "count": 4,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 262,
+        "missing": 262,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 262,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 455,
+        "missing": 428,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 428,
+            "pct": 94.1
+          },
+          {
+            "level": "Medicaid",
+            "count": 27,
+            "pct": 5.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 358,
+        "missing": 340,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 340,
+            "pct": 95
+          },
+          {
+            "level": "Medicaid",
+            "count": 18,
+            "pct": 5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 564,
+        "missing": 527,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 527,
+            "pct": 93.4
+          },
+          {
+            "level": "Medicaid",
+            "count": 37,
+            "pct": 6.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 499,
+        "missing": 499,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 499,
+            "pct": 100
+          }
+        ]
+      }
+    ]
+  }
+}

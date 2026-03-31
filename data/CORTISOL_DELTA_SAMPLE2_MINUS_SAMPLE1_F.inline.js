@@ -1,0 +1,1 @@
+window.__CORTISOL_DELTA_SAMPLE2_MINUS_SAMPLE1_EXAM_F={"concept_id":"CORTISOL_DELTA_SAMPLE2_MINUS_SAMPLE1","exam":"F","n":811,"missing":22,"mean":5.3826,"sd":16.4081,"p50":4.82,"p99":50.9032};

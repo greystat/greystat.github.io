@@ -1,0 +1,1 @@
+window.__VITAMIN_C_NUMBER_EXAM_E={"concept_id":"VITAMIN_C_NUMBER","exam":"E","n":3949,"missing":3296,"mean":2.0107,"sd":2.0999,"p50":1,"p99":10};

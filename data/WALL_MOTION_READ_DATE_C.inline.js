@@ -1,0 +1,1 @@
+window.__WALL_MOTION_READ_DATE_EXAM_C={"concept_id":"WALL_MOTION_READ_DATE","exam":"C","n":4351,"missing":1114,"mean":1990.4594,"sd":0.4984,"p50":1990,"p99":1991};

@@ -1,0 +1,1 @@
+window.__AGE_FIRST_LOST_10_LBS_DIETING_EXAM_E={"concept_id":"AGE_FIRST_LOST_10_LBS_DIETING","exam":"E","n":3949,"missing":2603,"mean":23.321,"sd":6.7376,"p50":23,"p99":38};

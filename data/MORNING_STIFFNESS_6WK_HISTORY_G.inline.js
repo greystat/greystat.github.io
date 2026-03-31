@@ -1,0 +1,1 @@
+window.__MORNING_STIFFNESS_6WK_HISTORY_EXAM_G={"concept_id":"MORNING_STIFFNESS_6WK_HISTORY","exam":"G","n":3467,"missing":5,"n_levels":3,"mode_level":"\"No\""};

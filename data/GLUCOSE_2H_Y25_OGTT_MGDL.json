@@ -1,0 +1,22 @@
+{
+  "concept_id": "GLUCOSE_2H_Y25_OGTT_MGDL",
+  "title": "Year 25 2-hour OGTT glucose (mg/dL)",
+  "unit": "mg/dL",
+  "chips": ["numeric", "mg/dL", "GLU · Glucose / OGTT", "Glycemia", "Lab"],
+  "members": [
+    {
+      "concept_id": "GLUCOSE_2H_Y25_OGTT_MGDL",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h3glu",
+      "dataset_stub": "h3glu",
+      "varname": "HL7GLU2H",
+      "family": "GLU",
+      "form_label": "",
+      "units_std": "mg/dL",
+      "units_class": "concentration",
+      "instrument": "GLU",
+      "notes": ""
+    }
+  ]
+}

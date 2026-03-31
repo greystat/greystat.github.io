@@ -1,0 +1,1 @@
+window.__IL6_SAMPLE_RECEIVE_DATE_EXAM_G={"concept_id":"IL6_SAMPLE_RECEIVE_DATE","exam":"G","n":3499,"missing":0,"mean":2005.5124,"sd":0.4999,"p50":2006,"p99":2006};

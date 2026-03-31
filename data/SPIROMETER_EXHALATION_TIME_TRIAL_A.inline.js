@@ -1,0 +1,1 @@
+window.__SPIROMETER_EXHALATION_TIME_TRIAL_EXAM_A={"concept_id":"SPIROMETER_EXHALATION_TIME_TRIAL","exam":"A","n":5114,"missing":4991,"mean":5.7764,"sd":2.7511,"p50":5.5,"p99":12.848};

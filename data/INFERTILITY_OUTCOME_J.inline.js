@@ -1,0 +1,1 @@
+window.__INFERTILITY_OUTCOME_EXAM_J={"concept_id":"INFERTILITY_OUTCOME","exam":"J","n":1421,"missing":1240,"n_levels":4,"mode_level":"(Missing)"};

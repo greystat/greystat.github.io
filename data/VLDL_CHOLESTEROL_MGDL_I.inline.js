@@ -1,0 +1,1 @@
+window.__VLDL_CHOLESTEROL_MGDL_EXAM_I={"concept_id":"VLDL_CHOLESTEROL_MGDL","exam":"I","n":3320,"missing":31,"mean":20.5032,"sd":11.1475,"p50":17,"p99":61.12};

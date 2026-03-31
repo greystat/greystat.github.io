@@ -1,0 +1,1 @@
+window.__LV_POSTERIOR_WALL_SYSTOLE_EXAM_C={"concept_id":"LV_POSTERIOR_WALL_SYSTOLE","exam":"C","n":4351,"missing":244,"mean":1.4466,"sd":0.234,"p50":1.44,"p99":2.04};

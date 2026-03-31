@@ -1,0 +1,1 @@
+window.__EXAM5_WINDOW_CONCEPT={"concept_id":"EXAM5_WINDOW","title":"Exam 5 window code","chips":["categorical","REF · Reference / Status","Administrative"],"members":[{"concept_id":"EXAM5_WINDOW","exam":"E","exam_year":"","dataset":"e3ref","dataset_stub":"e1ref","varname":"X5WINDOW","family":"REF","form_label":"","n_labels":"","instrument":"REF","notes":""}],"dictionary":{}};

@@ -1,0 +1,1 @@
+window.__LOW_CARBOHYDRATE_DIET_PATTERN_EXAM_G={"concept_id":"LOW_CARBOHYDRATE_DIET_PATTERN","exam":"G","n":3142,"missing":1364,"n_levels":3,"mode_level":"1"};

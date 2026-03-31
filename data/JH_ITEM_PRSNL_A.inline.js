@@ -1,0 +1,1 @@
+window.__JH_ITEM_PRSNL_EXAM_A={"concept_id":"JH_ITEM_PRSNL","exam":"A","n":5114,"missing":15,"n_levels":5,"mode_level":"Somewhat true"};

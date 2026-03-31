@@ -1,0 +1,30 @@
+{
+  "concept_id": "EXAM4_WEIGHT_AVAILABLE",
+  "title": "Exam 4 weight available indicator",
+  "chips": ["categorical", "2 levels", "F46 · Weight Change", "Anthropometry"],
+  "members": [
+    {
+      "concept_id": "EXAM4_WEIGHT_AVAILABLE",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f46",
+      "dataset_stub": "e1f46",
+      "varname": "E46EXAM4",
+      "family": "F46",
+      "form_label": "Weight Change Questionnaire",
+      "n_labels": "2",
+      "instrument": "F46: Weight Change Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

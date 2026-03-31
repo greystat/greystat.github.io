@@ -1,0 +1,1 @@
+window.__GOITER_AGE_EXAM_B={"concept_id":"GOITER_AGE","exam":"B","n":98,"missing":71,"mean":19.7778,"sd":6.3327,"p50":20,"p99":31.48};

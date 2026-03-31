@@ -1,0 +1,1 @@
+window.__SEX_DISCRIMINATION_AVERAGE_EXAM_F={"concept_id":"SEX_DISCRIMINATION_AVERAGE","exam":"F","n":3671,"missing":17,"mean":0.3518,"sd":0.4838,"p50":0.1429,"p99":2};

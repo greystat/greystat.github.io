@@ -1,0 +1,1 @@
+window.__CMQ_NOT_LET_OTHERS_BE_PUNISHED_EXAM_F={"concept_id":"CMQ_NOT_LET_OTHERS_BE_PUNISHED","exam":"F","n":3671,"missing":23,"n_levels":3,"mode_level":"True"};

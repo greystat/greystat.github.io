@@ -1,0 +1,50 @@
+{
+  "concept_id": "URINARY_NOREPINEPHRINE_CONC",
+  "title": "Urinary norepinephrine concentration",
+  "unit": "nmol/L",
+  "chips": ["numeric", "nmol/L", "CATECH · Catecholamines", "Endocrine", "Lab"],
+  "members": [
+    {
+      "concept_id": "URINARY_NOREPINEPHRINE_CONC",
+      "exam": "D",
+      "exam_year": "",
+      "dataset": "d1catech",
+      "dataset_stub": "d1catech",
+      "varname": "D47NE",
+      "family": "CATECH",
+      "form_label": "",
+      "units_std": "nmol/L",
+      "units_class": "concentration",
+      "instrument": "CATECH",
+      "notes": ""
+    },
+    {
+      "concept_id": "URINARY_NOREPINEPHRINE_CONC",
+      "exam": "E",
+      "exam_year": "",
+      "dataset": "e1catech",
+      "dataset_stub": "e1catech",
+      "varname": "EL11NE",
+      "family": "CATECH",
+      "form_label": "",
+      "units_std": "pmol/mL",
+      "units_class": "concentration",
+      "instrument": "CATECH",
+      "notes": ""
+    },
+    {
+      "concept_id": "URINARY_NOREPINEPHRINE_CONC",
+      "exam": "F",
+      "exam_year": "",
+      "dataset": "f2catech",
+      "dataset_stub": "f2catech",
+      "varname": "FL1NEPI",
+      "family": "CATECH",
+      "form_label": "",
+      "units_std": "pmol/mL",
+      "units_class": "concentration",
+      "instrument": "CATECH",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__GENERAL_MED_ADHERENCE_EXAM_G={"concept_id":"GENERAL_MED_ADHERENCE","exam":"G","n":4721,"missing":228,"n_levels":6,"mode_level":"\"All or almost all of the time\""};

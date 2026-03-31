@@ -1,0 +1,1 @@
+window.__HAS_MILITARY_COVERAGE_EXAM_D={"concept_id":"HAS_MILITARY_COVERAGE","exam":"D","n":4085,"missing":567,"n_levels":3,"mode_level":"No"};

@@ -1,0 +1,1 @@
+window.__DRINKS_BEER_PER_WEEK_EXAM_H={"concept_id":"DRINKS_BEER_PER_WEEK","exam":"H","n":3468,"missing":760,"mean":2.4878,"sd":7.8195,"p50":0,"p99":25};

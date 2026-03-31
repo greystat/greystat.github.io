@@ -1,0 +1,1 @@
+window.__ALERT_PERICARDIAL_TAMPONADE_EXAM_I={"concept_id":"ALERT_PERICARDIAL_TAMPONADE","exam":"I","n":3186,"missing":3186,"n_levels":1,"mode_level":"(Missing)"};

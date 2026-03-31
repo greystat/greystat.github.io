@@ -1,0 +1,65 @@
+{
+  "concept_id": "ALERT_VEGETATION",
+  "title": "Alert finding – valvular vegetation",
+  "chips": ["categorical", "1 levels", "F40 · Echo Technician Worksheet", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "ALERT_VEGETATION",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f40",
+      "dataset_stub": "c1f40",
+      "varname": "C40VEGET",
+      "family": "F40",
+      "form_label": "Echocardiography Sonographer's Worksheet",
+      "n_labels": "",
+      "instrument": "F40: Echocardiography Sonographer's Worksheet",
+      "notes": ""
+    },
+    {
+      "concept_id": "ALERT_VEGETATION",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f40",
+      "dataset_stub": "e1f40",
+      "varname": "E40VEGET",
+      "family": "F40",
+      "form_label": "Echocardiography Sonographer's Worksheet",
+      "n_labels": "",
+      "instrument": "F40: Echocardiography Sonographer's Worksheet",
+      "notes": ""
+    },
+    {
+      "concept_id": "ALERT_VEGETATION",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f40",
+      "dataset_stub": "h4f40",
+      "varname": "H40VEGET",
+      "family": "F40",
+      "form_label": "Echocardiography Technician's Worksheet",
+      "n_labels": "1",
+      "instrument": "F40: Echocardiography Technician's Worksheet",
+      "notes": ""
+    },
+    {
+      "concept_id": "ALERT_VEGETATION",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f40",
+      "dataset_stub": "i1f40",
+      "varname": "I40VEGET",
+      "family": "F40",
+      "form_label": "Echocardiography Technician's Worksheet",
+      "n_labels": "1",
+      "instrument": "F40: Echocardiography Technician's Worksheet",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "2",
+      "label": "Vegetation"
+    }
+  ]
+}

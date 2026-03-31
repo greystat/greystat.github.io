@@ -1,0 +1,1 @@
+window.__HYPERTHYROIDISM_STATUS_EXAM_B={"concept_id":"HYPERTHYROIDISM_STATUS","exam":"B","n":98,"missing":65,"n_levels":4,"mode_level":"(Missing)"};

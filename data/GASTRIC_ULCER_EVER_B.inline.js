@@ -1,0 +1,1 @@
+window.__GASTRIC_ULCER_EVER_EXAM_B={"concept_id":"GASTRIC_ULCER_EVER","exam":"B","n":235,"missing":0,"n_levels":3,"mode_level":"Yes"};

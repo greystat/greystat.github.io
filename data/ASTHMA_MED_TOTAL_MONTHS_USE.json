@@ -1,0 +1,22 @@
+{
+  "concept_id": "ASTHMA_MED_TOTAL_MONTHS_USE",
+  "title": "Total months of asthma medication use",
+  "unit": "months",
+  "chips": ["numeric", "months"],
+  "members": [
+    {
+      "concept_id": "ASTHMA_MED_TOTAL_MONTHS_USE",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f09mas",
+      "dataset_stub": "b2f09mas",
+      "varname": "B09ASTUS",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "months",
+      "units_class": "duration",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__SUM_DBP_2ND_3RD_EXAM_J={"concept_id":"SUM_DBP_2ND_3RD","exam":"J","n":2125,"missing":0,"mean":147.608,"sd":21.6003,"p50":146,"p99":205};

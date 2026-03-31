@@ -1,0 +1,1 @@
+window.__HDL_CHOLESTEROL_MGDL_EXAM_D={"concept_id":"HDL_CHOLESTEROL_MGDL","exam":"D","n":4085,"missing":78,"mean":52.0564,"sd":14.2125,"p50":50,"p99":90};

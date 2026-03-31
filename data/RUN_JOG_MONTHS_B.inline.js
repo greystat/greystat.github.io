@@ -1,0 +1,1 @@
+window.__RUN_JOG_MONTHS_EXAM_B={"concept_id":"RUN_JOG_MONTHS","exam":"B","n":4623,"missing":67,"mean":2.3946,"sd":3.8389,"p50":0,"p99":12};

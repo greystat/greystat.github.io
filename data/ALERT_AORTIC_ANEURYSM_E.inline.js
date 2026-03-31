@@ -1,0 +1,1 @@
+window.__ALERT_AORTIC_ANEURYSM_EXAM_E={"concept_id":"ALERT_AORTIC_ANEURYSM","exam":"E","n":3949,"missing":2384,"n_levels":2,"mode_level":"(Missing)"};

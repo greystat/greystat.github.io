@@ -1,0 +1,1 @@
+window.__COTININE_NG_ML_EXAM_A={"concept_id":"COTININE_NG_ML","exam":"A","n":5114,"missing":48,"mean":74.1431,"sd":137.7551,"p50":2,"p99":596};

@@ -1,0 +1,1 @@
+window.__IMAGE_COMPONENT_OTHER_OBTAINED_EXAM_H={"concept_id":"IMAGE_COMPONENT_OTHER_OBTAINED","exam":"H","n":3470,"missing":1087,"mean":1.4763,"sd":0.4995,"p50":1,"p99":2};

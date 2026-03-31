@@ -1,0 +1,43 @@
+{
+  "concept_id": "MRI_3DT1_OBTAINED",
+  "title": "3DT1 sequences obtained",
+  "chips": ["categorical", "2 levels"],
+  "members": [
+    {
+      "concept_id": "MRI_3DT1_OBTAINED",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f92v2",
+      "dataset_stub": "h3f92v2",
+      "varname": "H923DT1",
+      "family": "F92",
+      "form_label": "MRI Acquisition Form",
+      "n_labels": "2",
+      "instrument": "F92: MRI Acquisition Form",
+      "notes": ""
+    },
+    {
+      "concept_id": "MRI_3DT1_OBTAINED",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f92b",
+      "dataset_stub": "i1f92b",
+      "varname": "I923DT1",
+      "family": "F92",
+      "form_label": "Brain MRI Initial Contact-Screening Form",
+      "n_labels": "1",
+      "instrument": "F92: Brain MRI Initial Contact-Screening Form",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

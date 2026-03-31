@@ -1,0 +1,1 @@
+window.__WEEKLY_SCORE_HARD_ACTIVITY_EXAM_A={"concept_id":"WEEKLY_SCORE_HARD_ACTIVITY","exam":"A","n":5114,"missing":6,"mean":6.8328,"sd":9.4974,"p50":3.5,"p99":45};

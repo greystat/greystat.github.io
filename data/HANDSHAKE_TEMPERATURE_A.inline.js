@@ -1,0 +1,1 @@
+window.__HANDSHAKE_TEMPERATURE_EXAM_A={"concept_id":"HANDSHAKE_TEMPERATURE","exam":"A","n":5114,"missing":1409,"n_levels":4,"mode_level":"Average"};

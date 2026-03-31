@@ -1,0 +1,1 @@
+window.__BIKE_HARD_MONTHS_EXAM_G={"concept_id":"BIKE_HARD_MONTHS","exam":"G","n":3528,"missing":2271,"mean":5.3309,"sd":3.9324,"p50":4,"p99":12};

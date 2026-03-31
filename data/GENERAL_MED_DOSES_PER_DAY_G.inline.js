@@ -1,0 +1,1 @@
+window.__GENERAL_MED_DOSES_PER_DAY_EXAM_G={"concept_id":"GENERAL_MED_DOSES_PER_DAY","exam":"G","n":4721,"missing":582,"mean":1.4857,"sd":1.1032,"p50":1,"p99":6};

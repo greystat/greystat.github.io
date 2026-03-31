@@ -1,0 +1,1 @@
+window.__ASPIRIN_PURPOSE_DETAILED_EXAM_H={"concept_id":"ASPIRIN_PURPOSE_DETAILED","exam":"H","n":606,"missing":6,"n_levels":3,"mode_level":"\"Mentioned avoiding heart attack and/or stroke or thinning blood\""};

@@ -1,0 +1,1 @@
+window.__TOBACCO_AGE_STARTED_SMOKING_EXAM_B={"concept_id":"TOBACCO_AGE_STARTED_SMOKING","exam":"B","n":2731,"missing":772,"mean":17.3007,"sd":4.79,"p50":17,"p99":28};

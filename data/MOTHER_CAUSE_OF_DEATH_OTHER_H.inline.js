@@ -1,0 +1,1 @@
+window.__MOTHER_CAUSE_OF_DEATH_OTHER_EXAM_H={"concept_id":"MOTHER_CAUSE_OF_DEATH_OTHER","exam":"H","n":3488,"missing":3472,"mean":3.75,"sd":2.8402,"p50":3,"p99":7.85};

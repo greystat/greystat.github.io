@@ -1,0 +1,1 @@
+window.__GLUCOSE_2H_Y20_NIST_MGDL_EXAM_G={"concept_id":"GLUCOSE_2H_Y20_NIST_MGDL","exam":"G","n":3503,"missing":777,"mean":107.831,"sd":38.6982,"p50":101.4327,"p99":258.6857};

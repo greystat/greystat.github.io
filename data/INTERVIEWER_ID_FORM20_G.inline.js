@@ -1,0 +1,1 @@
+window.__INTERVIEWER_ID_FORM20_EXAM_G={"concept_id":"INTERVIEWER_ID_FORM20","exam":"G","n":3547,"missing":7,"mean":285.5602,"sd":104.342,"p50":302,"p99":426};

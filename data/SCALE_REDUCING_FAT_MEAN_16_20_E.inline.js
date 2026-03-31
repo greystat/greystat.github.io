@@ -1,0 +1,1 @@
+window.__SCALE_REDUCING_FAT_MEAN_16_20_EXAM_E={"concept_id":"SCALE_REDUCING_FAT_MEAN_16_20","exam":"E","n":3949,"missing":541,"mean":4.1579,"sd":0.897,"p50":4.4,"p99":5};

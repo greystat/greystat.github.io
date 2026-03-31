@@ -1,0 +1,1 @@
+window.__ASTHMA_MED_YEARS_USE_EXAM_B={"concept_id":"ASTHMA_MED_YEARS_USE","exam":"B","n":300,"missing":4,"mean":3.6554,"sd":4.6864,"p50":2,"p99":20.15};

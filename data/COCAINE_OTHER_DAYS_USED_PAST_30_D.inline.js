@@ -1,0 +1,1 @@
+window.__COCAINE_OTHER_DAYS_USED_PAST_30_EXAM_D={"concept_id":"COCAINE_OTHER_DAYS_USED_PAST_30","exam":"D","n":4085,"missing":2825,"mean":0.2643,"sd":1.6761,"p50":0,"p99":6};

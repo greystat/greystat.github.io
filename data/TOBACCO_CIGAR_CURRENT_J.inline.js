@@ -1,0 +1,1 @@
+window.__TOBACCO_CIGAR_CURRENT_EXAM_J={"concept_id":"TOBACCO_CIGAR_CURRENT","exam":"J","n":968,"missing":873,"n_levels":4,"mode_level":"(Missing)"};

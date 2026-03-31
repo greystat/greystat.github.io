@@ -1,0 +1,1 @@
+window.__CHOL_LOWERING_MED_EXAM_DATE_EXAM_D={"concept_id":"CHOL_LOWERING_MED_EXAM_DATE","exam":"D","n":13,"missing":0,"n_levels":1,"mode_level":"23"};

@@ -1,0 +1,1 @@
+window.__CENSUS_OCCUPATION_CODE_SELF_EXAM_G={"concept_id":"CENSUS_OCCUPATION_CODE_SELF","exam":"G","n":3537,"missing":3536,"mean":237,"sd":"NA","p50":237,"p99":237};

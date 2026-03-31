@@ -1,0 +1,1 @@
+window.__CORE_URINE_ALIQUOT_3ML_YN_EXAM_G={"concept_id":"CORE_URINE_ALIQUOT_3ML_YN","exam":"G","n":3537,"missing":99,"n_levels":3,"mode_level":"2"};

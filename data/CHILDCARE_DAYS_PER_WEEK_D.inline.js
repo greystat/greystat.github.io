@@ -1,0 +1,1 @@
+window.__CHILDCARE_DAYS_PER_WEEK_EXAM_D={"concept_id":"CHILDCARE_DAYS_PER_WEEK","exam":"D","n":4085,"missing":1703,"n_levels":9,"mode_level":"(Missing)"};

@@ -1,0 +1,1 @@
+window.__SPIROMETER_HEIGHT_IN_EXAM_B={"concept_id":"SPIROMETER_HEIGHT_IN","exam":"B","n":4623,"missing":156,"mean":66.9268,"sd":3.8188,"p50":67,"p99":76};

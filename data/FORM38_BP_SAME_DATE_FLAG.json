@@ -1,0 +1,26 @@
+{
+  "concept_id": "FORM38_BP_SAME_DATE_FLAG",
+  "title": "Form 38 blood pressure same-date flag",
+  "chips": ["categorical", "1 levels", "F38 · Anger Expression", "Psychosocial"],
+  "members": [
+    {
+      "concept_id": "FORM38_BP_SAME_DATE_FLAG",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f38",
+      "dataset_stub": "g3f38",
+      "varname": "G38SDATE",
+      "family": "F38",
+      "form_label": "Anger in Expression",
+      "n_labels": "1",
+      "instrument": "F38: Anger in Expression",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "2",
+      "label": "\"Yes\""
+    }
+  ]
+}

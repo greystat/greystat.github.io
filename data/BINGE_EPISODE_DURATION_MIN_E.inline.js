@@ -1,0 +1,1 @@
+window.__BINGE_EPISODE_DURATION_MIN_EXAM_E={"concept_id":"BINGE_EPISODE_DURATION_MIN","exam":"E","n":3949,"missing":3661,"mean":120.2465,"sd":123.2837,"p50":64.5,"p99":720};

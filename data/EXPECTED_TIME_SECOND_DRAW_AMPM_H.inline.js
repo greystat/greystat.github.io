@@ -1,0 +1,1 @@
+window.__EXPECTED_TIME_SECOND_DRAW_AMPM_EXAM_H={"concept_id":"EXPECTED_TIME_SECOND_DRAW_AMPM","exam":"H","n":3503,"missing":655,"n_levels":3,"mode_level":"\"AM\""};

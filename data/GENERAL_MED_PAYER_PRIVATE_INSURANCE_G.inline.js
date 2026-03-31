@@ -1,0 +1,1 @@
+window.__GENERAL_MED_PAYER_PRIVATE_INSURANCE_EXAM_G={"concept_id":"GENERAL_MED_PAYER_PRIVATE_INSURANCE","exam":"G","n":4721,"missing":188,"n_levels":3,"mode_level":"Private health insurance"};

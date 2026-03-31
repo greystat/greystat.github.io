@@ -1,0 +1,1 @@
+window.__CONTACT_LENSES_TINTED_EXAM_C={"concept_id":"CONTACT_LENSES_TINTED","exam":"C","n":4351,"missing":3922,"n_levels":3,"mode_level":"(Missing)"};

@@ -1,0 +1,1 @@
+window.__EXAM4_WEIGHT_AVAILABLE_EXAM_E={"concept_id":"EXAM4_WEIGHT_AVAILABLE","exam":"E","n":3949,"missing":38,"n_levels":3,"mode_level":"Yes"};

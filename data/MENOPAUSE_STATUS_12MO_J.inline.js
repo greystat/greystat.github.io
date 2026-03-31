@@ -1,0 +1,1 @@
+window.__MENOPAUSE_STATUS_12MO_EXAM_J={"concept_id":"MENOPAUSE_STATUS_12MO","exam":"J","n":1421,"missing":965,"n_levels":4,"mode_level":"(Missing)"};

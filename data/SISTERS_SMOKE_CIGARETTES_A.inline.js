@@ -1,0 +1,1 @@
+window.__SISTERS_SMOKE_CIGARETTES_EXAM_A={"concept_id":"SISTERS_SMOKE_CIGARETTES","exam":"A","n":5114,"missing":34,"mean":0.5388,"sd":0.9474,"p50":0,"p99":4};

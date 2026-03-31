@@ -1,0 +1,1 @@
+window.__ASPIRIN_TABLETS_PER_WEEK_EXAM_E={"concept_id":"ASPIRIN_TABLETS_PER_WEEK","exam":"E","n":153,"missing":0,"mean":9.3268,"sd":8.2867,"p50":7,"p99":42.2};

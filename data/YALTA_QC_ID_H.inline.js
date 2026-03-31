@@ -1,0 +1,1 @@
+window.__YALTA_QC_ID_EXAM_H={"concept_id":"YALTA_QC_ID","exam":"H","n":3487,"missing":2905,"mean":30486.3368,"sd":11123.9352,"p50":35005.5,"p99":45319.19};

@@ -1,0 +1,1 @@
+window.__SAME_DAY_SURGERY_ADMISSION_DATE_EXAM_F={"concept_id":"SAME_DAY_SURGERY_ADMISSION_DATE","exam":"F","n":3671,"missing":3393,"mean":1998.7374,"sd":1.7267,"p50":1999,"p99":2001};

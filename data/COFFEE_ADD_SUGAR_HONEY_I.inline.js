@@ -1,0 +1,1 @@
+window.__COFFEE_ADD_SUGAR_HONEY_EXAM_I={"concept_id":"COFFEE_ADD_SUGAR_HONEY","exam":"I","n":3278,"missing":2312,"n_levels":2,"mode_level":"(Missing)"};

@@ -1,0 +1,1 @@
+window.__PULMONARY_VEIN_DIASTOLIC_VEL_EXAM_I={"concept_id":"PULMONARY_VEIN_DIASTOLIC_VEL","exam":"I","n":3184,"missing":336,"mean":42.9473,"sd":11.3599,"p50":41.695,"p99":75.1374};

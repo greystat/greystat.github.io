@@ -1,0 +1,1 @@
+window.__URINARY_ALBUMIN_MGDL_EXAM_I={"concept_id":"URINARY_ALBUMIN_MGDL","exam":"I","n":3336,"missing":0,"mean":3.1126,"sd":19.0002,"p50":0.657,"p99":49.06};

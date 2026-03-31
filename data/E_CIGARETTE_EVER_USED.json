@@ -1,0 +1,43 @@
+{
+  "concept_id": "E_CIGARETTE_EVER_USED",
+  "title": "Ever used e-cigarettes",
+  "chips": ["categorical", "2 levels", "F10 · Tobacco Use Questionnaire", "Substance Use"],
+  "members": [
+    {
+      "concept_id": "E_CIGARETTE_EVER_USED",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f10",
+      "dataset_stub": "i1f10",
+      "varname": "I10ECIG",
+      "family": "F10",
+      "form_label": "Tobacco Use Questionnarie",
+      "n_labels": "2",
+      "instrument": "F10: Tobacco Use Questionnarie",
+      "notes": ""
+    },
+    {
+      "concept_id": "E_CIGARETTE_EVER_USED",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f10",
+      "dataset_stub": "j1f10",
+      "varname": "J10ECIG",
+      "family": "F10",
+      "form_label": "Tobacco Use Questionnaire",
+      "n_labels": "1",
+      "instrument": "F10: Tobacco Use Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

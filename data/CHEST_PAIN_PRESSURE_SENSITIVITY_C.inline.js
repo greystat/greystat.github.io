@@ -1,0 +1,1 @@
+window.__CHEST_PAIN_PRESSURE_SENSITIVITY_EXAM_C={"concept_id":"CHEST_PAIN_PRESSURE_SENSITIVITY","exam":"C","n":4351,"missing":3381,"n_levels":3,"mode_level":"(Missing)"};

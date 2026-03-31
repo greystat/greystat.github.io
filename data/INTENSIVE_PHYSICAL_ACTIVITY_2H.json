@@ -1,0 +1,65 @@
+{
+  "concept_id": "INTENSIVE_PHYSICAL_ACTIVITY_2H",
+  "title": "Intensive physical activity in past 2 hours",
+  "chips": ["categorical", "1 levels", "F02 · Blood Pressure", "Cardiovascular"],
+  "members": [
+    {
+      "concept_id": "INTENSIVE_PHYSICAL_ACTIVITY_2H",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f02",
+      "dataset_stub": "g3f02",
+      "varname": "G02PACT02",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "INTENSIVE_PHYSICAL_ACTIVITY_2H",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f02v2",
+      "dataset_stub": "h3f02v2",
+      "varname": "H02PACT02",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "INTENSIVE_PHYSICAL_ACTIVITY_2H",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f02",
+      "dataset_stub": "i1f02",
+      "varname": "I02PACT02",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    },
+    {
+      "concept_id": "INTENSIVE_PHYSICAL_ACTIVITY_2H",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f02",
+      "dataset_stub": "j1f02",
+      "varname": "J02PACT02",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    }
+  ]
+}

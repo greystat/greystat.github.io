@@ -1,0 +1,36 @@
+{
+  "concept_id": "TRICUSPID_ANNULAR_TAPSE",
+  "title": "Tricuspid annular peak systolic excursion (TAPSE)",
+  "unit": {},
+  "chips": ["numeric", "ECHO · Echocardiography", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "TRICUSPID_ANNULAR_TAPSE",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h10echo",
+      "dataset_stub": "h10echo",
+      "varname": "HTAPSE",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "ECHO",
+      "notes": ""
+    },
+    {
+      "concept_id": "TRICUSPID_ANNULAR_TAPSE",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i5echo",
+      "dataset_stub": "i5echo",
+      "varname": "ITAPSE",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "ECHO",
+      "notes": ""
+    }
+  ]
+}

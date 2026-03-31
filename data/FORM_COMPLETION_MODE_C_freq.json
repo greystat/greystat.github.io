@@ -1,0 +1,892 @@
+{
+  "concept_id": "FORM_COMPLETION_MODE",
+  "exam": "C",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1105,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 930,
+            "pct": 84.2
+          },
+          {
+            "level": "Telephone",
+            "count": 172,
+            "pct": 15.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.3
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 475,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 396,
+            "pct": 83.4
+          },
+          {
+            "level": "Telephone",
+            "count": 78,
+            "pct": 16.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 630,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 534,
+            "pct": 84.8
+          },
+          {
+            "level": "Telephone",
+            "count": 94,
+            "pct": 14.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 610,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 507,
+            "pct": 83.1
+          },
+          {
+            "level": "Telephone",
+            "count": 100,
+            "pct": 16.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 495,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 423,
+            "pct": 85.5
+          },
+          {
+            "level": "Telephone",
+            "count": 72,
+            "pct": 14.5
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 156,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 149,
+            "pct": 95.5
+          },
+          {
+            "level": "Telephone",
+            "count": 7,
+            "pct": 4.5
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 208,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 206,
+            "pct": 99
+          },
+          {
+            "level": "Telephone",
+            "count": 2,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 352,
+        "missing": 1,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 351,
+            "pct": 99.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 389,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 224,
+            "pct": 57.6
+          },
+          {
+            "level": "Telephone",
+            "count": 163,
+            "pct": 41.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 246,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 203,
+            "pct": 82.5
+          },
+          {
+            "level": "Telephone",
+            "count": 42,
+            "pct": 17.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 364,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 304,
+            "pct": 83.5
+          },
+          {
+            "level": "Telephone",
+            "count": 58,
+            "pct": 15.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 229,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 193,
+            "pct": 84.3
+          },
+          {
+            "level": "Telephone",
+            "count": 36,
+            "pct": 15.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 266,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 230,
+            "pct": 86.5
+          },
+          {
+            "level": "Telephone",
+            "count": 36,
+            "pct": 13.5
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 71,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 67,
+            "pct": 94.4
+          },
+          {
+            "level": "Telephone",
+            "count": 4,
+            "pct": 5.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 94,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 93,
+            "pct": 98.9
+          },
+          {
+            "level": "Telephone",
+            "count": 1,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 149,
+        "missing": 1,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 148,
+            "pct": 99.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 161,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 88,
+            "pct": 54.7
+          },
+          {
+            "level": "Telephone",
+            "count": 73,
+            "pct": 45.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 85,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 82,
+            "pct": 96.5
+          },
+          {
+            "level": "Telephone",
+            "count": 3,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 114,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 113,
+            "pct": 99.1
+          },
+          {
+            "level": "Telephone",
+            "count": 1,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 203,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 203,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 228,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 136,
+            "pct": 59.6
+          },
+          {
+            "level": "Telephone",
+            "count": 90,
+            "pct": 39.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.9
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 102,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 99,
+            "pct": 97.1
+          },
+          {
+            "level": "Telephone",
+            "count": 3,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 134,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 133,
+            "pct": 99.3
+          },
+          {
+            "level": "Telephone",
+            "count": 1,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 129,
+        "missing": 1,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 128,
+            "pct": 99.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 245,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 147,
+            "pct": 60
+          },
+          {
+            "level": "Telephone",
+            "count": 96,
+            "pct": 39.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 54,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 50,
+            "pct": 92.6
+          },
+          {
+            "level": "Telephone",
+            "count": 4,
+            "pct": 7.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 74,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 73,
+            "pct": 98.6
+          },
+          {
+            "level": "Telephone",
+            "count": 1,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 223,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 223,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 144,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 77,
+            "pct": 53.5
+          },
+          {
+            "level": "Telephone",
+            "count": 67,
+            "pct": 46.5
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 41,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 39,
+            "pct": 95.1
+          },
+          {
+            "level": "Telephone",
+            "count": 2,
+            "pct": 4.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 54,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 53,
+            "pct": 98.1
+          },
+          {
+            "level": "Telephone",
+            "count": 1,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 53,
+        "missing": 1,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 52,
+            "pct": 98.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 98,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 59,
+            "pct": 60.2
+          },
+          {
+            "level": "Telephone",
+            "count": 39,
+            "pct": 39.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 61,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 60,
+            "pct": 98.4
+          },
+          {
+            "level": "Telephone",
+            "count": 1,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 80,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 80,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 76,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 76,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 147,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 88,
+            "pct": 59.9
+          },
+          {
+            "level": "Telephone",
+            "count": 57,
+            "pct": 38.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 30,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 28,
+            "pct": 93.3
+          },
+          {
+            "level": "Telephone",
+            "count": 2,
+            "pct": 6.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 40,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 40,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 96,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 96,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 63,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Telephone",
+        "freq": [
+          {
+            "level": "Telephone",
+            "count": 34,
+            "pct": 54
+          },
+          {
+            "level": "Person-to-person",
+            "count": 29,
+            "pct": 46
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 24,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 22,
+            "pct": 91.7
+          },
+          {
+            "level": "Telephone",
+            "count": 2,
+            "pct": 8.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 34,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 33,
+            "pct": 97.1
+          },
+          {
+            "level": "Telephone",
+            "count": 1,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 127,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 127,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 81,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Person-to-person",
+        "freq": [
+          {
+            "level": "Person-to-person",
+            "count": 48,
+            "pct": 59.3
+          },
+          {
+            "level": "Telephone",
+            "count": 33,
+            "pct": 40.7
+          }
+        ]
+      }
+    ]
+  }
+}

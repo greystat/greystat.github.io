@@ -1,0 +1,1 @@
+window.__EXAM_DATE_F91_EXAM_J={"concept_id":"EXAM_DATE_F91","exam":"J","n":2499,"missing":189,"mean":2020.6944,"sd":4.3012,"p50":2021,"p99":2022};

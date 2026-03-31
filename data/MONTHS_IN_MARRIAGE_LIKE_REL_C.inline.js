@@ -1,0 +1,1 @@
+window.__MONTHS_IN_MARRIAGE_LIKE_REL_EXAM_C={"concept_id":"MONTHS_IN_MARRIAGE_LIKE_REL","exam":"C","n":4351,"missing":3775,"mean":3.4618,"sd":3.3785,"p50":3,"p99":11};

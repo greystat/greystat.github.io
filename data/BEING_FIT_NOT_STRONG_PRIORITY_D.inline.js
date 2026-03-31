@@ -1,0 +1,1 @@
+window.__BEING_FIT_NOT_STRONG_PRIORITY_EXAM_D={"concept_id":"BEING_FIT_NOT_STRONG_PRIORITY","exam":"D","n":4085,"missing":56,"n_levels":6,"mode_level":"Mostly disagree"};

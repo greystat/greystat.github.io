@@ -1,0 +1,1 @@
+window.__BIRTH_CONTROL_SAME_DATE_BP_EXAM_G={"concept_id":"BIRTH_CONTROL_SAME_DATE_BP","exam":"G","n":1626,"missing":6,"n_levels":2,"mode_level":"\"Yes\""};

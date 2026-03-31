@@ -1,0 +1,36 @@
+{
+  "concept_id": "MITRAL_ISOVOLUMIC_RELAX_TIME",
+  "title": "Mitral valve isovolumic relaxation time",
+  "unit": {},
+  "chips": ["numeric", "ECHO · Echocardiography", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "MITRAL_ISOVOLUMIC_RELAX_TIME",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h10echo",
+      "dataset_stub": "h10echo",
+      "varname": "HMVIVRT",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "ECHO",
+      "notes": ""
+    },
+    {
+      "concept_id": "MITRAL_ISOVOLUMIC_RELAX_TIME",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i5echo",
+      "dataset_stub": "i5echo",
+      "varname": "IMVIVRT",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "ECHO",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__MEAL_PATTERN_BREAKFAST_DAYS_PER_MONTH_EXAM_G={"concept_id":"MEAL_PATTERN_BREAKFAST_DAYS_PER_MONTH","exam":"G","n":3142,"missing":2886,"mean":6.9258,"sd":8.2907,"p50":4,"p99":30};

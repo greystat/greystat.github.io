@@ -1,0 +1,1 @@
+window.__CORR_DBP3_EXAM_E={"concept_id":"CORR_DBP3","exam":"E","n":3949,"missing":14,"mean":72.6559,"sd":10.524,"p50":72,"p99":102};

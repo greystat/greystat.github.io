@@ -1,0 +1,1 @@
+window.__F08_TBAG_EXAM_F={"concept_id":"F08_TBAG","exam":"F","n":3671,"missing":3546,"mean":23.984,"sd":10.9875,"p50":25,"p99":44.76};

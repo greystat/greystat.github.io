@@ -1,0 +1,1 @@
+window.__LEFT_ATRIAL_AREA_2D_EXAM_C={"concept_id":"LEFT_ATRIAL_AREA_2D","exam":"C","n":4351,"missing":1847,"mean":15.7884,"sd":3.4609,"p50":15.52,"p99":24.6697};

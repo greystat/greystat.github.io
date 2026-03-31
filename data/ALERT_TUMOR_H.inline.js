@@ -1,0 +1,1 @@
+window.__ALERT_TUMOR_EXAM_H={"concept_id":"ALERT_TUMOR","exam":"H","n":3470,"missing":3470,"n_levels":1,"mode_level":"(Missing)"};

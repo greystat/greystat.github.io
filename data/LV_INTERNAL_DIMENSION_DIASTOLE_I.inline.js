@@ -1,0 +1,1 @@
+window.__LV_INTERNAL_DIMENSION_DIASTOLE_EXAM_I={"concept_id":"LV_INTERNAL_DIMENSION_DIASTOLE","exam":"I","n":3184,"missing":69,"mean":4.8232,"sd":0.5108,"p50":4.801,"p99":6.209};

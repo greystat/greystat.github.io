@@ -1,0 +1,1 @@
+window.__STRESS_EVENT_DURATION_MIN_EXAM_F={"concept_id":"STRESS_EVENT_DURATION_MIN","exam":"F","n":814,"missing":88,"mean":114.2025,"sd":195.1705,"p50":45,"p99":900};

@@ -1,0 +1,1 @@
+window.__CIGARETTE_SMOKING_YN_EXAM_F={"concept_id":"CIGARETTE_SMOKING_YN","exam":"F","n":814,"missing":4,"n_levels":3,"mode_level":"0"};

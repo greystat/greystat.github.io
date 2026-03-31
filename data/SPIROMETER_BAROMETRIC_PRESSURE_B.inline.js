@@ -1,0 +1,1 @@
+window.__SPIROMETER_BAROMETRIC_PRESSURE_EXAM_B={"concept_id":"SPIROMETER_BAROMETRIC_PRESSURE","exam":"B","n":4623,"missing":155,"mean":760.4902,"sd":8.9913,"p50":760,"p99":779};

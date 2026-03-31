@@ -1,0 +1,1 @@
+window.__YEAR0_CENTER_EXAM_H={"concept_id":"YEAR0_CENTER","exam":"H","n":3395,"missing":0,"mean":2.5588,"sd":1.1165,"p50":3,"p99":4};

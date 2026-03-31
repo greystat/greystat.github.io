@@ -1,0 +1,1 @@
+window.__BRONCHITIS_ACUTE_DOCTOR_CONFIRMED_EXAM_A={"concept_id":"BRONCHITIS_ACUTE_DOCTOR_CONFIRMED","exam":"A","n":5114,"missing":17,"n_levels":4,"mode_level":"0"};

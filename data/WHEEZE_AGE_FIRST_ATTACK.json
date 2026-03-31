@@ -1,0 +1,78 @@
+{
+  "concept_id": "WHEEZE_AGE_FIRST_ATTACK",
+  "title": "Age at first wheezy chest attack",
+  "unit": "years",
+  "chips": ["numeric", "years", "F12 · Lung Disease History", "Pulmonary"],
+  "members": [
+    {
+      "concept_id": "WHEEZE_AGE_FIRST_ATTACK",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f12",
+      "dataset_stub": "a4f12",
+      "varname": "A12WHAGE",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F12: History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "notes": ""
+    },
+    {
+      "concept_id": "WHEEZE_AGE_FIRST_ATTACK",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f12",
+      "dataset_stub": "b2f12",
+      "varname": "B12WHAGE",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F12: History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "notes": ""
+    },
+    {
+      "concept_id": "WHEEZE_AGE_FIRST_ATTACK",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f12",
+      "dataset_stub": "e1f12",
+      "varname": "E12WHAGE",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F12: History of Lung Problems Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "WHEEZE_AGE_FIRST_ATTACK",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f12",
+      "dataset_stub": "f1f12",
+      "varname": "F12WHAGE",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F12: History of Lung Problems Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "WHEEZE_AGE_FIRST_ATTACK",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f12",
+      "dataset_stub": "g3f12",
+      "varname": "G12WHAGE",
+      "family": "F12",
+      "form_label": "History of Lung Problems",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F12: History of Lung Problems",
+      "notes": ""
+    }
+  ]
+}

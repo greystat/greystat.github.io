@@ -1,0 +1,832 @@
+{
+  "concept_id": "MRI_ATTEMPTED_SCAN_COMPLETED",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 663,
+        "missing": 5,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 645,
+            "pct": 97.3
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 13,
+            "pct": 2
+          },
+          {
+            "level": "(Missing)",
+            "count": 5,
+            "pct": 0.8
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 317,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 309,
+            "pct": 97.5
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 6,
+            "pct": 1.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 346,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 336,
+            "pct": 97.1
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 7,
+            "pct": 2
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.9
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 266,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 258,
+            "pct": 97
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 6,
+            "pct": 2.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 397,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 387,
+            "pct": 97.5
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 7,
+            "pct": 1.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.8
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 178,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 178,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 2,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 254,
+        "missing": 5,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 240,
+            "pct": 94.5
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 9,
+            "pct": 3.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 5,
+            "pct": 2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 229,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 225,
+            "pct": 98.3
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 4,
+            "pct": 1.7
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 123,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 121,
+            "pct": 98.4
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 2,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 143,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 137,
+            "pct": 95.8
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 4,
+            "pct": 2.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 194,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 188,
+            "pct": 96.9
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 4,
+            "pct": 2.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 203,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 199,
+            "pct": 98
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 3,
+            "pct": 1.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 85,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 85,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 2,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 122,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 115,
+            "pct": 94.3
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 5,
+            "pct": 4.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 108,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 107,
+            "pct": 99.1
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 1,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 93,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 93,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 0,
+        "missing": 0,
+        "n_levels": 0,
+        "mode_level": null,
+        "freq": []
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 132,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 125,
+            "pct": 94.7
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 4,
+            "pct": 3
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 121,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 118,
+            "pct": 97.5
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 3,
+            "pct": 2.5
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 96,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 96,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 0,
+        "missing": 0,
+        "n_levels": 0,
+        "mode_level": null,
+        "freq": []
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 79,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 72,
+            "pct": 91.1
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 5,
+            "pct": 6.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 2.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 91,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 90,
+            "pct": 98.9
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 1,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 82,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 82,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 2,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 175,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 168,
+            "pct": 96
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 4,
+            "pct": 2.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 138,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 135,
+            "pct": 97.8
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 3,
+            "pct": 2.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 48,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 48,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 0,
+        "missing": 0,
+        "n_levels": 0,
+        "mode_level": null,
+        "freq": []
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 36,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 34,
+            "pct": 94.4
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 2,
+            "pct": 5.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 39,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 39,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 48,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 48,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 0,
+        "missing": 0,
+        "n_levels": 0,
+        "mode_level": null,
+        "freq": []
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 43,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 38,
+            "pct": 88.4
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 3,
+            "pct": 7
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 52,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 51,
+            "pct": 98.1
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 1,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 37,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 37,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 2,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 86,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 81,
+            "pct": 94.2
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 3,
+            "pct": 3.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 69,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 68,
+            "pct": 98.6
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 1,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 45,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 45,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 0,
+        "missing": 0,
+        "n_levels": 0,
+        "mode_level": null,
+        "freq": []
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 89,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 87,
+            "pct": 97.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 1.1
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 1,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 69,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "2",
+        "freq": [
+          {
+            "level": "2",
+            "count": 67,
+            "pct": 97.1
+          },
+          {
+            "level": "Attempted but not completed",
+            "count": 2,
+            "pct": 2.9
+          }
+        ]
+      }
+    ]
+  }
+}

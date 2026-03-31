@@ -1,0 +1,1 @@
+window.__SERUM_ALDOSTERONE_PG_ML_EXAM_E={"concept_id":"SERUM_ALDOSTERONE_PG_ML","exam":"E","n":232,"missing":4,"mean":83.9408,"sd":63.9679,"p50":66.35,"p99":245.057};

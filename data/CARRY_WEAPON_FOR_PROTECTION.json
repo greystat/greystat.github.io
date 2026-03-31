@@ -1,0 +1,30 @@
+{
+  "concept_id": "CARRY_WEAPON_FOR_PROTECTION",
+  "title": "Carry gun or knife for protection",
+  "chips": ["categorical", "2 levels", "F32 · Dietary Assessment (Follow-up)", "Diet"],
+  "members": [
+    {
+      "concept_id": "CARRY_WEAPON_FOR_PROTECTION",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f32",
+      "dataset_stub": "b2f32",
+      "varname": "B32CYGUN",
+      "family": "F32",
+      "form_label": "Safety/Accident Questionnaire",
+      "n_labels": "2",
+      "instrument": "F32: Safety/Accident Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__MRI_TRANSMISSION_DATE_TO_MRQC_EXAM_I={"concept_id":"MRI_TRANSMISSION_DATE_TO_MRQC","exam":"I","n":663,"missing":6,"mean":2015.5647,"sd":0.4992,"p50":2016,"p99":2016};

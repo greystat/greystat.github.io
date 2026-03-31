@@ -1,0 +1,1 @@
+window.__YTUBE_SYSTOLIC_READING_5_EXAM_C={"concept_id":"YTUBE_SYSTOLIC_READING_5","exam":"C","n":316,"missing":278,"mean":113.4737,"sd":10.2265,"p50":113,"p99":130};

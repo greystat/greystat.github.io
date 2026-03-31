@@ -1,0 +1,1 @@
+window.__FAST_AT_LEAST_8H_EXAM_G={"concept_id":"FAST_AT_LEAST_8H","exam":"G","n":3535,"missing":572,"n_levels":3,"mode_level":"Yes"};

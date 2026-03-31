@@ -1,0 +1,1 @@
+window.__ANGINA_OR_CHEST_PAIN_EXAM_D={"concept_id":"ANGINA_OR_CHEST_PAIN","exam":"D","n":5114,"missing":5047,"n_levels":3,"mode_level":"(Missing)"};

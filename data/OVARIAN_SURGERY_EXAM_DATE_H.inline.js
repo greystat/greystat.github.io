@@ -1,0 +1,1 @@
+window.__OVARIAN_SURGERY_EXAM_DATE_EXAM_H={"concept_id":"OVARIAN_SURGERY_EXAM_DATE","exam":"H","n":273,"missing":271,"mean":2011,"sd":0,"p50":2011,"p99":2011};

@@ -1,0 +1,1 @@
+window.__SCAN_DATE_EXAM_G={"concept_id":"SCAN_DATE","exam":"G","n":3139,"missing":0,"mean":2005.5059,"sd":0.5,"p50":2006,"p99":2006};

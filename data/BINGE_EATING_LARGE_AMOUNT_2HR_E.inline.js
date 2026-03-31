@@ -1,0 +1,1 @@
+window.__BINGE_EATING_LARGE_AMOUNT_2HR_EXAM_E={"concept_id":"BINGE_EATING_LARGE_AMOUNT_2HR","exam":"E","n":3949,"missing":37,"n_levels":3,"mode_level":"No"};

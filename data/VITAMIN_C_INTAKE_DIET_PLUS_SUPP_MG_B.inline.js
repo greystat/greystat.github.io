@@ -1,0 +1,1 @@
+window.__VITAMIN_C_INTAKE_DIET_PLUS_SUPP_MG_EXAM_B={"concept_id":"VITAMIN_C_INTAKE_DIET_PLUS_SUPP_MG","exam":"B","n":4623,"missing":58,"mean":317.1476,"sd":419.6713,"p50":193.7,"p99":1888};

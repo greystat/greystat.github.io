@@ -1,0 +1,1 @@
+window.__FRAMINGHAM_TYPE_A_B_SCORE_EXAM_B={"concept_id":"FRAMINGHAM_TYPE_A_B_SCORE","exam":"B","n":4623,"missing":66,"mean":0.4854,"sd":0.2089,"p50":0.499,"p99":0.934};

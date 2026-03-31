@@ -1,0 +1,1 @@
+window.__MRI_ASL_CALIBRATION_OBTAINED_EXAM_H={"concept_id":"MRI_ASL_CALIBRATION_OBTAINED","exam":"H","n":716,"missing":69,"n_levels":3,"mode_level":"Yes"};

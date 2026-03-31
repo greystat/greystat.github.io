@@ -1,0 +1,26 @@
+{
+  "concept_id": "BLOOD_PRESSURE_SAME_DATE_FLAG",
+  "title": "Blood pressure taken on same date as lung exam",
+  "chips": ["categorical", "1 levels", "F12 · Lung Disease History", "Pulmonary"],
+  "members": [
+    {
+      "concept_id": "BLOOD_PRESSURE_SAME_DATE_FLAG",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f12",
+      "dataset_stub": "g3f12",
+      "varname": "G12SDATE",
+      "family": "F12",
+      "form_label": "History of Lung Problems",
+      "n_labels": "1",
+      "instrument": "F12: History of Lung Problems",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "2",
+      "label": "\"Yes\""
+    }
+  ]
+}

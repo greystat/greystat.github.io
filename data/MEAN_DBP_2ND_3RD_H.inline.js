@@ -1,0 +1,1 @@
+window.__MEAN_DBP_2ND_3RD_EXAM_H={"concept_id":"MEAN_DBP_2ND_3RD","exam":"H","n":3496,"missing":5,"mean":74.9003,"sd":11.282,"p50":74,"p99":105};

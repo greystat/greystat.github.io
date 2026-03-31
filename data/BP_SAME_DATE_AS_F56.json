@@ -1,0 +1,26 @@
+{
+  "concept_id": "BP_SAME_DATE_AS_F56",
+  "title": "Blood pressure taken on same date as Form 56",
+  "chips": ["categorical", "1 levels", "F56 · Neighborhood Cohesion", "Social & Neighborhood"],
+  "members": [
+    {
+      "concept_id": "BP_SAME_DATE_AS_F56",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f56",
+      "dataset_stub": "g3f56",
+      "varname": "G56SDATE",
+      "family": "F56",
+      "form_label": "Neighborhood Cohesion",
+      "n_labels": "1",
+      "instrument": "F56: Neighborhood Cohesion",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "2",
+      "label": "\"Yes\""
+    }
+  ]
+}

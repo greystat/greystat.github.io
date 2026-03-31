@@ -1,0 +1,1 @@
+window.__SUPINE_HEART_RATE_EXAM_D={"concept_id":"SUPINE_HEART_RATE","exam":"D","n":2982,"missing":152,"mean":66.5293,"sd":10.9509,"p50":66,"p99":99.71};

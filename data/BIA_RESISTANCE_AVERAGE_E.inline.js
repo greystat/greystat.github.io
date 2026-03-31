@@ -1,0 +1,1 @@
+window.__BIA_RESISTANCE_AVERAGE_EXAM_E={"concept_id":"BIA_RESISTANCE_AVERAGE","exam":"E","n":3949,"missing":3718,"mean":528.5758,"sd":89.4189,"p50":519,"p99":769.7};

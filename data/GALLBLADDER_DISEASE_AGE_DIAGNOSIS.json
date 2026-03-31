@@ -1,0 +1,36 @@
+{
+  "concept_id": "GALLBLADDER_DISEASE_AGE_DIAGNOSIS",
+  "title": "Age at diagnosis of gallstone or gallbladder disease (years)",
+  "unit": "years",
+  "chips": ["numeric", "years"],
+  "members": [
+    {
+      "concept_id": "GALLBLADDER_DISEASE_AGE_DIAGNOSIS",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f09gen",
+      "dataset_stub": "a4f09gen",
+      "varname": "A09GALDA",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "GALLBLADDER_DISEASE_AGE_DIAGNOSIS",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f09gal",
+      "dataset_stub": "b2f09gal",
+      "varname": "B09GALDA",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

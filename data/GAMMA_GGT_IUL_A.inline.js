@@ -1,0 +1,1 @@
+window.__GAMMA_GGT_IUL_EXAM_A={"concept_id":"GAMMA_GGT_IUL","exam":"A","n":5114,"missing":65,"mean":11.168,"sd":18.8275,"p50":8,"p99":66};

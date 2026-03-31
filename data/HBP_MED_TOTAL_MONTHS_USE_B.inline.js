@@ -1,0 +1,1 @@
+window.__HBP_MED_TOTAL_MONTHS_USE_EXAM_B={"concept_id":"HBP_MED_TOTAL_MONTHS_USE","exam":"B","n":131,"missing":1,"mean":18.1462,"sd":26.871,"p50":6.5,"p99":100.26};

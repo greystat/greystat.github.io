@@ -1,0 +1,47 @@
+{
+  "concept_id": "FATHER_CANCER_EVER",
+  "title": "Father ever had cancer",
+  "chips": ["categorical", "3 levels", "F11 · Family History", "Sociodemographic"],
+  "members": [
+    {
+      "concept_id": "FATHER_CANCER_EVER",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f11",
+      "dataset_stub": "h4f11",
+      "varname": "H11FCANC1",
+      "family": "F11",
+      "form_label": "Family History",
+      "n_labels": "3",
+      "instrument": "F11: Family History",
+      "notes": ""
+    },
+    {
+      "concept_id": "FATHER_CANCER_EVER",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f11",
+      "dataset_stub": "h4f11",
+      "varname": "H11FCANC2",
+      "family": "F11",
+      "form_label": "Family History",
+      "n_labels": "3",
+      "instrument": "F11: Family History",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "8",
+      "label": "Do not know"
+    }
+  ]
+}

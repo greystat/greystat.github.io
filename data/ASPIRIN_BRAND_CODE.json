@@ -1,0 +1,36 @@
+{
+  "concept_id": "ASPIRIN_BRAND_CODE",
+  "title": "Brand name medication code (aspirin)",
+  "unit": "code",
+  "chips": ["numeric", "code"],
+  "members": [
+    {
+      "concept_id": "ASPIRIN_BRAND_CODE",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09asp",
+      "dataset_stub": "g3f09asp",
+      "varname": "G09IMDCD",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "code",
+      "units_class": "code",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "ASPIRIN_BRAND_CODE",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f09asp",
+      "dataset_stub": "h3f09asp",
+      "varname": "H09IMDCD",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "code",
+      "units_class": "code",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__SMOKED_PAST_24H_EXAM_B={"concept_id":"SMOKED_PAST_24H","exam":"B","n":4623,"missing":6,"n_levels":4,"mode_level":"Don't smoke or usse tobacco"};

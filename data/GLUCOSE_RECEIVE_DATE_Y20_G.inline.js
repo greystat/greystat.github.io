@@ -1,0 +1,1 @@
+window.__GLUCOSE_RECEIVE_DATE_Y20_EXAM_G={"concept_id":"GLUCOSE_RECEIVE_DATE_Y20","exam":"G","n":3503,"missing":0,"mean":2005.5147,"sd":0.4999,"p50":2006,"p99":2006};

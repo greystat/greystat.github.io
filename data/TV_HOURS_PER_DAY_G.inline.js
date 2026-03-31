@@ -1,0 +1,1 @@
+window.__TV_HOURS_PER_DAY_EXAM_G={"concept_id":"TV_HOURS_PER_DAY","exam":"G","n":3528,"missing":178,"mean":2.5785,"sd":2.3149,"p50":2,"p99":12};

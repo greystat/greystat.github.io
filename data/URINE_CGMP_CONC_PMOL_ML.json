@@ -1,0 +1,22 @@
+{
+  "concept_id": "URINE_CGMP_CONC_PMOL_ML",
+  "title": "Urine cyclic GMP concentration (pmol/mL, unadjusted)",
+  "unit": "pmol/mL",
+  "chips": ["numeric", "pmol/mL"],
+  "members": [
+    {
+      "concept_id": "URINE_CGMP_CONC_PMOL_ML",
+      "exam": "C",
+      "exam_year": "",
+      "dataset": "c1gmp",
+      "dataset_stub": "c1gmp",
+      "varname": "C1GMP",
+      "family": "GMP",
+      "form_label": "",
+      "units_std": "pmol/mL",
+      "units_class": "concentration",
+      "instrument": "GMP",
+      "notes": ""
+    }
+  ]
+}

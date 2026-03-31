@@ -1,0 +1,1 @@
+window.__AVG_FLOW_DAYS_12MO_EXAM_F={"concept_id":"AVG_FLOW_DAYS_12MO","exam":"F","n":2051,"missing":460,"n_levels":4,"mode_level":"\"About the same all the time\""};

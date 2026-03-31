@@ -1,0 +1,1 @@
+window.__NUM_PEOPLE_IN_HOUSEHOLD_EXAM_B={"concept_id":"NUM_PEOPLE_IN_HOUSEHOLD","exam":"B","n":4623,"missing":42,"mean":3.0172,"sd":2.4274,"p50":3,"p99":8};

@@ -1,0 +1,56 @@
+{
+  "concept_id": "ANY_BLOOD_COLLECTED_SECOND_DRAW_DELAYED",
+  "title": "Blood collected at second blood draw (delayed OGTT)",
+  "chips": ["categorical", "2 levels", "F05 · Phlebotomy", "Specimen Collection"],
+  "members": [
+    {
+      "concept_id": "ANY_BLOOD_COLLECTED_SECOND_DRAW_DELAYED",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f05",
+      "dataset_stub": "g4f05a",
+      "varname": "G05ABLDOZ",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "ANY_BLOOD_COLLECTED_SECOND_DRAW_DELAYED",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f05a",
+      "dataset_stub": "h3f05a",
+      "varname": "H05ABLDOZ",
+      "family": "F05",
+      "form_label": "Phlebotomy-Delayed OGTT",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy-Delayed OGTT",
+      "notes": ""
+    },
+    {
+      "concept_id": "ANY_BLOOD_COLLECTED_SECOND_DRAW_DELAYED",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f05a",
+      "dataset_stub": "i1f05a",
+      "varname": "I05ABLDOZ",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

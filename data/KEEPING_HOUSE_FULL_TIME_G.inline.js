@@ -1,0 +1,1 @@
+window.__KEEPING_HOUSE_FULL_TIME_EXAM_G={"concept_id":"KEEPING_HOUSE_FULL_TIME","exam":"G","n":3537,"missing":0,"n_levels":3,"mode_level":"No"};

@@ -1,0 +1,1 @@
+window.__HOSPITALIZATION_COUNT_SINCE_LAST_EXAM_EXAM_D={"concept_id":"HOSPITALIZATION_COUNT_SINCE_LAST_EXAM","exam":"D","n":4085,"missing":3417,"n_levels":7,"mode_level":"(Missing)"};

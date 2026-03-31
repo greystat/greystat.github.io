@@ -1,0 +1,47 @@
+{
+  "concept_id": "CHEST_COLD_GOES_TO_CHEST",
+  "title": "Cold usually goes to chest",
+  "chips": ["categorical", "3 levels", "F12 · Lung Disease History", "Pulmonary"],
+  "members": [
+    {
+      "concept_id": "CHEST_COLD_GOES_TO_CHEST",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f12",
+      "dataset_stub": "a4f12",
+      "varname": "A12CCOLD",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "n_labels": "3",
+      "instrument": "F12: History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "notes": ""
+    },
+    {
+      "concept_id": "CHEST_COLD_GOES_TO_CHEST",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f12",
+      "dataset_stub": "g3f12",
+      "varname": "G12CHEST",
+      "family": "F12",
+      "form_label": "History of Lung Problems",
+      "n_labels": "1",
+      "instrument": "F12: History of Lung Problems",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "8",
+      "label": "Don't get colds"
+    }
+  ]
+}

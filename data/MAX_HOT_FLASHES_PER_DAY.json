@@ -1,0 +1,36 @@
+{
+  "concept_id": "MAX_HOT_FLASHES_PER_DAY",
+  "title": "Maximum number of moderate/severe hot flashes per day",
+  "unit": "Flashes per day",
+  "chips": ["numeric", "Flashes per day", "F68 · Reproductive Health", "Reproductive Health"],
+  "members": [
+    {
+      "concept_id": "MAX_HOT_FLASHES_PER_DAY",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f68",
+      "dataset_stub": "i1f68",
+      "varname": "I68HFAVG",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health Questionnaire",
+      "units_std": "Flashes per day",
+      "units_class": "other",
+      "instrument": "F68: Women's Reproductive Health Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "MAX_HOT_FLASHES_PER_DAY",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j2f68",
+      "dataset_stub": "j2f68",
+      "varname": "J68HFAVG",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health Questionnaire",
+      "units_std": "count",
+      "units_class": "count",
+      "instrument": "F68: Women's Reproductive Health Questionnaire",
+      "notes": ""
+    }
+  ]
+}

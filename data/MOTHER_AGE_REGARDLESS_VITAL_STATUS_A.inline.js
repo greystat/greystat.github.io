@@ -1,0 +1,1 @@
+window.__MOTHER_AGE_REGARDLESS_VITAL_STATUS_EXAM_A={"concept_id":"MOTHER_AGE_REGARDLESS_VITAL_STATUS","exam":"A","n":5114,"missing":10,"mean":48.7406,"sd":12.6678,"p50":50,"p99":69};

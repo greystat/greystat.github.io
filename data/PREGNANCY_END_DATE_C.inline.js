@@ -1,0 +1,1 @@
+window.__PREGNANCY_END_DATE_EXAM_C={"concept_id":"PREGNANCY_END_DATE","exam":"C","n":957,"missing":106,"mean":1989.2103,"sd":1.0275,"p50":1989,"p99":1991};

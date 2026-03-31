@@ -1,0 +1,64 @@
+{
+  "concept_id": "MRI_INITIAL_CONTACT_BODY_MEASURES",
+  "title": "Initial contact: anthropometrics (height, weight, BMI, waist/hip)",
+  "unit": "in",
+  "chips": ["numeric", "in"],
+  "members": [
+    {
+      "concept_id": "MRI_INITIAL_CONTACT_BODY_MEASURES",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f92a",
+      "dataset_stub": "i1f92a",
+      "varname": "I92HEIGHT",
+      "family": "F92",
+      "form_label": "Brain MRI Initial Contact-Screening Form",
+      "units_std": "in",
+      "units_class": "length",
+      "instrument": "F92: Brain MRI Initial Contact-Screening Form",
+      "notes": ""
+    },
+    {
+      "concept_id": "MRI_INITIAL_CONTACT_BODY_MEASURES",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f92a",
+      "dataset_stub": "i1f92a",
+      "varname": "I92WEIGHT",
+      "family": "F92",
+      "form_label": "Brain MRI Initial Contact-Screening Form",
+      "units_std": "lb",
+      "units_class": "mass",
+      "instrument": "F92: Brain MRI Initial Contact-Screening Form",
+      "notes": ""
+    },
+    {
+      "concept_id": "MRI_INITIAL_CONTACT_BODY_MEASURES",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f92a",
+      "dataset_stub": "i1f92a",
+      "varname": "I92BMI",
+      "family": "F92",
+      "form_label": "Brain MRI Initial Contact-Screening Form",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F92: Brain MRI Initial Contact-Screening Form",
+      "notes": ""
+    },
+    {
+      "concept_id": "MRI_INITIAL_CONTACT_BODY_MEASURES",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f92a",
+      "dataset_stub": "i1f92a",
+      "varname": "I92WSTCIR",
+      "family": "F92",
+      "form_label": "Brain MRI Initial Contact-Screening Form",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F92: Brain MRI Initial Contact-Screening Form",
+      "notes": ""
+    }
+  ]
+}

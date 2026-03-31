@@ -1,0 +1,1 @@
+window.__CHEST_CONSENT_EXAM_H={"concept_id":"CHEST_CONSENT","exam":"H","n":3215,"missing":67,"mean":1.9933,"sd":0.0814,"p50":2,"p99":2};

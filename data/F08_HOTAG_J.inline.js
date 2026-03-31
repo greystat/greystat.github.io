@@ -1,0 +1,1 @@
+window.__F08_HOTAG_EXAM_J={"concept_id":"F08_HOTAG","exam":"J","n":2776,"missing":2551,"mean":42.6578,"sd":12.0717,"p50":45,"p99":63.52};

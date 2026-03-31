@@ -1,0 +1,1 @@
+window.__LINOLEIC_ACID_INTAKE_G_EXAM_B={"concept_id":"LINOLEIC_ACID_INTAKE_G","exam":"B","n":4623,"missing":58,"mean":23.1547,"sd":19.3456,"p50":18.6,"p99":98.544};

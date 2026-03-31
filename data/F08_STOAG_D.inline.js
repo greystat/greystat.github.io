@@ -1,0 +1,1 @@
+window.__F08_STOAG_EXAM_D={"concept_id":"F08_STOAG","exam":"D","n":4085,"missing":4082,"mean":23.3333,"sd":8.7369,"p50":21,"p99":32.76};

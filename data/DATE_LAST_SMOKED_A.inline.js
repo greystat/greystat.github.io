@@ -1,0 +1,1 @@
+window.__DATE_LAST_SMOKED_EXAM_A={"concept_id":"DATE_LAST_SMOKED","exam":"A","n":5114,"missing":3190,"mean":1985.408,"sd":0.4916,"p50":1985,"p99":1986};

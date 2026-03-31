@@ -1,0 +1,1 @@
+window.__CREATININE_QC_SAMPLE_2ML_YN_EXAM_E={"concept_id":"CREATININE_QC_SAMPLE_2ML_YN","exam":"E","n":3949,"missing":3532,"n_levels":2,"mode_level":"(Missing)"};

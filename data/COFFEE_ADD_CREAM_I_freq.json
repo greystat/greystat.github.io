@@ -1,0 +1,877 @@
+{
+  "concept_id": "COFFEE_ADD_CREAM",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3278,
+        "missing": 2376,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2376,
+            "pct": 72.5
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 902,
+            "pct": 27.5
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1405,
+        "missing": 1054,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1054,
+            "pct": 75
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 351,
+            "pct": 25
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1873,
+        "missing": 1322,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1322,
+            "pct": 70.6
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 551,
+            "pct": 29.4
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1549,
+        "missing": 1080,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1080,
+            "pct": 69.7
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 469,
+            "pct": 30.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1729,
+        "missing": 1296,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1296,
+            "pct": 75
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 433,
+            "pct": 25
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 722,
+        "missing": 567,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 567,
+            "pct": 78.5
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 155,
+            "pct": 21.5
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 734,
+        "missing": 512,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 512,
+            "pct": 69.8
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 222,
+            "pct": 30.2
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 830,
+        "missing": 610,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 610,
+            "pct": 73.5
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 220,
+            "pct": 26.5
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 992,
+        "missing": 687,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 687,
+            "pct": 69.3
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 305,
+            "pct": 30.7
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 622,
+        "missing": 447,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 447,
+            "pct": 71.9
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 175,
+            "pct": 28.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 927,
+        "missing": 633,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 633,
+            "pct": 68.3
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 294,
+            "pct": 31.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 783,
+        "missing": 607,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 607,
+            "pct": 77.5
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 176,
+            "pct": 22.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 946,
+        "missing": 689,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 689,
+            "pct": 72.8
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 257,
+            "pct": 27.2
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 334,
+        "missing": 265,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 265,
+            "pct": 79.3
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 69,
+            "pct": 20.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 318,
+        "missing": 235,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 235,
+            "pct": 73.9
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 83,
+            "pct": 26.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 371,
+        "missing": 283,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 283,
+            "pct": 76.3
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 88,
+            "pct": 23.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 382,
+        "missing": 271,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 271,
+            "pct": 70.9
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 111,
+            "pct": 29.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 388,
+        "missing": 302,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 302,
+            "pct": 77.8
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 86,
+            "pct": 22.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 416,
+        "missing": 277,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 277,
+            "pct": 66.6
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 139,
+            "pct": 33.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 459,
+        "missing": 327,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 327,
+            "pct": 71.2
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 132,
+            "pct": 28.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 610,
+        "missing": 416,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 416,
+            "pct": 68.2
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 194,
+            "pct": 31.8
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 400,
+        "missing": 303,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 303,
+            "pct": 75.8
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 97,
+            "pct": 24.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 337,
+        "missing": 219,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 219,
+            "pct": 65
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 118,
+            "pct": 35
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 288,
+        "missing": 204,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 204,
+            "pct": 70.8
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 84,
+            "pct": 29.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 524,
+        "missing": 354,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 354,
+            "pct": 67.6
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 170,
+            "pct": 32.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 322,
+        "missing": 264,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 264,
+            "pct": 82
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 58,
+            "pct": 18
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 397,
+        "missing": 293,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 293,
+            "pct": 73.8
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 104,
+            "pct": 26.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 542,
+        "missing": 406,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 406,
+            "pct": 74.9
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 136,
+            "pct": 25.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 468,
+        "missing": 333,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 333,
+            "pct": 71.2
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 135,
+            "pct": 28.8
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 167,
+        "missing": 127,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 127,
+            "pct": 76
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 40,
+            "pct": 24
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 128,
+        "missing": 90,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 90,
+            "pct": 70.3
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 38,
+            "pct": 29.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 128,
+        "missing": 92,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 92,
+            "pct": 71.9
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 36,
+            "pct": 28.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 199,
+        "missing": 138,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 138,
+            "pct": 69.3
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 61,
+            "pct": 30.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 233,
+        "missing": 176,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 176,
+            "pct": 75.5
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 57,
+            "pct": 24.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 209,
+        "missing": 129,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 129,
+            "pct": 61.7
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 80,
+            "pct": 38.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 160,
+        "missing": 112,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 112,
+            "pct": 70
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 48,
+            "pct": 30
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 325,
+        "missing": 216,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 216,
+            "pct": 66.5
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 109,
+            "pct": 33.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 167,
+        "missing": 138,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 138,
+            "pct": 82.6
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 29,
+            "pct": 17.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 190,
+        "missing": 145,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 145,
+            "pct": 76.3
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 45,
+            "pct": 23.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 243,
+        "missing": 191,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 191,
+            "pct": 78.6
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 52,
+            "pct": 21.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 183,
+        "missing": 133,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 133,
+            "pct": 72.7
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 50,
+            "pct": 27.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 155,
+        "missing": 126,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 126,
+            "pct": 81.3
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 29,
+            "pct": 18.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 207,
+        "missing": 148,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 148,
+            "pct": 71.5
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 59,
+            "pct": 28.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 299,
+        "missing": 215,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 215,
+            "pct": 71.9
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 84,
+            "pct": 28.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 285,
+        "missing": 200,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 200,
+            "pct": 70.2
+          },
+          {
+            "level": "Cream (such as half and half)",
+            "count": 85,
+            "pct": 29.8
+          }
+        ]
+      }
+    ]
+  }
+}

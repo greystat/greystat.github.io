@@ -1,0 +1,1 @@
+window.__FIBRINOGEN_MG_DL_EXAM_C={"concept_id":"FIBRINOGEN_MG_DL","exam":"C","n":1872,"missing":1,"mean":262.4009,"sd":63.8692,"p50":254,"p99":435.6};

@@ -1,0 +1,1 @@
+window.__WAIST_GIRTH1_CM_EXAM_G={"concept_id":"WAIST_GIRTH1_CM","exam":"G","n":3547,"missing":11,"mean":91.8901,"sd":15.5419,"p50":90.5,"p99":137.825};

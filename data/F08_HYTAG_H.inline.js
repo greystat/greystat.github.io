@@ -1,0 +1,1 @@
+window.__F08_HYTAG_EXAM_H={"concept_id":"F08_HYTAG","exam":"H","n":3485,"missing":3422,"mean":35.5714,"sd":10.4892,"p50":35,"p99":54};

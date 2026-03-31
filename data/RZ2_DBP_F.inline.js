@@ -1,0 +1,1 @@
+window.__RZ2_DBP_EXAM_F={"concept_id":"RZ2_DBP","exam":"F","n":3671,"missing":14,"mean":20.3049,"sd":5.8218,"p50":20,"p99":32};

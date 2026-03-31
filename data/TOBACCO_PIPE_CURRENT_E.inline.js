@@ -1,0 +1,1 @@
+window.__TOBACCO_PIPE_CURRENT_EXAM_E={"concept_id":"TOBACCO_PIPE_CURRENT","exam":"E","n":2240,"missing":2187,"n_levels":4,"mode_level":"(Missing)"};

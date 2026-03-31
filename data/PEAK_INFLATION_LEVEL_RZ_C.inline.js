@@ -1,0 +1,1 @@
+window.__PEAK_INFLATION_LEVEL_RZ_EXAM_C={"concept_id":"PEAK_INFLATION_LEVEL_RZ","exam":"C","n":4351,"missing":2,"mean":160.0855,"sd":10.1425,"p50":158,"p99":188};

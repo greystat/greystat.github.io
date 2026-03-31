@@ -1,0 +1,50 @@
+{
+  "concept_id": "LCX_LESION_MASS",
+  "title": "Calcium mass of lesions in LCX coronary artery",
+  "unit": {},
+  "chips": ["numeric", "EBCT · Electron Beam CT", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "LCX_LESION_MASS",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g5ebct",
+      "dataset_stub": "g5ebct",
+      "varname": "GR3LCXLMS1",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    },
+    {
+      "concept_id": "LCX_LESION_MASS",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g5ebct",
+      "dataset_stub": "g5ebct",
+      "varname": "GR3LCXLMS2",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    },
+    {
+      "concept_id": "LCX_LESION_MASS",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h4ebct",
+      "dataset_stub": "h4ebct",
+      "varname": "HR3LCXLMS",
+      "family": "EBCT",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "EBCT",
+      "notes": ""
+    }
+  ]
+}

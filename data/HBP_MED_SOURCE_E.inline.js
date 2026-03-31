@@ -1,0 +1,1 @@
+window.__HBP_MED_SOURCE_EXAM_E={"concept_id":"HBP_MED_SOURCE","exam":"E","n":189,"missing":1,"n_levels":3,"mode_level":"Self-report"};

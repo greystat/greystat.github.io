@@ -1,0 +1,1 @@
+window.__F08_MVPAG_EXAM_F={"concept_id":"F08_MVPAG","exam":"F","n":3671,"missing":3505,"mean":26.8554,"sd":7.5456,"p50":27,"p99":41.35};

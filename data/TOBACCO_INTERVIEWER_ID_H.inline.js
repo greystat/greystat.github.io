@@ -1,0 +1,1 @@
+window.__TOBACCO_INTERVIEWER_ID_EXAM_H={"concept_id":"TOBACCO_INTERVIEWER_ID","exam":"H","n":1910,"missing":10,"mean":312.4226,"sd":137.6051,"p50":309,"p99":807};

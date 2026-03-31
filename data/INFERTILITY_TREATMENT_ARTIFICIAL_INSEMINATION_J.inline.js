@@ -1,0 +1,1 @@
+window.__INFERTILITY_TREATMENT_ARTIFICIAL_INSEMINATION_EXAM_J={"concept_id":"INFERTILITY_TREATMENT_ARTIFICIAL_INSEMINATION","exam":"J","n":1421,"missing":1381,"n_levels":2,"mode_level":"(Missing)"};

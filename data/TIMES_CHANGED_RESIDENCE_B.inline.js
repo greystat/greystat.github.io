@@ -1,0 +1,1 @@
+window.__TIMES_CHANGED_RESIDENCE_EXAM_B={"concept_id":"TIMES_CHANGED_RESIDENCE","exam":"B","n":4623,"missing":44,"mean":1.047,"sd":1.3182,"p50":1,"p99":6};

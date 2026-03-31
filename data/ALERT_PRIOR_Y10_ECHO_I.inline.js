@@ -1,0 +1,1 @@
+window.__ALERT_PRIOR_Y10_ECHO_EXAM_I={"concept_id":"ALERT_PRIOR_Y10_ECHO","exam":"I","n":3186,"missing":3182,"mean":3.5,"sd":1,"p50":4,"p99":4};

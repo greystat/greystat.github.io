@@ -1,0 +1,1 @@
+window.__TOBACCO_CIGARETTES_PER_DAY_ON_SMOKE_DAYS_EXAM_H={"concept_id":"TOBACCO_CIGARETTES_PER_DAY_ON_SMOKE_DAYS","exam":"H","n":1910,"missing":1799,"mean":5.4595,"sd":4.149,"p50":4,"p99":19.4};

@@ -1,0 +1,1 @@
+window.__F08_YMIN_EXAM_F={"concept_id":"F08_YMIN","exam":"F","n":3671,"missing":25,"mean":168.5513,"sd":41.5071,"p50":165,"p99":296.65};

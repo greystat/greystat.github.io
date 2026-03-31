@@ -1,0 +1,1 @@
+window.__MEAN_ML_ALCOHOL_PER_DAY_EXAM_J={"concept_id":"MEAN_ML_ALCOHOL_PER_DAY","exam":"J","n":2100,"missing":1,"mean":11.1607,"sd":20.3617,"p50":2.4314,"p99":92.7166};

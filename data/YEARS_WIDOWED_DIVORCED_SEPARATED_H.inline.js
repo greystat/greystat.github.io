@@ -1,0 +1,1 @@
+window.__YEARS_WIDOWED_DIVORCED_SEPARATED_EXAM_H={"concept_id":"YEARS_WIDOWED_DIVORCED_SEPARATED","exam":"H","n":3484,"missing":3044,"mean":1.2977,"sd":0.8349,"p50":2,"p99":2};

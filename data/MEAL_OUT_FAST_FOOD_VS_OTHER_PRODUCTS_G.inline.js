@@ -1,0 +1,1 @@
+window.__MEAL_OUT_FAST_FOOD_VS_OTHER_PRODUCTS_EXAM_G={"concept_id":"MEAL_OUT_FAST_FOOD_VS_OTHER_PRODUCTS","exam":"G","n":3142,"missing":2,"n_levels":3,"mode_level":"2"};

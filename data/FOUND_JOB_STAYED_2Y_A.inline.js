@@ -1,0 +1,1 @@
+window.__FOUND_JOB_STAYED_2Y_EXAM_A={"concept_id":"FOUND_JOB_STAYED_2Y","exam":"A","n":5114,"missing":654,"n_levels":4,"mode_level":"1"};

@@ -1,0 +1,1 @@
+window.__FINGER_JOINT_SWELLING_HISTORY_EXAM_G={"concept_id":"FINGER_JOINT_SWELLING_HISTORY","exam":"G","n":3467,"missing":32,"n_levels":3,"mode_level":"\"No\""};

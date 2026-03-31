@@ -1,0 +1,1 @@
+window.__IL6_PG_ML_EXAM_F={"concept_id":"IL6_PG_ML","exam":"F","n":811,"missing":49,"mean":1.7577,"sd":1.5231,"p50":1.3014,"p99":7.9848};

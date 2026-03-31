@@ -1,0 +1,1 @@
+window.__F08_CERAG_EXAM_E={"concept_id":"F08_CERAG","exam":"E","n":3949,"missing":3911,"mean":24.3421,"sd":6.2743,"p50":25,"p99":38.26};

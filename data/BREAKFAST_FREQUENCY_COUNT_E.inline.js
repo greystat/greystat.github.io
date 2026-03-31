@@ -1,0 +1,1 @@
+window.__BREAKFAST_FREQUENCY_COUNT_EXAM_E={"concept_id":"BREAKFAST_FREQUENCY_COUNT","exam":"E","n":3949,"missing":23,"mean":4.4424,"sd":3.1423,"p50":5,"p99":8};

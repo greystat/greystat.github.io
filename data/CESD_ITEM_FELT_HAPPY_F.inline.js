@@ -1,0 +1,1 @@
+window.__CESD_ITEM_FELT_HAPPY_EXAM_F={"concept_id":"CESD_ITEM_FELT_HAPPY","exam":"F","n":3671,"missing":13,"n_levels":5,"mode_level":"Much of the time"};

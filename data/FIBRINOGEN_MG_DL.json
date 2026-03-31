@@ -1,0 +1,50 @@
+{
+  "concept_id": "FIBRINOGEN_MG_DL",
+  "title": "Fibrinogen (mg/dL)",
+  "unit": "mg/dL",
+  "chips": ["numeric", "mg/dL"],
+  "members": [
+    {
+      "concept_id": "FIBRINOGEN_MG_DL",
+      "exam": "B",
+      "exam_year": "",
+      "dataset": "b2hemo",
+      "dataset_stub": "b2hemo",
+      "varname": "BLEFIBR",
+      "family": "HEMO",
+      "form_label": "",
+      "units_std": "mg/dL",
+      "units_class": "concentration",
+      "instrument": "HEMO",
+      "notes": ""
+    },
+    {
+      "concept_id": "FIBRINOGEN_MG_DL",
+      "exam": "C",
+      "exam_year": "",
+      "dataset": "c1hemo",
+      "dataset_stub": "c1hemo",
+      "varname": "CLEFIBR",
+      "family": "HEMO",
+      "form_label": "",
+      "units_std": "mg/dL",
+      "units_class": "concentration",
+      "instrument": "HEMO",
+      "notes": ""
+    },
+    {
+      "concept_id": "FIBRINOGEN_MG_DL",
+      "exam": "D",
+      "exam_year": "",
+      "dataset": "d1hemo",
+      "dataset_stub": "d1hemo",
+      "varname": "DLEFIBR",
+      "family": "HEMO",
+      "form_label": "",
+      "units_std": "mg/dL",
+      "units_class": "concentration",
+      "instrument": "HEMO",
+      "notes": ""
+    }
+  ]
+}

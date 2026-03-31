@@ -1,0 +1,1 @@
+window.__MEAN_SBP_2ND_3RD_EXAM_B={"concept_id":"MEAN_SBP_2ND_3RD","exam":"B","n":4623,"missing":1,"mean":107.8583,"sd":10.7821,"p50":107,"p99":137};

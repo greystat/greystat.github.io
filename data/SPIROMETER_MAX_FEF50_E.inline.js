@@ -1,0 +1,1 @@
+window.__SPIROMETER_MAX_FEF50_EXAM_E={"concept_id":"SPIROMETER_MAX_FEF50","exam":"E","n":7898,"missing":560,"mean":4.2784,"sd":1.3768,"p50":4.17,"p99":8.0063};

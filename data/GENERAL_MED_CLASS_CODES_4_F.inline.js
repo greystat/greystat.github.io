@@ -1,0 +1,1 @@
+window.__GENERAL_MED_CLASS_CODES_4_EXAM_F={"concept_id":"GENERAL_MED_CLASS_CODES_4","exam":"F","n":3230,"missing":2356,"mean":48.1785,"sd":28.2914,"p50":44,"p99":102.54};

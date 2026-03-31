@@ -1,0 +1,373 @@
+{
+  "concept_id": "INJURY_EVENT_RESTRICTED_USUAL_ACTIVITIES",
+  "exam": "C",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1539,
+        "missing": 12,
+        "mean": 6.6189,
+        "sd": 10.8034,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 763,
+        "missing": 8,
+        "mean": 6.0742,
+        "sd": 9.2752,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "sex: 2",
+        "n": 776,
+        "missing": 4,
+        "mean": 7.1516,
+        "sd": 12.0953,
+        "p05": 1,
+        "q1": 4,
+        "median": 6,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 741,
+        "missing": 6,
+        "mean": 6.9592,
+        "sd": 11.5471,
+        "p05": 1,
+        "q1": 4,
+        "median": 6,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "race: 5",
+        "n": 798,
+        "missing": 6,
+        "mean": 6.303,
+        "sd": 10.0612,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 3",
+        "n": 831,
+        "missing": 5,
+        "mean": 7.1114,
+        "sd": 12.4852,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "center: 4",
+        "n": 708,
+        "missing": 7,
+        "mean": 6.0385,
+        "sd": 8.3722,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 372,
+        "missing": 3,
+        "mean": 6.1409,
+        "sd": 9.383,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 369,
+        "missing": 3,
+        "mean": 7.7842,
+        "sd": 13.3421,
+        "p05": 1,
+        "q1": 4,
+        "median": 6,
+        "q3": 8,
+        "p95": 8,
+        "iqr": 4
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 391,
+        "missing": 5,
+        "mean": 6.0104,
+        "sd": 9.1827,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 407,
+        "missing": 1,
+        "mean": 6.5813,
+        "sd": 10.8347,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 449,
+        "missing": 3,
+        "mean": 6.4103,
+        "sd": 10.3618,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 314,
+        "missing": 5,
+        "mean": 5.589,
+        "sd": 7.4216,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 382,
+        "missing": 2,
+        "mean": 7.9342,
+        "sd": 14.5602,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 8,
+        "p95": 8,
+        "iqr": 4
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 394,
+        "missing": 2,
+        "mean": 6.3929,
+        "sd": 9.0451,
+        "p05": 1,
+        "q1": 4,
+        "median": 6,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 3",
+        "n": 315,
+        "missing": 1,
+        "mean": 7.2675,
+        "sd": 12.6939,
+        "p05": 1,
+        "q1": 4,
+        "median": 6,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 426,
+        "missing": 5,
+        "mean": 6.7292,
+        "sd": 10.6213,
+        "p05": 1,
+        "q1": 4,
+        "median": 6,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 516,
+        "missing": 4,
+        "mean": 7.0156,
+        "sd": 12.367,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 282,
+        "missing": 2,
+        "mean": 5,
+        "sd": 2.0583,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 180,
+        "missing": 0,
+        "mean": 6.3611,
+        "sd": 9.4625,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 192,
+        "missing": 3,
+        "mean": 5.9312,
+        "sd": 9.3268,
+        "p05": 1,
+        "q1": 3,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 4
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 135,
+        "missing": 1,
+        "mean": 8.4851,
+        "sd": 16.0032,
+        "p05": 1,
+        "q1": 2,
+        "median": 6,
+        "q3": 8,
+        "p95": 8,
+        "iqr": 6
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 234,
+        "missing": 2,
+        "mean": 7.3793,
+        "sd": 11.5486,
+        "p05": 2,
+        "q1": 4,
+        "median": 6,
+        "q3": 8,
+        "p95": 8,
+        "iqr": 4
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 269,
+        "missing": 3,
+        "mean": 6.4436,
+        "sd": 10.9458,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 122,
+        "missing": 2,
+        "mean": 5.05,
+        "sd": 2.1571,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 247,
+        "missing": 1,
+        "mean": 7.6341,
+        "sd": 13.7356,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 7,
+        "p95": 8,
+        "iqr": 3
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 160,
+        "missing": 0,
+        "mean": 4.9625,
+        "sd": 1.987,
+        "p05": 1,
+        "q1": 4,
+        "median": 5,
+        "q3": 6.25,
+        "p95": 8,
+        "iqr": 2.25
+      }
+    ]
+  }
+}

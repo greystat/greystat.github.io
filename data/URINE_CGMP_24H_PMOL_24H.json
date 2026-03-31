@@ -1,0 +1,22 @@
+{
+  "concept_id": "URINE_CGMP_24H_PMOL_24H",
+  "title": "Urine cyclic GMP excretion (pmol/24 h, adjusted)",
+  "unit": "pmol/24h",
+  "chips": ["numeric", "pmol/24h"],
+  "members": [
+    {
+      "concept_id": "URINE_CGMP_24H_PMOL_24H",
+      "exam": "C",
+      "exam_year": "",
+      "dataset": "c1gmp",
+      "dataset_stub": "c1gmp",
+      "varname": "ADJ_GMP",
+      "family": "GMP",
+      "form_label": "",
+      "units_std": "pmol/24h",
+      "units_class": "rate",
+      "instrument": "GMP",
+      "notes": ""
+    }
+  ]
+}

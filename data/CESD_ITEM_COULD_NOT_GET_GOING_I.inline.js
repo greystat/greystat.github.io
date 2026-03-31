@@ -1,0 +1,1 @@
+window.__CESD_ITEM_COULD_NOT_GET_GOING_EXAM_I={"concept_id":"CESD_ITEM_COULD_NOT_GET_GOING","exam":"I","n":3301,"missing":7,"n_levels":5,"mode_level":"\"Rarely or none of the time\""};

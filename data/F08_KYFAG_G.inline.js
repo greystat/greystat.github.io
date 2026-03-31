@@ -1,0 +1,1 @@
+window.__F08_KYFAG_EXAM_G={"concept_id":"F08_KYFAG","exam":"G","n":3548,"missing":3517,"mean":25.6774,"sd":21.6154,"p50":30,"p99":80.1};

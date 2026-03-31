@@ -1,0 +1,1 @@
+window.__OGTT_QC_ID_EXAM_H={"concept_id":"OGTT_QC_ID","exam":"H","n":3487,"missing":3315,"mean":30283.6628,"sd":11141.8443,"p50":34703.5,"p99":44742};

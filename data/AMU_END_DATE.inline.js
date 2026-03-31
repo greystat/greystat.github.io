@@ -1,0 +1,1 @@
+window.__AMU_END_DATE_CONCEPT={"concept_id":"AMU_END_DATE","title":"End date of AMU observations","unit":{},"chips":["numeric","F42 · Audiology","Sensory"],"members":[{"concept_id":"AMU_END_DATE","exam":"C","exam_year":"","dataset":"c1f42b","dataset_stub":"c1f42b","varname":"C42EDATE","family":"F42","form_label":"","units_std":"","units_class":"","instrument":"F42","notes":""}]};

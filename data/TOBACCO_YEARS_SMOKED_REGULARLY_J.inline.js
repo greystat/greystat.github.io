@@ -1,0 +1,1 @@
+window.__TOBACCO_YEARS_SMOKED_REGULARLY_EXAM_J={"concept_id":"TOBACCO_YEARS_SMOKED_REGULARLY","exam":"J","n":968,"missing":515,"mean":18.2671,"sd":13.3765,"p50":15,"p99":48};

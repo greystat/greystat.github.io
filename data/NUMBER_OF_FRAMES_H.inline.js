@@ -1,0 +1,1 @@
+window.__NUMBER_OF_FRAMES_EXAM_H={"concept_id":"NUMBER_OF_FRAMES","exam":"H","n":3470,"missing":1531,"mean":104.8448,"sd":19.8765,"p50":106,"p99":158.24};

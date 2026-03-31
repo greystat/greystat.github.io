@@ -1,0 +1,1 @@
+window.__HIP_GIRTH_MEAN_CM_EXAM_I={"concept_id":"HIP_GIRTH_MEAN_CM","exam":"I","n":2336,"missing":5,"mean":110.9872,"sd":14.8192,"p50":108.5,"p99":159.15};

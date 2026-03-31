@@ -1,0 +1,1 @@
+window.__CESD_ITEM_FELT_AS_GOOD_AS_OTHERS_EXAM_F={"concept_id":"CESD_ITEM_FELT_AS_GOOD_AS_OTHERS","exam":"F","n":3671,"missing":18,"n_levels":5,"mode_level":"Most or all of the time"};

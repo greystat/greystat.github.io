@@ -1,0 +1,1 @@
+window.__BMI_EXAM_A={"concept_id":"BMI","exam":"A","n":5114,"missing":17,"mean":24.4931,"sd":5.0454,"p50":23.435,"p99":42.9624};

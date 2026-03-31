@@ -1,0 +1,1 @@
+window.__F08_OLVAG_EXAM_I={"concept_id":"F08_OLVAG","exam":"I","n":3356,"missing":3338,"mean":42.8889,"sd":14.4136,"p50":49,"p99":58.49};

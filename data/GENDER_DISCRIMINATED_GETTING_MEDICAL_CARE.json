@@ -1,0 +1,64 @@
+{
+  "concept_id": "GENDER_DISCRIMINATED_GETTING_MEDICAL_CARE",
+  "title": "Gender discriminated getting medical care (ever, yes/no)",
+  "chips": ["categorical", "4 levels", "F44 · Discrimination", "Psychosocial"],
+  "members": [
+    {
+      "concept_id": "GENDER_DISCRIMINATED_GETTING_MEDICAL_CARE",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f4f44",
+      "dataset_stub": "f4f44",
+      "varname": "F44GMEDF",
+      "family": "F44",
+      "form_label": "Discrimination Questionnaire",
+      "n_labels": "3",
+      "instrument": "F44: Discrimination Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENDER_DISCRIMINATED_GETTING_MEDICAL_CARE",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f44",
+      "dataset_stub": "h3f44",
+      "varname": "H44GMEDF",
+      "family": "F44",
+      "form_label": "Discrimination",
+      "n_labels": "1",
+      "instrument": "F44: Discrimination",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENDER_DISCRIMINATED_GETTING_MEDICAL_CARE",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f44",
+      "dataset_stub": "i1f44",
+      "varname": "I44GMEDF",
+      "family": "F44",
+      "form_label": "Discrimination",
+      "n_labels": "1",
+      "instrument": "F44: Discrimination",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Rarely"
+    },
+    {
+      "code": "2",
+      "label": "Sometimes"
+    },
+    {
+      "code": "3",
+      "label": "Often"
+    },
+    {
+      "code": "1f1",
+      "label": "Rarely"
+    }
+  ]
+}

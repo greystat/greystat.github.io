@@ -1,0 +1,1 @@
+window.__PLASMA_FIBRINOGEN_MGDL_EXAM_G={"concept_id":"PLASMA_FIBRINOGEN_MGDL","exam":"G","n":3450,"missing":8,"mean":406.9558,"sd":91.7831,"p50":394,"p99":664.59};

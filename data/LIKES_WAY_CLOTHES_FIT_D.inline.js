@@ -1,0 +1,1 @@
+window.__LIKES_WAY_CLOTHES_FIT_EXAM_D={"concept_id":"LIKES_WAY_CLOTHES_FIT","exam":"D","n":4085,"missing":61,"n_levels":6,"mode_level":"Mostly agree"};

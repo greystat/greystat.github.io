@@ -1,0 +1,1 @@
+window.__WEIGHT_CHANGE_EXAM7_TO_CURRENT_EXAM_H={"concept_id":"WEIGHT_CHANGE_EXAM7_TO_CURRENT","exam":"H","n":3460,"missing":393,"mean":11.6668,"sd":13.0964,"p50":8,"p99":61.34};

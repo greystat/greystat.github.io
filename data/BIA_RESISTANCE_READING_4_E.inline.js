@@ -1,0 +1,1 @@
+window.__BIA_RESISTANCE_READING_4_EXAM_E={"concept_id":"BIA_RESISTANCE_READING_4","exam":"E","n":3949,"missing":3719,"mean":528.7522,"sd":88.8241,"p50":519.5,"p99":769.81};

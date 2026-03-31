@@ -1,0 +1,1 @@
+window.__ROOM_TEMPERATURE_EXAM_F={"concept_id":"ROOM_TEMPERATURE","exam":"F","n":3671,"missing":14,"mean":23.0905,"sd":1.8664,"p50":23,"p99":28};

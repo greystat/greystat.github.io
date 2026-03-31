@@ -1,0 +1,1 @@
+window.__PERCENT_KCAL_FROM_PROTEIN_EXAM_B={"concept_id":"PERCENT_KCAL_FROM_PROTEIN","exam":"B","n":4623,"missing":58,"mean":15.3206,"sd":3.1328,"p50":15.2,"p99":24};

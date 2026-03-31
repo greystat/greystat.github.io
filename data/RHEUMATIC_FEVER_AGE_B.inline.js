@@ -1,0 +1,1 @@
+window.__RHEUMATIC_FEVER_AGE_EXAM_B={"concept_id":"RHEUMATIC_FEVER_AGE","exam":"B","n":306,"missing":288,"mean":8.3889,"sd":4.3405,"p50":7.5,"p99":16};

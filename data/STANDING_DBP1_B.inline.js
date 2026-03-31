@@ -1,0 +1,1 @@
+window.__STANDING_DBP1_EXAM_B={"concept_id":"STANDING_DBP1","exam":"B","n":4623,"missing":2,"mean":69.1608,"sd":10.7964,"p50":68,"p99":96};

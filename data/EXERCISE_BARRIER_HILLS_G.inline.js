@@ -1,0 +1,1 @@
+window.__EXERCISE_BARRIER_HILLS_EXAM_G={"concept_id":"EXERCISE_BARRIER_HILLS","exam":"G","n":2989,"missing":2553,"n_levels":3,"mode_level":"(Missing)"};

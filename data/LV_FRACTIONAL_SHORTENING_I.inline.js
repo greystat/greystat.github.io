@@ -1,0 +1,1 @@
+window.__LV_FRACTIONAL_SHORTENING_EXAM_I={"concept_id":"LV_FRACTIONAL_SHORTENING","exam":"I","n":3184,"missing":453,"mean":35.1143,"sd":5.5018,"p50":34.89,"p99":48.9081};

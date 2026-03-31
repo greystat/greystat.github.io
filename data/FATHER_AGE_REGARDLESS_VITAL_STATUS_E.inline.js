@@ -1,0 +1,1 @@
+window.__FATHER_AGE_REGARDLESS_VITAL_STATUS_EXAM_E={"concept_id":"FATHER_AGE_REGARDLESS_VITAL_STATUS","exam":"E","n":3949,"missing":485,"mean":62.4911,"sd":9.996,"p50":63,"p99":83};

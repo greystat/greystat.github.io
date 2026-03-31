@@ -1,0 +1,1 @@
+window.__DBP_RECOVERY_EXAM_G={"concept_id":"DBP_RECOVERY","exam":"G","n":2890,"missing":595,"mean":70.4715,"sd":13.7263,"p50":70,"p99":105};

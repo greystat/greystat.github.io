@@ -1,0 +1,1 @@
+window.__LCX_LESION_VOLUME_EXAM_H={"concept_id":"LCX_LESION_VOLUME","exam":"H","n":3197,"missing":8,"mean":5.7592,"sd":52.0107,"p50":0,"p99":119.0872};

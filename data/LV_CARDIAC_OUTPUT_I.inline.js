@@ -1,0 +1,1 @@
+window.__LV_CARDIAC_OUTPUT_EXAM_I={"concept_id":"LV_CARDIAC_OUTPUT","exam":"I","n":3184,"missing":453,"mean":4.8208,"sd":1.2585,"p50":4.67,"p99":8.5509};

@@ -1,0 +1,1 @@
+window.__EXAM7_WEIGHT_AVAILABLE_EXAM_H={"concept_id":"EXAM7_WEIGHT_AVAILABLE","exam":"H","n":3460,"missing":58,"n_levels":3,"mode_level":"2"};

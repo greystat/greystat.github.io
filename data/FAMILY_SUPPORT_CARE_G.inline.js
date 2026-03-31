@@ -1,0 +1,1 @@
+window.__FAMILY_SUPPORT_CARE_EXAM_G={"concept_id":"FAMILY_SUPPORT_CARE","exam":"G","n":3470,"missing":6,"n_levels":5,"mode_level":"A lot"};

@@ -1,0 +1,1 @@
+window.__STRENUOUS_SPORTS_MONTHS_EXAM_H={"concept_id":"STRENUOUS_SPORTS_MONTHS","exam":"H","n":3466,"missing":2844,"mean":4.4277,"sd":3.8998,"p50":3,"p99":12};

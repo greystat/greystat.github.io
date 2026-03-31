@@ -1,0 +1,1 @@
+window.__AUSCULTATION_SECOND_HEART_SOUND_B_EXAM_C={"concept_id":"AUSCULTATION_SECOND_HEART_SOUND_B","exam":"C","n":10,"missing":1,"n_levels":2,"mode_level":"1"};

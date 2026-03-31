@@ -1,0 +1,1 @@
+window.__HR_STAGE4_EXAM_G={"concept_id":"HR_STAGE4","exam":"G","n":2890,"missing":1057,"mean":164.156,"sd":14.3718,"p50":166,"p99":192};

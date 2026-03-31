@@ -1,0 +1,1 @@
+window.__MRI_ASL_OBTAINED_EXAM_I={"concept_id":"MRI_ASL_OBTAINED","exam":"I","n":663,"missing":0,"n_levels":2,"mode_level":"Yes"};

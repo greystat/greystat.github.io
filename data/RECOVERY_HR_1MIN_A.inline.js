@@ -1,0 +1,1 @@
+window.__RECOVERY_HR_1MIN_EXAM_A={"concept_id":"RECOVERY_HR_1MIN","exam":"A","n":5114,"missing":159,"mean":155.1534,"sd":19.5686,"p50":158,"p99":191};

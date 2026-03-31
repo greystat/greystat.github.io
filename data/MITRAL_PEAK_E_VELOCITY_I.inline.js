@@ -1,0 +1,1 @@
+window.__MITRAL_PEAK_E_VELOCITY_EXAM_I={"concept_id":"MITRAL_PEAK_E_VELOCITY","exam":"I","n":3184,"missing":80,"mean":78.034,"sd":17.0278,"p50":76.865,"p99":120.6671};

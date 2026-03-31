@@ -1,0 +1,22 @@
+{
+  "concept_id": "MILES_TRAVELED_MOTOR_VEHICLE",
+  "title": "Miles traveled in a motor vehicle",
+  "unit": "mi",
+  "chips": ["numeric", "mi", "F32 · Dietary Assessment (Follow-up)", "Diet"],
+  "members": [
+    {
+      "concept_id": "MILES_TRAVELED_MOTOR_VEHICLE",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f32",
+      "dataset_stub": "b2f32",
+      "varname": "B32MILES",
+      "family": "F32",
+      "form_label": "Safety/Accident Questionnaire",
+      "units_std": "mi",
+      "units_class": "length",
+      "instrument": "F32: Safety/Accident Questionnaire",
+      "notes": ""
+    }
+  ]
+}

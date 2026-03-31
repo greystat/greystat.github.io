@@ -1,0 +1,1 @@
+window.__CORTISOL_SAMPLE1_NMOL_L_EXAM_F={"concept_id":"CORTISOL_SAMPLE1_NMOL_L","exam":"F","n":811,"missing":15,"mean":19.9699,"sd":16.1921,"p50":15.59,"p99":100};

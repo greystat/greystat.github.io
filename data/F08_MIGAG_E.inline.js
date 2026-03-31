@@ -1,0 +1,1 @@
+window.__F08_MIGAG_EXAM_E={"concept_id":"F08_MIGAG","exam":"E","n":3949,"missing":3506,"mean":23.1151,"sd":8.1999,"p50":23,"p99":39};

@@ -1,0 +1,1 @@
+window.__ASTHMA_AGE_ONSET_EXAM_A={"concept_id":"ASTHMA_AGE_ONSET","exam":"A","n":5114,"missing":32,"mean":1.0449,"sd":3.6656,"p50":0,"p99":20.19};

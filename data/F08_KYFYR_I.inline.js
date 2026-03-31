@@ -1,0 +1,1 @@
+window.__F08_KYFYR_EXAM_I={"concept_id":"F08_KYFYR","exam":"I","n":3356,"missing":3334,"n_levels":3,"mode_level":"(Missing)"};

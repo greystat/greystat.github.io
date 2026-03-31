@@ -1,0 +1,1 @@
+window.__HOME_SHOVELING_MONTHS_EXAM_C={"concept_id":"HOME_SHOVELING_MONTHS","exam":"C","n":4351,"missing":2031,"mean":5.0405,"sd":4.1932,"p50":3,"p99":12};

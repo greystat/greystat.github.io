@@ -1,0 +1,1 @@
+window.__GALLBLADDER_DISEASE_AGE_DIAGNOSIS_EXAM_B={"concept_id":"GALLBLADDER_DISEASE_AGE_DIAGNOSIS","exam":"B","n":47,"missing":0,"mean":23.6809,"sd":4.5258,"p50":24,"p99":32.08};

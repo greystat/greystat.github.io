@@ -1,0 +1,1 @@
+window.__AGE_CHILD_2_EXAM_I={"concept_id":"AGE_CHILD_2","exam":"I","n":3335,"missing":1273,"mean":25.4903,"sd":7.9478,"p50":25,"p99":44.39};

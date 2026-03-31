@@ -1,0 +1,22 @@
+{
+  "concept_id": "LEISURE_TV_HOURS_PER_DAY",
+  "title": "Hours per day watching TV or video during leisure",
+  "unit": "h",
+  "chips": ["numeric", "h", "F18 · Physical Activity History", "Physical Activity"],
+  "members": [
+    {
+      "concept_id": "LEISURE_TV_HOURS_PER_DAY",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f18",
+      "dataset_stub": "j1f18",
+      "varname": "J18N1TV",
+      "family": "F18",
+      "form_label": "Physical Activity Questionnaire",
+      "units_std": "h",
+      "units_class": "duration",
+      "instrument": "F18: Physical Activity Questionnaire",
+      "notes": ""
+    }
+  ]
+}

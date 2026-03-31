@@ -1,0 +1,1 @@
+window.__COLLECTION_START_DATE_BY_COLLECTION_EXAM_C={"concept_id":"COLLECTION_START_DATE_BY_COLLECTION","exam":"C","n":1105,"missing":18,"mean":1990.4048,"sd":0.4911,"p50":1990,"p99":1991};

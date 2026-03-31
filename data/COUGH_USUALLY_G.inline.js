@@ -1,0 +1,1 @@
+window.__COUGH_USUALLY_EXAM_G={"concept_id":"COUGH_USUALLY","exam":"G","n":3524,"missing":6,"n_levels":3,"mode_level":"\"No\""};

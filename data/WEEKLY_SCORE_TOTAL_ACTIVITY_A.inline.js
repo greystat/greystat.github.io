@@ -1,0 +1,1 @@
+window.__WEEKLY_SCORE_TOTAL_ACTIVITY_EXAM_A={"concept_id":"WEEKLY_SCORE_TOTAL_ACTIVITY","exam":"A","n":5114,"missing":13,"mean":23.8572,"sd":20.3726,"p50":18,"p99":95};

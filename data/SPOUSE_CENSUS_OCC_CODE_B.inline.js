@@ -1,0 +1,1 @@
+window.__SPOUSE_CENSUS_OCC_CODE_EXAM_B={"concept_id":"SPOUSE_CENSUS_OCC_CODE","exam":"B","n":4623,"missing":68,"mean":360.7131,"sd":236.4446,"p50":336,"p99":997};

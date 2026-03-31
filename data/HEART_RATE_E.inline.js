@@ -1,0 +1,1 @@
+window.__HEART_RATE_EXAM_E={"concept_id":"HEART_RATE","exam":"E","n":3949,"missing":2362,"mean":65.5816,"sd":11.2709,"p50":65,"p99":96.14};

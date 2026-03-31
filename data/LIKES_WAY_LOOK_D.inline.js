@@ -1,0 +1,1 @@
+window.__LIKES_WAY_LOOK_EXAM_D={"concept_id":"LIKES_WAY_LOOK","exam":"D","n":4085,"missing":56,"n_levels":6,"mode_level":"Mostly agree"};

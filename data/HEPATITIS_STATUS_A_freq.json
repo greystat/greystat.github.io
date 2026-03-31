@@ -1,0 +1,1047 @@
+{
+  "concept_id": "HEPATITIS_STATUS",
+  "exam": "A",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 4008,
+        "missing": 3975,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3975,
+            "pct": 99.2
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 25,
+            "pct": 0.6
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 5,
+            "pct": 0.1
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 3,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1221,
+        "missing": 1200,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1200,
+            "pct": 98.3
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 15,
+            "pct": 1.2
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 3,
+            "pct": 0.2
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 3,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 2787,
+        "missing": 2775,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2775,
+            "pct": 99.6
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 10,
+            "pct": 0.4
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 2,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 2078,
+        "missing": 2068,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2068,
+            "pct": 99.5
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 8,
+            "pct": 0.4
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 1,
+            "pct": 0
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1930,
+        "missing": 1907,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1907,
+            "pct": 98.8
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 17,
+            "pct": 0.9
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 4,
+            "pct": 0.2
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 2,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 806,
+        "missing": 802,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 802,
+            "pct": 99.5
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 3,
+            "pct": 0.4
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 796,
+        "missing": 790,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 790,
+            "pct": 99.2
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 4,
+            "pct": 0.5
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 980,
+        "missing": 969,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 969,
+            "pct": 98.9
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 7,
+            "pct": 0.7
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 3,
+            "pct": 0.3
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1426,
+        "missing": 1414,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1414,
+            "pct": 99.2
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 11,
+            "pct": 0.8
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 598,
+        "missing": 591,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 591,
+            "pct": 98.8
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 6,
+            "pct": 1
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1480,
+        "missing": 1477,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1477,
+            "pct": 99.8
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 2,
+            "pct": 0.1
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 623,
+        "missing": 609,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 609,
+            "pct": 97.8
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 9,
+            "pct": 1.4
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 3,
+            "pct": 0.5
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1307,
+        "missing": 1298,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1298,
+            "pct": 99.3
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 8,
+            "pct": 0.6
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 193,
+        "missing": 190,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 190,
+            "pct": 98.4
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 3,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 197,
+        "missing": 194,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 194,
+            "pct": 98.5
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 2,
+            "pct": 1
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 253,
+        "missing": 243,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 243,
+            "pct": 96
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 6,
+            "pct": 2.4
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 3,
+            "pct": 1.2
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 578,
+        "missing": 573,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 573,
+            "pct": 99.1
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 4,
+            "pct": 0.7
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 613,
+        "missing": 612,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 612,
+            "pct": 99.8
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 599,
+        "missing": 596,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 596,
+            "pct": 99.5
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 2,
+            "pct": 0.3
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 727,
+        "missing": 726,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 726,
+            "pct": 99.9
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 848,
+        "missing": 841,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 841,
+            "pct": 99.2
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 7,
+            "pct": 0.8
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 445,
+        "missing": 444,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 444,
+            "pct": 99.8
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 404,
+        "missing": 402,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 402,
+            "pct": 99.5
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 1,
+            "pct": 0.2
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 412,
+        "missing": 410,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 410,
+            "pct": 99.5
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 1,
+            "pct": 0.2
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 817,
+        "missing": 812,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 812,
+            "pct": 99.4
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 5,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 361,
+        "missing": 358,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 358,
+            "pct": 99.2
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 2,
+            "pct": 0.6
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 392,
+        "missing": 388,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 388,
+            "pct": 99
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 3,
+            "pct": 0.8
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 568,
+        "missing": 559,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 559,
+            "pct": 98.4
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 6,
+            "pct": 1.1
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 2,
+            "pct": 0.4
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 609,
+        "missing": 602,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 602,
+            "pct": 98.9
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 6,
+            "pct": 1
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 89,
+        "missing": 88,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 88,
+            "pct": 98.9
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 1,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 87,
+        "missing": 86,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 86,
+            "pct": 98.9
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 1,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 95,
+        "missing": 93,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 93,
+            "pct": 97.9
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 1,
+            "pct": 1.1
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 1,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 327,
+        "missing": 324,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 324,
+            "pct": 99.1
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 3,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 356,
+        "missing": 356,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 356,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 317,
+        "missing": 316,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 316,
+            "pct": 99.7
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 317,
+        "missing": 317,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 317,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 490,
+        "missing": 488,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 488,
+            "pct": 99.6
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 104,
+        "missing": 102,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 102,
+            "pct": 98.1
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 2,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 110,
+        "missing": 108,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 108,
+            "pct": 98.2
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 1,
+            "pct": 0.9
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 158,
+        "missing": 150,
+        "n_levels": 4,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 150,
+            "pct": 94.9
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 5,
+            "pct": 3.2
+          },
+          {
+            "level": "Do you still have the problem",
+            "count": 2,
+            "pct": 1.3
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 251,
+        "missing": 249,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 249,
+            "pct": 99.2
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 1,
+            "pct": 0.4
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 257,
+        "missing": 256,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 256,
+            "pct": 99.6
+          },
+          {
+            "level": "Or is it controlled by medication or something else",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 282,
+        "missing": 280,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 280,
+            "pct": 99.3
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 2,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 410,
+        "missing": 409,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 409,
+            "pct": 99.8
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 358,
+        "missing": 353,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 353,
+            "pct": 98.6
+          },
+          {
+            "level": "Or is it completely cured or gone?",
+            "count": 5,
+            "pct": 1.4
+          }
+        ]
+      }
+    ]
+  }
+}

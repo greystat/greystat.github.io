@@ -1,0 +1,1 @@
+window.__YEARS_UNEMPLOYED_SINCE_LAST_EXAM_EXAM_H={"concept_id":"YEARS_UNEMPLOYED_SINCE_LAST_EXAM","exam":"H","n":3484,"missing":2530,"mean":1.7851,"sd":2.4252,"p50":1,"p99":12};

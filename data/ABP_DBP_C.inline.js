@@ -1,0 +1,1 @@
+window.__ABP_DBP_EXAM_C={"concept_id":"ABP_DBP","exam":"C","n":25934,"missing":0,"mean":64.5791,"sd":27.3,"p50":67,"p99":144};

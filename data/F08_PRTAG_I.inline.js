@@ -1,0 +1,1 @@
+window.__F08_PRTAG_EXAM_I={"concept_id":"F08_PRTAG","exam":"I","n":3356,"missing":3334,"mean":52.4545,"sd":4.4479,"p50":53,"p99":58};

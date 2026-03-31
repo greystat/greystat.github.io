@@ -1,0 +1,1 @@
+window.__TOBACCO_TRIED_TO_QUIT_EXAM_G={"concept_id":"TOBACCO_TRIED_TO_QUIT","exam":"G","n":1964,"missing":1270,"n_levels":3,"mode_level":"(Missing)"};

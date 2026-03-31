@@ -1,0 +1,1 @@
+window.__JOB_NOT_EXCESSIVE_WORK_EXAM_B={"concept_id":"JOB_NOT_EXCESSIVE_WORK","exam":"B","n":4623,"missing":384,"n_levels":5,"mode_level":"Agree"};

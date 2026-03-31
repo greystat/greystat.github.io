@@ -1,0 +1,1 @@
+window.__F08_SKNAG_EXAM_I={"concept_id":"F08_SKNAG","exam":"I","n":3356,"missing":3245,"mean":45.4505,"sd":10.0342,"p50":48,"p99":60};

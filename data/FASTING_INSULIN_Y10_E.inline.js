@@ -1,0 +1,1 @@
+window.__FASTING_INSULIN_Y10_EXAM_E={"concept_id":"FASTING_INSULIN_Y10","exam":"E","n":3949,"missing":87,"mean":13.8861,"sd":10.1755,"p50":11,"p99":53.39};

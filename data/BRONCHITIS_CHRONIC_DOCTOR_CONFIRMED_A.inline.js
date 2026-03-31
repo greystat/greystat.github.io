@@ -1,0 +1,1 @@
+window.__BRONCHITIS_CHRONIC_DOCTOR_CONFIRMED_EXAM_A={"concept_id":"BRONCHITIS_CHRONIC_DOCTOR_CONFIRMED","exam":"A","n":5114,"missing":16,"n_levels":5,"mode_level":"0"};

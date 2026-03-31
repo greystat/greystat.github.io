@@ -1,0 +1,1 @@
+window.__RAVLT_TOTAL_DELAY_MIN_EXAM_H={"concept_id":"RAVLT_TOTAL_DELAY_MIN","exam":"H","n":3386,"missing":14,"mean":9.7192,"sd":0.647,"p50":10,"p99":11};

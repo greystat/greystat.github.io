@@ -1,0 +1,1 @@
+window.__HOSPITALIZATION1_DIAGNOSIS_CODE3_EXAM_G={"concept_id":"HOSPITALIZATION1_DIAGNOSIS_CODE3","exam":"G","n":184,"missing":181,"mean":48,"sd":25.5343,"p50":54,"p99":69.68};

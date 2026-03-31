@@ -1,0 +1,882 @@
+{
+  "concept_id": "TOBACCO_PIPE_CURRENT",
+  "exam": "J",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 968,
+        "missing": 934,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 934,
+            "pct": 96.5
+          },
+          {
+            "level": "No, not at all",
+            "count": 33,
+            "pct": 3.4
+          },
+          {
+            "level": "No, but I still smoke cigars occasionally",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 444,
+        "missing": 414,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 414,
+            "pct": 93.2
+          },
+          {
+            "level": "No, not at all",
+            "count": 29,
+            "pct": 6.5
+          },
+          {
+            "level": "No, but I still smoke cigars occasionally",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 524,
+        "missing": 520,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 520,
+            "pct": 99.2
+          },
+          {
+            "level": "No, not at all",
+            "count": 4,
+            "pct": 0.8
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 383,
+        "missing": 371,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 371,
+            "pct": 96.9
+          },
+          {
+            "level": "No, not at all",
+            "count": 11,
+            "pct": 2.9
+          },
+          {
+            "level": "No, but I still smoke cigars occasionally",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 585,
+        "missing": 563,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 563,
+            "pct": 96.2
+          },
+          {
+            "level": "No, not at all",
+            "count": 22,
+            "pct": 3.8
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 220,
+        "missing": 216,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 216,
+            "pct": 98.2
+          },
+          {
+            "level": "No, not at all",
+            "count": 4,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 192,
+        "missing": 187,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 187,
+            "pct": 97.4
+          },
+          {
+            "level": "No, not at all",
+            "count": 5,
+            "pct": 2.6
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 300,
+        "missing": 283,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 283,
+            "pct": 94.3
+          },
+          {
+            "level": "No, not at all",
+            "count": 16,
+            "pct": 5.3
+          },
+          {
+            "level": "No, but I still smoke cigars occasionally",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 256,
+        "missing": 248,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 248,
+            "pct": 96.9
+          },
+          {
+            "level": "No, not at all",
+            "count": 8,
+            "pct": 3.1
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 167,
+        "missing": 156,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 156,
+            "pct": 93.4
+          },
+          {
+            "level": "No, not at all",
+            "count": 10,
+            "pct": 6
+          },
+          {
+            "level": "No, but I still smoke cigars occasionally",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 216,
+        "missing": 215,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 215,
+            "pct": 99.5
+          },
+          {
+            "level": "No, not at all",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 277,
+        "missing": 258,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 258,
+            "pct": 93.1
+          },
+          {
+            "level": "No, not at all",
+            "count": 19,
+            "pct": 6.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 308,
+        "missing": 305,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 305,
+            "pct": 99
+          },
+          {
+            "level": "No, not at all",
+            "count": 3,
+            "pct": 1
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 119,
+        "missing": 115,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 115,
+            "pct": 96.6
+          },
+          {
+            "level": "No, not at all",
+            "count": 4,
+            "pct": 3.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 77,
+        "missing": 72,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 72,
+            "pct": 93.5
+          },
+          {
+            "level": "No, not at all",
+            "count": 5,
+            "pct": 6.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 140,
+        "missing": 125,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 125,
+            "pct": 89.3
+          },
+          {
+            "level": "No, not at all",
+            "count": 14,
+            "pct": 10
+          },
+          {
+            "level": "No, but I still smoke cigars occasionally",
+            "count": 1,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 108,
+        "missing": 102,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 102,
+            "pct": 94.4
+          },
+          {
+            "level": "No, not at all",
+            "count": 6,
+            "pct": 5.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 101,
+        "missing": 101,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 101,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 115,
+        "missing": 115,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 115,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 160,
+        "missing": 158,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 158,
+            "pct": 98.8
+          },
+          {
+            "level": "No, not at all",
+            "count": 2,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 148,
+        "missing": 146,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 146,
+            "pct": 98.6
+          },
+          {
+            "level": "No, not at all",
+            "count": 2,
+            "pct": 1.4
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 98,
+        "missing": 95,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 95,
+            "pct": 96.9
+          },
+          {
+            "level": "No, not at all",
+            "count": 3,
+            "pct": 3.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 74,
+        "missing": 72,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 72,
+            "pct": 97.3
+          },
+          {
+            "level": "No, not at all",
+            "count": 2,
+            "pct": 2.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 92,
+        "missing": 89,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 89,
+            "pct": 96.7
+          },
+          {
+            "level": "No, not at all",
+            "count": 2,
+            "pct": 2.2
+          },
+          {
+            "level": "No, but I still smoke cigars occasionally",
+            "count": 1,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 119,
+        "missing": 115,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 115,
+            "pct": 96.6
+          },
+          {
+            "level": "No, not at all",
+            "count": 4,
+            "pct": 3.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 122,
+        "missing": 121,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 121,
+            "pct": 99.2
+          },
+          {
+            "level": "No, not at all",
+            "count": 1,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 118,
+        "missing": 115,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 115,
+            "pct": 97.5
+          },
+          {
+            "level": "No, not at all",
+            "count": 3,
+            "pct": 2.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 208,
+        "missing": 194,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 194,
+            "pct": 93.3
+          },
+          {
+            "level": "No, not at all",
+            "count": 14,
+            "pct": 6.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 137,
+        "missing": 133,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 133,
+            "pct": 97.1
+          },
+          {
+            "level": "No, not at all",
+            "count": 4,
+            "pct": 2.9
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 50,
+        "missing": 47,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 47,
+            "pct": 94
+          },
+          {
+            "level": "No, not at all",
+            "count": 3,
+            "pct": 6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 27,
+        "missing": 25,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 25,
+            "pct": 92.6
+          },
+          {
+            "level": "No, not at all",
+            "count": 2,
+            "pct": 7.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 43,
+        "missing": 40,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 40,
+            "pct": 93
+          },
+          {
+            "level": "No, not at all",
+            "count": 2,
+            "pct": 4.7
+          },
+          {
+            "level": "No, but I still smoke cigars occasionally",
+            "count": 1,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 47,
+        "missing": 44,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 44,
+            "pct": 93.6
+          },
+          {
+            "level": "No, not at all",
+            "count": 3,
+            "pct": 6.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 48,
+        "missing": 48,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 48,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 47,
+        "missing": 47,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 47,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 49,
+        "missing": 49,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 49,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 72,
+        "missing": 71,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 71,
+            "pct": 98.6
+          },
+          {
+            "level": "No, not at all",
+            "count": 1,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 69,
+        "missing": 68,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 68,
+            "pct": 98.6
+          },
+          {
+            "level": "No, not at all",
+            "count": 1,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 50,
+        "missing": 47,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 47,
+            "pct": 94
+          },
+          {
+            "level": "No, not at all",
+            "count": 3,
+            "pct": 6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 97,
+        "missing": 85,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 85,
+            "pct": 87.6
+          },
+          {
+            "level": "No, not at all",
+            "count": 12,
+            "pct": 12.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 61,
+        "missing": 58,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 58,
+            "pct": 95.1
+          },
+          {
+            "level": "No, not at all",
+            "count": 3,
+            "pct": 4.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 53,
+        "missing": 53,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 53,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 68,
+        "missing": 68,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 68,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 111,
+        "missing": 109,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 109,
+            "pct": 98.2
+          },
+          {
+            "level": "No, not at all",
+            "count": 2,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 76,
+        "missing": 75,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 75,
+            "pct": 98.7
+          },
+          {
+            "level": "No, not at all",
+            "count": 1,
+            "pct": 1.3
+          }
+        ]
+      }
+    ]
+  }
+}

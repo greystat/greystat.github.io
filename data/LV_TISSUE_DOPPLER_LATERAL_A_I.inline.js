@@ -1,0 +1,1 @@
+window.__LV_TISSUE_DOPPLER_LATERAL_A_EXAM_I={"concept_id":"LV_TISSUE_DOPPLER_LATERAL_A","exam":"I","n":3184,"missing":119,"mean":10.6643,"sd":2.8344,"p50":10.413,"p99":18.2532};

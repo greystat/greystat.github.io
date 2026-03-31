@@ -1,0 +1,1 @@
+window.__CHILDCARE_MONTHS_PER_YEAR_EXAM_F={"concept_id":"CHILDCARE_MONTHS_PER_YEAR","exam":"F","n":7342,"missing":338,"mean":5.6318,"sd":5.8132,"p50":2,"p99":12};

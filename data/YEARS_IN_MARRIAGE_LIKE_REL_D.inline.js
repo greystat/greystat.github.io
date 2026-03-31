@@ -1,0 +1,1 @@
+window.__YEARS_IN_MARRIAGE_LIKE_REL_EXAM_D={"concept_id":"YEARS_IN_MARRIAGE_LIKE_REL","exam":"D","n":4085,"missing":3543,"mean":3.2177,"sd":3.5874,"p50":2,"p99":15};

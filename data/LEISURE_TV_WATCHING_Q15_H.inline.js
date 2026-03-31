@@ -1,0 +1,1 @@
+window.__LEISURE_TV_WATCHING_Q15_EXAM_H={"concept_id":"LEISURE_TV_WATCHING_Q15","exam":"H","n":3466,"missing":0,"n_levels":5,"mode_level":"3"};

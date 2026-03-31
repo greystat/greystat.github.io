@@ -1,0 +1,1 @@
+window.__IRON_SUPPLEMENT_NUMBER_EXAM_F={"concept_id":"IRON_SUPPLEMENT_NUMBER","exam":"F","n":3671,"missing":3461,"n_levels":11,"mode_level":"(Missing)"};

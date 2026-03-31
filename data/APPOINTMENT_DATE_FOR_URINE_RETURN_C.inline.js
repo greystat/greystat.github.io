@@ -1,0 +1,1 @@
+window.__APPOINTMENT_DATE_FOR_URINE_RETURN_EXAM_C={"concept_id":"APPOINTMENT_DATE_FOR_URINE_RETURN","exam":"C","n":1105,"missing":24,"mean":1990.4089,"sd":0.4919,"p50":1990,"p99":1991};

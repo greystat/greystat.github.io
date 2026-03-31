@@ -1,0 +1,1 @@
+window.__LCX_LESION_MEAN_EXAM_G={"concept_id":"LCX_LESION_MEAN","exam":"G","n":3139,"missing":17,"mean":8.9527,"sd":44.9449,"p50":0,"p99":244.7208};

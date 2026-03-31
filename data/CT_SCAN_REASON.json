@@ -1,0 +1,42 @@
+{
+  "concept_id": "CT_SCAN_REASON",
+  "title": "Reason for CT scan",
+  "chips": ["categorical", "5 levels"],
+  "members": [
+    {
+      "concept_id": "CT_SCAN_REASON",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f09ct",
+      "dataset_stub": "e1f09ct",
+      "varname": "E09CTRS",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "5",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Stroke"
+    },
+    {
+      "code": "2",
+      "label": "Transient ischemic attack"
+    },
+    {
+      "code": "3",
+      "label": "Head trauma"
+    },
+    {
+      "code": "4",
+      "label": "Headache"
+    },
+    {
+      "code": "5",
+      "label": "Other"
+    }
+  ]
+}

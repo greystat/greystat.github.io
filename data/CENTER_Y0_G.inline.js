@@ -1,0 +1,1 @@
+window.__CENTER_Y0_EXAM_G={"concept_id":"CENTER_Y0","exam":"G","n":3503,"missing":0,"mean":2.5906,"sd":1.1279,"p50":3,"p99":4};

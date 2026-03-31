@@ -1,0 +1,1 @@
+window.__HBA1C_ASSAY_DATE_EXAM_H={"concept_id":"HBA1C_ASSAY_DATE","exam":"H","n":3395,"missing":0,"mean":2010.4524,"sd":0.4978,"p50":2010,"p99":2011};

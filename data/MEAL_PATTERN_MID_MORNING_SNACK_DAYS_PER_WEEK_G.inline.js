@@ -1,0 +1,1 @@
+window.__MEAL_PATTERN_MID_MORNING_SNACK_DAYS_PER_WEEK_EXAM_G={"concept_id":"MEAL_PATTERN_MID_MORNING_SNACK_DAYS_PER_WEEK","exam":"G","n":3142,"missing":496,"mean":2.1723,"sd":2.6455,"p50":0,"p99":7};

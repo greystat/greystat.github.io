@@ -1,0 +1,1 @@
+window.__VIOLENCE_EPISODES_WITH_SOMEONE_UNKNOWN_EXAM_B={"concept_id":"VIOLENCE_EPISODES_WITH_SOMEONE_UNKNOWN","exam":"B","n":4623,"missing":65,"mean":0.5382,"sd":3.831,"p50":0,"p99":10};

@@ -1,0 +1,1 @@
+window.__SPIROMETER_MAX_FVC_EXHAL_TIME_EXAM_C={"concept_id":"SPIROMETER_MAX_FVC_EXHAL_TIME","exam":"C","n":4351,"missing":96,"mean":7.4248,"sd":2.1092,"p50":7.05,"p99":14.25};

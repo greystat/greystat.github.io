@@ -1,0 +1,1 @@
+window.__F08_HRTAG_EXAM_F={"concept_id":"F08_HRTAG","exam":"F","n":3671,"missing":3656,"mean":36.6667,"sd":8.7885,"p50":42,"p99":44.86};

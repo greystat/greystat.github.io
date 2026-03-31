@@ -1,0 +1,1 @@
+window.__OTHER_MED_YEARS_USE_EXAM_B={"concept_id":"OTHER_MED_YEARS_USE","exam":"B","n":835,"missing":11,"mean":1.9612,"sd":3.8833,"p50":0,"p99":20};

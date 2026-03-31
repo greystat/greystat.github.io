@@ -1,0 +1,1 @@
+window.__F08_MELAG_EXAM_H={"concept_id":"F08_MELAG","exam":"H","n":3485,"missing":3457,"mean":41.8571,"sd":8.1045,"p50":41.5,"p99":53.46};

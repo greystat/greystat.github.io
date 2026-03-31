@@ -1,0 +1,1 @@
+window.__COUGH_DAILY_FREQUENCY_EXAM_A={"concept_id":"COUGH_DAILY_FREQUENCY","exam":"A","n":5114,"missing":84,"n_levels":4,"mode_level":"0"};

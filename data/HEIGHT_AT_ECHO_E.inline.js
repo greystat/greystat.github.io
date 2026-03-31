@@ -1,0 +1,1 @@
+window.__HEIGHT_AT_ECHO_EXAM_E={"concept_id":"HEIGHT_AT_ECHO","exam":"E","n":3153,"missing":2,"mean":170.9565,"sd":10.3793,"p50":170,"p99":193};

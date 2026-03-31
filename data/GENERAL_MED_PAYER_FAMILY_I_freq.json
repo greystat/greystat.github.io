@@ -1,0 +1,797 @@
+{
+  "concept_id": "GENERAL_MED_PAYER_FAMILY",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 7992,
+        "missing": 7933,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 7933,
+            "pct": 99.3
+          },
+          {
+            "level": "Family member",
+            "count": 59,
+            "pct": 0.7
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 2982,
+        "missing": 2967,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2967,
+            "pct": 99.5
+          },
+          {
+            "level": "Family member",
+            "count": 15,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 5010,
+        "missing": 4966,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 4966,
+            "pct": 99.1
+          },
+          {
+            "level": "Family member",
+            "count": 44,
+            "pct": 0.9
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 4379,
+        "missing": 4343,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 4343,
+            "pct": 99.2
+          },
+          {
+            "level": "Family member",
+            "count": 36,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 3613,
+        "missing": 3590,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3590,
+            "pct": 99.4
+          },
+          {
+            "level": "Family member",
+            "count": 23,
+            "pct": 0.6
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 2436,
+        "missing": 2415,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2415,
+            "pct": 99.1
+          },
+          {
+            "level": "Family member",
+            "count": 21,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 1563,
+        "missing": 1539,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1539,
+            "pct": 98.5
+          },
+          {
+            "level": "Family member",
+            "count": 24,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 1591,
+        "missing": 1591,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1591,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 2402,
+        "missing": 2388,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2388,
+            "pct": 99.4
+          },
+          {
+            "level": "Family member",
+            "count": 14,
+            "pct": 0.6
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 1511,
+        "missing": 1504,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1504,
+            "pct": 99.5
+          },
+          {
+            "level": "Family member",
+            "count": 7,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 2868,
+        "missing": 2839,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2839,
+            "pct": 99
+          },
+          {
+            "level": "Family member",
+            "count": 29,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 1471,
+        "missing": 1463,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1463,
+            "pct": 99.5
+          },
+          {
+            "level": "Family member",
+            "count": 8,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 2142,
+        "missing": 2127,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2127,
+            "pct": 99.3
+          },
+          {
+            "level": "Family member",
+            "count": 15,
+            "pct": 0.7
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 943,
+        "missing": 936,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 936,
+            "pct": 99.3
+          },
+          {
+            "level": "Family member",
+            "count": 7,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 595,
+        "missing": 587,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 587,
+            "pct": 98.7
+          },
+          {
+            "level": "Family member",
+            "count": 8,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 640,
+        "missing": 640,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 640,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 804,
+        "missing": 804,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 804,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 1493,
+        "missing": 1479,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1479,
+            "pct": 99.1
+          },
+          {
+            "level": "Family member",
+            "count": 14,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 968,
+        "missing": 952,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 952,
+            "pct": 98.3
+          },
+          {
+            "level": "Family member",
+            "count": 16,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 951,
+        "missing": 951,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 951,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 1598,
+        "missing": 1584,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1584,
+            "pct": 99.1
+          },
+          {
+            "level": "Family member",
+            "count": 14,
+            "pct": 0.9
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 1522,
+        "missing": 1502,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1502,
+            "pct": 98.7
+          },
+          {
+            "level": "Family member",
+            "count": 20,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 850,
+        "missing": 848,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 848,
+            "pct": 99.8
+          },
+          {
+            "level": "Family member",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 551,
+        "missing": 551,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 551,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 1456,
+        "missing": 1442,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1442,
+            "pct": 99
+          },
+          {
+            "level": "Family member",
+            "count": 14,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 914,
+        "missing": 913,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 913,
+            "pct": 99.9
+          },
+          {
+            "level": "Family member",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 713,
+        "missing": 691,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 691,
+            "pct": 96.9
+          },
+          {
+            "level": "Family member",
+            "count": 22,
+            "pct": 3.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 1040,
+        "missing": 1040,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1040,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 946,
+        "missing": 946,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 946,
+            "pct": 100
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 545,
+        "missing": 538,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 538,
+            "pct": 98.7
+          },
+          {
+            "level": "Family member",
+            "count": 7,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 286,
+        "missing": 286,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 286,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 217,
+        "missing": 217,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 217,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 463,
+        "missing": 463,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 463,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 977,
+        "missing": 964,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 964,
+            "pct": 98.7
+          },
+          {
+            "level": "Family member",
+            "count": 13,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 564,
+        "missing": 562,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 562,
+            "pct": 99.6
+          },
+          {
+            "level": "Family member",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 334,
+        "missing": 334,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 334,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 993,
+        "missing": 979,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 979,
+            "pct": 98.6
+          },
+          {
+            "level": "Family member",
+            "count": 14,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 398,
+        "missing": 398,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 398,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 309,
+        "missing": 301,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 301,
+            "pct": 97.4
+          },
+          {
+            "level": "Family member",
+            "count": 8,
+            "pct": 2.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 423,
+        "missing": 423,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 423,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 341,
+        "missing": 341,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 341,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 516,
+        "missing": 515,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 515,
+            "pct": 99.8
+          },
+          {
+            "level": "Family member",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 404,
+        "missing": 390,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 390,
+            "pct": 96.5
+          },
+          {
+            "level": "Family member",
+            "count": 14,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 617,
+        "missing": 617,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 617,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 605,
+        "missing": 605,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 605,
+            "pct": 100
+          }
+        ]
+      }
+    ]
+  }
+}

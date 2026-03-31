@@ -1,0 +1,1 @@
+window.__RCA_AGATSTON_SCORE_EXAM_H={"concept_id":"RCA_AGATSTON_SCORE","exam":"H","n":3197,"missing":8,"mean":11.6733,"sd":77.266,"p50":0,"p99":284.1375};

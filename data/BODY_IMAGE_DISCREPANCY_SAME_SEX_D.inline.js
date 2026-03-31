@@ -1,0 +1,1 @@
+window.__BODY_IMAGE_DISCREPANCY_SAME_SEX_EXAM_D={"concept_id":"BODY_IMAGE_DISCREPANCY_SAME_SEX","exam":"D","n":4085,"missing":78,"mean":1.2738,"sd":1.794,"p50":1,"p99":5};

@@ -1,0 +1,1 @@
+window.__F08_HBPPR_EXAM_G={"concept_id":"F08_HBPPR","exam":"G","n":3548,"missing":3078,"n_levels":3,"mode_level":"(Missing)"};

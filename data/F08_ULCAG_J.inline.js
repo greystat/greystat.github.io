@@ -1,0 +1,1 @@
+window.__F08_ULCAG_EXAM_J={"concept_id":"F08_ULCAG","exam":"J","n":2776,"missing":2735,"mean":40.9756,"sd":15.7043,"p50":45,"p99":64.8};

@@ -1,0 +1,39 @@
+{
+  "concept_id": "DIET_SODA_USUAL_AMOUNT",
+  "title": "Diet soda or pop usual amount per occasion",
+  "chips": ["categorical", "1 levels", "F90 · Beverages Questionnaire", "Diet"],
+  "members": [
+    {
+      "concept_id": "DIET_SODA_USUAL_AMOUNT",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f90",
+      "dataset_stub": "h3f90",
+      "varname": "H90DSODAA",
+      "family": "F90",
+      "form_label": "Beverages Questionnaire",
+      "n_labels": "1",
+      "instrument": "F90: Beverages Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "DIET_SODA_USUAL_AMOUNT",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f90",
+      "dataset_stub": "i1f90",
+      "varname": "I90DSODAA",
+      "family": "F90",
+      "form_label": "Beverages Questionnaire",
+      "n_labels": "1",
+      "instrument": "F90: Beverages Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Less than 12 ounces or less than one can or bottle"
+    }
+  ]
+}

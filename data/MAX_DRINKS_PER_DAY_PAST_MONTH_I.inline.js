@@ -1,0 +1,1 @@
+window.__MAX_DRINKS_PER_DAY_PAST_MONTH_EXAM_I={"concept_id":"MAX_DRINKS_PER_DAY_PAST_MONTH","exam":"I","n":3269,"missing":734,"mean":3.254,"sd":3.252,"p50":3,"p99":15};

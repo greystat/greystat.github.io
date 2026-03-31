@@ -1,0 +1,1 @@
+window.__IRON_INTAKE_DIET_MG_EXAM_B={"concept_id":"IRON_INTAKE_DIET_MG","exam":"B","n":4623,"missing":58,"mean":15.8394,"sd":12.5663,"p50":12.9,"p99":61.952};

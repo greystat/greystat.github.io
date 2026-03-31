@@ -1,0 +1,36 @@
+{
+  "concept_id": "HYPERTHYROIDISM_AGE",
+  "title": "Age at diagnosis of hyperthyroidism (years)",
+  "unit": "years",
+  "chips": ["numeric", "years"],
+  "members": [
+    {
+      "concept_id": "HYPERTHYROIDISM_AGE",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f09gen",
+      "dataset_stub": "a4f09gen",
+      "varname": "A09HYTAG",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "HYPERTHYROIDISM_AGE",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f09thy",
+      "dataset_stub": "b2f09thy",
+      "varname": "B09HYTAG",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__EXAM10_PHASE_INDICATOR_EXAM_J={"concept_id":"EXAM10_PHASE_INDICATOR","exam":"J","n":3789,"missing":1551,"n_levels":4,"mode_level":"3"};

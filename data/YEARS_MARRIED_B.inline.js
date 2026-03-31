@@ -1,0 +1,1 @@
+window.__YEARS_MARRIED_EXAM_B={"concept_id":"YEARS_MARRIED","exam":"B","n":4623,"missing":3215,"mean":4.1506,"sd":3.5948,"p50":3,"p99":15};

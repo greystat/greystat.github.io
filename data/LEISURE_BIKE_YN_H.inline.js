@@ -1,0 +1,1 @@
+window.__LEISURE_BIKE_YN_EXAM_H={"concept_id":"LEISURE_BIKE_YN","exam":"H","n":3466,"missing":0,"n_levels":5,"mode_level":"Never"};

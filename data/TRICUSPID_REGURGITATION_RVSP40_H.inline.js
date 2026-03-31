@@ -1,0 +1,1 @@
+window.__TRICUSPID_REGURGITATION_RVSP40_EXAM_H={"concept_id":"TRICUSPID_REGURGITATION_RVSP40","exam":"H","n":3474,"missing":20,"mean":0.009,"sd":0.0943,"p50":0,"p99":0};

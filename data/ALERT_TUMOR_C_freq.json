@@ -1,0 +1,932 @@
+{
+  "concept_id": "ALERT_TUMOR",
+  "exam": "C",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 4351,
+        "missing": 107,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 4242,
+            "pct": 97.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 107,
+            "pct": 2.5
+          },
+          {
+            "level": "Tumor",
+            "count": 2,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1958,
+        "missing": 46,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 1911,
+            "pct": 97.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 46,
+            "pct": 2.3
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 2393,
+        "missing": 61,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 2331,
+            "pct": 97.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 61,
+            "pct": 2.5
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 2119,
+        "missing": 64,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 2054,
+            "pct": 96.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 64,
+            "pct": 3
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 2232,
+        "missing": 43,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 2188,
+            "pct": 98
+          },
+          {
+            "level": "(Missing)",
+            "count": 43,
+            "pct": 1.9
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 939,
+        "missing": 5,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 934,
+            "pct": 99.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 5,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 929,
+        "missing": 5,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 924,
+            "pct": 99.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 5,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 1221,
+        "missing": 17,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 1202,
+            "pct": 98.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 17,
+            "pct": 1.4
+          },
+          {
+            "level": "Tumor",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1262,
+        "missing": 80,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 1182,
+            "pct": 93.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 80,
+            "pct": 6.3
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 905,
+        "missing": 26,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 879,
+            "pct": 97.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 26,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1214,
+        "missing": 38,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 1175,
+            "pct": 96.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 38,
+            "pct": 3.1
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 1053,
+        "missing": 20,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 1032,
+            "pct": 98
+          },
+          {
+            "level": "(Missing)",
+            "count": 20,
+            "pct": 1.9
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1179,
+        "missing": 23,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 1156,
+            "pct": 98
+          },
+          {
+            "level": "(Missing)",
+            "count": 23,
+            "pct": 2
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 464,
+        "missing": 3,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 461,
+            "pct": 99.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 407,
+        "missing": 3,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 404,
+            "pct": 99.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 583,
+        "missing": 9,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 573,
+            "pct": 98.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 9,
+            "pct": 1.5
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 504,
+        "missing": 31,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 473,
+            "pct": 93.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 31,
+            "pct": 6.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 475,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 473,
+            "pct": 99.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 522,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 520,
+            "pct": 99.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 638,
+        "missing": 8,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 629,
+            "pct": 98.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 8,
+            "pct": 1.3
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 758,
+        "missing": 49,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 709,
+            "pct": 93.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 49,
+            "pct": 6.5
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 493,
+        "missing": 3,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 490,
+            "pct": 99.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 438,
+        "missing": 3,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 435,
+            "pct": 99.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 481,
+        "missing": 10,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 470,
+            "pct": 97.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 10,
+            "pct": 2.1
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 707,
+        "missing": 48,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 659,
+            "pct": 93.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 48,
+            "pct": 6.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 446,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 444,
+            "pct": 99.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 491,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 489,
+            "pct": 99.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 740,
+        "missing": 7,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 732,
+            "pct": 98.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 7,
+            "pct": 0.9
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 555,
+        "missing": 32,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 523,
+            "pct": 94.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 32,
+            "pct": 5.8
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 224,
+        "missing": 1,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 223,
+            "pct": 99.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 172,
+        "missing": 3,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 169,
+            "pct": 98.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 235,
+        "missing": 5,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 230,
+            "pct": 97.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 5,
+            "pct": 2.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 274,
+        "missing": 17,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 257,
+            "pct": 93.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 17,
+            "pct": 6.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 269,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 267,
+            "pct": 99.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 266,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 266,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 246,
+        "missing": 5,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 240,
+            "pct": 97.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 5,
+            "pct": 2
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 433,
+        "missing": 31,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 402,
+            "pct": 92.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 31,
+            "pct": 7.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 240,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 238,
+            "pct": 99.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 235,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 235,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 348,
+        "missing": 4,
+        "n_levels": 3,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 343,
+            "pct": 98.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 1.1
+          },
+          {
+            "level": "Tumor",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 230,
+        "missing": 14,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 216,
+            "pct": 93.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 14,
+            "pct": 6.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 206,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 206,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 256,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 254,
+            "pct": 99.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 392,
+        "missing": 3,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 389,
+            "pct": 99.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 325,
+        "missing": 18,
+        "n_levels": 2,
+        "mode_level": "1",
+        "freq": [
+          {
+            "level": "1",
+            "count": 307,
+            "pct": 94.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 18,
+            "pct": 5.5
+          }
+        ]
+      }
+    ]
+  }
+}

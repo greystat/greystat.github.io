@@ -1,0 +1,1 @@
+window.__F08_GOUAG_EXAM_H={"concept_id":"F08_GOUAG","exam":"H","n":3485,"missing":3390,"mean":40.6632,"sd":8.5981,"p50":40,"p99":53.06};

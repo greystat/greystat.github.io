@@ -1,0 +1,1 @@
+window.__HOT_FLASHES_3MO_EXAM_G={"concept_id":"HOT_FLASHES_3MO","exam":"G","n":1990,"missing":8,"n_levels":4,"mode_level":"\"No\""};

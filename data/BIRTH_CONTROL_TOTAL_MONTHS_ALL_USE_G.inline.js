@@ -1,0 +1,1 @@
+window.__BIRTH_CONTROL_TOTAL_MONTHS_ALL_USE_EXAM_G={"concept_id":"BIRTH_CONTROL_TOTAL_MONTHS_ALL_USE","exam":"G","n":1626,"missing":81,"mean":0.8621,"sd":2.2725,"p50":0,"p99":9};

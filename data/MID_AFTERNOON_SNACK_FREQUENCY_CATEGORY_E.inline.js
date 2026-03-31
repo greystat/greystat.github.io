@@ -1,0 +1,1 @@
+window.__MID_AFTERNOON_SNACK_FREQUENCY_CATEGORY_EXAM_E={"concept_id":"MID_AFTERNOON_SNACK_FREQUENCY_CATEGORY","exam":"E","n":3949,"missing":23,"n_levels":3,"mode_level":"3"};

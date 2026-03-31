@@ -1,0 +1,1 @@
+window.__INCREASED_FIBER_EXAM_G={"concept_id":"INCREASED_FIBER","exam":"G","n":3142,"missing":1197,"n_levels":3,"mode_level":"No"};

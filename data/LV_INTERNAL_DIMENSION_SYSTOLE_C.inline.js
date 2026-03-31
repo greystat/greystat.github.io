@@ -1,0 +1,1 @@
+window.__LV_INTERNAL_DIMENSION_SYSTOLE_EXAM_C={"concept_id":"LV_INTERNAL_DIMENSION_SYSTOLE","exam":"C","n":4351,"missing":244,"mean":3.1875,"sd":0.4492,"p50":3.17,"p99":4.37};

@@ -1,0 +1,1 @@
+window.__DRINKS_PAST_24_HOURS_EXAM_I={"concept_id":"DRINKS_PAST_24_HOURS","exam":"I","n":3269,"missing":733,"mean":0.7468,"sd":1.3329,"p50":0,"p99":6};

@@ -1,0 +1,1 @@
+window.__NUMBER_ABORTIONS_EXAM_A={"concept_id":"NUMBER_ABORTIONS","exam":"A","n":4008,"missing":3350,"mean":1.4149,"sd":0.7839,"p50":1,"p99":4};

@@ -1,0 +1,1 @@
+window.__GLUCOSE_2H_Y30_OGTT_MGDL_EXAM_I={"concept_id":"GLUCOSE_2H_Y30_OGTT_MGDL","exam":"I","n":3312,"missing":2308,"mean":114.4661,"sd":40.2696,"p50":107,"p99":262.88};

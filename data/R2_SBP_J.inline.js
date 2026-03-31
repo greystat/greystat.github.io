@@ -1,0 +1,1 @@
+window.__R2_SBP_EXAM_J={"concept_id":"R2_SBP","exam":"J","n":2125,"missing":0,"mean":124.0358,"sd":17.9735,"p50":122,"p99":175.76};

@@ -1,0 +1,1 @@
+window.__MENARCHE_AGE_EXAM_E={"concept_id":"MENARCHE_AGE","exam":"E","n":2044,"missing":46,"mean":12.5475,"sd":1.5888,"p50":12,"p99":17};

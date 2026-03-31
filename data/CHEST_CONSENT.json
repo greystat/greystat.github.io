@@ -1,0 +1,22 @@
+{
+  "concept_id": "CHEST_CONSENT",
+  "title": "Consented to CT of chest",
+  "unit": {},
+  "chips": ["numeric", "F76 · Sleep Questionnaire", "Sleep"],
+  "members": [
+    {
+      "concept_id": "CHEST_CONSENT",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f76",
+      "dataset_stub": "h3f76",
+      "varname": "H76CHEC",
+      "family": "F76",
+      "form_label": "CT Scan Completion",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F76: CT Scan Completion",
+      "notes": ""
+    }
+  ]
+}

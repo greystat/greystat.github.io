@@ -1,0 +1,1 @@
+window.__CESD_ITEM_TALKED_LESS_THAN_USUAL_EXAM_J={"concept_id":"CESD_ITEM_TALKED_LESS_THAN_USUAL","exam":"J","n":2489,"missing":17,"n_levels":5,"mode_level":"\"Rarely or none of the time\""};

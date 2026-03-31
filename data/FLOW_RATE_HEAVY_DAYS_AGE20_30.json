@@ -1,0 +1,42 @@
+{
+  "concept_id": "FLOW_RATE_HEAVY_DAYS_AGE20_30",
+  "title": "Menstrual flow rate on heaviest days at age 20–30",
+  "chips": ["categorical", "5 levels", "F68 · Reproductive Health", "Reproductive Health"],
+  "members": [
+    {
+      "concept_id": "FLOW_RATE_HEAVY_DAYS_AGE20_30",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f68",
+      "dataset_stub": "f1f68",
+      "varname": "F68TMFLW",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health Questionnaire",
+      "n_labels": "5",
+      "instrument": "F68: Women's Reproductive Health Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Light"
+    },
+    {
+      "code": "2",
+      "label": "Moderate"
+    },
+    {
+      "code": "3",
+      "label": "Heavy"
+    },
+    {
+      "code": "4",
+      "label": "Quite"
+    },
+    {
+      "code": "8",
+      "label": "Not sure"
+    }
+  ]
+}

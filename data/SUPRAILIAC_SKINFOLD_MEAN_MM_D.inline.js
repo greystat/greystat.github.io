@@ -1,0 +1,1 @@
+window.__SUPRAILIAC_SKINFOLD_MEAN_MM_EXAM_D={"concept_id":"SUPRAILIAC_SKINFOLD_MEAN_MM","exam":"D","n":4085,"missing":263,"mean":21.4444,"sd":10.1196,"p50":21,"p99":44};

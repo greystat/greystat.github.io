@@ -1,0 +1,1 @@
+window.__SPIROMETER_MAX_MMEF_EXAM_B={"concept_id":"SPIROMETER_MAX_MMEF","exam":"B","n":4623,"missing":159,"mean":3.6313,"sd":1.0694,"p50":3.55,"p99":6.4774};

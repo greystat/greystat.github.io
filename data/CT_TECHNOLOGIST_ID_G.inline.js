@@ -1,0 +1,1 @@
+window.__CT_TECHNOLOGIST_ID_EXAM_G={"concept_id":"CT_TECHNOLOGIST_ID","exam":"G","n":3123,"missing":41,"mean":361.8488,"sd":200.0193,"p50":430,"p99":661};

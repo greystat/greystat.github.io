@@ -1,0 +1,22 @@
+{
+  "concept_id": "CIGARETTE_NUMBER",
+  "title": "Number of cigarettes smoked during monitoring period",
+  "unit": "count",
+  "chips": ["numeric", "count", "MOOD · Mood / Affect", "Brain & Cognitive"],
+  "members": [
+    {
+      "concept_id": "CIGARETTE_NUMBER",
+      "exam": "F",
+      "exam_year": "",
+      "dataset": "f1mood",
+      "dataset_stub": "f1mood",
+      "varname": "FHL111A",
+      "family": "MOOD",
+      "form_label": "",
+      "units_std": "count",
+      "units_class": "count",
+      "instrument": "MOOD",
+      "notes": ""
+    }
+  ]
+}

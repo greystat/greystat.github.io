@@ -1,0 +1,1 @@
+window.__TRIGLYCERIDES_MGDL_EXAM_A={"concept_id":"TRIGLYCERIDES_MGDL","exam":"A","n":5114,"missing":50,"mean":72.9032,"sd":48.4966,"p50":62,"p99":249.37};

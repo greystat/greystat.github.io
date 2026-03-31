@@ -1,0 +1,1 @@
+window.__NUMBER_OF_CLUBS_EXAM_B={"concept_id":"NUMBER_OF_CLUBS","exam":"B","n":4623,"missing":3248,"mean":1.9913,"sd":1.4168,"p50":2,"p99":7};

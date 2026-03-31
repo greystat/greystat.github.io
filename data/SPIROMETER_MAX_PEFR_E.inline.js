@@ -1,0 +1,1 @@
+window.__SPIROMETER_MAX_PEFR_EXAM_E={"concept_id":"SPIROMETER_MAX_PEFR","exam":"E","n":7898,"missing":560,"mean":8.6502,"sd":2.2444,"p50":8.35,"p99":14.2};

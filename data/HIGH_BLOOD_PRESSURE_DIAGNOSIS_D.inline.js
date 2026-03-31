@@ -1,0 +1,1 @@
+window.__HIGH_BLOOD_PRESSURE_DIAGNOSIS_EXAM_D={"concept_id":"HIGH_BLOOD_PRESSURE_DIAGNOSIS","exam":"D","n":5114,"missing":809,"n_levels":3,"mode_level":"1"};

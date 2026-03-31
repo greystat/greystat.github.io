@@ -1,0 +1,1 @@
+window.__CT_SCAN_DATE_EXAM_H={"concept_id":"CT_SCAN_DATE","exam":"H","n":3215,"missing":39,"mean":2010.3659,"sd":0.4831,"p50":2010,"p99":2011};

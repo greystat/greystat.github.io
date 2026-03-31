@@ -1,0 +1,1 @@
+window.__NEIGHBORHOOD_FAST_FOOD_USED_PAST_YEAR_EXAM_I={"concept_id":"NEIGHBORHOOD_FAST_FOOD_USED_PAST_YEAR","exam":"I","n":3274,"missing":813,"n_levels":3,"mode_level":"2"};

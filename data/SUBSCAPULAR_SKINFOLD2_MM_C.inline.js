@@ -1,0 +1,1 @@
+window.__SUBSCAPULAR_SKINFOLD2_MM_EXAM_C={"concept_id":"SUBSCAPULAR_SKINFOLD2_MM","exam":"C","n":4351,"missing":206,"mean":17.9476,"sd":9.6951,"p50":15,"p99":46};

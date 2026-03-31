@@ -1,0 +1,1 @@
+window.__SONOGRAPHER_ID_EXAM_G={"concept_id":"SONOGRAPHER_ID","exam":"G","n":3252,"missing":41,"mean":295.7836,"sd":104.8893,"p50":306,"p99":425};

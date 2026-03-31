@@ -1,0 +1,1 @@
+window.__VITAMIN_B_INTAKE_DIET_PLUS_SUPP_MG_EXAM_B={"concept_id":"VITAMIN_B_INTAKE_DIET_PLUS_SUPP_MG","exam":"B","n":4623,"missing":58,"mean":28.4625,"sd":22.5457,"p50":23.5,"p99":113.516};

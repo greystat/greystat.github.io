@@ -1,0 +1,1 @@
+window.__URINARY_CREATININE_EXAM_F={"concept_id":"URINARY_CREATININE","exam":"F","n":729,"missing":0,"mean":0.9392,"sd":0.6028,"p50":0.793,"p99":2.7716};

@@ -1,0 +1,1 @@
+window.__MARIJUANA_MEDICAL_USE_PAST_30_EXAM_J={"concept_id":"MARIJUANA_MEDICAL_USE_PAST_30","exam":"J","n":2389,"missing":2035,"n_levels":4,"mode_level":"(Missing)"};

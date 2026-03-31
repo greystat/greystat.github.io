@@ -1,0 +1,1 @@
+window.__GLUCOSE_DRINK_END_AMPM_EXAM_I={"concept_id":"GLUCOSE_DRINK_END_AMPM","exam":"I","n":3418,"missing":2404,"n_levels":3,"mode_level":"(Missing)"};

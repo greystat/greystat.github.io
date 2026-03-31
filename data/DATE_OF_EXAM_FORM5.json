@@ -1,0 +1,78 @@
+{
+  "concept_id": "DATE_OF_EXAM_FORM5",
+  "title": "Date of exam (Form 05)",
+  "unit": "date",
+  "chips": ["numeric", "date", "F05 · Phlebotomy", "Specimen Collection"],
+  "members": [
+    {
+      "concept_id": "DATE_OF_EXAM_FORM5",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f05",
+      "dataset_stub": "f1f05",
+      "varname": "F05EXDAT",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "DATE_OF_EXAM_FORM5",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f05",
+      "dataset_stub": "g4f05",
+      "varname": "G05EXDAT",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "units_std": "date",
+      "units_class": "date",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "DATE_OF_EXAM_FORM5",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f05",
+      "dataset_stub": "h3f05",
+      "varname": "H05EXDAT",
+      "family": "F05",
+      "form_label": "Phlebotomy-Delayed OGTT",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F05: Phlebotomy-Delayed OGTT",
+      "notes": ""
+    },
+    {
+      "concept_id": "DATE_OF_EXAM_FORM5",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f05",
+      "dataset_stub": "i1f05",
+      "varname": "I05EXDAT",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "DATE_OF_EXAM_FORM5",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f05",
+      "dataset_stub": "j1f05",
+      "varname": "J05EXDAT",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    }
+  ]
+}

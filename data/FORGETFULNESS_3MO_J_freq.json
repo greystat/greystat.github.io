@@ -1,0 +1,592 @@
+{
+  "concept_id": "FORGETFULNESS_3MO",
+  "exam": "J",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1421,
+        "missing": 835,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 835,
+            "pct": 58.8
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 586,
+            "pct": 41.2
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 1421,
+        "missing": 835,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 835,
+            "pct": 58.8
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 586,
+            "pct": 41.2
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 650,
+        "missing": 384,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 384,
+            "pct": 59.1
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 266,
+            "pct": 40.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 771,
+        "missing": 451,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 451,
+            "pct": 58.5
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 320,
+            "pct": 41.5
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 332,
+        "missing": 197,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 197,
+            "pct": 59.3
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 135,
+            "pct": 40.7
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 337,
+        "missing": 196,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 196,
+            "pct": 58.2
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 141,
+            "pct": 41.8
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 317,
+        "missing": 193,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 193,
+            "pct": 60.9
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 124,
+            "pct": 39.1
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 435,
+        "missing": 249,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 249,
+            "pct": 57.2
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 186,
+            "pct": 42.8
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 650,
+        "missing": 384,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 384,
+            "pct": 59.1
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 266,
+            "pct": 40.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 771,
+        "missing": 451,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 451,
+            "pct": 58.5
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 320,
+            "pct": 41.5
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 332,
+        "missing": 197,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 197,
+            "pct": 59.3
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 135,
+            "pct": 40.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 337,
+        "missing": 196,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 196,
+            "pct": 58.2
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 141,
+            "pct": 41.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 317,
+        "missing": 193,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 193,
+            "pct": 60.9
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 124,
+            "pct": 39.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 435,
+        "missing": 249,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 249,
+            "pct": 57.2
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 186,
+            "pct": 42.8
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 196,
+        "missing": 121,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 121,
+            "pct": 61.7
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 75,
+            "pct": 38.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 154,
+        "missing": 85,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 85,
+            "pct": 55.2
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 69,
+            "pct": 44.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 101,
+        "missing": 58,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 58,
+            "pct": 57.4
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 43,
+            "pct": 42.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 199,
+        "missing": 120,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 120,
+            "pct": 60.3
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 79,
+            "pct": 39.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 136,
+        "missing": 76,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 76,
+            "pct": 55.9
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 60,
+            "pct": 44.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 183,
+        "missing": 111,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 111,
+            "pct": 60.7
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 72,
+            "pct": 39.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 216,
+        "missing": 135,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 135,
+            "pct": 62.5
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 81,
+            "pct": 37.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 236,
+        "missing": 129,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 129,
+            "pct": 54.7
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 107,
+            "pct": 45.3
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 196,
+        "missing": 121,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 121,
+            "pct": 61.7
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 75,
+            "pct": 38.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 154,
+        "missing": 85,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 85,
+            "pct": 55.2
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 69,
+            "pct": 44.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 101,
+        "missing": 58,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 58,
+            "pct": 57.4
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 43,
+            "pct": 42.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 199,
+        "missing": 120,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 120,
+            "pct": 60.3
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 79,
+            "pct": 39.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 136,
+        "missing": 76,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 76,
+            "pct": 55.9
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 60,
+            "pct": 44.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 183,
+        "missing": 111,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 111,
+            "pct": 60.7
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 72,
+            "pct": 39.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 216,
+        "missing": 135,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 135,
+            "pct": 62.5
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 81,
+            "pct": 37.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 236,
+        "missing": 129,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 129,
+            "pct": 54.7
+          },
+          {
+            "level": "Forgetfulness",
+            "count": 107,
+            "pct": 45.3
+          }
+        ]
+      }
+    ]
+  }
+}

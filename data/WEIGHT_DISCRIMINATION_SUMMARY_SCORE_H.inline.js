@@ -1,0 +1,1 @@
+window.__WEIGHT_DISCRIMINATION_SUMMARY_SCORE_EXAM_H={"concept_id":"WEIGHT_DISCRIMINATION_SUMMARY_SCORE","exam":"H","n":3474,"missing":0,"mean":1.1934,"sd":0.5339,"p50":1,"p99":2};

@@ -1,0 +1,1 @@
+window.__MIN_DAYS_BETWEEN_PERIODS_12MO_EXAM_H={"concept_id":"MIN_DAYS_BETWEEN_PERIODS_12MO","exam":"H","n":1964,"missing":1645,"n_levels":7,"mode_level":"(Missing)"};

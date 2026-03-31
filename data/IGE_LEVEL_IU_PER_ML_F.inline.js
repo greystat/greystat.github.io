@@ -1,0 +1,1 @@
+window.__IGE_LEVEL_IU_PER_ML_EXAM_F={"concept_id":"IGE_LEVEL_IU_PER_ML","exam":"F","n":811,"missing":52,"mean":130.8986,"sd":251.3351,"p50":42,"p99":1663.46};

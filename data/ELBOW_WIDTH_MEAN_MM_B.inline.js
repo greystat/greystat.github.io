@@ -1,0 +1,1 @@
+window.__ELBOW_WIDTH_MEAN_MM_EXAM_B={"concept_id":"ELBOW_WIDTH_MEAN_MM","exam":"B","n":4623,"missing":34,"mean":66.6134,"sd":6.0131,"p50":66,"p99":80};

@@ -1,0 +1,612 @@
+{
+  "concept_id": "BABY_STATUS_AT_BIRTH",
+  "exam": "F",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 447,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 437,
+            "pct": 97.8
+          },
+          {
+            "level": "Still birth",
+            "count": 9,
+            "pct": 2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 447,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 437,
+            "pct": 97.8
+          },
+          {
+            "level": "Still birth",
+            "count": 9,
+            "pct": 2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 179,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 174,
+            "pct": 97.2
+          },
+          {
+            "level": "Still birth",
+            "count": 5,
+            "pct": 2.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 268,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 263,
+            "pct": 98.1
+          },
+          {
+            "level": "Still birth",
+            "count": 4,
+            "pct": 1.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 115,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 111,
+            "pct": 96.5
+          },
+          {
+            "level": "Still birth",
+            "count": 4,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 119,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 117,
+            "pct": 98.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.8
+          },
+          {
+            "level": "Still birth",
+            "count": 1,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 101,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 100,
+            "pct": 99
+          },
+          {
+            "level": "Still birth",
+            "count": 1,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 112,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 109,
+            "pct": 97.3
+          },
+          {
+            "level": "Still birth",
+            "count": 3,
+            "pct": 2.7
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 179,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 174,
+            "pct": 97.2
+          },
+          {
+            "level": "Still birth",
+            "count": 5,
+            "pct": 2.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 268,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 263,
+            "pct": 98.1
+          },
+          {
+            "level": "Still birth",
+            "count": 4,
+            "pct": 1.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 115,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 111,
+            "pct": 96.5
+          },
+          {
+            "level": "Still birth",
+            "count": 4,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 119,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 117,
+            "pct": 98.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.8
+          },
+          {
+            "level": "Still birth",
+            "count": 1,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 101,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 100,
+            "pct": 99
+          },
+          {
+            "level": "Still birth",
+            "count": 1,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 112,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 109,
+            "pct": 97.3
+          },
+          {
+            "level": "Still birth",
+            "count": 3,
+            "pct": 2.7
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 49,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 47,
+            "pct": 95.9
+          },
+          {
+            "level": "Still birth",
+            "count": 2,
+            "pct": 4.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 46,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 45,
+            "pct": 97.8
+          },
+          {
+            "level": "Still birth",
+            "count": 1,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 35,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 34,
+            "pct": 97.1
+          },
+          {
+            "level": "Still birth",
+            "count": 1,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 49,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 48,
+            "pct": 98
+          },
+          {
+            "level": "Still birth",
+            "count": 1,
+            "pct": 2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 66,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 64,
+            "pct": 97
+          },
+          {
+            "level": "Still birth",
+            "count": 2,
+            "pct": 3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 73,
+        "missing": 1,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 72,
+            "pct": 98.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 66,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 66,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 63,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 61,
+            "pct": 96.8
+          },
+          {
+            "level": "Still birth",
+            "count": 2,
+            "pct": 3.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 49,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 47,
+            "pct": 95.9
+          },
+          {
+            "level": "Still birth",
+            "count": 2,
+            "pct": 4.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 46,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 45,
+            "pct": 97.8
+          },
+          {
+            "level": "Still birth",
+            "count": 1,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 35,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 34,
+            "pct": 97.1
+          },
+          {
+            "level": "Still birth",
+            "count": 1,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 49,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 48,
+            "pct": 98
+          },
+          {
+            "level": "Still birth",
+            "count": 1,
+            "pct": 2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 66,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 64,
+            "pct": 97
+          },
+          {
+            "level": "Still birth",
+            "count": 2,
+            "pct": 3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 73,
+        "missing": 1,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 72,
+            "pct": 98.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 66,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 66,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 63,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Live birth",
+        "freq": [
+          {
+            "level": "Live birth",
+            "count": 61,
+            "pct": 96.8
+          },
+          {
+            "level": "Still birth",
+            "count": 2,
+            "pct": 3.2
+          }
+        ]
+      }
+    ]
+  }
+}

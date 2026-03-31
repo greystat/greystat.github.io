@@ -1,0 +1,1 @@
+window.__EXERCISE_OUTDOORS_NEIGHBORHOOD_EXAM_I={"concept_id":"EXERCISE_OUTDOORS_NEIGHBORHOOD","exam":"I","n":3274,"missing":12,"n_levels":3,"mode_level":"2"};

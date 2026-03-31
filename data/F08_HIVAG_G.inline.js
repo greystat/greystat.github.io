@@ -1,0 +1,1 @@
+window.__F08_HIVAG_EXAM_G={"concept_id":"F08_HIVAG","exam":"G","n":3548,"missing":3524,"mean":29.9583,"sd":10.9325,"p50":31,"p99":44};

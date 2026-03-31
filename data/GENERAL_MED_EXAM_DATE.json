@@ -1,0 +1,78 @@
+{
+  "concept_id": "GENERAL_MED_EXAM_DATE",
+  "title": "Exam date for general medication form",
+  "unit": "date",
+  "chips": ["numeric", "date"],
+  "members": [
+    {
+      "concept_id": "GENERAL_MED_EXAM_DATE",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f09med",
+      "dataset_stub": "f1f09med",
+      "varname": "F09EXDAT",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENERAL_MED_EXAM_DATE",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09med",
+      "dataset_stub": "g3f09med",
+      "varname": "G09EXDAT",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "date",
+      "units_class": "date",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENERAL_MED_EXAM_DATE",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f09med",
+      "dataset_stub": "h4f09med",
+      "varname": "H09EXDAT",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENERAL_MED_EXAM_DATE",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f09med",
+      "dataset_stub": "i1f09med",
+      "varname": "I09EXDAT",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "GENERAL_MED_EXAM_DATE",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f09med",
+      "dataset_stub": "j1f09med",
+      "varname": "J09EXDAT",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

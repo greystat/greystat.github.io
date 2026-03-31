@@ -1,0 +1,1 @@
+window.__CALIBRATED_DBP_AVG_EXAM_G={"concept_id":"CALIBRATED_DBP_AVG","exam":"G","n":3547,"missing":2,"mean":72.2424,"sd":11.156,"p50":71.14,"p99":102.18};

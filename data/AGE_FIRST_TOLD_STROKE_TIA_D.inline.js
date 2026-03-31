@@ -1,0 +1,1 @@
+window.__AGE_FIRST_TOLD_STROKE_TIA_EXAM_D={"concept_id":"AGE_FIRST_TOLD_STROKE_TIA","exam":"D","n":5114,"missing":5111,"n_levels":4,"mode_level":"(Missing)"};

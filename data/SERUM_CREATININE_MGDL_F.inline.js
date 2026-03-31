@@ -1,0 +1,1 @@
+window.__SERUM_CREATININE_MGDL_EXAM_F={"concept_id":"SERUM_CREATININE_MGDL","exam":"F","n":3671,"missing":72,"mean":0.9946,"sd":0.4096,"p50":0.95,"p99":1.45};

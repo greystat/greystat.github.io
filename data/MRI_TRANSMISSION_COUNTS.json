@@ -1,0 +1,36 @@
+{
+  "concept_id": "MRI_TRANSMISSION_COUNTS",
+  "title": "Number of MRI scans transmitted/received",
+  "unit": "count",
+  "chips": ["numeric", "count"],
+  "members": [
+    {
+      "concept_id": "MRI_TRANSMISSION_COUNTS",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f92b",
+      "dataset_stub": "i1f92b",
+      "varname": "I92NSCAN",
+      "family": "F92",
+      "form_label": "Brain MRI Initial Contact-Screening Form",
+      "units_std": "count",
+      "units_class": "count",
+      "instrument": "F92: Brain MRI Initial Contact-Screening Form",
+      "notes": ""
+    },
+    {
+      "concept_id": "MRI_TRANSMISSION_COUNTS",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f92c",
+      "dataset_stub": "i1f92c",
+      "varname": "I92NSCREC",
+      "family": "F92",
+      "form_label": "Brain MRI Initial Contact-Screening Form",
+      "units_std": "count",
+      "units_class": "count",
+      "instrument": "F92: Brain MRI Initial Contact-Screening Form",
+      "notes": ""
+    }
+  ]
+}

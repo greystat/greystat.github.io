@@ -1,0 +1,1 @@
+window.__SPIROMETER_MAX_FVC_EXAM_A={"concept_id":"SPIROMETER_MAX_FVC","exam":"A","n":5114,"missing":254,"mean":4.3,"sd":1.0134,"p50":4.165,"p99":6.8923};

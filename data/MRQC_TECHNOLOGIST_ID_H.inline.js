@@ -1,0 +1,1 @@
+window.__MRQC_TECHNOLOGIST_ID_EXAM_H={"concept_id":"MRQC_TECHNOLOGIST_ID","exam":"H","n":716,"missing":51,"mean":541.4827,"sd":259.7412,"p50":467,"p99":811};

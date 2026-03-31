@@ -1,0 +1,1 @@
+window.__VITAMIN_B12_PG_ML_EXAM_F={"concept_id":"VITAMIN_B12_PG_ML","exam":"F","n":5114,"missing":3523,"mean":544.0446,"sd":671.7724,"p50":483,"p99":1293.2};

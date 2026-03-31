@@ -1,0 +1,50 @@
+{
+  "concept_id": "OVARIAN_SURGERY_EXAM_DATE",
+  "title": "Exam date for ovarian surgery form",
+  "unit": "date",
+  "chips": ["numeric", "date"],
+  "members": [
+    {
+      "concept_id": "OVARIAN_SURGERY_EXAM_DATE",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f09ova",
+      "dataset_stub": "f1f09ova",
+      "varname": "F09MEXDT",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "OVARIAN_SURGERY_EXAM_DATE",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09ova",
+      "dataset_stub": "g3f09ova",
+      "varname": "G09MEXDT",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "date",
+      "units_class": "date",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "OVARIAN_SURGERY_EXAM_DATE",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f09ova",
+      "dataset_stub": "h3f09ova",
+      "varname": "H09MEXDT",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__EXERCISE_BARRIER_CRIME_SAFETY_EXAM_G={"concept_id":"EXERCISE_BARRIER_CRIME_SAFETY","exam":"G","n":2989,"missing":2523,"n_levels":3,"mode_level":"(Missing)"};

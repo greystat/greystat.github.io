@@ -1,0 +1,1 @@
+window.__F08_DEPAG_EXAM_I={"concept_id":"F08_DEPAG","exam":"I","n":3356,"missing":2571,"mean":37.4841,"sd":11.4747,"p50":39,"p99":58};

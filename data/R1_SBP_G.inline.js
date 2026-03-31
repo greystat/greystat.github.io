@@ -1,0 +1,1 @@
+window.__R1_SBP_EXAM_G={"concept_id":"R1_SBP","exam":"G","n":3547,"missing":0,"mean":116.4466,"sd":15.5278,"p50":115,"p99":162};

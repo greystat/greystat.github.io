@@ -1,0 +1,1 @@
+window.__LCX_LESION_COUNT_EXAM_H={"concept_id":"LCX_LESION_COUNT","exam":"H","n":3197,"missing":8,"mean":0.2778,"sd":1.6055,"p50":0,"p99":6};

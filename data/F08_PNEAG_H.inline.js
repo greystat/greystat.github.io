@@ -1,0 +1,1 @@
+window.__F08_PNEAG_EXAM_H={"concept_id":"F08_PNEAG","exam":"H","n":3485,"missing":2947,"mean":29.6357,"sd":15.662,"p50":32,"p99":54};

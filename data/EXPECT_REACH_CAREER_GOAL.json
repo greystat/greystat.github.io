@@ -1,0 +1,47 @@
+{
+  "concept_id": "EXPECT_REACH_CAREER_GOAL",
+  "title": "Expectation of reaching career goals",
+  "chips": ["categorical", "3 levels", "F03 · Sociodemographic Questionnaire", "Sociodemographic"],
+  "members": [
+    {
+      "concept_id": "EXPECT_REACH_CAREER_GOAL",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a5f03",
+      "dataset_stub": "a5f03",
+      "varname": "A03CARER",
+      "family": "F03",
+      "form_label": "Sociodemographics",
+      "n_labels": "3",
+      "instrument": "F03: Sociodemographics",
+      "notes": ""
+    },
+    {
+      "concept_id": "EXPECT_REACH_CAREER_GOAL",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f03",
+      "dataset_stub": "b2f03",
+      "varname": "B03CARER",
+      "family": "F03",
+      "form_label": "Sociodemographics",
+      "n_labels": "3",
+      "instrument": "F03: Sociodemographics",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "9",
+      "label": "No answer"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "concept_id": "IL6_SAMPLE_RECEIVE_DATE",
+  "title": "IL-6 sample receive date",
+  "unit": "date",
+  "chips": ["numeric", "date", "IL6 · Interleukin-6", "Inflammation", "Lab"],
+  "members": [
+    {
+      "concept_id": "IL6_SAMPLE_RECEIVE_DATE",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g3il6",
+      "dataset_stub": "g3il6",
+      "varname": "GL6ILRDT",
+      "family": "IL6",
+      "form_label": "",
+      "units_std": "date",
+      "units_class": "date",
+      "instrument": "IL6",
+      "notes": ""
+    }
+  ]
+}

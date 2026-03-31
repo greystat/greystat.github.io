@@ -1,0 +1,50 @@
+{
+  "concept_id": "TECH_ID_URINE_COLLECTION",
+  "title": "Technician ID for urine collection",
+  "unit": {},
+  "chips": ["numeric", "F51 · Urine Specimens", "Renal"],
+  "members": [
+    {
+      "concept_id": "TECH_ID_URINE_COLLECTION",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f51",
+      "dataset_stub": "g3f51",
+      "varname": "G51IVID",
+      "family": "F51",
+      "form_label": "Urine",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F51: Urine",
+      "notes": ""
+    },
+    {
+      "concept_id": "TECH_ID_URINE_COLLECTION",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f51",
+      "dataset_stub": "h3f51",
+      "varname": "H51IVID",
+      "family": "F51",
+      "form_label": "Urine Specimens",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F51: Urine Specimens",
+      "notes": ""
+    },
+    {
+      "concept_id": "TECH_ID_URINE_COLLECTION",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f51",
+      "dataset_stub": "i1f51",
+      "varname": "I51IVID",
+      "family": "F51",
+      "form_label": "Urine Specimens",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F51: Urine Specimens",
+      "notes": ""
+    }
+  ]
+}

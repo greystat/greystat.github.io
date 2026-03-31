@@ -1,0 +1,1 @@
+window.__CHEST_PAIN_PAST_YEAR_EXAM_C={"concept_id":"CHEST_PAIN_PAST_YEAR","exam":"C","n":4351,"missing":44,"n_levels":3,"mode_level":"No"};

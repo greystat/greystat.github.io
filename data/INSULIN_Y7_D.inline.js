@@ -1,0 +1,1 @@
+window.__INSULIN_Y7_EXAM_D={"concept_id":"INSULIN_Y7","exam":"D","n":4085,"missing":300,"mean":14.4145,"sd":16.8091,"p50":11,"p99":58.16};

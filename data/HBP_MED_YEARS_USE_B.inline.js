@@ -1,0 +1,1 @@
+window.__HBP_MED_YEARS_USE_EXAM_B={"concept_id":"HBP_MED_YEARS_USE","exam":"B","n":131,"missing":1,"mean":1.3538,"sd":2.2511,"p50":0,"p99":8};

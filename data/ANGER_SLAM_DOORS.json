@@ -1,0 +1,38 @@
+{
+  "concept_id": "ANGER_SLAM_DOORS",
+  "title": "Slam doors when angry",
+  "chips": ["categorical", "4 levels", "F60 · Nail Assessment", "Dermatology"],
+  "members": [
+    {
+      "concept_id": "ANGER_SLAM_DOORS",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f60",
+      "dataset_stub": "f1f60",
+      "varname": "F60SLAM",
+      "family": "F60",
+      "form_label": "Anger Expression",
+      "n_labels": "4",
+      "instrument": "F60: Anger Expression",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Almost never"
+    },
+    {
+      "code": "2",
+      "label": "Sometimes"
+    },
+    {
+      "code": "3",
+      "label": "Often"
+    },
+    {
+      "code": "4",
+      "label": "Almost always"
+    }
+  ]
+}

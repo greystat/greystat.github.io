@@ -1,0 +1,1 @@
+window.__R2_DBP_EXAM_A={"concept_id":"R2_DBP","exam":"A","n":5114,"missing":3,"mean":88.9601,"sd":11.3447,"p50":90,"p99":116};

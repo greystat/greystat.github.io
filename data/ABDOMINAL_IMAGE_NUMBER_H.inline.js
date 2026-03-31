@@ -1,0 +1,1 @@
+window.__ABDOMINAL_IMAGE_NUMBER_EXAM_H={"concept_id":"ABDOMINAL_IMAGE_NUMBER","exam":"H","n":3215,"missing":85,"mean":209.9006,"sd":38.7109,"p50":201,"p99":403.71};

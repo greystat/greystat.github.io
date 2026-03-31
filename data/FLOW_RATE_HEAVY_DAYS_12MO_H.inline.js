@@ -1,0 +1,1 @@
+window.__FLOW_RATE_HEAVY_DAYS_12MO_EXAM_H={"concept_id":"FLOW_RATE_HEAVY_DAYS_12MO","exam":"H","n":1964,"missing":1188,"n_levels":6,"mode_level":"(Missing)"};

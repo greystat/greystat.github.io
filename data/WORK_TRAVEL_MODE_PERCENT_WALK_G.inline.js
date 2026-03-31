@@ -1,0 +1,1 @@
+window.__WORK_TRAVEL_MODE_PERCENT_WALK_EXAM_G={"concept_id":"WORK_TRAVEL_MODE_PERCENT_WALK","exam":"G","n":2989,"missing":2143,"mean":11.2991,"sd":26.1642,"p50":0,"p99":100};

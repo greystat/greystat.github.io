@@ -1,0 +1,1 @@
+window.__NEIGHBORHOOD_SITDOWN_RESTAURANT_USE_FREQUENCY_EXAM_I={"concept_id":"NEIGHBORHOOD_SITDOWN_RESTAURANT_USE_FREQUENCY","exam":"I","n":3274,"missing":1112,"n_levels":5,"mode_level":"3"};

@@ -1,0 +1,1 @@
+window.__EVENING_SNACK_FREQUENCY_COUNT_EXAM_E={"concept_id":"EVENING_SNACK_FREQUENCY_COUNT","exam":"E","n":3949,"missing":23,"mean":3.2944,"sd":3.0761,"p50":3,"p99":10};

@@ -1,0 +1,1 @@
+window.__NEIGHBORHOOD_HELPFUL_NEIGHBORS_EXAM_G={"concept_id":"NEIGHBORHOOD_HELPFUL_NEIGHBORS","exam":"G","n":3466,"missing":3,"n_levels":6,"mode_level":"Agree"};

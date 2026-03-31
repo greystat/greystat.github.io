@@ -1,0 +1,1 @@
+window.__SERUM_URIC_ACID_MGDL_EXAM_A={"concept_id":"SERUM_URIC_ACID_MGDL","exam":"A","n":5114,"missing":66,"mean":5.2426,"sd":1.3784,"p50":5.2,"p99":8.7};

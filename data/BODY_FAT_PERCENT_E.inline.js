@@ -1,0 +1,1 @@
+window.__BODY_FAT_PERCENT_EXAM_E={"concept_id":"BODY_FAT_PERCENT","exam":"E","n":3949,"missing":3719,"mean":31.0348,"sd":10.5022,"p50":31,"p99":53.42};

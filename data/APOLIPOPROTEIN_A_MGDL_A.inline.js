@@ -1,0 +1,1 @@
+window.__APOLIPOPROTEIN_A_MGDL_EXAM_A={"concept_id":"APOLIPOPROTEIN_A_MGDL","exam":"A","n":5114,"missing":66,"mean":138.6926,"sd":21.4917,"p50":137,"p99":196.53};

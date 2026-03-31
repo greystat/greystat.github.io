@@ -1,0 +1,1 @@
+window.__F08_VASAG_EXAM_H={"concept_id":"F08_VASAG","exam":"H","n":3485,"missing":3226,"mean":37.6139,"sd":6.1403,"p50":38,"p99":51.42};

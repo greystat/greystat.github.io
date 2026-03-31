@@ -1,0 +1,50 @@
+{
+  "concept_id": "INTERVIEWER_ID_FORM18",
+  "title": "Form 18 interviewer ID",
+  "unit": "id",
+  "chips": ["numeric", "id", "F18 · Physical Activity History", "Physical Activity"],
+  "members": [
+    {
+      "concept_id": "INTERVIEWER_ID_FORM18",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f18",
+      "dataset_stub": "g3f18",
+      "varname": "G18IVID",
+      "family": "F18",
+      "form_label": "Physical Activity",
+      "units_std": "id",
+      "units_class": "identifier",
+      "instrument": "F18: Physical Activity",
+      "notes": ""
+    },
+    {
+      "concept_id": "INTERVIEWER_ID_FORM18",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f18",
+      "dataset_stub": "h3f18",
+      "varname": "H18IVID",
+      "family": "F18",
+      "form_label": "Physical Activity Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F18: Physical Activity Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "INTERVIEWER_ID_FORM18",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f18",
+      "dataset_stub": "i1f18",
+      "varname": "I18IVID",
+      "family": "F18",
+      "form_label": "Physical Activity Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F18: Physical Activity Questionnaire",
+      "notes": ""
+    }
+  ]
+}

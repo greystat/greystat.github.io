@@ -1,0 +1,1 @@
+window.__HOSPITALIZATION_NUMBER_EXAM_D={"concept_id":"HOSPITALIZATION_NUMBER","exam":"D","n":884,"missing":3,"n_levels":4,"mode_level":"1"};

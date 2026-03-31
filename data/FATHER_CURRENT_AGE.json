@@ -1,0 +1,26 @@
+{
+  "concept_id": "FATHER_CURRENT_AGE",
+  "title": "Father current age",
+  "chips": ["categorical", "1 levels", "F11 · Family History", "Sociodemographic"],
+  "members": [
+    {
+      "concept_id": "FATHER_CURRENT_AGE",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f11",
+      "dataset_stub": "h4f11",
+      "varname": "H11FAGE2",
+      "family": "F11",
+      "form_label": "Family History",
+      "n_labels": "1",
+      "instrument": "F11: Family History",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "8",
+      "label": "Do not know"
+    }
+  ]
+}

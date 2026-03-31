@@ -1,0 +1,1 @@
+window.__LIFE_EVENTS_COUNT_POSITIVE_EXAM_B={"concept_id":"LIFE_EVENTS_COUNT_POSITIVE","exam":"B","n":4623,"missing":60,"mean":6.7217,"sd":3.8375,"p50":6,"p99":18};

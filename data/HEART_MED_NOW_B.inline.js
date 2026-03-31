@@ -1,0 +1,1 @@
+window.__HEART_MED_NOW_EXAM_B={"concept_id":"HEART_MED_NOW","exam":"B","n":76,"missing":3,"n_levels":3,"mode_level":"No"};

@@ -1,0 +1,1 @@
+window.__LM_LESION_MASS_EXAM_H={"concept_id":"LM_LESION_MASS","exam":"H","n":3197,"missing":39,"mean":0.273,"sd":3.0247,"p50":0,"p99":6.6741};

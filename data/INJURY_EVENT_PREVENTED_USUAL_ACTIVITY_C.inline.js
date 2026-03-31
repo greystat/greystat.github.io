@@ -1,0 +1,1 @@
+window.__INJURY_EVENT_PREVENTED_USUAL_ACTIVITY_EXAM_C={"concept_id":"INJURY_EVENT_PREVENTED_USUAL_ACTIVITY","exam":"C","n":2272,"missing":8,"n_levels":4,"mode_level":"1"};

@@ -1,0 +1,1 @@
+window.__EXAM7_CT_ONLY_FLAG_EXAM_G={"concept_id":"EXAM7_CT_ONLY_FLAG","exam":"G","n":5114,"missing":0,"n_levels":2,"mode_level":"0"};

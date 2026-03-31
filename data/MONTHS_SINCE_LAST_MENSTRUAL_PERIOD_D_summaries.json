@@ -1,0 +1,412 @@
+{
+  "concept_id": "MONTHS_SINCE_LAST_MENSTRUAL_PERIOD",
+  "exam": "D",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 2246,
+        "missing": 2061,
+        "mean": 3.6919,
+        "sd": 3.0445,
+        "p05": 0,
+        "q1": 1,
+        "median": 4,
+        "q3": 6,
+        "p95": 9,
+        "iqr": 5
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 2246,
+        "missing": 2061,
+        "mean": 3.6919,
+        "sd": 3.0445,
+        "p05": 0,
+        "q1": 1,
+        "median": 4,
+        "q3": 6,
+        "p95": 9,
+        "iqr": 5
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1141,
+        "missing": 1049,
+        "mean": 3.2174,
+        "sd": 3.2508,
+        "p05": 0,
+        "q1": 0,
+        "median": 3,
+        "q3": 5,
+        "p95": 10,
+        "iqr": 5
+      },
+      {
+        "label": "race: 5",
+        "n": 1105,
+        "missing": 1012,
+        "mean": 4.1613,
+        "sd": 2.7635,
+        "p05": 0,
+        "q1": 2,
+        "median": 4,
+        "q3": 6,
+        "p95": 9,
+        "iqr": 4
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 462,
+        "missing": 404,
+        "mean": 3.6034,
+        "sd": 3.2387,
+        "p05": 0,
+        "q1": 0,
+        "median": 4,
+        "q3": 6,
+        "p95": 9.15,
+        "iqr": 6
+      },
+      {
+        "label": "center: 2",
+        "n": 476,
+        "missing": 438,
+        "mean": 3.2632,
+        "sd": 3.0375,
+        "p05": 0,
+        "q1": 1,
+        "median": 3,
+        "q3": 5,
+        "p95": 9.15,
+        "iqr": 4
+      },
+      {
+        "label": "center: 3",
+        "n": 588,
+        "missing": 549,
+        "mean": 3.9231,
+        "sd": 2.9234,
+        "p05": 0,
+        "q1": 1,
+        "median": 4,
+        "q3": 6,
+        "p95": 9,
+        "iqr": 5
+      },
+      {
+        "label": "center: 4",
+        "n": 720,
+        "missing": 670,
+        "mean": 3.94,
+        "sd": 2.9583,
+        "p05": 0,
+        "q1": 1.25,
+        "median": 4,
+        "q3": 6,
+        "p95": 9.55,
+        "iqr": 4.75
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1141,
+        "missing": 1049,
+        "mean": 3.2174,
+        "sd": 3.2508,
+        "p05": 0,
+        "q1": 0,
+        "median": 3,
+        "q3": 5,
+        "p95": 10,
+        "iqr": 5
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1105,
+        "missing": 1012,
+        "mean": 4.1613,
+        "sd": 2.7635,
+        "p05": 0,
+        "q1": 2,
+        "median": 4,
+        "q3": 6,
+        "p95": 9,
+        "iqr": 4
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 462,
+        "missing": 404,
+        "mean": 3.6034,
+        "sd": 3.2387,
+        "p05": 0,
+        "q1": 0,
+        "median": 4,
+        "q3": 6,
+        "p95": 9.15,
+        "iqr": 6
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 476,
+        "missing": 438,
+        "mean": 3.2632,
+        "sd": 3.0375,
+        "p05": 0,
+        "q1": 1,
+        "median": 3,
+        "q3": 5,
+        "p95": 9.15,
+        "iqr": 4
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 588,
+        "missing": 549,
+        "mean": 3.9231,
+        "sd": 2.9234,
+        "p05": 0,
+        "q1": 1,
+        "median": 4,
+        "q3": 6,
+        "p95": 9,
+        "iqr": 5
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 720,
+        "missing": 670,
+        "mean": 3.94,
+        "sd": 2.9583,
+        "p05": 0,
+        "q1": 1.25,
+        "median": 4,
+        "q3": 6,
+        "p95": 9.55,
+        "iqr": 4.75
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 269,
+        "missing": 235,
+        "mean": 2.3529,
+        "sd": 2.7621,
+        "p05": 0,
+        "q1": 0,
+        "median": 1.5,
+        "q3": 4,
+        "p95": 7.05,
+        "iqr": 4
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 243,
+        "missing": 223,
+        "mean": 3.55,
+        "sd": 3.5314,
+        "p05": 0,
+        "q1": 0,
+        "median": 3,
+        "q3": 6,
+        "p95": 10.05,
+        "iqr": 6
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 219,
+        "missing": 211,
+        "mean": 3.5,
+        "sd": 3.8914,
+        "p05": 0,
+        "q1": 0.75,
+        "median": 2.5,
+        "q3": 4.75,
+        "p95": 9.6,
+        "iqr": 4
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 410,
+        "missing": 380,
+        "mean": 3.9,
+        "sd": 3.3461,
+        "p05": 0,
+        "q1": 0.25,
+        "median": 4,
+        "q3": 6,
+        "p95": 10.1,
+        "iqr": 5.75
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 193,
+        "missing": 169,
+        "mean": 5.375,
+        "sd": 3.076,
+        "p05": 0,
+        "q1": 3.75,
+        "median": 6,
+        "q3": 7,
+        "p95": 9.85,
+        "iqr": 3.25
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 233,
+        "missing": 215,
+        "mean": 2.9444,
+        "sd": 2.4368,
+        "p05": 0,
+        "q1": 1,
+        "median": 3,
+        "q3": 4,
+        "p95": 7.3,
+        "iqr": 3
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 369,
+        "missing": 338,
+        "mean": 4.0323,
+        "sd": 2.6893,
+        "p05": 0,
+        "q1": 2,
+        "median": 4,
+        "q3": 6,
+        "p95": 9,
+        "iqr": 4
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 310,
+        "missing": 290,
+        "mean": 4,
+        "sd": 2.3396,
+        "p05": 0.95,
+        "q1": 2,
+        "median": 4,
+        "q3": 5.25,
+        "p95": 6.2,
+        "iqr": 3.25
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 269,
+        "missing": 235,
+        "mean": 2.3529,
+        "sd": 2.7621,
+        "p05": 0,
+        "q1": 0,
+        "median": 1.5,
+        "q3": 4,
+        "p95": 7.05,
+        "iqr": 4
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 243,
+        "missing": 223,
+        "mean": 3.55,
+        "sd": 3.5314,
+        "p05": 0,
+        "q1": 0,
+        "median": 3,
+        "q3": 6,
+        "p95": 10.05,
+        "iqr": 6
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 219,
+        "missing": 211,
+        "mean": 3.5,
+        "sd": 3.8914,
+        "p05": 0,
+        "q1": 0.75,
+        "median": 2.5,
+        "q3": 4.75,
+        "p95": 9.6,
+        "iqr": 4
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 410,
+        "missing": 380,
+        "mean": 3.9,
+        "sd": 3.3461,
+        "p05": 0,
+        "q1": 0.25,
+        "median": 4,
+        "q3": 6,
+        "p95": 10.1,
+        "iqr": 5.75
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 193,
+        "missing": 169,
+        "mean": 5.375,
+        "sd": 3.076,
+        "p05": 0,
+        "q1": 3.75,
+        "median": 6,
+        "q3": 7,
+        "p95": 9.85,
+        "iqr": 3.25
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 233,
+        "missing": 215,
+        "mean": 2.9444,
+        "sd": 2.4368,
+        "p05": 0,
+        "q1": 1,
+        "median": 3,
+        "q3": 4,
+        "p95": 7.3,
+        "iqr": 3
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 369,
+        "missing": 338,
+        "mean": 4.0323,
+        "sd": 2.6893,
+        "p05": 0,
+        "q1": 2,
+        "median": 4,
+        "q3": 6,
+        "p95": 9,
+        "iqr": 4
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 310,
+        "missing": 290,
+        "mean": 4,
+        "sd": 2.3396,
+        "p05": 0.95,
+        "q1": 2,
+        "median": 4,
+        "q3": 5.25,
+        "p95": 6.2,
+        "iqr": 3.25
+      }
+    ]
+  }
+}

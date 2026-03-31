@@ -1,0 +1,1 @@
+window.__BIRTH_CONTROL_INTERVIEWER_ID_EXAM_G={"concept_id":"BIRTH_CONTROL_INTERVIEWER_ID","exam":"G","n":1626,"missing":3,"mean":292.9581,"sd":105.4374,"p50":302,"p99":426};

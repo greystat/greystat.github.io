@@ -1,0 +1,1 @@
+window.__DIASTOLIC_BLOOD_PRESSURE_EXAM_C={"concept_id":"DIASTOLIC_BLOOD_PRESSURE","exam":"C","n":4351,"missing":121,"mean":65.9797,"sd":10.9699,"p50":66,"p99":94};

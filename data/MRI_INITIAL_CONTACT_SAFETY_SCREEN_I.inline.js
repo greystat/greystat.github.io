@@ -1,0 +1,1 @@
+window.__MRI_INITIAL_CONTACT_SAFETY_SCREEN_EXAM_I={"concept_id":"MRI_INITIAL_CONTACT_SAFETY_SCREEN","exam":"I","n":464,"missing":1,"n_levels":3,"mode_level":"Cardiac Pacemaker and/or Automatic Implantable Defibrillator"};

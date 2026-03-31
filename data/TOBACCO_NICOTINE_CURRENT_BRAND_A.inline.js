@@ -1,0 +1,1 @@
+window.__TOBACCO_NICOTINE_CURRENT_BRAND_EXAM_A={"concept_id":"TOBACCO_NICOTINE_CURRENT_BRAND","exam":"A","n":3044,"missing":1569,"mean":0.9312,"sd":0.26,"p50":1.04,"p99":1.46};

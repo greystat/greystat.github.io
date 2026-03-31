@@ -1,0 +1,1 @@
+window.__WORK_INDEX_EXAM_C={"concept_id":"WORK_INDEX","exam":"C","n":4351,"missing":69,"mean":2.6023,"sd":0.8939,"p50":2.625,"p99":4.375};

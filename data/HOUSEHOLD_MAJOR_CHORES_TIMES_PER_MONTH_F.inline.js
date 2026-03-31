@@ -1,0 +1,1 @@
+window.__HOUSEHOLD_MAJOR_CHORES_TIMES_PER_MONTH_EXAM_F={"concept_id":"HOUSEHOLD_MAJOR_CHORES_TIMES_PER_MONTH","exam":"F","n":7342,"missing":2090,"mean":3.2795,"sd":4.1423,"p50":2,"p99":28};

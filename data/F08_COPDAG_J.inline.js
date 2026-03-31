@@ -1,0 +1,1 @@
+window.__F08_COPDAG_EXAM_J={"concept_id":"F08_COPDAG","exam":"J","n":2776,"missing":2692,"mean":52.4643,"sd":9.7764,"p50":55,"p99":65.17};

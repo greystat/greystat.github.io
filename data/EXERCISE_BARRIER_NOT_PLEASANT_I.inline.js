@@ -1,0 +1,1 @@
+window.__EXERCISE_BARRIER_NOT_PLEASANT_EXAM_I={"concept_id":"EXERCISE_BARRIER_NOT_PLEASANT","exam":"I","n":3274,"missing":3064,"n_levels":2,"mode_level":"(Missing)"};

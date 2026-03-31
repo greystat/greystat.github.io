@@ -1,0 +1,1 @@
+window.__CARBOHYDRATE_INTAKE_G_EXAM_B={"concept_id":"CARBOHYDRATE_INTAKE_G","exam":"B","n":4623,"missing":58,"mean":264.2054,"sd":191.4567,"p50":222.1,"p99":999.14};

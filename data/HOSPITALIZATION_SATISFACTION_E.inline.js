@@ -1,0 +1,1 @@
+window.__HOSPITALIZATION_SATISFACTION_EXAM_E={"concept_id":"HOSPITALIZATION_SATISFACTION","exam":"E","n":3949,"missing":3207,"n_levels":6,"mode_level":"(Missing)"};

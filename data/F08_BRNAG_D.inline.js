@@ -1,0 +1,1 @@
+window.__F08_BRNAG_EXAM_D={"concept_id":"F08_BRNAG","exam":"D","n":4085,"missing":4083,"mean":25.5,"sd":12.0208,"p50":25.5,"p99":33.83};

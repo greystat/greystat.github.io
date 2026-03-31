@@ -1,0 +1,1 @@
+window.__SKIN_REFLECTANCE_GREEN_PERCENT_EXAM_D={"concept_id":"SKIN_REFLECTANCE_GREEN_PERCENT","exam":"D","n":4085,"missing":163,"mean":29.9528,"sd":12.4977,"p50":33.6,"p99":48.2};

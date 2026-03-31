@@ -1,0 +1,1 @@
+window.__CURRENT_PREGNANCY_EXAM_F={"concept_id":"CURRENT_PREGNANCY","exam":"F","n":2051,"missing":1758,"n_levels":3,"mode_level":"(Missing)"};

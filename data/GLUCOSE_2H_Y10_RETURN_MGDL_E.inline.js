@@ -1,0 +1,1 @@
+window.__GLUCOSE_2H_Y10_RETURN_MGDL_EXAM_E={"concept_id":"GLUCOSE_2H_Y10_RETURN_MGDL","exam":"E","n":3949,"missing":3907,"mean":92.1429,"sd":45.0759,"p50":83.5,"p99":248.43};

@@ -1,0 +1,50 @@
+{
+  "concept_id": "CORE_QC_ID",
+  "title": "CARDIA core quality control ID",
+  "unit": {},
+  "chips": ["numeric", "F05 · Phlebotomy", "Specimen Collection"],
+  "members": [
+    {
+      "concept_id": "CORE_QC_ID",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f05",
+      "dataset_stub": "f1f05",
+      "varname": "F05CQCID",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "CORE_QC_ID",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f05",
+      "dataset_stub": "h3f05",
+      "varname": "H05COCID",
+      "family": "F05",
+      "form_label": "Phlebotomy-Delayed OGTT",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F05: Phlebotomy-Delayed OGTT",
+      "notes": ""
+    },
+    {
+      "concept_id": "CORE_QC_ID",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f05",
+      "dataset_stub": "i1f05",
+      "varname": "I05COCID",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__F08_ABPAP_EXAM_J={"concept_id":"F08_ABPAP","exam":"J","n":2776,"missing":2713,"n_levels":2,"mode_level":"(Missing)"};

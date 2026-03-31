@@ -1,0 +1,1 @@
+window.__HYPERTHYROIDISM_AGE_EXAM_A={"concept_id":"HYPERTHYROIDISM_AGE","exam":"A","n":4008,"missing":3971,"mean":19.7297,"sd":5.8956,"p50":20,"p99":28.64};

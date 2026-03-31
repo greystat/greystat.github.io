@@ -1,0 +1,1 @@
+window.__FAMILY_CONFLICT_DEMANDS_EXAM_J={"concept_id":"FAMILY_CONFLICT_DEMANDS","exam":"J","n":2362,"missing":3,"n_levels":5,"mode_level":"\"Not at all\""};

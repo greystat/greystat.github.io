@@ -1,0 +1,26 @@
+{
+  "concept_id": "EXAM10_PHASE_INDICATOR",
+  "title": "Year 35 core exam phase indicator",
+  "chips": ["categorical", "1 levels", "REF · Reference / Status", "Administrative"],
+  "members": [
+    {
+      "concept_id": "EXAM10_PHASE_INDICATOR",
+      "exam": "J",
+      "exam_year": "",
+      "dataset": "j2ref",
+      "dataset_stub": "j2ref",
+      "varname": "X10PHASE",
+      "family": "REF",
+      "form_label": "",
+      "n_labels": "1",
+      "instrument": "REF",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"Examined Only at Phase 1\""
+    }
+  ]
+}

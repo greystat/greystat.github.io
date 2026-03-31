@@ -1,0 +1,1 @@
+window.__ILLNESS_ORIENTATION_SUBSCALE_EXAM_D={"concept_id":"ILLNESS_ORIENTATION_SUBSCALE","exam":"D","n":4085,"missing":64,"mean":16.9453,"sd":3.695,"p50":17,"p99":25};

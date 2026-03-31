@@ -1,0 +1,942 @@
+{
+  "concept_id": "F08_ABPAP",
+  "exam": "G",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3548,
+        "missing": 3320,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3320,
+            "pct": 93.6
+          },
+          {
+            "level": "1",
+            "count": 188,
+            "pct": 5.3
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 40,
+            "pct": 1.1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1535,
+        "missing": 1535,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1535,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 2013,
+        "missing": 1785,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1785,
+            "pct": 88.7
+          },
+          {
+            "level": "1",
+            "count": 188,
+            "pct": 9.3
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 40,
+            "pct": 2
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1650,
+        "missing": 1488,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1488,
+            "pct": 90.2
+          },
+          {
+            "level": "1",
+            "count": 128,
+            "pct": 7.8
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 34,
+            "pct": 2.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1898,
+        "missing": 1832,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1832,
+            "pct": 96.5
+          },
+          {
+            "level": "1",
+            "count": 60,
+            "pct": 3.2
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 6,
+            "pct": 0.3
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 819,
+        "missing": 736,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 736,
+            "pct": 89.9
+          },
+          {
+            "level": "1",
+            "count": 62,
+            "pct": 7.6
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 21,
+            "pct": 2.6
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 793,
+        "missing": 754,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 754,
+            "pct": 95.1
+          },
+          {
+            "level": "1",
+            "count": 34,
+            "pct": 4.3
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 5,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 925,
+        "missing": 873,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 873,
+            "pct": 94.4
+          },
+          {
+            "level": "1",
+            "count": 44,
+            "pct": 4.8
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 8,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1011,
+        "missing": 957,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 957,
+            "pct": 94.7
+          },
+          {
+            "level": "1",
+            "count": 48,
+            "pct": 4.7
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 6,
+            "pct": 0.6
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 646,
+        "missing": 646,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 646,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1004,
+        "missing": 842,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 842,
+            "pct": 83.9
+          },
+          {
+            "level": "1",
+            "count": 128,
+            "pct": 12.7
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 34,
+            "pct": 3.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 889,
+        "missing": 889,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 889,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1009,
+        "missing": 943,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 943,
+            "pct": 93.5
+          },
+          {
+            "level": "1",
+            "count": 60,
+            "pct": 5.9
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 6,
+            "pct": 0.6
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 381,
+        "missing": 381,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 381,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 336,
+        "missing": 336,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 336,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 423,
+        "missing": 423,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 423,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 395,
+        "missing": 395,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 395,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 438,
+        "missing": 355,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 355,
+            "pct": 81.1
+          },
+          {
+            "level": "1",
+            "count": 62,
+            "pct": 14.2
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 21,
+            "pct": 4.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 457,
+        "missing": 418,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 418,
+            "pct": 91.5
+          },
+          {
+            "level": "1",
+            "count": 34,
+            "pct": 7.4
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 5,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 502,
+        "missing": 450,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 450,
+            "pct": 89.6
+          },
+          {
+            "level": "1",
+            "count": 44,
+            "pct": 8.8
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 8,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 616,
+        "missing": 562,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 562,
+            "pct": 91.2
+          },
+          {
+            "level": "1",
+            "count": 48,
+            "pct": 7.8
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 6,
+            "pct": 1
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 440,
+        "missing": 382,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 382,
+            "pct": 86.8
+          },
+          {
+            "level": "1",
+            "count": 41,
+            "pct": 9.3
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 17,
+            "pct": 3.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 363,
+        "missing": 334,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 334,
+            "pct": 92
+          },
+          {
+            "level": "1",
+            "count": 24,
+            "pct": 6.6
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 5,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 322,
+        "missing": 294,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 294,
+            "pct": 91.3
+          },
+          {
+            "level": "1",
+            "count": 21,
+            "pct": 6.5
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 7,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 525,
+        "missing": 478,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 478,
+            "pct": 91
+          },
+          {
+            "level": "1",
+            "count": 42,
+            "pct": 8
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 5,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 379,
+        "missing": 354,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 354,
+            "pct": 93.4
+          },
+          {
+            "level": "1",
+            "count": 21,
+            "pct": 5.5
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 4,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 430,
+        "missing": 420,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 420,
+            "pct": 97.7
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 603,
+        "missing": 579,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 579,
+            "pct": 96
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 3.8
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 486,
+        "missing": 479,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 479,
+            "pct": 98.6
+          },
+          {
+            "level": "1",
+            "count": 6,
+            "pct": 1.2
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 177,
+        "missing": 177,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 177,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 131,
+        "missing": 131,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 131,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 139,
+        "missing": 139,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 139,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 199,
+        "missing": 199,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 199,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 263,
+        "missing": 205,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 77.9
+          },
+          {
+            "level": "1",
+            "count": 41,
+            "pct": 15.6
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 17,
+            "pct": 6.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 232,
+        "missing": 203,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 203,
+            "pct": 87.5
+          },
+          {
+            "level": "1",
+            "count": 24,
+            "pct": 10.3
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 5,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 183,
+        "missing": 155,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 155,
+            "pct": 84.7
+          },
+          {
+            "level": "1",
+            "count": 21,
+            "pct": 11.5
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 7,
+            "pct": 3.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 326,
+        "missing": 279,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 279,
+            "pct": 85.6
+          },
+          {
+            "level": "1",
+            "count": 42,
+            "pct": 12.9
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 5,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 204,
+        "missing": 204,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 204,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 205,
+        "missing": 205,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 284,
+        "missing": 284,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 284,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 196,
+        "missing": 196,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 196,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 175,
+        "missing": 150,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 150,
+            "pct": 85.7
+          },
+          {
+            "level": "1",
+            "count": 21,
+            "pct": 12
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 4,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 225,
+        "missing": 215,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 215,
+            "pct": 95.6
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 4.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 319,
+        "missing": 295,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 295,
+            "pct": 92.5
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 7.2
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 290,
+        "missing": 283,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 283,
+            "pct": 97.6
+          },
+          {
+            "level": "1",
+            "count": 6,
+            "pct": 2.1
+          },
+          {
+            "level": "Abnormal pap smear",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      }
+    ]
+  }
+}

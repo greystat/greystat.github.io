@@ -1,0 +1,1 @@
+window.__TOBACCO_PACK_YEARS_EXAM_G={"concept_id":"TOBACCO_PACK_YEARS","exam":"G","n":1964,"missing":1269,"mean":207.9427,"sd":167.1994,"p50":180,"p99":720};

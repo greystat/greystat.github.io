@@ -1,0 +1,1 @@
+window.__RETINOL_INTAKE_MG_EXAM_B={"concept_id":"RETINOL_INTAKE_MG","exam":"B","n":4623,"missing":58,"mean":1044.7614,"sd":912.3721,"p50":802,"p99":5046.88};

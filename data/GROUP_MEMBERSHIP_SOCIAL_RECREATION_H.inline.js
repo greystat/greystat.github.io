@@ -1,0 +1,1 @@
+window.__GROUP_MEMBERSHIP_SOCIAL_RECREATION_EXAM_H={"concept_id":"GROUP_MEMBERSHIP_SOCIAL_RECREATION","exam":"H","n":3473,"missing":1,"n_levels":3,"mode_level":"\"No\""};

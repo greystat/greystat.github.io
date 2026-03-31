@@ -1,0 +1,1 @@
+window.__MODERATE_INTENSITY_SCORE_EXAM_A={"concept_id":"MODERATE_INTENSITY_SCORE","exam":"A","n":5114,"missing":2,"mean":142.2954,"sd":108.0616,"p50":124,"p99":461.67};

@@ -1,0 +1,1 @@
+window.__CMQ_LIKES_TO_GOSSIP_EXAM_F={"concept_id":"CMQ_LIKES_TO_GOSSIP","exam":"F","n":3671,"missing":24,"n_levels":3,"mode_level":"True"};

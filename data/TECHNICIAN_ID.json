@@ -1,0 +1,64 @@
+{
+  "concept_id": "TECHNICIAN_ID",
+  "title": "DXA technician ID",
+  "unit": "id",
+  "chips": ["numeric", "id", "F84 · DXA Encounter", "Anthropometry", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "TECHNICIAN_ID",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f80",
+      "dataset_stub": "g3f80",
+      "varname": "G80IVID",
+      "family": "F80",
+      "form_label": "Spirometry completion",
+      "units_std": "id",
+      "units_class": "identifier",
+      "instrument": "F80: Spirometry completion",
+      "notes": ""
+    },
+    {
+      "concept_id": "TECHNICIAN_ID",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f84",
+      "dataset_stub": "g4f84",
+      "varname": "G84IVID",
+      "family": "F84",
+      "form_label": "DXA Encounter Form",
+      "units_std": "id",
+      "units_class": "identifier",
+      "instrument": "F84: DXA Encounter Form",
+      "notes": ""
+    },
+    {
+      "concept_id": "TECHNICIAN_ID",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f40",
+      "dataset_stub": "h4f40",
+      "varname": "H40IVID",
+      "family": "F40",
+      "form_label": "Echocardiography Technician's Worksheet",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F40: Echocardiography Technician's Worksheet",
+      "notes": ""
+    },
+    {
+      "concept_id": "TECHNICIAN_ID",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f40",
+      "dataset_stub": "i1f40",
+      "varname": "I40IVID",
+      "family": "F40",
+      "form_label": "Echocardiography Technician's Worksheet",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F40: Echocardiography Technician's Worksheet",
+      "notes": ""
+    }
+  ]
+}

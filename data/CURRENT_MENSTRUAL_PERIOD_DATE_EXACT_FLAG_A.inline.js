@@ -1,0 +1,1 @@
+window.__CURRENT_MENSTRUAL_PERIOD_DATE_EXACT_FLAG_EXAM_A={"concept_id":"CURRENT_MENSTRUAL_PERIOD_DATE_EXACT_FLAG","exam":"A","n":4008,"missing":3587,"mean":3.0261,"sd":0.1597,"p50":3,"p99":4};

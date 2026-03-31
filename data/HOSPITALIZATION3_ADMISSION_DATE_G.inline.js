@@ -1,0 +1,1 @@
+window.__HOSPITALIZATION3_ADMISSION_DATE_EXAM_G={"concept_id":"HOSPITALIZATION3_ADMISSION_DATE","exam":"G","n":184,"missing":183,"mean":2006,"sd":"NA","p50":2006,"p99":2006};

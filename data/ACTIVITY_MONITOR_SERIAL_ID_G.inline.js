@@ -1,0 +1,1 @@
+window.__ACTIVITY_MONITOR_SERIAL_ID_EXAM_G={"concept_id":"ACTIVITY_MONITOR_SERIAL_ID","exam":"G","n":2964,"missing":82,"mean":22748.2752,"sd":1894.8627,"p50":23332,"p99":23922.19};

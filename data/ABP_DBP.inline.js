@@ -1,0 +1,1 @@
+window.__ABP_DBP_CONCEPT={"concept_id":"ABP_DBP","title":"Diastolic blood pressure, ABP monitor","unit":{},"chips":["numeric","F42 · Audiology","Sensory"],"members":[{"concept_id":"ABP_DBP","exam":"C","exam_year":"","dataset":"c1f42","dataset_stub":"c1f42","varname":"C42_DBP","family":"F42","form_label":"","units_std":"","units_class":"","instrument":"F42","notes":""}]};

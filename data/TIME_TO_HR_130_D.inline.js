@@ -1,0 +1,1 @@
+window.__TIME_TO_HR_130_EXAM_D={"concept_id":"TIME_TO_HR_130","exam":"D","n":2982,"missing":428,"mean":242.276,"sd":108.2604,"p50":233.5088,"p99":502.1};

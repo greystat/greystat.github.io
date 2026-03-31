@@ -1,0 +1,1 @@
+window.__HOURS_PER_WEEK_EXPOSED_LARGE_AREA_EXAM_G={"concept_id":"HOURS_PER_WEEK_EXPOSED_LARGE_AREA","exam":"G","n":3547,"missing":25,"mean":2.7223,"sd":20.9658,"p50":0,"p99":47.37};

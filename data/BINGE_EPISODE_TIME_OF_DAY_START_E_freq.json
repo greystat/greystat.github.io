@@ -1,0 +1,1737 @@
+{
+  "concept_id": "BINGE_EPISODE_TIME_OF_DAY_START",
+  "exam": "E",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3949,
+        "missing": 3662,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3662,
+            "pct": 92.7
+          },
+          {
+            "level": "Evening",
+            "count": 84,
+            "pct": 2.1
+          },
+          {
+            "level": "Late afternoon",
+            "count": 82,
+            "pct": 2.1
+          },
+          {
+            "level": "Early afternoon",
+            "count": 65,
+            "pct": 1.6
+          },
+          {
+            "level": "Morning",
+            "count": 40,
+            "pct": 1
+          },
+          {
+            "level": "Night",
+            "count": 16,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1755,
+        "missing": 1655,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1655,
+            "pct": 94.3
+          },
+          {
+            "level": "Evening",
+            "count": 32,
+            "pct": 1.8
+          },
+          {
+            "level": "Late afternoon",
+            "count": 32,
+            "pct": 1.8
+          },
+          {
+            "level": "Early afternoon",
+            "count": 18,
+            "pct": 1
+          },
+          {
+            "level": "Morning",
+            "count": 10,
+            "pct": 0.6
+          },
+          {
+            "level": "Night",
+            "count": 8,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 2194,
+        "missing": 2007,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2007,
+            "pct": 91.5
+          },
+          {
+            "level": "Evening",
+            "count": 52,
+            "pct": 2.4
+          },
+          {
+            "level": "Late afternoon",
+            "count": 50,
+            "pct": 2.3
+          },
+          {
+            "level": "Early afternoon",
+            "count": 47,
+            "pct": 2.1
+          },
+          {
+            "level": "Morning",
+            "count": 30,
+            "pct": 1.4
+          },
+          {
+            "level": "Night",
+            "count": 8,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1926,
+        "missing": 1772,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1772,
+            "pct": 92
+          },
+          {
+            "level": "Late afternoon",
+            "count": 46,
+            "pct": 2.4
+          },
+          {
+            "level": "Early afternoon",
+            "count": 41,
+            "pct": 2.1
+          },
+          {
+            "level": "Evening",
+            "count": 35,
+            "pct": 1.8
+          },
+          {
+            "level": "Morning",
+            "count": 22,
+            "pct": 1.1
+          },
+          {
+            "level": "Night",
+            "count": 10,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 2023,
+        "missing": 1890,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1890,
+            "pct": 93.4
+          },
+          {
+            "level": "Evening",
+            "count": 49,
+            "pct": 2.4
+          },
+          {
+            "level": "Late afternoon",
+            "count": 36,
+            "pct": 1.8
+          },
+          {
+            "level": "Early afternoon",
+            "count": 24,
+            "pct": 1.2
+          },
+          {
+            "level": "Morning",
+            "count": 18,
+            "pct": 0.9
+          },
+          {
+            "level": "Night",
+            "count": 6,
+            "pct": 0.3
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 917,
+        "missing": 841,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 841,
+            "pct": 91.7
+          },
+          {
+            "level": "Late afternoon",
+            "count": 26,
+            "pct": 2.8
+          },
+          {
+            "level": "Early afternoon",
+            "count": 20,
+            "pct": 2.2
+          },
+          {
+            "level": "Evening",
+            "count": 20,
+            "pct": 2.2
+          },
+          {
+            "level": "Morning",
+            "count": 8,
+            "pct": 0.9
+          },
+          {
+            "level": "Night",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 839,
+        "missing": 787,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 787,
+            "pct": 93.8
+          },
+          {
+            "level": "Evening",
+            "count": 19,
+            "pct": 2.3
+          },
+          {
+            "level": "Early afternoon",
+            "count": 14,
+            "pct": 1.7
+          },
+          {
+            "level": "Late afternoon",
+            "count": 11,
+            "pct": 1.3
+          },
+          {
+            "level": "Morning",
+            "count": 4,
+            "pct": 0.5
+          },
+          {
+            "level": "Night",
+            "count": 4,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 1087,
+        "missing": 1015,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1015,
+            "pct": 93.4
+          },
+          {
+            "level": "Evening",
+            "count": 22,
+            "pct": 2
+          },
+          {
+            "level": "Late afternoon",
+            "count": 21,
+            "pct": 1.9
+          },
+          {
+            "level": "Early afternoon",
+            "count": 14,
+            "pct": 1.3
+          },
+          {
+            "level": "Morning",
+            "count": 10,
+            "pct": 0.9
+          },
+          {
+            "level": "Night",
+            "count": 5,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1106,
+        "missing": 1019,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1019,
+            "pct": 92.1
+          },
+          {
+            "level": "Late afternoon",
+            "count": 24,
+            "pct": 2.2
+          },
+          {
+            "level": "Evening",
+            "count": 23,
+            "pct": 2.1
+          },
+          {
+            "level": "Morning",
+            "count": 18,
+            "pct": 1.6
+          },
+          {
+            "level": "Early afternoon",
+            "count": 17,
+            "pct": 1.5
+          },
+          {
+            "level": "Night",
+            "count": 5,
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 806,
+        "missing": 760,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 760,
+            "pct": 94.3
+          },
+          {
+            "level": "Late afternoon",
+            "count": 17,
+            "pct": 2.1
+          },
+          {
+            "level": "Evening",
+            "count": 10,
+            "pct": 1.2
+          },
+          {
+            "level": "Early afternoon",
+            "count": 7,
+            "pct": 0.9
+          },
+          {
+            "level": "Morning",
+            "count": 7,
+            "pct": 0.9
+          },
+          {
+            "level": "Night",
+            "count": 5,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1120,
+        "missing": 1012,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1012,
+            "pct": 90.4
+          },
+          {
+            "level": "Early afternoon",
+            "count": 34,
+            "pct": 3
+          },
+          {
+            "level": "Late afternoon",
+            "count": 29,
+            "pct": 2.6
+          },
+          {
+            "level": "Evening",
+            "count": 25,
+            "pct": 2.2
+          },
+          {
+            "level": "Morning",
+            "count": 15,
+            "pct": 1.3
+          },
+          {
+            "level": "Night",
+            "count": 5,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 949,
+        "missing": 895,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 895,
+            "pct": 94.3
+          },
+          {
+            "level": "Evening",
+            "count": 22,
+            "pct": 2.3
+          },
+          {
+            "level": "Late afternoon",
+            "count": 15,
+            "pct": 1.6
+          },
+          {
+            "level": "Early afternoon",
+            "count": 11,
+            "pct": 1.2
+          },
+          {
+            "level": "Morning",
+            "count": 3,
+            "pct": 0.3
+          },
+          {
+            "level": "Night",
+            "count": 3,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1074,
+        "missing": 995,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 995,
+            "pct": 92.6
+          },
+          {
+            "level": "Evening",
+            "count": 27,
+            "pct": 2.5
+          },
+          {
+            "level": "Late afternoon",
+            "count": 21,
+            "pct": 2
+          },
+          {
+            "level": "Morning",
+            "count": 15,
+            "pct": 1.4
+          },
+          {
+            "level": "Early afternoon",
+            "count": 13,
+            "pct": 1.2
+          },
+          {
+            "level": "Night",
+            "count": 3,
+            "pct": 0.3
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 443,
+        "missing": 414,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 414,
+            "pct": 93.5
+          },
+          {
+            "level": "Evening",
+            "count": 10,
+            "pct": 2.3
+          },
+          {
+            "level": "Late afternoon",
+            "count": 10,
+            "pct": 2.3
+          },
+          {
+            "level": "Early afternoon",
+            "count": 6,
+            "pct": 1.4
+          },
+          {
+            "level": "Morning",
+            "count": 2,
+            "pct": 0.5
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 372,
+        "missing": 360,
+        "n_levels": 5,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 360,
+            "pct": 96.8
+          },
+          {
+            "level": "Early afternoon",
+            "count": 5,
+            "pct": 1.3
+          },
+          {
+            "level": "Late afternoon",
+            "count": 3,
+            "pct": 0.8
+          },
+          {
+            "level": "Evening",
+            "count": 2,
+            "pct": 0.5
+          },
+          {
+            "level": "Night",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 511,
+        "missing": 482,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 482,
+            "pct": 94.3
+          },
+          {
+            "level": "Evening",
+            "count": 10,
+            "pct": 2
+          },
+          {
+            "level": "Late afternoon",
+            "count": 9,
+            "pct": 1.8
+          },
+          {
+            "level": "Night",
+            "count": 4,
+            "pct": 0.8
+          },
+          {
+            "level": "Early afternoon",
+            "count": 3,
+            "pct": 0.6
+          },
+          {
+            "level": "Morning",
+            "count": 3,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 429,
+        "missing": 399,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 399,
+            "pct": 93
+          },
+          {
+            "level": "Evening",
+            "count": 10,
+            "pct": 2.3
+          },
+          {
+            "level": "Late afternoon",
+            "count": 10,
+            "pct": 2.3
+          },
+          {
+            "level": "Morning",
+            "count": 5,
+            "pct": 1.2
+          },
+          {
+            "level": "Early afternoon",
+            "count": 4,
+            "pct": 0.9
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 474,
+        "missing": 427,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 427,
+            "pct": 90.1
+          },
+          {
+            "level": "Late afternoon",
+            "count": 16,
+            "pct": 3.4
+          },
+          {
+            "level": "Early afternoon",
+            "count": 14,
+            "pct": 3
+          },
+          {
+            "level": "Evening",
+            "count": 10,
+            "pct": 2.1
+          },
+          {
+            "level": "Morning",
+            "count": 6,
+            "pct": 1.3
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 467,
+        "missing": 427,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 427,
+            "pct": 91.4
+          },
+          {
+            "level": "Evening",
+            "count": 17,
+            "pct": 3.6
+          },
+          {
+            "level": "Early afternoon",
+            "count": 9,
+            "pct": 1.9
+          },
+          {
+            "level": "Late afternoon",
+            "count": 8,
+            "pct": 1.7
+          },
+          {
+            "level": "Morning",
+            "count": 4,
+            "pct": 0.9
+          },
+          {
+            "level": "Night",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 576,
+        "missing": 533,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 533,
+            "pct": 92.5
+          },
+          {
+            "level": "Evening",
+            "count": 12,
+            "pct": 2.1
+          },
+          {
+            "level": "Late afternoon",
+            "count": 12,
+            "pct": 2.1
+          },
+          {
+            "level": "Early afternoon",
+            "count": 11,
+            "pct": 1.9
+          },
+          {
+            "level": "Morning",
+            "count": 7,
+            "pct": 1.2
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 677,
+        "missing": 620,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 620,
+            "pct": 91.6
+          },
+          {
+            "level": "Late afternoon",
+            "count": 14,
+            "pct": 2.1
+          },
+          {
+            "level": "Early afternoon",
+            "count": 13,
+            "pct": 1.9
+          },
+          {
+            "level": "Evening",
+            "count": 13,
+            "pct": 1.9
+          },
+          {
+            "level": "Morning",
+            "count": 13,
+            "pct": 1.9
+          },
+          {
+            "level": "Night",
+            "count": 4,
+            "pct": 0.6
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 506,
+        "missing": 462,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 462,
+            "pct": 91.3
+          },
+          {
+            "level": "Late afternoon",
+            "count": 14,
+            "pct": 2.8
+          },
+          {
+            "level": "Early afternoon",
+            "count": 12,
+            "pct": 2.4
+          },
+          {
+            "level": "Evening",
+            "count": 12,
+            "pct": 2.4
+          },
+          {
+            "level": "Morning",
+            "count": 5,
+            "pct": 1
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 396,
+        "missing": 368,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 368,
+            "pct": 92.9
+          },
+          {
+            "level": "Evening",
+            "count": 9,
+            "pct": 2.3
+          },
+          {
+            "level": "Early afternoon",
+            "count": 8,
+            "pct": 2
+          },
+          {
+            "level": "Late afternoon",
+            "count": 6,
+            "pct": 1.5
+          },
+          {
+            "level": "Night",
+            "count": 3,
+            "pct": 0.8
+          },
+          {
+            "level": "Morning",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 417,
+        "missing": 386,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 386,
+            "pct": 92.6
+          },
+          {
+            "level": "Late afternoon",
+            "count": 12,
+            "pct": 2.9
+          },
+          {
+            "level": "Early afternoon",
+            "count": 8,
+            "pct": 1.9
+          },
+          {
+            "level": "Evening",
+            "count": 5,
+            "pct": 1.2
+          },
+          {
+            "level": "Morning",
+            "count": 3,
+            "pct": 0.7
+          },
+          {
+            "level": "Night",
+            "count": 3,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 607,
+        "missing": 556,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 556,
+            "pct": 91.6
+          },
+          {
+            "level": "Late afternoon",
+            "count": 14,
+            "pct": 2.3
+          },
+          {
+            "level": "Early afternoon",
+            "count": 13,
+            "pct": 2.1
+          },
+          {
+            "level": "Morning",
+            "count": 12,
+            "pct": 2
+          },
+          {
+            "level": "Evening",
+            "count": 9,
+            "pct": 1.5
+          },
+          {
+            "level": "Night",
+            "count": 3,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 411,
+        "missing": 379,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 379,
+            "pct": 92.2
+          },
+          {
+            "level": "Late afternoon",
+            "count": 12,
+            "pct": 2.9
+          },
+          {
+            "level": "Early afternoon",
+            "count": 8,
+            "pct": 1.9
+          },
+          {
+            "level": "Evening",
+            "count": 8,
+            "pct": 1.9
+          },
+          {
+            "level": "Morning",
+            "count": 3,
+            "pct": 0.7
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 443,
+        "missing": 419,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 419,
+            "pct": 94.6
+          },
+          {
+            "level": "Evening",
+            "count": 10,
+            "pct": 2.3
+          },
+          {
+            "level": "Early afternoon",
+            "count": 6,
+            "pct": 1.4
+          },
+          {
+            "level": "Late afternoon",
+            "count": 5,
+            "pct": 1.1
+          },
+          {
+            "level": "Morning",
+            "count": 2,
+            "pct": 0.5
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 670,
+        "missing": 629,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 629,
+            "pct": 93.9
+          },
+          {
+            "level": "Evening",
+            "count": 17,
+            "pct": 2.5
+          },
+          {
+            "level": "Late afternoon",
+            "count": 9,
+            "pct": 1.3
+          },
+          {
+            "level": "Morning",
+            "count": 7,
+            "pct": 1
+          },
+          {
+            "level": "Early afternoon",
+            "count": 6,
+            "pct": 0.9
+          },
+          {
+            "level": "Night",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 499,
+        "missing": 463,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 463,
+            "pct": 92.8
+          },
+          {
+            "level": "Evening",
+            "count": 14,
+            "pct": 2.8
+          },
+          {
+            "level": "Late afternoon",
+            "count": 10,
+            "pct": 2
+          },
+          {
+            "level": "Morning",
+            "count": 6,
+            "pct": 1.2
+          },
+          {
+            "level": "Early afternoon",
+            "count": 4,
+            "pct": 0.8
+          },
+          {
+            "level": "Night",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 218,
+        "missing": 206,
+        "n_levels": 5,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 206,
+            "pct": 94.5
+          },
+          {
+            "level": "Late afternoon",
+            "count": 5,
+            "pct": 2.3
+          },
+          {
+            "level": "Evening",
+            "count": 4,
+            "pct": 1.8
+          },
+          {
+            "level": "Early afternoon",
+            "count": 2,
+            "pct": 0.9
+          },
+          {
+            "level": "Morning",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 158,
+        "missing": 152,
+        "n_levels": 5,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 152,
+            "pct": 96.2
+          },
+          {
+            "level": "Early afternoon",
+            "count": 2,
+            "pct": 1.3
+          },
+          {
+            "level": "Late afternoon",
+            "count": 2,
+            "pct": 1.3
+          },
+          {
+            "level": "Evening",
+            "count": 1,
+            "pct": 0.6
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 199,
+        "missing": 187,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 187,
+            "pct": 94
+          },
+          {
+            "level": "Late afternoon",
+            "count": 4,
+            "pct": 2
+          },
+          {
+            "level": "Night",
+            "count": 3,
+            "pct": 1.5
+          },
+          {
+            "level": "Evening",
+            "count": 2,
+            "pct": 1
+          },
+          {
+            "level": "Morning",
+            "count": 2,
+            "pct": 1
+          },
+          {
+            "level": "Early afternoon",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 231,
+        "missing": 215,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 215,
+            "pct": 93.1
+          },
+          {
+            "level": "Late afternoon",
+            "count": 6,
+            "pct": 2.6
+          },
+          {
+            "level": "Morning",
+            "count": 4,
+            "pct": 1.7
+          },
+          {
+            "level": "Evening",
+            "count": 3,
+            "pct": 1.3
+          },
+          {
+            "level": "Early afternoon",
+            "count": 2,
+            "pct": 0.9
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 288,
+        "missing": 256,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 256,
+            "pct": 88.9
+          },
+          {
+            "level": "Early afternoon",
+            "count": 10,
+            "pct": 3.5
+          },
+          {
+            "level": "Late afternoon",
+            "count": 9,
+            "pct": 3.1
+          },
+          {
+            "level": "Evening",
+            "count": 8,
+            "pct": 2.8
+          },
+          {
+            "level": "Morning",
+            "count": 4,
+            "pct": 1.4
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 238,
+        "missing": 216,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 216,
+            "pct": 90.8
+          },
+          {
+            "level": "Evening",
+            "count": 8,
+            "pct": 3.4
+          },
+          {
+            "level": "Early afternoon",
+            "count": 6,
+            "pct": 2.5
+          },
+          {
+            "level": "Late afternoon",
+            "count": 4,
+            "pct": 1.7
+          },
+          {
+            "level": "Morning",
+            "count": 2,
+            "pct": 0.8
+          },
+          {
+            "level": "Night",
+            "count": 2,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 218,
+        "missing": 199,
+        "n_levels": 5,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 199,
+            "pct": 91.3
+          },
+          {
+            "level": "Late afternoon",
+            "count": 8,
+            "pct": 3.7
+          },
+          {
+            "level": "Early afternoon",
+            "count": 7,
+            "pct": 3.2
+          },
+          {
+            "level": "Evening",
+            "count": 3,
+            "pct": 1.4
+          },
+          {
+            "level": "Morning",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 376,
+        "missing": 341,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 341,
+            "pct": 90.7
+          },
+          {
+            "level": "Early afternoon",
+            "count": 11,
+            "pct": 2.9
+          },
+          {
+            "level": "Late afternoon",
+            "count": 8,
+            "pct": 2.1
+          },
+          {
+            "level": "Morning",
+            "count": 8,
+            "pct": 2.1
+          },
+          {
+            "level": "Evening",
+            "count": 6,
+            "pct": 1.6
+          },
+          {
+            "level": "Night",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 225,
+        "missing": 208,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 208,
+            "pct": 92.4
+          },
+          {
+            "level": "Evening",
+            "count": 6,
+            "pct": 2.7
+          },
+          {
+            "level": "Late afternoon",
+            "count": 5,
+            "pct": 2.2
+          },
+          {
+            "level": "Early afternoon",
+            "count": 4,
+            "pct": 1.8
+          },
+          {
+            "level": "Morning",
+            "count": 1,
+            "pct": 0.4
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 214,
+        "missing": 208,
+        "n_levels": 5,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 208,
+            "pct": 97.2
+          },
+          {
+            "level": "Early afternoon",
+            "count": 3,
+            "pct": 1.4
+          },
+          {
+            "level": "Evening",
+            "count": 1,
+            "pct": 0.5
+          },
+          {
+            "level": "Late afternoon",
+            "count": 1,
+            "pct": 0.5
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 312,
+        "missing": 295,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 295,
+            "pct": 94.6
+          },
+          {
+            "level": "Evening",
+            "count": 8,
+            "pct": 2.6
+          },
+          {
+            "level": "Late afternoon",
+            "count": 5,
+            "pct": 1.6
+          },
+          {
+            "level": "Early afternoon",
+            "count": 2,
+            "pct": 0.6
+          },
+          {
+            "level": "Morning",
+            "count": 1,
+            "pct": 0.3
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 198,
+        "missing": 184,
+        "n_levels": 5,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 184,
+            "pct": 92.9
+          },
+          {
+            "level": "Evening",
+            "count": 7,
+            "pct": 3.5
+          },
+          {
+            "level": "Late afternoon",
+            "count": 4,
+            "pct": 2
+          },
+          {
+            "level": "Early afternoon",
+            "count": 2,
+            "pct": 1
+          },
+          {
+            "level": "Morning",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 186,
+        "missing": 171,
+        "n_levels": 5,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 171,
+            "pct": 91.9
+          },
+          {
+            "level": "Late afternoon",
+            "count": 7,
+            "pct": 3.8
+          },
+          {
+            "level": "Early afternoon",
+            "count": 4,
+            "pct": 2.2
+          },
+          {
+            "level": "Evening",
+            "count": 2,
+            "pct": 1.1
+          },
+          {
+            "level": "Morning",
+            "count": 2,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 229,
+        "missing": 211,
+        "n_levels": 5,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 211,
+            "pct": 92.1
+          },
+          {
+            "level": "Evening",
+            "count": 9,
+            "pct": 3.9
+          },
+          {
+            "level": "Late afternoon",
+            "count": 4,
+            "pct": 1.7
+          },
+          {
+            "level": "Early afternoon",
+            "count": 3,
+            "pct": 1.3
+          },
+          {
+            "level": "Morning",
+            "count": 2,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 358,
+        "missing": 334,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 334,
+            "pct": 93.3
+          },
+          {
+            "level": "Evening",
+            "count": 9,
+            "pct": 2.5
+          },
+          {
+            "level": "Morning",
+            "count": 6,
+            "pct": 1.7
+          },
+          {
+            "level": "Early afternoon",
+            "count": 4,
+            "pct": 1.1
+          },
+          {
+            "level": "Late afternoon",
+            "count": 4,
+            "pct": 1.1
+          },
+          {
+            "level": "Night",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 301,
+        "missing": 279,
+        "n_levels": 6,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 279,
+            "pct": 92.7
+          },
+          {
+            "level": "Evening",
+            "count": 7,
+            "pct": 2.3
+          },
+          {
+            "level": "Late afternoon",
+            "count": 6,
+            "pct": 2
+          },
+          {
+            "level": "Morning",
+            "count": 5,
+            "pct": 1.7
+          },
+          {
+            "level": "Early afternoon",
+            "count": 2,
+            "pct": 0.7
+          },
+          {
+            "level": "Night",
+            "count": 2,
+            "pct": 0.7
+          }
+        ]
+      }
+    ]
+  }
+}

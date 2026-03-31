@@ -1,0 +1,1 @@
+window.__BINGE_EATING_SYNDROME_WITH_DISTRESS_EXAM_E={"concept_id":"BINGE_EATING_SYNDROME_WITH_DISTRESS","exam":"E","n":3949,"missing":38,"n_levels":3,"mode_level":"1"};

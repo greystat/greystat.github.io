@@ -1,0 +1,1 @@
+window.__UNADJUSTED_AGATSTON_SCORE_AVG_EXAM_H={"concept_id":"UNADJUSTED_AGATSTON_SCORE_AVG","exam":"H","n":3197,"missing":3197,"mean":"NA","sd":"NA","p50":"NA","p99":"NA"};

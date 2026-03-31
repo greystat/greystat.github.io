@@ -1,0 +1,1 @@
+window.__BIA_REACTANCE_READING_1_EXAM_E={"concept_id":"BIA_REACTANCE_READING_1","exam":"E","n":3949,"missing":3718,"mean":64.8788,"sd":12.8142,"p50":63,"p99":112.2};

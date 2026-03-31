@@ -1,0 +1,1 @@
+window.__SYSTOLIC_BLOOD_PRESSURE_EXAM_C={"concept_id":"SYSTOLIC_BLOOD_PRESSURE","exam":"C","n":4351,"missing":121,"mean":108.4203,"sd":14.0926,"p50":108,"p99":146};

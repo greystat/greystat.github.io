@@ -1,0 +1,1 @@
+window.__MOTHER_CAUSE_OF_DEATH_EXAM_A={"concept_id":"MOTHER_CAUSE_OF_DEATH","exam":"A","n":5114,"missing":12,"n_levels":11,"mode_level":"0"};

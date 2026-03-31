@@ -1,0 +1,1 @@
+window.__MITRAL_REGURGITATION_MOD_SEV_EXAM_H={"concept_id":"MITRAL_REGURGITATION_MOD_SEV","exam":"H","n":3474,"missing":20,"mean":0.0093,"sd":0.0958,"p50":0,"p99":0};

@@ -1,0 +1,1 @@
+window.__ARM_USED_FOR_BP_EXAM_G={"concept_id":"ARM_USED_FOR_BP","exam":"G","n":3547,"missing":20,"n_levels":3,"mode_level":"Right"};

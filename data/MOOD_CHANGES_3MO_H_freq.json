@@ -1,0 +1,592 @@
+{
+  "concept_id": "MOOD_CHANGES_3MO",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1964,
+        "missing": 1569,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1569,
+            "pct": 79.9
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 395,
+            "pct": 20.1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 1964,
+        "missing": 1569,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1569,
+            "pct": 79.9
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 395,
+            "pct": 20.1
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 975,
+        "missing": 737,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 737,
+            "pct": 75.6
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 238,
+            "pct": 24.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 989,
+        "missing": 832,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 832,
+            "pct": 84.1
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 157,
+            "pct": 15.9
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 440,
+        "missing": 356,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 356,
+            "pct": 80.9
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 84,
+            "pct": 19.1
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 448,
+        "missing": 350,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 350,
+            "pct": 78.1
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 98,
+            "pct": 21.9
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 498,
+        "missing": 408,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 408,
+            "pct": 81.9
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 90,
+            "pct": 18.1
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 578,
+        "missing": 455,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 455,
+            "pct": 78.7
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 123,
+            "pct": 21.3
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 975,
+        "missing": 737,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 737,
+            "pct": 75.6
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 238,
+            "pct": 24.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 989,
+        "missing": 832,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 832,
+            "pct": 84.1
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 157,
+            "pct": 15.9
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 440,
+        "missing": 356,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 356,
+            "pct": 80.9
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 84,
+            "pct": 19.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 448,
+        "missing": 350,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 350,
+            "pct": 78.1
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 98,
+            "pct": 21.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 498,
+        "missing": 408,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 408,
+            "pct": 81.9
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 90,
+            "pct": 18.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 578,
+        "missing": 455,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 455,
+            "pct": 78.7
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 123,
+            "pct": 21.3
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 266,
+        "missing": 205,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 77.1
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 61,
+            "pct": 22.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 226,
+        "missing": 166,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 166,
+            "pct": 73.5
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 60,
+            "pct": 26.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 186,
+        "missing": 139,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 139,
+            "pct": 74.7
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 47,
+            "pct": 25.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 297,
+        "missing": 227,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 227,
+            "pct": 76.4
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 70,
+            "pct": 23.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 174,
+        "missing": 151,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 151,
+            "pct": 86.8
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 23,
+            "pct": 13.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 222,
+        "missing": 184,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 184,
+            "pct": 82.9
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 38,
+            "pct": 17.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 312,
+        "missing": 269,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 269,
+            "pct": 86.2
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 43,
+            "pct": 13.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 281,
+        "missing": 228,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 228,
+            "pct": 81.1
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 53,
+            "pct": 18.9
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 266,
+        "missing": 205,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 77.1
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 61,
+            "pct": 22.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 226,
+        "missing": 166,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 166,
+            "pct": 73.5
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 60,
+            "pct": 26.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 186,
+        "missing": 139,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 139,
+            "pct": 74.7
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 47,
+            "pct": 25.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 297,
+        "missing": 227,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 227,
+            "pct": 76.4
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 70,
+            "pct": 23.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 174,
+        "missing": 151,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 151,
+            "pct": 86.8
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 23,
+            "pct": 13.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 222,
+        "missing": 184,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 184,
+            "pct": 82.9
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 38,
+            "pct": 17.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 312,
+        "missing": 269,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 269,
+            "pct": 86.2
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 43,
+            "pct": 13.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 281,
+        "missing": 228,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 228,
+            "pct": 81.1
+          },
+          {
+            "level": "Frequent mood changes",
+            "count": 53,
+            "pct": 18.9
+          }
+        ]
+      }
+    ]
+  }
+}

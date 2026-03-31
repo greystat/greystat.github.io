@@ -1,0 +1,36 @@
+{
+  "concept_id": "USUAL_DRINKS_PER_WEEK_BEFORE_STOP",
+  "title": "Usual number of drinks per week before stopping drinking",
+  "unit": {},
+  "chips": ["numeric", "F07 · Alcohol Use Questionnaire", "Substance Use"],
+  "members": [
+    {
+      "concept_id": "USUAL_DRINKS_PER_WEEK_BEFORE_STOP",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f07",
+      "dataset_stub": "a4f07",
+      "varname": "A07USNUM",
+      "family": "F07",
+      "form_label": "Alcohol Use Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F07: Alcohol Use Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "USUAL_DRINKS_PER_WEEK_BEFORE_STOP",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f07",
+      "dataset_stub": "b2f07",
+      "varname": "B07USNUM",
+      "family": "F07",
+      "form_label": "Alcohol Use Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F07: Alcohol Use Questionnaire",
+      "notes": ""
+    }
+  ]
+}

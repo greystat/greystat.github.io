@@ -1,0 +1,1 @@
+window.__COGNITIVE_ACTIVITY_ART_EXAM_I={"concept_id":"COGNITIVE_ACTIVITY_ART","exam":"I","n":3264,"missing":12,"n_levels":8,"mode_level":"Never"};

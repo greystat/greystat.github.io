@@ -1,0 +1,1 @@
+window.__DUODENAL_ULCER_AGE_EXAM_A={"concept_id":"DUODENAL_ULCER_AGE","exam":"A","n":4008,"missing":3972,"mean":19.6111,"sd":4.686,"p50":19,"p99":27.65};

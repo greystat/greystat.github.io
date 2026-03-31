@@ -1,0 +1,1 @@
+window.__F08_PVDAG_EXAM_J={"concept_id":"F08_PVDAG","exam":"J","n":2776,"missing":2730,"mean":49.9565,"sd":11.5488,"p50":54,"p99":64};

@@ -1,0 +1,36 @@
+{
+  "concept_id": "MITRAL_E_TO_A_RATIO",
+  "title": "Mitral inflow E/A ratio",
+  "unit": {},
+  "chips": ["numeric", "ECHO · Echocardiography", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "MITRAL_E_TO_A_RATIO",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h10echo",
+      "dataset_stub": "h10echo",
+      "varname": "HEARATIO",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "ECHO",
+      "notes": ""
+    },
+    {
+      "concept_id": "MITRAL_E_TO_A_RATIO",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i5echo",
+      "dataset_stub": "i5echo",
+      "varname": "IEARATIO",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "ECHO",
+      "notes": ""
+    }
+  ]
+}

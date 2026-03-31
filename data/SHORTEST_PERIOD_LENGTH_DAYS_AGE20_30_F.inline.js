@@ -1,0 +1,1 @@
+window.__SHORTEST_PERIOD_LENGTH_DAYS_AGE20_30_EXAM_F={"concept_id":"SHORTEST_PERIOD_LENGTH_DAYS_AGE20_30","exam":"F","n":2051,"missing":1809,"mean":3.8306,"sd":2.3386,"p50":3,"p99":10};

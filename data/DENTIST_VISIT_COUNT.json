@@ -1,0 +1,50 @@
+{
+  "concept_id": "DENTIST_VISIT_COUNT",
+  "title": "Number of dentist visits",
+  "unit": "count",
+  "chips": ["numeric", "count", "F31 · Interim Health Contact", "Administrative"],
+  "members": [
+    {
+      "concept_id": "DENTIST_VISIT_COUNT",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f31",
+      "dataset_stub": "e1f31",
+      "varname": "E31DENTX",
+      "family": "F31",
+      "form_label": "Interim Hospitalizations, Serious Illnesses and Injuries Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F31: Interim Hospitalizations, Serious Illnesses and Injuries Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "DENTIST_VISIT_COUNT",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f2f31",
+      "dataset_stub": "f1f31",
+      "varname": "F31DENTX",
+      "family": "F31",
+      "form_label": "Interim Hospitalizations, Serious Illnesses and Injuries Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F31: Interim Hospitalizations, Serious Illnesses and Injuries Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "DENTIST_VISIT_COUNT",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f31",
+      "dataset_stub": "j1f31",
+      "varname": "J31DENTXM",
+      "family": "F31",
+      "form_label": "Interim Health Care Contact - Phase 1",
+      "units_std": "count",
+      "units_class": "count",
+      "instrument": "F31: Interim Health Care Contact - Phase 1",
+      "notes": ""
+    }
+  ]
+}

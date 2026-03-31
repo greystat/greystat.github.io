@@ -1,0 +1,1 @@
+window.__GXT_DURATION_EXAM_G={"concept_id":"GXT_DURATION","exam":"G","n":2890,"missing":20,"mean":426.8192,"sd":161.0569,"p50":418,"p99":802.17};

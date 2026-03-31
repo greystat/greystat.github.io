@@ -1,0 +1,1 @@
+window.__SUM_DBP_2ND_3RD_EXAM_E={"concept_id":"SUM_DBP_2ND_3RD","exam":"E","n":3949,"missing":13,"mean":144.8135,"sd":20.4796,"p50":144,"p99":204};

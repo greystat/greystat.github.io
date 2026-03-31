@@ -1,0 +1,1 @@
+window.__NEIGHBORHOOD_FAST_FOOD_TRAVEL_PUBLIC_EXAM_G={"concept_id":"NEIGHBORHOOD_FAST_FOOD_TRAVEL_PUBLIC","exam":"G","n":2989,"missing":2758,"n_levels":3,"mode_level":"(Missing)"};

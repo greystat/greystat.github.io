@@ -1,0 +1,1 @@
+window.__UNEMPLOYMENT_DURATION_MONTHS_EXAM_J={"concept_id":"UNEMPLOYMENT_DURATION_MONTHS","exam":"J","n":2516,"missing":2103,"mean":9743.2712,"sd":197910.2356,"p50":4,"p99":11};

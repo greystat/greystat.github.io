@@ -1,0 +1,1 @@
+window.__F08_MENAG_EXAM_D={"concept_id":"F08_MENAG","exam":"D","n":4085,"missing":3902,"mean":25.4098,"sd":7.0844,"p50":26,"p99":37};

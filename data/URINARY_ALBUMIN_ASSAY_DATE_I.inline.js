@@ -1,0 +1,1 @@
+window.__URINARY_ALBUMIN_ASSAY_DATE_EXAM_I={"concept_id":"URINARY_ALBUMIN_ASSAY_DATE","exam":"I","n":3336,"missing":0,"mean":2015.5069,"sd":0.5,"p50":2016,"p99":2016};

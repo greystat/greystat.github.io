@@ -1,0 +1,1 @@
+window.__FORM36_EXAM_DATE_EXAM_E={"concept_id":"FORM36_EXAM_DATE","exam":"E","n":3949,"missing":52,"mean":1995.3546,"sd":0.4785,"p50":1995,"p99":1996};

@@ -1,0 +1,26 @@
+{
+  "concept_id": "MORE_THAN_THREE_HOSPITALIZATIONS_FLAG",
+  "title": "Indicator of additional hospitalizations beyond three",
+  "chips": ["categorical", "1 levels", "F83 · Non-Attending Telephone", "Administrative"],
+  "members": [
+    {
+      "concept_id": "MORE_THAN_THREE_HOSPITALIZATIONS_FLAG",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f83",
+      "dataset_stub": "g3f83",
+      "varname": "G83M3HOS",
+      "family": "F83",
+      "form_label": "Non-attendence telephone survey",
+      "n_labels": "1",
+      "instrument": "F83: Non-attendence telephone survey",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "2",
+      "label": "\"Yes\""
+    }
+  ]
+}

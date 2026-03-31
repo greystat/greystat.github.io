@@ -1,0 +1,1 @@
+window.__EXAM10_PHASE1_CORE_DATE_EXAM_J={"concept_id":"EXAM10_PHASE1_CORE_DATE","exam":"J","n":3789,"missing":1781,"mean":2020.8466,"sd":0.4367,"p50":2021,"p99":2022};

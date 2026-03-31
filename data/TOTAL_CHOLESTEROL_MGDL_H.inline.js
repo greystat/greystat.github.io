@@ -1,0 +1,1 @@
+window.__TOTAL_CHOLESTEROL_MGDL_EXAM_H={"concept_id":"TOTAL_CHOLESTEROL_MGDL","exam":"H","n":3482,"missing":3,"mean":192.332,"sd":36.9187,"p50":190,"p99":292.22};

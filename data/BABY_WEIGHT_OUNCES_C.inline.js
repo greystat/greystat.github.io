@@ -1,0 +1,1 @@
+window.__BABY_WEIGHT_OUNCES_EXAM_C={"concept_id":"BABY_WEIGHT_OUNCES","exam":"C","n":573,"missing":6,"mean":7.3739,"sd":4.6478,"p50":7,"p99":15};

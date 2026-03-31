@@ -1,0 +1,1 @@
+window.__PRF_HBA1C_QC_ID_EXAM_I={"concept_id":"PRF_HBA1C_QC_ID","exam":"I","n":3355,"missing":3296,"mean":31348.8136,"sd":10919.7115,"p50":25967,"p99":46086.42};

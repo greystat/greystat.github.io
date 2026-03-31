@@ -1,0 +1,50 @@
+{
+  "concept_id": "TOBACCO_INTERVIEWER_ID",
+  "title": "Interviewer ID for tobacco form",
+  "unit": "id",
+  "chips": ["numeric", "id"],
+  "members": [
+    {
+      "concept_id": "TOBACCO_INTERVIEWER_ID",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09tob",
+      "dataset_stub": "g3f09tob",
+      "varname": "G09KIVID",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "id",
+      "units_class": "identifier",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOBACCO_INTERVIEWER_ID",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f09tob",
+      "dataset_stub": "h3f09tob",
+      "varname": "H09KIVID",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOBACCO_INTERVIEWER_ID",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f09tob",
+      "dataset_stub": "i1f09tob",
+      "varname": "I09KIVID",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

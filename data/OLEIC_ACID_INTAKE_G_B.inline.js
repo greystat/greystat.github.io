@@ -1,0 +1,1 @@
+window.__OLEIC_ACID_INTAKE_G_EXAM_B={"concept_id":"OLEIC_ACID_INTAKE_G","exam":"B","n":4623,"missing":58,"mean":44.2791,"sd":37.0785,"p50":35.1,"p99":184.724};

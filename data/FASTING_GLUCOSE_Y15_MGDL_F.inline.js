@@ -1,0 +1,1 @@
+window.__FASTING_GLUCOSE_Y15_MGDL_EXAM_F={"concept_id":"FASTING_GLUCOSE_Y15_MGDL","exam":"F","n":3671,"missing":67,"mean":86.6806,"sd":20.9503,"p50":83,"p99":188.94};

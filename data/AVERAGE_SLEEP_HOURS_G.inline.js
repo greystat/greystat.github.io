@@ -1,0 +1,1 @@
+window.__AVERAGE_SLEEP_HOURS_EXAM_G={"concept_id":"AVERAGE_SLEEP_HOURS","exam":"G","n":3501,"missing":61,"mean":6.8623,"sd":3.6425,"p50":7,"p99":15};

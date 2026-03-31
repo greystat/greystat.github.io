@@ -1,0 +1,1 @@
+window.__GOAL_STRIVING_DESIRED_STEP_EXAM_G={"concept_id":"GOAL_STRIVING_DESIRED_STEP","exam":"G","n":3464,"missing":7,"mean":9.2395,"sd":1.012,"p50":10,"p99":10};

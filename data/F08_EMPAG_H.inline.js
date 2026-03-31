@@ -1,0 +1,1 @@
+window.__F08_EMPAG_EXAM_H={"concept_id":"F08_EMPAG","exam":"H","n":3485,"missing":3461,"mean":46.9167,"sd":6.213,"p50":48.5,"p99":54.77};

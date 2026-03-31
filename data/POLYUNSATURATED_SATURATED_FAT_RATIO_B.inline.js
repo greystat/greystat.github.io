@@ -1,0 +1,1 @@
+window.__POLYUNSATURATED_SATURATED_FAT_RATIO_EXAM_B={"concept_id":"POLYUNSATURATED_SATURATED_FAT_RATIO","exam":"B","n":4623,"missing":58,"mean":0.5727,"sd":0.245,"p50":0.55,"p99":1.18};

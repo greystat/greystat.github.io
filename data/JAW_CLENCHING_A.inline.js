@@ -1,0 +1,1 @@
+window.__JAW_CLENCHING_EXAM_A={"concept_id":"JAW_CLENCHING","exam":"A","n":5114,"missing":145,"n_levels":3,"mode_level":"No"};

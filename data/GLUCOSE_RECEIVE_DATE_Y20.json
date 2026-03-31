@@ -1,0 +1,22 @@
+{
+  "concept_id": "GLUCOSE_RECEIVE_DATE_Y20",
+  "title": "Year 20 glucose receive date",
+  "unit": "date",
+  "chips": ["numeric", "date", "GLU · Glucose / OGTT", "Glycemia", "Lab"],
+  "members": [
+    {
+      "concept_id": "GLUCOSE_RECEIVE_DATE_Y20",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g5glu",
+      "dataset_stub": "g5glu",
+      "varname": "GL7GLDT",
+      "family": "GLU",
+      "form_label": "",
+      "units_std": "date",
+      "units_class": "date",
+      "instrument": "GLU",
+      "notes": ""
+    }
+  ]
+}

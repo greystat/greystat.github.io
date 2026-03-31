@@ -1,0 +1,30 @@
+{
+  "concept_id": "HEART_MED_NOW",
+  "title": "Currently taking heart medication",
+  "chips": ["categorical", "2 levels"],
+  "members": [
+    {
+      "concept_id": "HEART_MED_NOW",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f09mht",
+      "dataset_stub": "b2f09mht",
+      "varname": "B09HTNOW",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "2",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

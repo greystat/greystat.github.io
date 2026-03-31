@@ -1,0 +1,1 @@
+window.__NEIGHBORHOOD_EXERCISE_FACILITY_USED_PAST_YEAR_EXAM_G={"concept_id":"NEIGHBORHOOD_EXERCISE_FACILITY_USED_PAST_YEAR","exam":"G","n":2989,"missing":1287,"n_levels":3,"mode_level":"(Missing)"};

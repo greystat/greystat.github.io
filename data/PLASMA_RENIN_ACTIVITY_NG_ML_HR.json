@@ -1,0 +1,22 @@
+{
+  "concept_id": "PLASMA_RENIN_ACTIVITY_NG_ML_HR",
+  "title": "Plasma renin activity (ng/mL/hr)",
+  "unit": "ng/mL",
+  "chips": ["numeric", "ng/mL", "RENALD · Renin-Aldosterone", "Renal", "Lab"],
+  "members": [
+    {
+      "concept_id": "PLASMA_RENIN_ACTIVITY_NG_ML_HR",
+      "exam": "E",
+      "exam_year": "",
+      "dataset": "e1renald",
+      "dataset_stub": "e1renald",
+      "varname": "EL9PRA",
+      "family": "RENALD",
+      "form_label": "",
+      "units_std": "ng/mL",
+      "units_class": "concentration",
+      "instrument": "RENALD",
+      "notes": ""
+    }
+  ]
+}

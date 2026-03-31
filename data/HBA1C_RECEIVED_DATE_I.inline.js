@@ -1,0 +1,1 @@
+window.__HBA1C_RECEIVED_DATE_EXAM_I={"concept_id":"HBA1C_RECEIVED_DATE","exam":"I","n":1327,"missing":0,"mean":2015.578,"sd":0.4941,"p50":2016,"p99":2016};

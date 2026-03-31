@@ -1,0 +1,64 @@
+{
+  "concept_id": "FAMILY_SUPPORT_UNDERSTOOD",
+  "title": "Feeling understood by family/friends",
+  "chips": ["categorical", "4 levels", "F62 · Social Support and Conflict", "Social & Neighborhood"],
+  "members": [
+    {
+      "concept_id": "FAMILY_SUPPORT_UNDERSTOOD",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f62",
+      "dataset_stub": "f1f62",
+      "varname": "F62FEEL",
+      "family": "F62",
+      "form_label": "Social Support Questionnaire",
+      "n_labels": "4",
+      "instrument": "F62: Social Support Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "FAMILY_SUPPORT_UNDERSTOOD",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f62",
+      "dataset_stub": "g3f62",
+      "varname": "G62FEEL",
+      "family": "F62",
+      "form_label": "Social Support and Conflict",
+      "n_labels": "1",
+      "instrument": "F62: Social Support and Conflict",
+      "notes": ""
+    },
+    {
+      "concept_id": "FAMILY_SUPPORT_UNDERSTOOD",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f62",
+      "dataset_stub": "j1f62",
+      "varname": "J62FEEL",
+      "family": "F62",
+      "form_label": "Social Support and Conflict",
+      "n_labels": "1",
+      "instrument": "F62: Social Support and Conflict",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"Not at all\""
+    },
+    {
+      "code": "2",
+      "label": "A little"
+    },
+    {
+      "code": "3",
+      "label": "Some"
+    },
+    {
+      "code": "4",
+      "label": "A lot"
+    }
+  ]
+}

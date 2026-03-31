@@ -1,0 +1,877 @@
+{
+  "concept_id": "COLD_SWEATS_3MO",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1334,
+        "missing": 1209,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1209,
+            "pct": 90.6
+          },
+          {
+            "level": "Cold sweats",
+            "count": 125,
+            "pct": 9.4
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 333,
+        "missing": 297,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 297,
+            "pct": 89.2
+          },
+          {
+            "level": "Cold sweats",
+            "count": 36,
+            "pct": 10.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1001,
+        "missing": 912,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 912,
+            "pct": 91.1
+          },
+          {
+            "level": "Cold sweats",
+            "count": 89,
+            "pct": 8.9
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 662,
+        "missing": 591,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 591,
+            "pct": 89.3
+          },
+          {
+            "level": "Cold sweats",
+            "count": 71,
+            "pct": 10.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 672,
+        "missing": 618,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 618,
+            "pct": 92
+          },
+          {
+            "level": "Cold sweats",
+            "count": 54,
+            "pct": 8
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 287,
+        "missing": 260,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 260,
+            "pct": 90.6
+          },
+          {
+            "level": "Cold sweats",
+            "count": 27,
+            "pct": 9.4
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 311,
+        "missing": 276,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 276,
+            "pct": 88.7
+          },
+          {
+            "level": "Cold sweats",
+            "count": 35,
+            "pct": 11.3
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 315,
+        "missing": 287,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 287,
+            "pct": 91.1
+          },
+          {
+            "level": "Cold sweats",
+            "count": 28,
+            "pct": 8.9
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 421,
+        "missing": 386,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 386,
+            "pct": 91.7
+          },
+          {
+            "level": "Cold sweats",
+            "count": 35,
+            "pct": 8.3
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 171,
+        "missing": 153,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 153,
+            "pct": 89.5
+          },
+          {
+            "level": "Cold sweats",
+            "count": 18,
+            "pct": 10.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 491,
+        "missing": 438,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 438,
+            "pct": 89.2
+          },
+          {
+            "level": "Cold sweats",
+            "count": 53,
+            "pct": 10.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 162,
+        "missing": 144,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 144,
+            "pct": 88.9
+          },
+          {
+            "level": "Cold sweats",
+            "count": 18,
+            "pct": 11.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 510,
+        "missing": 474,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 474,
+            "pct": 92.9
+          },
+          {
+            "level": "Cold sweats",
+            "count": 36,
+            "pct": 7.1
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 66,
+        "missing": 61,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 61,
+            "pct": 92.4
+          },
+          {
+            "level": "Cold sweats",
+            "count": 5,
+            "pct": 7.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 89,
+        "missing": 80,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 80,
+            "pct": 89.9
+          },
+          {
+            "level": "Cold sweats",
+            "count": 9,
+            "pct": 10.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 77,
+        "missing": 65,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 65,
+            "pct": 84.4
+          },
+          {
+            "level": "Cold sweats",
+            "count": 12,
+            "pct": 15.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 101,
+        "missing": 91,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 91,
+            "pct": 90.1
+          },
+          {
+            "level": "Cold sweats",
+            "count": 10,
+            "pct": 9.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 221,
+        "missing": 199,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 199,
+            "pct": 90
+          },
+          {
+            "level": "Cold sweats",
+            "count": 22,
+            "pct": 10
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 222,
+        "missing": 196,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 196,
+            "pct": 88.3
+          },
+          {
+            "level": "Cold sweats",
+            "count": 26,
+            "pct": 11.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 238,
+        "missing": 222,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 222,
+            "pct": 93.3
+          },
+          {
+            "level": "Cold sweats",
+            "count": 16,
+            "pct": 6.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 320,
+        "missing": 295,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 295,
+            "pct": 92.2
+          },
+          {
+            "level": "Cold sweats",
+            "count": 25,
+            "pct": 7.8
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 157,
+        "missing": 144,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 144,
+            "pct": 91.7
+          },
+          {
+            "level": "Cold sweats",
+            "count": 13,
+            "pct": 8.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 149,
+        "missing": 133,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 133,
+            "pct": 89.3
+          },
+          {
+            "level": "Cold sweats",
+            "count": 16,
+            "pct": 10.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 129,
+        "missing": 112,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 112,
+            "pct": 86.8
+          },
+          {
+            "level": "Cold sweats",
+            "count": 17,
+            "pct": 13.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 227,
+        "missing": 202,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 202,
+            "pct": 89
+          },
+          {
+            "level": "Cold sweats",
+            "count": 25,
+            "pct": 11
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 130,
+        "missing": 116,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 116,
+            "pct": 89.2
+          },
+          {
+            "level": "Cold sweats",
+            "count": 14,
+            "pct": 10.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 162,
+        "missing": 143,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 143,
+            "pct": 88.3
+          },
+          {
+            "level": "Cold sweats",
+            "count": 19,
+            "pct": 11.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 186,
+        "missing": 175,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 175,
+            "pct": 94.1
+          },
+          {
+            "level": "Cold sweats",
+            "count": 11,
+            "pct": 5.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 194,
+        "missing": 184,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 184,
+            "pct": 94.8
+          },
+          {
+            "level": "Cold sweats",
+            "count": 10,
+            "pct": 5.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 28,
+        "missing": 27,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 27,
+            "pct": 96.4
+          },
+          {
+            "level": "Cold sweats",
+            "count": 1,
+            "pct": 3.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 41,
+        "missing": 38,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 38,
+            "pct": 92.7
+          },
+          {
+            "level": "Cold sweats",
+            "count": 3,
+            "pct": 7.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 43,
+        "missing": 36,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 36,
+            "pct": 83.7
+          },
+          {
+            "level": "Cold sweats",
+            "count": 7,
+            "pct": 16.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 59,
+        "missing": 52,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 52,
+            "pct": 88.1
+          },
+          {
+            "level": "Cold sweats",
+            "count": 7,
+            "pct": 11.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 129,
+        "missing": 117,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 117,
+            "pct": 90.7
+          },
+          {
+            "level": "Cold sweats",
+            "count": 12,
+            "pct": 9.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 108,
+        "missing": 95,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 95,
+            "pct": 88
+          },
+          {
+            "level": "Cold sweats",
+            "count": 13,
+            "pct": 12
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 86,
+        "missing": 76,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 76,
+            "pct": 88.4
+          },
+          {
+            "level": "Cold sweats",
+            "count": 10,
+            "pct": 11.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 168,
+        "missing": 150,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 150,
+            "pct": 89.3
+          },
+          {
+            "level": "Cold sweats",
+            "count": 18,
+            "pct": 10.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 38,
+        "missing": 34,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 34,
+            "pct": 89.5
+          },
+          {
+            "level": "Cold sweats",
+            "count": 4,
+            "pct": 10.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 48,
+        "missing": 42,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 42,
+            "pct": 87.5
+          },
+          {
+            "level": "Cold sweats",
+            "count": 6,
+            "pct": 12.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 34,
+        "missing": 29,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 29,
+            "pct": 85.3
+          },
+          {
+            "level": "Cold sweats",
+            "count": 5,
+            "pct": 14.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 42,
+        "missing": 39,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 39,
+            "pct": 92.9
+          },
+          {
+            "level": "Cold sweats",
+            "count": 3,
+            "pct": 7.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 92,
+        "missing": 82,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 82,
+            "pct": 89.1
+          },
+          {
+            "level": "Cold sweats",
+            "count": 10,
+            "pct": 10.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 114,
+        "missing": 101,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 101,
+            "pct": 88.6
+          },
+          {
+            "level": "Cold sweats",
+            "count": 13,
+            "pct": 11.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 152,
+        "missing": 146,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 146,
+            "pct": 96.1
+          },
+          {
+            "level": "Cold sweats",
+            "count": 6,
+            "pct": 3.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 152,
+        "missing": 145,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 145,
+            "pct": 95.4
+          },
+          {
+            "level": "Cold sweats",
+            "count": 7,
+            "pct": 4.6
+          }
+        ]
+      }
+    ]
+  }
+}

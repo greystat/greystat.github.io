@@ -1,0 +1,1 @@
+window.__INJURY_EVENT_NUMBER_EXAM_C={"concept_id":"INJURY_EVENT_NUMBER","exam":"C","n":2272,"missing":7,"n_levels":7,"mode_level":"0"};

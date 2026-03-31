@@ -1,0 +1,1387 @@
+{
+  "concept_id": "HOME_OWNERSHIP_STATUS",
+  "exam": "C",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 4351,
+        "missing": 11,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 2196,
+            "pct": 50.5
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 1952,
+            "pct": 44.9
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 174,
+            "pct": 4
+          },
+          {
+            "level": "Other (specify)",
+            "count": 18,
+            "pct": 0.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 11,
+            "pct": 0.3
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1958,
+        "missing": 9,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 957,
+            "pct": 48.9
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 889,
+            "pct": 45.4
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 94,
+            "pct": 4.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 9,
+            "pct": 0.5
+          },
+          {
+            "level": "Other (specify)",
+            "count": 9,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 2393,
+        "missing": 2,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 1239,
+            "pct": 51.8
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 1063,
+            "pct": 44.4
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 80,
+            "pct": 3.3
+          },
+          {
+            "level": "Other (specify)",
+            "count": 9,
+            "pct": 0.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 2119,
+        "missing": 9,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 1239,
+            "pct": 58.5
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 762,
+            "pct": 36
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 100,
+            "pct": 4.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 9,
+            "pct": 0.4
+          },
+          {
+            "level": "Other (specify)",
+            "count": 9,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 2232,
+        "missing": 2,
+        "n_levels": 5,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 1190,
+            "pct": 53.3
+          },
+          {
+            "level": "Rented for money?",
+            "count": 957,
+            "pct": 42.9
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 74,
+            "pct": 3.3
+          },
+          {
+            "level": "Other (specify)",
+            "count": 9,
+            "pct": 0.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 939,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 482,
+            "pct": 51.3
+          },
+          {
+            "level": "Rented for money?",
+            "count": 400,
+            "pct": 42.6
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 55,
+            "pct": 5.9
+          },
+          {
+            "level": "Other (specify)",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 929,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 484,
+            "pct": 52.1
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 430,
+            "pct": 46.3
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 14,
+            "pct": 1.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 1221,
+        "missing": 6,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 648,
+            "pct": 53.1
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 522,
+            "pct": 42.8
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 37,
+            "pct": 3
+          },
+          {
+            "level": "Other (specify)",
+            "count": 8,
+            "pct": 0.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 6,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1262,
+        "missing": 4,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 664,
+            "pct": 52.6
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 518,
+            "pct": 41
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 68,
+            "pct": 5.4
+          },
+          {
+            "level": "Other (specify)",
+            "count": 8,
+            "pct": 0.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 0.3
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 905,
+        "missing": 7,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 505,
+            "pct": 55.8
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 341,
+            "pct": 37.7
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 47,
+            "pct": 5.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 7,
+            "pct": 0.8
+          },
+          {
+            "level": "Other (specify)",
+            "count": 5,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1214,
+        "missing": 2,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 734,
+            "pct": 60.5
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 421,
+            "pct": 34.7
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 53,
+            "pct": 4.4
+          },
+          {
+            "level": "Other (specify)",
+            "count": 4,
+            "pct": 0.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 1053,
+        "missing": 2,
+        "n_levels": 5,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 548,
+            "pct": 52
+          },
+          {
+            "level": "Rented for money?",
+            "count": 452,
+            "pct": 42.9
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 47,
+            "pct": 4.5
+          },
+          {
+            "level": "Other (specify)",
+            "count": 4,
+            "pct": 0.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1179,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 642,
+            "pct": 54.5
+          },
+          {
+            "level": "Rented for money?",
+            "count": 505,
+            "pct": 42.8
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 27,
+            "pct": 2.3
+          },
+          {
+            "level": "Other (specify)",
+            "count": 5,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 464,
+        "missing": 0,
+        "n_levels": 3,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 245,
+            "pct": 52.8
+          },
+          {
+            "level": "Rented for money?",
+            "count": 189,
+            "pct": 40.7
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 30,
+            "pct": 6.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 407,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 207,
+            "pct": 50.9
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 191,
+            "pct": 46.9
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 8,
+            "pct": 2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 583,
+        "missing": 4,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 313,
+            "pct": 53.7
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 237,
+            "pct": 40.7
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 25,
+            "pct": 4.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 0.7
+          },
+          {
+            "level": "Other (specify)",
+            "count": 4,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 504,
+        "missing": 4,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 248,
+            "pct": 49.2
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 216,
+            "pct": 42.9
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 31,
+            "pct": 6.2
+          },
+          {
+            "level": "Other (specify)",
+            "count": 5,
+            "pct": 1
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 475,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 237,
+            "pct": 49.9
+          },
+          {
+            "level": "Rented for money?",
+            "count": 211,
+            "pct": 44.4
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 25,
+            "pct": 5.3
+          },
+          {
+            "level": "Other (specify)",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 522,
+        "missing": 0,
+        "n_levels": 3,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 277,
+            "pct": 53.1
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 239,
+            "pct": 45.8
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 6,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 638,
+        "missing": 2,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 335,
+            "pct": 52.5
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 285,
+            "pct": 44.7
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 12,
+            "pct": 1.9
+          },
+          {
+            "level": "Other (specify)",
+            "count": 4,
+            "pct": 0.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 758,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 416,
+            "pct": 54.9
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 302,
+            "pct": 39.8
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 37,
+            "pct": 4.9
+          },
+          {
+            "level": "Other (specify)",
+            "count": 3,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 493,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 240,
+            "pct": 48.7
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 217,
+            "pct": 44
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 34,
+            "pct": 6.9
+          },
+          {
+            "level": "Other (specify)",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 438,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 273,
+            "pct": 62.3
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 157,
+            "pct": 35.8
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 7,
+            "pct": 1.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 481,
+        "missing": 5,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 318,
+            "pct": 66.1
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 141,
+            "pct": 29.3
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 14,
+            "pct": 2.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 5,
+            "pct": 1
+          },
+          {
+            "level": "Other (specify)",
+            "count": 3,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 707,
+        "missing": 3,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 408,
+            "pct": 57.7
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 247,
+            "pct": 34.9
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 45,
+            "pct": 6.4
+          },
+          {
+            "level": "Other (specify)",
+            "count": 4,
+            "pct": 0.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 446,
+        "missing": 0,
+        "n_levels": 3,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 265,
+            "pct": 59.4
+          },
+          {
+            "level": "Rented for money?",
+            "count": 160,
+            "pct": 35.9
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 21,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 491,
+        "missing": 0,
+        "n_levels": 3,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 273,
+            "pct": 55.6
+          },
+          {
+            "level": "Rented for money?",
+            "count": 211,
+            "pct": 43
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 7,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 740,
+        "missing": 1,
+        "n_levels": 5,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 381,
+            "pct": 51.5
+          },
+          {
+            "level": "Rented for money?",
+            "count": 330,
+            "pct": 44.6
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 23,
+            "pct": 3.1
+          },
+          {
+            "level": "Other (specify)",
+            "count": 5,
+            "pct": 0.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 555,
+        "missing": 1,
+        "n_levels": 5,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 271,
+            "pct": 48.8
+          },
+          {
+            "level": "Rented for money?",
+            "count": 256,
+            "pct": 46.1
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 23,
+            "pct": 4.1
+          },
+          {
+            "level": "Other (specify)",
+            "count": 4,
+            "pct": 0.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 224,
+        "missing": 0,
+        "n_levels": 3,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 108,
+            "pct": 48.2
+          },
+          {
+            "level": "Rented for money?",
+            "count": 98,
+            "pct": 43.8
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 18,
+            "pct": 8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 172,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 102,
+            "pct": 59.3
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 65,
+            "pct": 37.8
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 4,
+            "pct": 2.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 235,
+        "missing": 3,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 157,
+            "pct": 66.8
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 64,
+            "pct": 27.2
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 9,
+            "pct": 3.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 1.3
+          },
+          {
+            "level": "Other (specify)",
+            "count": 2,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 274,
+        "missing": 3,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 148,
+            "pct": 54
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 104,
+            "pct": 38
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 16,
+            "pct": 5.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 1.1
+          },
+          {
+            "level": "Other (specify)",
+            "count": 3,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 269,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 142,
+            "pct": 52.8
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 109,
+            "pct": 40.5
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 16,
+            "pct": 5.9
+          },
+          {
+            "level": "Other (specify)",
+            "count": 2,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 266,
+        "missing": 0,
+        "n_levels": 3,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 171,
+            "pct": 64.3
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 92,
+            "pct": 34.6
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 3,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 246,
+        "missing": 2,
+        "n_levels": 5,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 161,
+            "pct": 65.4
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 77,
+            "pct": 31.3
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 5,
+            "pct": 2
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.8
+          },
+          {
+            "level": "Other (specify)",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 433,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "Rented for money?",
+        "freq": [
+          {
+            "level": "Rented for money?",
+            "count": 260,
+            "pct": 60
+          },
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 143,
+            "pct": 33
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 29,
+            "pct": 6.7
+          },
+          {
+            "level": "Other (specify)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 240,
+        "missing": 0,
+        "n_levels": 3,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 137,
+            "pct": 57.1
+          },
+          {
+            "level": "Rented for money?",
+            "count": 91,
+            "pct": 37.9
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 12,
+            "pct": 5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 235,
+        "missing": 0,
+        "n_levels": 3,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 126,
+            "pct": 53.6
+          },
+          {
+            "level": "Rented for money?",
+            "count": 105,
+            "pct": 44.7
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 4,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 348,
+        "missing": 1,
+        "n_levels": 5,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 173,
+            "pct": 49.7
+          },
+          {
+            "level": "Rented for money?",
+            "count": 156,
+            "pct": 44.8
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 16,
+            "pct": 4.6
+          },
+          {
+            "level": "Other (specify)",
+            "count": 2,
+            "pct": 0.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 230,
+        "missing": 1,
+        "n_levels": 5,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 112,
+            "pct": 48.7
+          },
+          {
+            "level": "Rented for money?",
+            "count": 100,
+            "pct": 43.5
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 15,
+            "pct": 6.5
+          },
+          {
+            "level": "Other (specify)",
+            "count": 2,
+            "pct": 0.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 206,
+        "missing": 0,
+        "n_levels": 3,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 128,
+            "pct": 62.1
+          },
+          {
+            "level": "Rented for money?",
+            "count": 69,
+            "pct": 33.5
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 9,
+            "pct": 4.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 256,
+        "missing": 0,
+        "n_levels": 3,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 147,
+            "pct": 57.4
+          },
+          {
+            "level": "Rented for money?",
+            "count": 106,
+            "pct": 41.4
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 3,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 392,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 208,
+            "pct": 53.1
+          },
+          {
+            "level": "Rented for money?",
+            "count": 174,
+            "pct": 44.4
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 7,
+            "pct": 1.8
+          },
+          {
+            "level": "Other (specify)",
+            "count": 3,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 325,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "Owned or being bought by you (or someone in the household)?",
+        "freq": [
+          {
+            "level": "Owned or being bought by you (or someone in the household)?",
+            "count": 159,
+            "pct": 48.9
+          },
+          {
+            "level": "Rented for money?",
+            "count": 156,
+            "pct": 48
+          },
+          {
+            "level": "Occupied without payment of money or rent?",
+            "count": 8,
+            "pct": 2.5
+          },
+          {
+            "level": "Other (specify)",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      }
+    ]
+  }
+}

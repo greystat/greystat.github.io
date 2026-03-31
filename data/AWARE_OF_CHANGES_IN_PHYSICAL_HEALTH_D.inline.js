@@ -1,0 +1,1 @@
+window.__AWARE_OF_CHANGES_IN_PHYSICAL_HEALTH_EXAM_D={"concept_id":"AWARE_OF_CHANGES_IN_PHYSICAL_HEALTH","exam":"D","n":4085,"missing":61,"n_levels":6,"mode_level":"Mostly agree"};

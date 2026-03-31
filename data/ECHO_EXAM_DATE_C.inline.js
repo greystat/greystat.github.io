@@ -1,0 +1,1 @@
+window.__ECHO_EXAM_DATE_EXAM_C={"concept_id":"ECHO_EXAM_DATE","exam":"C","n":4351,"missing":109,"mean":1990.3251,"sd":1.452,"p50":1990,"p99":1991};

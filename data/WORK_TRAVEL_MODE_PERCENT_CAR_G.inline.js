@@ -1,0 +1,1 @@
+window.__WORK_TRAVEL_MODE_PERCENT_CAR_EXAM_G={"concept_id":"WORK_TRAVEL_MODE_PERCENT_CAR","exam":"G","n":2989,"missing":628,"mean":89.7988,"sd":26.4798,"p50":100,"p99":100};

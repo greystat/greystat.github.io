@@ -1,0 +1,1 @@
+window.__TOTAL_CALORIC_INTAKE_EXAM_B={"concept_id":"TOTAL_CALORIC_INTAKE","exam":"B","n":4623,"missing":58,"mean":2511.7781,"sd":1826.1611,"p50":2097.8,"p99":9544.212};

@@ -1,0 +1,36 @@
+{
+  "concept_id": "LIFE_EVENTS_WEIGHTED_SCORE",
+  "title": "Life events: weighted score",
+  "unit": {},
+  "chips": ["numeric", "F04 · Dietary Assessment", "Diet"],
+  "members": [
+    {
+      "concept_id": "LIFE_EVENTS_WEIGHTED_SCORE",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f04",
+      "dataset_stub": "a4f04",
+      "varname": "A04SCORE",
+      "family": "F04",
+      "form_label": "Life Events Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F04: Life Events Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "LIFE_EVENTS_WEIGHTED_SCORE",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f04",
+      "dataset_stub": "b2f04",
+      "varname": "B04SCORE",
+      "family": "F04",
+      "form_label": "Life Events Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F04: Life Events Questionnaire",
+      "notes": ""
+    }
+  ]
+}

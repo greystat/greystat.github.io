@@ -1,0 +1,108 @@
+{
+  "concept_id": "FAST_AT_LEAST_8H",
+  "title": "Fasted at least 8 hours",
+  "chips": ["categorical", "2 levels", "F05 · Phlebotomy", "Specimen Collection"],
+  "members": [
+    {
+      "concept_id": "FAST_AT_LEAST_8H",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f05",
+      "dataset_stub": "e1f05",
+      "varname": "E05FST8H",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "FAST_AT_LEAST_8H",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f05",
+      "dataset_stub": "g4f05",
+      "varname": "G05FST8H",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "FAST_AT_LEAST_8H",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f05",
+      "dataset_stub": "g4f05a",
+      "varname": "G05AFST8H",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "FAST_AT_LEAST_8H",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f05",
+      "dataset_stub": "h3f05",
+      "varname": "H05FST8H",
+      "family": "F05",
+      "form_label": "Phlebotomy-Delayed OGTT",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy-Delayed OGTT",
+      "notes": ""
+    },
+    {
+      "concept_id": "FAST_AT_LEAST_8H",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f05a",
+      "dataset_stub": "h3f05a",
+      "varname": "H05AFST8H",
+      "family": "F05",
+      "form_label": "Phlebotomy-Delayed OGTT",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy-Delayed OGTT",
+      "notes": ""
+    },
+    {
+      "concept_id": "FAST_AT_LEAST_8H",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f05",
+      "dataset_stub": "i1f05",
+      "varname": "I05FST8H",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "FAST_AT_LEAST_8H",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f05a",
+      "dataset_stub": "i1f05a",
+      "varname": "I05AFST8H",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No [OGTT not done]"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "concept_id": "AVERAGE_SLEEP_HOURS",
+  "title": "Average sleep duration (hours per night, past month)",
+  "unit": "h",
+  "chips": ["numeric", "h", "F67 · Sleep Habits", "Sleep"],
+  "members": [
+    {
+      "concept_id": "AVERAGE_SLEEP_HOURS",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f67",
+      "dataset_stub": "f1f67",
+      "varname": "F67SLPHR",
+      "family": "F67",
+      "form_label": "Sleep Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F67: Sleep Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "AVERAGE_SLEEP_HOURS",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f67",
+      "dataset_stub": "g3f67",
+      "varname": "G67SLPHR",
+      "family": "F67",
+      "form_label": "Sleep Habits",
+      "units_std": "h",
+      "units_class": "duration",
+      "instrument": "F67: Sleep Habits",
+      "notes": ""
+    }
+  ]
+}

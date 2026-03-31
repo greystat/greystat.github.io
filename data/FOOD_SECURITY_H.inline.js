@@ -1,0 +1,1 @@
+window.__FOOD_SECURITY_EXAM_H={"concept_id":"FOOD_SECURITY","exam":"H","n":3484,"missing":2,"n_levels":5,"mode_level":"We have enough food to eat and the kinds of food we want"};

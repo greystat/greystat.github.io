@@ -1,0 +1,1 @@
+window.__EXAM6_AGE_CONCEPT={"concept_id":"EXAM6_AGE","title":"Calculated age at exam 6","unit":{},"chips":["numeric","REF · Reference / Status","Administrative"],"members":[{"concept_id":"EXAM6_AGE","exam":"F","exam_year":"","dataset":"f3ref","dataset_stub":"f1ref","varname":"EX6_AGE","family":"REF","form_label":"","units_std":"","units_class":"","instrument":"REF","notes":""}]};

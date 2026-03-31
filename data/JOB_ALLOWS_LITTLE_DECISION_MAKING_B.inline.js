@@ -1,0 +1,1 @@
+window.__JOB_ALLOWS_LITTLE_DECISION_MAKING_EXAM_B={"concept_id":"JOB_ALLOWS_LITTLE_DECISION_MAKING","exam":"B","n":4623,"missing":382,"n_levels":5,"mode_level":"Disagree"};

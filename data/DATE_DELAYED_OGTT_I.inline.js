@@ -1,0 +1,1 @@
+window.__DATE_DELAYED_OGTT_EXAM_I={"concept_id":"DATE_DELAYED_OGTT","exam":"I","n":63,"missing":0,"mean":2015.7619,"sd":0.4293,"p50":2016,"p99":2016};

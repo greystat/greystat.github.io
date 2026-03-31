@@ -1,0 +1,1 @@
+window.__LOG_LF_HF_POWER_RATIO_EXAM_F={"concept_id":"LOG_LF_HF_POWER_RATIO","exam":"F","n":757,"missing":0,"mean":0.2665,"sd":1.0007,"p50":0.2106,"p99":2.6962};

@@ -1,0 +1,1 @@
+window.__PREGNANCY_WEIGHT_GAIN_EXAM_D={"concept_id":"PREGNANCY_WEIGHT_GAIN","exam":"D","n":1747,"missing":1395,"mean":32.4062,"sd":14.4245,"p50":30,"p99":71.98};

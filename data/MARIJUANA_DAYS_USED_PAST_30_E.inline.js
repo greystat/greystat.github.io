@@ -1,0 +1,1 @@
+window.__MARIJUANA_DAYS_USED_PAST_30_EXAM_E={"concept_id":"MARIJUANA_DAYS_USED_PAST_30","exam":"E","n":3949,"missing":1191,"mean":1.9474,"sd":5.7452,"p50":0,"p99":30};

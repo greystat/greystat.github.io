@@ -1,0 +1,1 @@
+window.__MITRAL_ISOVOLUMIC_RELAX_TIME_EXAM_I={"concept_id":"MITRAL_ISOVOLUMIC_RELAX_TIME","exam":"I","n":3184,"missing":118,"mean":68.0437,"sd":16.452,"p50":66,"p99":112};

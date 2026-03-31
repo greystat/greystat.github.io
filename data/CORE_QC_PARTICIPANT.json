@@ -1,0 +1,69 @@
+{
+  "concept_id": "CORE_QC_PARTICIPANT",
+  "title": "Participant is CARDIA core quality control",
+  "chips": ["categorical", "2 levels", "F05 · Phlebotomy", "Specimen Collection"],
+  "members": [
+    {
+      "concept_id": "CORE_QC_PARTICIPANT",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f05",
+      "dataset_stub": "f1f05",
+      "varname": "F05CQC",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "CORE_QC_PARTICIPANT",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f05",
+      "dataset_stub": "g4f05",
+      "varname": "G05CQC",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "CORE_QC_PARTICIPANT",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f05",
+      "dataset_stub": "h3f05",
+      "varname": "H05CQC",
+      "family": "F05",
+      "form_label": "Phlebotomy-Delayed OGTT",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy-Delayed OGTT",
+      "notes": ""
+    },
+    {
+      "concept_id": "CORE_QC_PARTICIPANT",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f05",
+      "dataset_stub": "i1f05",
+      "varname": "I05CQC",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

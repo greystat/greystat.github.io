@@ -1,0 +1,1 @@
+window.__MEAL_PATTERN_LUNCH_DAYS_PER_WEEK_EXAM_G={"concept_id":"MEAL_PATTERN_LUNCH_DAYS_PER_WEEK","exam":"G","n":3142,"missing":219,"mean":5.7188,"sd":1.9313,"p50":7,"p99":7};

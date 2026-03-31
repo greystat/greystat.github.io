@@ -1,0 +1,1 @@
+window.__WHEEZE_YEARS_WHEEZY_CHEST_EXAM_E={"concept_id":"WHEEZE_YEARS_WHEEZY_CHEST","exam":"E","n":3949,"missing":2828,"mean":10.0045,"sd":10.6769,"p50":5,"p99":38};

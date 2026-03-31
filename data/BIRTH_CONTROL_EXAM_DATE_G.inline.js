@@ -1,0 +1,1 @@
+window.__BIRTH_CONTROL_EXAM_DATE_EXAM_G={"concept_id":"BIRTH_CONTROL_EXAM_DATE","exam":"G","n":1626,"missing":1604,"mean":2005.1818,"sd":0.3948,"p50":2005,"p99":2006};

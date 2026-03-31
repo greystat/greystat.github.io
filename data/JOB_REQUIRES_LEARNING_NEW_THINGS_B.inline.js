@@ -1,0 +1,1 @@
+window.__JOB_REQUIRES_LEARNING_NEW_THINGS_EXAM_B={"concept_id":"JOB_REQUIRES_LEARNING_NEW_THINGS","exam":"B","n":4623,"missing":381,"n_levels":5,"mode_level":"Strongly agree"};

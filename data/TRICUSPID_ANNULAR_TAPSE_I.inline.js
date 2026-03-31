@@ -1,0 +1,1 @@
+window.__TRICUSPID_ANNULAR_TAPSE_EXAM_I={"concept_id":"TRICUSPID_ANNULAR_TAPSE","exam":"I","n":3184,"missing":218,"mean":2.4127,"sd":0.4244,"p50":2.391,"p99":3.5271};

@@ -1,0 +1,1 @@
+window.__CHEST_PAIN_LOCATION_OTHER_EXAM_C={"concept_id":"CHEST_PAIN_LOCATION_OTHER","exam":"C","n":11,"missing":6,"n_levels":3,"mode_level":"(Missing)"};

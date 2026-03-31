@@ -1,0 +1,1 @@
+window.__ANGIOGRAM_EXAM_DATE_EXAM_E={"concept_id":"ANGIOGRAM_EXAM_DATE","exam":"E","n":55,"missing":0,"mean":1995.3818,"sd":0.4903,"p50":1995,"p99":1996};

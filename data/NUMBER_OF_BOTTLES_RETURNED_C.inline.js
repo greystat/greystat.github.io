@@ -1,0 +1,1 @@
+window.__NUMBER_OF_BOTTLES_RETURNED_EXAM_C={"concept_id":"NUMBER_OF_BOTTLES_RETURNED","exam":"C","n":1105,"missing":6,"mean":11.3549,"sd":1.0659,"p50":12,"p99":12};

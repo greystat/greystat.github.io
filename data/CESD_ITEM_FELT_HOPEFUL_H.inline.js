@@ -1,0 +1,1 @@
+window.__CESD_ITEM_FELT_HOPEFUL_EXAM_H={"concept_id":"CESD_ITEM_FELT_HOPEFUL","exam":"H","n":3474,"missing":2,"n_levels":5,"mode_level":"Most or all of the time"};

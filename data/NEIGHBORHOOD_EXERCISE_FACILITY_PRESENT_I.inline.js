@@ -1,0 +1,1 @@
+window.__NEIGHBORHOOD_EXERCISE_FACILITY_PRESENT_EXAM_I={"concept_id":"NEIGHBORHOOD_EXERCISE_FACILITY_PRESENT","exam":"I","n":3274,"missing":1,"n_levels":3,"mode_level":"2"};

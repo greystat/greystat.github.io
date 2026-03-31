@@ -1,0 +1,22 @@
+{
+  "concept_id": "HEART_MED_EXAM_DATE",
+  "title": "Exam date for heart medication form",
+  "unit": "months",
+  "chips": ["numeric", "months"],
+  "members": [
+    {
+      "concept_id": "HEART_MED_EXAM_DATE",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f09mht",
+      "dataset_stub": "b2f09mht",
+      "varname": "B09HTTUS",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "months",
+      "units_class": "duration",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

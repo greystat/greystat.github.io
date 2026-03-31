@@ -1,0 +1,1 @@
+window.__BOWL_GOLF_MONTHS_EXAM_B={"concept_id":"BOWL_GOLF_MONTHS","exam":"B","n":4623,"missing":69,"mean":1.1032,"sd":2.4487,"p50":0,"p99":12};

@@ -1,0 +1,1 @@
+window.__LAST_PERIOD_DATE_COMBINED_EXAM_F={"concept_id":"LAST_PERIOD_DATE_COMBINED","exam":"F","n":2051,"missing":45,"mean":14721.4382,"sd":870.7488,"p50":14915,"p99":15127};

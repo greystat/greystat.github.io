@@ -1,0 +1,1 @@
+window.__ALERT_SEVERE_LV_DYSFUNCTION_EXAM_H={"concept_id":"ALERT_SEVERE_LV_DYSFUNCTION","exam":"H","n":3470,"missing":3461,"n_levels":2,"mode_level":"(Missing)"};

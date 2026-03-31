@@ -1,0 +1,1 @@
+window.__WHEEZE_AGE_FIRST_ATTACK_EXAM_B={"concept_id":"WHEEZE_AGE_FIRST_ATTACK","exam":"B","n":4623,"missing":4075,"mean":15.2062,"sd":8.9696,"p50":16,"p99":31};

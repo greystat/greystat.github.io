@@ -1,0 +1,1 @@
+window.__DBP_STAGE1_EXAM_G={"concept_id":"DBP_STAGE1","exam":"G","n":2890,"missing":287,"mean":74.4695,"sd":13.0765,"p50":74,"p99":105};

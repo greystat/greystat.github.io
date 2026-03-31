@@ -1,0 +1,1 @@
+window.__ASPIRIN_DURATION_YEARS_EXAM_H={"concept_id":"ASPIRIN_DURATION_YEARS","exam":"H","n":606,"missing":19,"mean":4.6031,"sd":5.7458,"p50":3,"p99":30};

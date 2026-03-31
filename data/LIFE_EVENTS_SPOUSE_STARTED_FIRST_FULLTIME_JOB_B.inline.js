@@ -1,0 +1,1 @@
+window.__LIFE_EVENTS_SPOUSE_STARTED_FIRST_FULLTIME_JOB_EXAM_B={"concept_id":"LIFE_EVENTS_SPOUSE_STARTED_FIRST_FULLTIME_JOB","exam":"B","n":4623,"missing":2294,"n_levels":4,"mode_level":"(Missing)"};

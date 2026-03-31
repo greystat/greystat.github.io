@@ -1,0 +1,36 @@
+{
+  "concept_id": "URINARY_CREATININE",
+  "title": "Urinary creatinine",
+  "unit": "mg",
+  "chips": ["numeric", "mg", "CATECH · Catecholamines", "Endocrine", "Lab"],
+  "members": [
+    {
+      "concept_id": "URINARY_CREATININE",
+      "exam": "E",
+      "exam_year": "",
+      "dataset": "e1catech",
+      "dataset_stub": "e1catech",
+      "varname": "EL11CRET",
+      "family": "CATECH",
+      "form_label": "",
+      "units_std": "mg",
+      "units_class": "mass",
+      "instrument": "CATECH",
+      "notes": ""
+    },
+    {
+      "concept_id": "URINARY_CREATININE",
+      "exam": "F",
+      "exam_year": "",
+      "dataset": "f2catech",
+      "dataset_stub": "f2catech",
+      "varname": "FL1CREAT",
+      "family": "CATECH",
+      "form_label": "",
+      "units_std": "mg/mL",
+      "units_class": "concentration",
+      "instrument": "CATECH",
+      "notes": ""
+    }
+  ]
+}

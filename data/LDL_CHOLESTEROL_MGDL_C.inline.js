@@ -1,0 +1,1 @@
+window.__LDL_CHOLESTEROL_MGDL_EXAM_C={"concept_id":"LDL_CHOLESTEROL_MGDL","exam":"C","n":4351,"missing":136,"mean":108.4603,"sd":32.0447,"p50":106,"p99":197};

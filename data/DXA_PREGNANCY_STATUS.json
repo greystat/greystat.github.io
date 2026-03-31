@@ -1,0 +1,26 @@
+{
+  "concept_id": "DXA_PREGNANCY_STATUS",
+  "title": "Pregnancy or possible pregnancy",
+  "chips": ["categorical", "1 levels", "F84 · DXA Encounter", "Anthropometry", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "DXA_PREGNANCY_STATUS",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f84",
+      "dataset_stub": "g4f84",
+      "varname": "G84PREG",
+      "family": "F84",
+      "form_label": "DXA Encounter Form",
+      "n_labels": "1",
+      "instrument": "F84: DXA Encounter Form",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    }
+  ]
+}

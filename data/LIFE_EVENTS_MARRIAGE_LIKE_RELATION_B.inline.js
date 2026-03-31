@@ -1,0 +1,1 @@
+window.__LIFE_EVENTS_MARRIAGE_LIKE_RELATION_EXAM_B={"concept_id":"LIFE_EVENTS_MARRIAGE_LIKE_RELATION","exam":"B","n":4623,"missing":71,"n_levels":3,"mode_level":"Yes, but not in last year"};

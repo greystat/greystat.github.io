@@ -1,0 +1,36 @@
+{
+  "concept_id": "ASPIRIN_DURATION_YEARS",
+  "title": "Duration of aspirin use (years)",
+  "unit": "years",
+  "chips": ["numeric", "years"],
+  "members": [
+    {
+      "concept_id": "ASPIRIN_DURATION_YEARS",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09asp",
+      "dataset_stub": "g3f09asp",
+      "varname": "G09IMDTY",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "ASPIRIN_DURATION_YEARS",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f09asp",
+      "dataset_stub": "h3f09asp",
+      "varname": "H09IMDTY",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "units_std": "years",
+      "units_class": "duration",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ]
+}

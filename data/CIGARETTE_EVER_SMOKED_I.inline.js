@@ -1,0 +1,1 @@
+window.__CIGARETTE_EVER_SMOKED_EXAM_I={"concept_id":"CIGARETTE_EVER_SMOKED","exam":"I","n":3349,"missing":1577,"n_levels":3,"mode_level":"(Missing)"};

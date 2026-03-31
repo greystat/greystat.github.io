@@ -1,0 +1,1 @@
+window.__ABP_MACHINE_ID_CONCEPT={"concept_id":"ABP_MACHINE_ID","title":"ABP monitor machine ID","chips":["categorical","F42 · Audiology","Sensory"],"members":[{"concept_id":"ABP_MACHINE_ID","exam":"C","exam_year":"","dataset":"c1f42a","dataset_stub":"c1f42a","varname":"C42A_MID","family":"F42","form_label":"","n_labels":"","instrument":"F42","notes":""}],"dictionary":{}};

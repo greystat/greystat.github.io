@@ -1,0 +1,1 @@
+window.__FASTING_INSULIN_ASSAY_DATE_I_EXAM_I={"concept_id":"FASTING_INSULIN_ASSAY_DATE_I","exam":"I","n":3301,"missing":0,"mean":2015.5101,"sd":0.5,"p50":2016,"p99":2016};

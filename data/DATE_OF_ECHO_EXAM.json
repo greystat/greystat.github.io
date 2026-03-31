@@ -1,0 +1,50 @@
+{
+  "concept_id": "DATE_OF_ECHO_EXAM",
+  "title": "Date of echocardiography exam",
+  "unit": {},
+  "chips": ["numeric", "F40 · Echo Technician Worksheet", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "DATE_OF_ECHO_EXAM",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f40",
+      "dataset_stub": "e1f40",
+      "varname": "E40EXDAT",
+      "family": "F40",
+      "form_label": "Echocardiography Sonographer's Worksheet",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F40: Echocardiography Sonographer's Worksheet",
+      "notes": ""
+    },
+    {
+      "concept_id": "DATE_OF_ECHO_EXAM",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f40",
+      "dataset_stub": "h4f40",
+      "varname": "H40EXDAT",
+      "family": "F40",
+      "form_label": "Echocardiography Technician's Worksheet",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F40: Echocardiography Technician's Worksheet",
+      "notes": ""
+    },
+    {
+      "concept_id": "DATE_OF_ECHO_EXAM",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f40",
+      "dataset_stub": "i1f40",
+      "varname": "I40EXDAT",
+      "family": "F40",
+      "form_label": "Echocardiography Technician's Worksheet",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F40: Echocardiography Technician's Worksheet",
+      "notes": ""
+    }
+  ]
+}

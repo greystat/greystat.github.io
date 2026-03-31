@@ -1,0 +1,1 @@
+window.__IRON_SUPPLEMENT_FREQUENCY_EXAM_E={"concept_id":"IRON_SUPPLEMENT_FREQUENCY","exam":"E","n":3949,"missing":3750,"n_levels":4,"mode_level":"(Missing)"};

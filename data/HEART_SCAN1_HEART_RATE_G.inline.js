@@ -1,0 +1,1 @@
+window.__HEART_SCAN1_HEART_RATE_EXAM_G={"concept_id":"HEART_SCAN1_HEART_RATE","exam":"G","n":3123,"missing":34,"mean":70.2383,"sd":13.2377,"p50":69,"p99":104};

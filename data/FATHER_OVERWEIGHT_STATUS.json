@@ -1,0 +1,34 @@
+{
+  "concept_id": "FATHER_OVERWEIGHT_STATUS",
+  "title": "Father overweight status",
+  "chips": ["categorical", "3 levels", "F11 · Family History", "Sociodemographic"],
+  "members": [
+    {
+      "concept_id": "FATHER_OVERWEIGHT_STATUS",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f11",
+      "dataset_stub": "a4f11",
+      "varname": "A11FOVWT",
+      "family": "F11",
+      "form_label": "Family History Questionnaire",
+      "n_labels": "3",
+      "instrument": "F11: Family History Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    }
+  ]
+}

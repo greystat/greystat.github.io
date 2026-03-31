@@ -1,0 +1,50 @@
+{
+  "concept_id": "EXAM_DATE_FORM12",
+  "title": "Date of exam (Form 12)",
+  "unit": "date",
+  "chips": ["numeric", "date", "F12 · Lung Disease History", "Pulmonary"],
+  "members": [
+    {
+      "concept_id": "EXAM_DATE_FORM12",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f12",
+      "dataset_stub": "e1f12",
+      "varname": "E12EXDAT",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F12: History of Lung Problems Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "EXAM_DATE_FORM12",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f12",
+      "dataset_stub": "f1f12",
+      "varname": "F12EXDAT",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F12: History of Lung Problems Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "EXAM_DATE_FORM12",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f12",
+      "dataset_stub": "g3f12",
+      "varname": "G12EXDAT",
+      "family": "F12",
+      "form_label": "History of Lung Problems",
+      "units_std": "date",
+      "units_class": "date",
+      "instrument": "F12: History of Lung Problems",
+      "notes": ""
+    }
+  ]
+}

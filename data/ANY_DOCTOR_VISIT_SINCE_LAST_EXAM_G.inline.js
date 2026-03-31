@@ -1,0 +1,1 @@
+window.__ANY_DOCTOR_VISIT_SINCE_LAST_EXAM_EXAM_G={"concept_id":"ANY_DOCTOR_VISIT_SINCE_LAST_EXAM","exam":"G","n":184,"missing":0,"n_levels":2,"mode_level":"2"};

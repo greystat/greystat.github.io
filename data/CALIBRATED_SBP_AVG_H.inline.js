@@ -1,0 +1,1 @@
+window.__CALIBRATED_SBP_AVG_EXAM_H={"concept_id":"CALIBRATED_SBP_AVG","exam":"H","n":3496,"missing":4,"mean":118.6656,"sd":15.5702,"p50":117.02,"p99":166.94};

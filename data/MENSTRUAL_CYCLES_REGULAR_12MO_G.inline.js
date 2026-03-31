@@ -1,0 +1,1 @@
+window.__MENSTRUAL_CYCLES_REGULAR_12MO_EXAM_G={"concept_id":"MENSTRUAL_CYCLES_REGULAR_12MO","exam":"G","n":1990,"missing":494,"n_levels":6,"mode_level":"Yes"};

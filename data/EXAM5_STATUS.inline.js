@@ -1,0 +1,1 @@
+window.__EXAM5_STATUS_CONCEPT={"concept_id":"EXAM5_STATUS","title":"Exam 5 status","chips":["categorical","REF · Reference / Status","Administrative"],"members":[{"concept_id":"EXAM5_STATUS","exam":"E","exam_year":"","dataset":"e3ref","dataset_stub":"e1ref","varname":"X5STATUS","family":"REF","form_label":"","n_labels":"","instrument":"REF","notes":""}],"dictionary":{}};

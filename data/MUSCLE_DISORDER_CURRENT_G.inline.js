@@ -1,0 +1,1 @@
+window.__MUSCLE_DISORDER_CURRENT_EXAM_G={"concept_id":"MUSCLE_DISORDER_CURRENT","exam":"G","n":2986,"missing":5,"n_levels":3,"mode_level":"\"No\""};

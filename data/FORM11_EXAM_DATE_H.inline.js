@@ -1,0 +1,1 @@
+window.__FORM11_EXAM_DATE_EXAM_H={"concept_id":"FORM11_EXAM_DATE","exam":"H","n":3488,"missing":3264,"mean":2010.375,"sd":0.5378,"p50":2010,"p99":2011};

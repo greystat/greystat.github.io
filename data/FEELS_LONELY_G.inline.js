@@ -1,0 +1,1 @@
+window.__FEELS_LONELY_EXAM_G={"concept_id":"FEELS_LONELY","exam":"G","n":3474,"missing":4,"n_levels":5,"mode_level":"Rarely"};

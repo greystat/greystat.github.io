@@ -1,0 +1,1 @@
+window.__CAREGIVING_ROUTINE_HELP_PROVIDED_EXAM_G={"concept_id":"CAREGIVING_ROUTINE_HELP_PROVIDED","exam":"G","n":3476,"missing":2789,"n_levels":3,"mode_level":"(Missing)"};

@@ -1,0 +1,26 @@
+{
+  "concept_id": "HIP_PROTOCOL_REASON",
+  "title": "Reason hip girth not measured or modified",
+  "chips": ["categorical", "1 levels", "F20 · Anthropometry", "Anthropometry"],
+  "members": [
+    {
+      "concept_id": "HIP_PROTOCOL_REASON",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f20",
+      "dataset_stub": "i1f20",
+      "varname": "I20HPRESN",
+      "family": "F20",
+      "form_label": "Anthropometry",
+      "n_labels": "1",
+      "instrument": "F20: Anthropometry",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Girth is more than device measurement range (hip girth >300 cm or >118.1 inches)"
+    }
+  ]
+}

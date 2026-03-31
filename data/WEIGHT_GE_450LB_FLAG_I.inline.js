@@ -1,0 +1,1 @@
+window.__WEIGHT_GE_450LB_FLAG_EXAM_I={"concept_id":"WEIGHT_GE_450LB_FLAG","exam":"I","n":3249,"missing":3246,"mean":2,"sd":0,"p50":2,"p99":2};

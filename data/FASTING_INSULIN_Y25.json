@@ -1,0 +1,22 @@
+{
+  "concept_id": "FASTING_INSULIN_Y25",
+  "title": "Year 25 fasting insulin",
+  "unit": "µU/mL",
+  "chips": ["numeric", "µU/mL", "INS · Fasting Insulin", "Glycemia", "Lab"],
+  "members": [
+    {
+      "concept_id": "FASTING_INSULIN_Y25",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h4ins",
+      "dataset_stub": "h4ins",
+      "varname": "HL7INS",
+      "family": "INS",
+      "form_label": "",
+      "units_std": "µU/mL",
+      "units_class": "concentration",
+      "instrument": "INS",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__EXAM6_STATUS_CONCEPT={"concept_id":"EXAM6_STATUS","title":"Exam 6 status","chips":["categorical","REF · Reference / Status","Administrative"],"members":[{"concept_id":"EXAM6_STATUS","exam":"F","exam_year":"","dataset":"f3ref","dataset_stub":"f1ref","varname":"X6STATUS","family":"REF","form_label":"","n_labels":"","instrument":"REF","notes":""}],"dictionary":{}};

@@ -1,0 +1,877 @@
+{
+  "concept_id": "GENERAL_MED_PAYER_MEDICARE",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 7992,
+        "missing": 7198,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 7198,
+            "pct": 90.1
+          },
+          {
+            "level": "Medicare",
+            "count": 794,
+            "pct": 9.9
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 2982,
+        "missing": 2677,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2677,
+            "pct": 89.8
+          },
+          {
+            "level": "Medicare",
+            "count": 305,
+            "pct": 10.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 5010,
+        "missing": 4521,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 4521,
+            "pct": 90.2
+          },
+          {
+            "level": "Medicare",
+            "count": 489,
+            "pct": 9.8
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 4379,
+        "missing": 3803,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3803,
+            "pct": 86.8
+          },
+          {
+            "level": "Medicare",
+            "count": 576,
+            "pct": 13.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 3613,
+        "missing": 3395,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3395,
+            "pct": 94
+          },
+          {
+            "level": "Medicare",
+            "count": 218,
+            "pct": 6
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 2436,
+        "missing": 2165,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2165,
+            "pct": 88.9
+          },
+          {
+            "level": "Medicare",
+            "count": 271,
+            "pct": 11.1
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 1563,
+        "missing": 1437,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1437,
+            "pct": 91.9
+          },
+          {
+            "level": "Medicare",
+            "count": 126,
+            "pct": 8.1
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 1591,
+        "missing": 1353,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1353,
+            "pct": 85
+          },
+          {
+            "level": "Medicare",
+            "count": 238,
+            "pct": 15
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 2402,
+        "missing": 2243,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2243,
+            "pct": 93.4
+          },
+          {
+            "level": "Medicare",
+            "count": 159,
+            "pct": 6.6
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 1511,
+        "missing": 1279,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1279,
+            "pct": 84.6
+          },
+          {
+            "level": "Medicare",
+            "count": 232,
+            "pct": 15.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 2868,
+        "missing": 2524,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2524,
+            "pct": 88
+          },
+          {
+            "level": "Medicare",
+            "count": 344,
+            "pct": 12
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 1471,
+        "missing": 1398,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1398,
+            "pct": 95
+          },
+          {
+            "level": "Medicare",
+            "count": 73,
+            "pct": 5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 2142,
+        "missing": 1997,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1997,
+            "pct": 93.2
+          },
+          {
+            "level": "Medicare",
+            "count": 145,
+            "pct": 6.8
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 943,
+        "missing": 826,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 826,
+            "pct": 87.6
+          },
+          {
+            "level": "Medicare",
+            "count": 117,
+            "pct": 12.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 595,
+        "missing": 562,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 562,
+            "pct": 94.5
+          },
+          {
+            "level": "Medicare",
+            "count": 33,
+            "pct": 5.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 640,
+        "missing": 550,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 550,
+            "pct": 85.9
+          },
+          {
+            "level": "Medicare",
+            "count": 90,
+            "pct": 14.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 804,
+        "missing": 739,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 739,
+            "pct": 91.9
+          },
+          {
+            "level": "Medicare",
+            "count": 65,
+            "pct": 8.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 1493,
+        "missing": 1339,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1339,
+            "pct": 89.7
+          },
+          {
+            "level": "Medicare",
+            "count": 154,
+            "pct": 10.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 968,
+        "missing": 875,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 875,
+            "pct": 90.4
+          },
+          {
+            "level": "Medicare",
+            "count": 93,
+            "pct": 9.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 951,
+        "missing": 803,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 803,
+            "pct": 84.4
+          },
+          {
+            "level": "Medicare",
+            "count": 148,
+            "pct": 15.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 1598,
+        "missing": 1504,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1504,
+            "pct": 94.1
+          },
+          {
+            "level": "Medicare",
+            "count": 94,
+            "pct": 5.9
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 1522,
+        "missing": 1294,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1294,
+            "pct": 85
+          },
+          {
+            "level": "Medicare",
+            "count": 228,
+            "pct": 15
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 850,
+        "missing": 743,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 743,
+            "pct": 87.4
+          },
+          {
+            "level": "Medicare",
+            "count": 107,
+            "pct": 12.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 551,
+        "missing": 445,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 445,
+            "pct": 80.8
+          },
+          {
+            "level": "Medicare",
+            "count": 106,
+            "pct": 19.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 1456,
+        "missing": 1321,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1321,
+            "pct": 90.7
+          },
+          {
+            "level": "Medicare",
+            "count": 135,
+            "pct": 9.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 914,
+        "missing": 871,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 871,
+            "pct": 95.3
+          },
+          {
+            "level": "Medicare",
+            "count": 43,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 713,
+        "missing": 694,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 694,
+            "pct": 97.3
+          },
+          {
+            "level": "Medicare",
+            "count": 19,
+            "pct": 2.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 1040,
+        "missing": 908,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 908,
+            "pct": 87.3
+          },
+          {
+            "level": "Medicare",
+            "count": 132,
+            "pct": 12.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 946,
+        "missing": 922,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 922,
+            "pct": 97.5
+          },
+          {
+            "level": "Medicare",
+            "count": 24,
+            "pct": 2.5
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 545,
+        "missing": 440,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 440,
+            "pct": 80.7
+          },
+          {
+            "level": "Medicare",
+            "count": 105,
+            "pct": 19.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 286,
+        "missing": 260,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 260,
+            "pct": 90.9
+          },
+          {
+            "level": "Medicare",
+            "count": 26,
+            "pct": 9.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 217,
+        "missing": 171,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 171,
+            "pct": 78.8
+          },
+          {
+            "level": "Medicare",
+            "count": 46,
+            "pct": 21.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 463,
+        "missing": 408,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 408,
+            "pct": 88.1
+          },
+          {
+            "level": "Medicare",
+            "count": 55,
+            "pct": 11.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 977,
+        "missing": 854,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 854,
+            "pct": 87.4
+          },
+          {
+            "level": "Medicare",
+            "count": 123,
+            "pct": 12.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 564,
+        "missing": 483,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 483,
+            "pct": 85.6
+          },
+          {
+            "level": "Medicare",
+            "count": 81,
+            "pct": 14.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 334,
+        "missing": 274,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 274,
+            "pct": 82
+          },
+          {
+            "level": "Medicare",
+            "count": 60,
+            "pct": 18
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 993,
+        "missing": 913,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 913,
+            "pct": 91.9
+          },
+          {
+            "level": "Medicare",
+            "count": 80,
+            "pct": 8.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 398,
+        "missing": 386,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 386,
+            "pct": 97
+          },
+          {
+            "level": "Medicare",
+            "count": 12,
+            "pct": 3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 309,
+        "missing": 302,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 302,
+            "pct": 97.7
+          },
+          {
+            "level": "Medicare",
+            "count": 7,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 423,
+        "missing": 379,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 379,
+            "pct": 89.6
+          },
+          {
+            "level": "Medicare",
+            "count": 44,
+            "pct": 10.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 341,
+        "missing": 331,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 331,
+            "pct": 97.1
+          },
+          {
+            "level": "Medicare",
+            "count": 10,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 516,
+        "missing": 485,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 485,
+            "pct": 94
+          },
+          {
+            "level": "Medicare",
+            "count": 31,
+            "pct": 6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 404,
+        "missing": 392,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 392,
+            "pct": 97
+          },
+          {
+            "level": "Medicare",
+            "count": 12,
+            "pct": 3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 617,
+        "missing": 529,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 529,
+            "pct": 85.7
+          },
+          {
+            "level": "Medicare",
+            "count": 88,
+            "pct": 14.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 605,
+        "missing": 591,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 591,
+            "pct": 97.7
+          },
+          {
+            "level": "Medicare",
+            "count": 14,
+            "pct": 2.3
+          }
+        ]
+      }
+    ]
+  }
+}

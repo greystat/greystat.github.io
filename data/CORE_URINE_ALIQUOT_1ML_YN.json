@@ -1,0 +1,39 @@
+{
+  "concept_id": "CORE_URINE_ALIQUOT_1ML_YN",
+  "title": "1 mL core urine aliquot collected (yes/no)",
+  "chips": ["categorical", "1 levels", "F51 · Urine Specimens", "Renal"],
+  "members": [
+    {
+      "concept_id": "CORE_URINE_ALIQUOT_1ML_YN",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f51",
+      "dataset_stub": "g3f51",
+      "varname": "G51CO1ML",
+      "family": "F51",
+      "form_label": "Urine",
+      "n_labels": "1",
+      "instrument": "F51: Urine",
+      "notes": ""
+    },
+    {
+      "concept_id": "CORE_URINE_ALIQUOT_1ML_YN",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f51",
+      "dataset_stub": "g3f51",
+      "varname": "G51CTB1",
+      "family": "F51",
+      "form_label": "Urine",
+      "n_labels": "1",
+      "instrument": "F51: Urine",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "0",
+      "label": "\"Empty\""
+    }
+  ]
+}

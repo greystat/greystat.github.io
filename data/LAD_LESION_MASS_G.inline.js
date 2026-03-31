@@ -1,0 +1,1 @@
+window.__LAD_LESION_MASS_EXAM_G={"concept_id":"LAD_LESION_MASS","exam":"G","n":3139,"missing":17,"mean":2.627,"sd":80.3506,"p50":0,"p99":67.9543};

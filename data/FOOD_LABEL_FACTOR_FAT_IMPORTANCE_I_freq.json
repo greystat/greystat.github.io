@@ -1,0 +1,877 @@
+{
+  "concept_id": "FOOD_LABEL_FACTOR_FAT_IMPORTANCE",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3277,
+        "missing": 1669,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1669,
+            "pct": 50.9
+          },
+          {
+            "level": "Fat",
+            "count": 1608,
+            "pct": 49.1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1404,
+        "missing": 770,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 770,
+            "pct": 54.8
+          },
+          {
+            "level": "Fat",
+            "count": 634,
+            "pct": 45.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1873,
+        "missing": 899,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 974,
+            "pct": 52
+          },
+          {
+            "level": "(Missing)",
+            "count": 899,
+            "pct": 48
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1549,
+        "missing": 895,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 895,
+            "pct": 57.8
+          },
+          {
+            "level": "Fat",
+            "count": 654,
+            "pct": 42.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1728,
+        "missing": 774,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 954,
+            "pct": 55.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 774,
+            "pct": 44.8
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 722,
+        "missing": 396,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 396,
+            "pct": 54.8
+          },
+          {
+            "level": "Fat",
+            "count": 326,
+            "pct": 45.2
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 733,
+        "missing": 386,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 386,
+            "pct": 52.7
+          },
+          {
+            "level": "Fat",
+            "count": 347,
+            "pct": 47.3
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 831,
+        "missing": 418,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 418,
+            "pct": 50.3
+          },
+          {
+            "level": "Fat",
+            "count": 413,
+            "pct": 49.7
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 991,
+        "missing": 469,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 522,
+            "pct": 52.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 469,
+            "pct": 47.3
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 622,
+        "missing": 385,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 385,
+            "pct": 61.9
+          },
+          {
+            "level": "Fat",
+            "count": 237,
+            "pct": 38.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 927,
+        "missing": 510,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 510,
+            "pct": 55
+          },
+          {
+            "level": "Fat",
+            "count": 417,
+            "pct": 45
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 782,
+        "missing": 385,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 397,
+            "pct": 50.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 385,
+            "pct": 49.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 946,
+        "missing": 389,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 557,
+            "pct": 58.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 389,
+            "pct": 41.1
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 334,
+        "missing": 196,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 196,
+            "pct": 58.7
+          },
+          {
+            "level": "Fat",
+            "count": 138,
+            "pct": 41.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 317,
+        "missing": 169,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 169,
+            "pct": 53.3
+          },
+          {
+            "level": "Fat",
+            "count": 148,
+            "pct": 46.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 371,
+        "missing": 211,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 211,
+            "pct": 56.9
+          },
+          {
+            "level": "Fat",
+            "count": 160,
+            "pct": 43.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 382,
+        "missing": 194,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 194,
+            "pct": 50.8
+          },
+          {
+            "level": "Fat",
+            "count": 188,
+            "pct": 49.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 388,
+        "missing": 200,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 200,
+            "pct": 51.5
+          },
+          {
+            "level": "Fat",
+            "count": 188,
+            "pct": 48.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 416,
+        "missing": 217,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 217,
+            "pct": 52.2
+          },
+          {
+            "level": "Fat",
+            "count": 199,
+            "pct": 47.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 460,
+        "missing": 207,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 253,
+            "pct": 55
+          },
+          {
+            "level": "(Missing)",
+            "count": 207,
+            "pct": 45
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 609,
+        "missing": 275,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 334,
+            "pct": 54.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 275,
+            "pct": 45.2
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 400,
+        "missing": 232,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 232,
+            "pct": 58
+          },
+          {
+            "level": "Fat",
+            "count": 168,
+            "pct": 42
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 337,
+        "missing": 214,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 214,
+            "pct": 63.5
+          },
+          {
+            "level": "Fat",
+            "count": 123,
+            "pct": 36.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 289,
+        "missing": 173,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 173,
+            "pct": 59.9
+          },
+          {
+            "level": "Fat",
+            "count": 116,
+            "pct": 40.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 523,
+        "missing": 276,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 276,
+            "pct": 52.8
+          },
+          {
+            "level": "Fat",
+            "count": 247,
+            "pct": 47.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 322,
+        "missing": 164,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 164,
+            "pct": 50.9
+          },
+          {
+            "level": "Fat",
+            "count": 158,
+            "pct": 49.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 396,
+        "missing": 172,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 224,
+            "pct": 56.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 172,
+            "pct": 43.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 542,
+        "missing": 245,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 297,
+            "pct": 54.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 245,
+            "pct": 45.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 468,
+        "missing": 193,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 275,
+            "pct": 58.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 193,
+            "pct": 41.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 167,
+        "missing": 104,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 104,
+            "pct": 62.3
+          },
+          {
+            "level": "Fat",
+            "count": 63,
+            "pct": 37.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 128,
+        "missing": 81,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 81,
+            "pct": 63.3
+          },
+          {
+            "level": "Fat",
+            "count": 47,
+            "pct": 36.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 128,
+        "missing": 84,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 84,
+            "pct": 65.6
+          },
+          {
+            "level": "Fat",
+            "count": 44,
+            "pct": 34.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 199,
+        "missing": 116,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 116,
+            "pct": 58.3
+          },
+          {
+            "level": "Fat",
+            "count": 83,
+            "pct": 41.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 233,
+        "missing": 128,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 128,
+            "pct": 54.9
+          },
+          {
+            "level": "Fat",
+            "count": 105,
+            "pct": 45.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 209,
+        "missing": 133,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 133,
+            "pct": 63.6
+          },
+          {
+            "level": "Fat",
+            "count": 76,
+            "pct": 36.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 161,
+        "missing": 89,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 89,
+            "pct": 55.3
+          },
+          {
+            "level": "Fat",
+            "count": 72,
+            "pct": 44.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 324,
+        "missing": 160,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 164,
+            "pct": 50.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 160,
+            "pct": 49.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 167,
+        "missing": 92,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 92,
+            "pct": 55.1
+          },
+          {
+            "level": "Fat",
+            "count": 75,
+            "pct": 44.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 189,
+        "missing": 88,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 101,
+            "pct": 53.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 88,
+            "pct": 46.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 243,
+        "missing": 127,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 127,
+            "pct": 52.3
+          },
+          {
+            "level": "Fat",
+            "count": 116,
+            "pct": 47.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 183,
+        "missing": 78,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 105,
+            "pct": 57.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 78,
+            "pct": 42.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 155,
+        "missing": 72,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 83,
+            "pct": 53.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 72,
+            "pct": 46.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 207,
+        "missing": 84,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 123,
+            "pct": 59.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 84,
+            "pct": 40.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 299,
+        "missing": 118,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 181,
+            "pct": 60.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 118,
+            "pct": 39.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 285,
+        "missing": 115,
+        "n_levels": 2,
+        "mode_level": "Fat",
+        "freq": [
+          {
+            "level": "Fat",
+            "count": 170,
+            "pct": 59.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 115,
+            "pct": 40.4
+          }
+        ]
+      }
+    ]
+  }
+}

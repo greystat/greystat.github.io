@@ -1,0 +1,1 @@
+window.__LCX_LESION_MASS_EXAM_H={"concept_id":"LCX_LESION_MASS","exam":"H","n":3197,"missing":39,"mean":1.5395,"sd":16.0666,"p50":0,"p99":34.5109};

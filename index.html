@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"/><title>CARDIA Data Dictionary</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<link href="assets/style.css" rel="stylesheet"/>
+<style>
+*{box-sizing:border-box}
+body{max-width:1100px;margin:0 auto;padding:24px;background:#0c1017;color:#e2e8f0;
+  font-family:ui-sans-serif,system-ui,-apple-system,sans-serif}
+.dd-header{margin-bottom:28px}.dd-header h1{font-size:26px;margin:0;letter-spacing:-0.02em}
+.dd-header p{color:#7b86a3;font-size:14px;margin:6px 0 0;line-height:1.5}
+.search-box{width:100%;padding:11px 14px;border-radius:10px;border:1px solid #253048;
+  background:#141c2b;color:#e2e8f0;font-size:14px;margin-bottom:18px;outline:none}
+.search-box::placeholder{color:#566280}.search-box:focus{border-color:#5ea3d466}
+
+/* Filter rows */
+.filter-row-wrap{display:flex;align-items:flex-start;gap:8px;margin-bottom:8px;flex-wrap:wrap}
+.filter-label{font-size:10px;font-weight:700;color:#566280;text-transform:uppercase;
+  letter-spacing:0.08em;min-width:80px;padding-top:6px;flex-shrink:0}
+.filter-pills{display:flex;gap:5px;flex-wrap:wrap;flex:1}
+
+/* Chip base */
+.fc{display:inline-flex;align-items:center;font-size:12px;font-weight:500;cursor:pointer;
+  border:1px solid transparent;transition:all .12s;white-space:nowrap;user-select:none}
+.fc:hover{opacity:.8}
+.fc.type{padding:3px 12px;border-radius:999px;color:#5ea3d4;border-color:#5ea3d430}
+.fc.type.on{background:#5ea3d420;border-color:#5ea3d4}
+.fc.source{padding:3px 12px;border-radius:999px;color:#2dd4bf;border-color:#2dd4bf30}
+.fc.source.on{background:#2dd4bf20;border-color:#2dd4bf}
+.fc.group{padding:3px 12px;border-radius:999px;color:#a78bfa;border-color:#a78bfa30}
+.fc.group.on{background:#a78bfa20;border-color:#a78bfa}
+
+/* Instrument dropdown */
+.inst-wrap{position:relative;flex:1;max-width:400px}
+.inst-btn{width:100%;padding:6px 12px;border-radius:6px;border:1px solid #d4a44a30;
+  background:#141c2b;color:#d4a44a;font-size:12px;cursor:pointer;text-align:left;
+  display:flex;justify-content:space-between;align-items:center}
+.inst-btn:hover{border-color:#d4a44a}
+.inst-btn .arrow{font-size:10px;margin-left:8px}
+.inst-drop{position:absolute;top:100%;left:0;right:0;max-height:280px;overflow-y:auto;
+  background:#1a2538;border:1px solid #253048;border-radius:8px;z-index:100;
+  margin-top:4px;display:none;padding:4px}
+.inst-drop.open{display:block}
+.inst-drop input{width:100%;padding:6px 10px;border:1px solid #253048;border-radius:4px;
+  background:#0c1017;color:#e2e8f0;font-size:12px;margin-bottom:4px;outline:none}
+.inst-drop input::placeholder{color:#566280}
+.inst-item{padding:5px 10px;border-radius:4px;font-size:12px;color:#d4a44a;cursor:pointer;
+  display:flex;justify-content:space-between;align-items:center}
+.inst-item:hover{background:#253048}.inst-item.sel{background:#d4a44a18}
+.inst-item .ct{color:#566280;font-size:10px}
+.active-filters{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:10px}
+.af-chip{display:inline-flex;align-items:center;gap:4px;padding:3px 10px;border-radius:999px;
+  font-size:11px;font-weight:500;cursor:pointer}
+.af-chip.af-form{color:#d4a44a;border:1px solid #d4a44a55;border-radius:6px}
+.af-chip.af-type{color:#5ea3d4;border:1px solid #5ea3d455}
+.af-chip.af-source{color:#2dd4bf;border:1px solid #2dd4bf55}
+.af-chip.af-group{color:#a78bfa;border:1px solid #a78bfa55}
+.af-chip .x{opacity:.6;margin-left:2px}
+.clear-btn{color:#ef4444;cursor:pointer;font-size:11px;border:1px solid #ef444433;
+  padding:3px 8px;border-radius:999px;background:none}
+.result-count{font-size:12px;color:#7b86a3;margin:4px 0 10px}
+.card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px}
+.concept-card{background:#141c2b;border:1px solid #253048;border-radius:12px;
+  padding:14px 16px;transition:all .15s}
+.concept-card:hover{border-color:#d4a44a44;background:#1a2538}
+.concept-card h3{margin:0 0 2px;font-size:15px;font-weight:600}
+.concept-card h3 a{color:#e2e8f0;text-decoration:none}
+.concept-card h3 a:hover{text-decoration:underline}
+.concept-card .cid{font-size:11px;font-family:monospace;color:#566280;margin-bottom:7px}
+.concept-card .card-chips{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px}
+.cc{display:inline-flex;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:500;border:1px solid transparent}
+.cc-type{color:#5ea3d4;border-color:#5ea3d433}
+.cc-source{color:#2dd4bf;border-color:#2dd4bf33}
+.cc-form{color:#d4a44a;border-color:#d4a44a33;border-radius:4px}
+.cc-group{color:#a78bfa;border-color:#a78bfa33}
+.cc-unit{color:#566280;border-color:#56628033}
+.cc-levels{color:#566280;border-color:#56628033}
+.exam-dots{display:flex;gap:3px}
+.exam-dot{width:20px;height:20px;border-radius:4px;display:flex;align-items:center;
+  justify-content:center;font-size:10px;font-weight:600;background:#d4a44a18;
+  color:#d4a44a;border:1px solid #d4a44a30}
+.dd-footer{margin-top:36px;text-align:center;font-size:12px;color:#566280}
+</style></head><body>
+<div class="dd-header"><h1>CARDIA Data Dictionary</h1>
+<p>Browse harmonized measures across CARDIA exam waves.<br>
+Click any concept to view distributions, stratified summaries, and harmonization details.</p></div>
+<input class="search-box" type="text" id="search" placeholder="Search concepts&hellip;"/>
+<div id="filters"></div>
+<div class="active-filters" id="active"></div>
+<div class="result-count" id="count"></div>
+<div class="card-grid" id="grid"></div>
+<div class="dd-footer" id="footer"></div>
+<script src="catalog.inline.js"></script>
+<script>
+(async function(){
+let cat;
+try{const r=await fetch("catalog.json");if(r.ok)cat=await r.json()}catch(e){}
+if(!cat&&window.__CATALOG)cat=window.__CATALOG;
+if(!cat){document.getElementById("count").textContent="Could not load catalog.json";return}
+
+/* Known groups from family_reference (whitelist) */
+const KNOWN_GROUPS=new Set(["Administrative","Anthropometry","Brain & Cognitive","Cardiovascular",
+  "Chemistry","Dermatology","Diet","Endocrine","Exercise Testing","Glycemia","Inflammation",
+  "Lipids","Medical History","Medications","Physical Activity","Psychosocial","Pulmonary",
+  "Renal","Reproductive Health","Sensory","Sleep","Social & Neighborhood","Sociodemographic",
+  "Specimen Collection","Substance Use"]);
+const TYPES=new Set(["numeric","categorical"]);
+const SOURCES=new Set(["Lab","Imaging"]);
+
+function classify(ch){
+  if(TYPES.has(ch))return"type";
+  if(SOURCES.has(ch))return"source";
+  if(/\xb7/.test(ch))return"form";
+  if(KNOWN_GROUPS.has(ch))return"group";
+  if(/^\d+\s*level/.test(ch))return"levels";
+  return"unit";
+}
+
+const allC=[...new Set(cat.flatMap(c=>Array.isArray(c.chips)?c.chips:c.chips?[c.chips]:[]))];
+const buckets={type:[],source:[],form:[],group:[]};
+allC.forEach(ch=>{const t=classify(ch);if(buckets[t])buckets[t].push(ch)});
+Object.values(buckets).forEach(b=>b.sort((a,b)=>a.localeCompare(b)));
+
+/* Count concepts per form chip for the dropdown */
+const formCounts={};
+buckets.form.forEach(f=>{formCounts[f]=cat.filter(c=>{const ch=Array.isArray(c.chips)?c.chips:c.chips?[c.chips]:[];return ch.includes(f)}).length});
+
+let aC=[];
+const params=new URLSearchParams(location.search);
+const cp=params.get("chip");
+if(cp&&allC.includes(cp))aC=[cp];
+
+const fE=document.getElementById("filters"),gE=document.getElementById("grid");
+const cE=document.getElementById("count"),sE=document.getElementById("search");
+const actE=document.getElementById("active");
+document.getElementById("footer").textContent="CARDIA Data Dictionary \u00b7 "+cat.length+" concepts";
+
+let instOpen=false;
+
+function toggle(ch){aC=aC.includes(ch)?aC.filter(x=>x!==ch):[...aC,ch];render()}
+function toggleForm(ch){
+  const wasOn=aC.includes(ch);
+  aC=aC.filter(x=>classify(x)!=="form");
+  if(!wasOn)aC.push(ch);
+  render();
+}
+
+function renderFilters(){
+  fE.innerHTML="";
+
+  /* Row 1: Type */
+  const r1=document.createElement("div");r1.className="filter-row-wrap";
+  r1.innerHTML="<div class=\"filter-label\">Type</div>";
+  const p1=document.createElement("div");p1.className="filter-pills";
+  buckets.type.forEach(ch=>{const s=document.createElement("span");
+    s.className="fc type"+(aC.includes(ch)?" on":"");s.textContent=ch;
+    s.onclick=()=>toggle(ch);p1.appendChild(s)});
+  r1.appendChild(p1);fE.appendChild(r1);
+
+  /* Row 2: Source */
+  if(buckets.source.length){
+    const r2=document.createElement("div");r2.className="filter-row-wrap";
+    r2.innerHTML="<div class=\"filter-label\">Source</div>";
+    const p2=document.createElement("div");p2.className="filter-pills";
+    buckets.source.forEach(ch=>{const s=document.createElement("span");
+      s.className="fc source"+(aC.includes(ch)?" on":"");s.textContent=ch;
+      s.onclick=()=>toggle(ch);p2.appendChild(s)});
+    r2.appendChild(p2);fE.appendChild(r2);
+  }
+
+  /* Row 3: Instrument dropdown */
+  const r3=document.createElement("div");r3.className="filter-row-wrap";
+  r3.innerHTML="<div class=\"filter-label\">Instrument</div>";
+  const wrap=document.createElement("div");wrap.className="inst-wrap";
+  const selForms=aC.filter(ch=>classify(ch)==="form");
+  const btnText=selForms.length?selForms[0]:"All instruments";
+  const btn=document.createElement("div");btn.className="inst-btn";
+  btn.innerHTML=btnText+"<span class=\"arrow\">\u25BC</span>";
+  const drop=document.createElement("div");drop.className="inst-drop"+(instOpen?" open":"");
+  const sinp=document.createElement("input");sinp.placeholder="Filter instruments...";
+  sinp.onclick=e=>e.stopPropagation();
+  drop.appendChild(sinp);
+  buckets.form.forEach(ch=>{
+    const item=document.createElement("div");
+    item.className="inst-item"+(aC.includes(ch)?" sel":"");
+    item.innerHTML=ch+"<span class=\"ct\">"+formCounts[ch]+"</span>";
+    item.onclick=e=>{e.stopPropagation();toggleForm(ch)};
+    item.dataset.label=ch.toLowerCase();
+    drop.appendChild(item)});
+  sinp.addEventListener("input",()=>{const q=sinp.value.toLowerCase();
+    drop.querySelectorAll(".inst-item").forEach(it=>{
+      it.style.display=it.dataset.label.includes(q)?"":"none"})});
+  btn.onclick=e=>{e.stopPropagation();instOpen=!instOpen;drop.classList.toggle("open")};
+  wrap.appendChild(btn);wrap.appendChild(drop);r3.appendChild(wrap);fE.appendChild(r3);
+
+  /* Row 4: Domain */
+  const r4=document.createElement("div");r4.className="filter-row-wrap";
+  r4.innerHTML="<div class=\"filter-label\">Domain</div>";
+  const p4=document.createElement("div");p4.className="filter-pills";
+  buckets.group.forEach(ch=>{const s=document.createElement("span");
+    s.className="fc group"+(aC.includes(ch)?" on":"");s.textContent=ch;
+    s.onclick=()=>toggle(ch);p4.appendChild(s)});
+  r4.appendChild(p4);fE.appendChild(r4);
+}
+
+function renderActive(){
+  actE.innerHTML="";
+  if(!aC.length)return;
+  aC.forEach(ch=>{const s=document.createElement("span");
+    const t=classify(ch);s.className="af-chip af-"+t;
+    s.innerHTML=ch+"<span class=\"x\">\u2715</span>";
+    s.onclick=()=>toggle(ch);actE.appendChild(s)});
+  const cb=document.createElement("button");cb.className="clear-btn";
+  cb.textContent="clear all";cb.onclick=()=>{aC=[];render()};actE.appendChild(cb);
+}
+
+function cardChipClass(ch){return"cc cc-"+classify(ch)}
+
+/* Featured concepts: all 10 exams, first 20 alphabetically */
+const featured=cat.filter(c=>{
+  const ex=Array.isArray(c.exams)?c.exams:c.exams?[c.exams]:[];
+  return ex.length>=10;
+}).sort((a,b)=>a.title.localeCompare(b.title)).slice(0,20);
+
+function isFiltering(){
+  return sE.value.trim().length>0||aC.length>0;
+}
+
+function renderCards(list){
+  gE.innerHTML="";
+  list.forEach(c=>{
+    const sl=c.concept_id.replace(/[^A-Za-z0-9]+/g,"_");
+    const chips=Array.isArray(c.chips)?c.chips:c.chips?[c.chips]:[];
+    const exams=Array.isArray(c.exams)?c.exams:c.exams?[c.exams]:[];
+    const d=document.createElement("div");d.className="concept-card";
+    const chipHtml=chips.map(ch=>{
+      const t=classify(ch);
+      if(t==="unit"||t==="levels")return"<span class=\"cc cc-"+t+"\">"+ch+"</span>";
+      return"<a class=\""+cardChipClass(ch)+"\" href=\"index.html?chip="+encodeURIComponent(ch)+"\">"+ch+"</a>"
+    }).join(" ");
+    const examHtml=exams.map(e=>"<span class=\"exam-dot\">"+e+"</span>").join("");
+    d.innerHTML="<h3><a href=\""+sl+".html\">"+c.title+"</a></h3>"+
+      "<div class=\"cid\">"+c.concept_id+"</div>"+
+      "<div class=\"card-chips\">"+chipHtml+"</div>"+
+      "<div class=\"exam-dots\">"+examHtml+"</div>";
+    gE.appendChild(d);
+  });
+}
+
+function render(){
+  const q=sE.value.toLowerCase();
+  renderFilters();renderActive();
+  if(!isFiltering()){
+    cE.textContent="Showing "+featured.length+" featured concepts (all 10 exams) — search or filter to explore all "+cat.length;
+    renderCards(featured);
+    return;
+  }
+  const fl=cat.filter(c=>{
+    const chips=Array.isArray(c.chips)?c.chips:c.chips?[c.chips]:[];
+    if(q&&!c.title.toLowerCase().includes(q)&&!c.concept_id.toLowerCase().includes(q))return false;
+    return!aC.length||aC.every(ch=>chips.includes(ch));
+  });
+  cE.textContent=fl.length+" concept"+(fl.length!==1?"s":"")+
+    (aC.length?" matching "+aC.length+" filter"+(aC.length>1?"s":""):"");
+  renderCards(fl);
+}
+
+/* Close dropdown when clicking outside */
+document.addEventListener("click",()=>{if(instOpen){instOpen=false;
+  const d=document.querySelector(".inst-drop");if(d)d.classList.remove("open")}});
+
+sE.addEventListener("input",render);render();
+})();
+</script></body></html>

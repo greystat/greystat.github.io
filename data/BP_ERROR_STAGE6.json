@@ -1,0 +1,26 @@
+{
+  "concept_id": "BP_ERROR_STAGE6",
+  "title": "GXT stage 6 blood pressure error",
+  "chips": ["categorical", "1 levels", "F22 · Graded Exercise Treadmill Test", "Exercise Testing"],
+  "members": [
+    {
+      "concept_id": "BP_ERROR_STAGE6",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f22",
+      "dataset_stub": "g3f22",
+      "varname": "G22ERRS6",
+      "family": "F22",
+      "form_label": "Graded Exercise Treadmill Test",
+      "n_labels": "1",
+      "instrument": "F22: Graded Exercise Treadmill Test",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "2",
+      "label": "\"Yes\""
+    }
+  ]
+}

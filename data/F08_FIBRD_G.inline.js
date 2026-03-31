@@ -1,0 +1,1 @@
+window.__F08_FIBRD_EXAM_G={"concept_id":"F08_FIBRD","exam":"G","n":3548,"missing":3268,"n_levels":3,"mode_level":"(Missing)"};

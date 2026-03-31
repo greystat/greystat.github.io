@@ -1,0 +1,1 @@
+window.__SMOKED_PAST_24H_EXAM_D={"concept_id":"SMOKED_PAST_24H","exam":"D","n":4085,"missing":1,"n_levels":3,"mode_level":"Last used"};

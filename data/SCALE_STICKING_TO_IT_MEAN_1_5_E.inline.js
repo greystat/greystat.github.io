@@ -1,0 +1,1 @@
+window.__SCALE_STICKING_TO_IT_MEAN_1_5_EXAM_E={"concept_id":"SCALE_STICKING_TO_IT_MEAN_1_5","exam":"E","n":3949,"missing":569,"mean":3.6421,"sd":0.9659,"p50":3.8,"p99":5};

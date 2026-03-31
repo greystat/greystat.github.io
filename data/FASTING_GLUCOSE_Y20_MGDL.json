@@ -1,0 +1,22 @@
+{
+  "concept_id": "FASTING_GLUCOSE_Y20_MGDL",
+  "title": "Year 20 fasting glucose (mg/dL)",
+  "unit": "mg/dL",
+  "chips": ["numeric", "mg/dL", "GLU · Glucose / OGTT", "Glycemia", "Lab"],
+  "members": [
+    {
+      "concept_id": "FASTING_GLUCOSE_Y20_MGDL",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g5glu",
+      "dataset_stub": "g5glu",
+      "varname": "GL7GLU",
+      "family": "GLU",
+      "form_label": "",
+      "units_std": "mg/dL",
+      "units_class": "concentration",
+      "instrument": "GLU",
+      "notes": ""
+    }
+  ]
+}

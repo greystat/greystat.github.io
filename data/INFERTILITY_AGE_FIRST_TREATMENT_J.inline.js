@@ -1,0 +1,1 @@
+window.__INFERTILITY_AGE_FIRST_TREATMENT_EXAM_J={"concept_id":"INFERTILITY_AGE_FIRST_TREATMENT","exam":"J","n":1421,"missing":1239,"mean":33.2363,"sd":5.5128,"p50":33,"p99":44};

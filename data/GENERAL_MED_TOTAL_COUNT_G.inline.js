@@ -1,0 +1,1 @@
+window.__GENERAL_MED_TOTAL_COUNT_EXAM_G={"concept_id":"GENERAL_MED_TOTAL_COUNT","exam":"G","n":4721,"missing":173,"mean":4.7641,"sd":3.6427,"p50":4,"p99":18};

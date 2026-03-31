@@ -1,0 +1,47 @@
+{
+  "concept_id": "LIFE_EVENTS_STARTED_FIRST_FULLTIME_JOB",
+  "title": "Life event: started first full-time job",
+  "chips": ["categorical", "3 levels", "F04 · Dietary Assessment", "Diet"],
+  "members": [
+    {
+      "concept_id": "LIFE_EVENTS_STARTED_FIRST_FULLTIME_JOB",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f04",
+      "dataset_stub": "a4f04",
+      "varname": "A04JOB",
+      "family": "F04",
+      "form_label": "Life Events Questionnaire",
+      "n_labels": "2",
+      "instrument": "F04: Life Events Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "LIFE_EVENTS_STARTED_FIRST_FULLTIME_JOB",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f04",
+      "dataset_stub": "b2f04",
+      "varname": "B04JOB",
+      "family": "F04",
+      "form_label": "Life Events Questionnaire",
+      "n_labels": "3",
+      "instrument": "F04: Life Events Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes, but not in last year"
+    },
+    {
+      "code": "3",
+      "label": "Yes, in last year"
+    }
+  ]
+}

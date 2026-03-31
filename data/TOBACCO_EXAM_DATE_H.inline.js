@@ -1,0 +1,1 @@
+window.__TOBACCO_EXAM_DATE_EXAM_H={"concept_id":"TOBACCO_EXAM_DATE","exam":"H","n":1910,"missing":1908,"mean":2010.5,"sd":0.7071,"p50":2010.5,"p99":2010.99};

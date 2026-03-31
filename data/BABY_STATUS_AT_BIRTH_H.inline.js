@@ -1,0 +1,1 @@
+window.__BABY_STATUS_AT_BIRTH_EXAM_H={"concept_id":"BABY_STATUS_AT_BIRTH","exam":"H","n":1708,"missing":1629,"n_levels":3,"mode_level":"(Missing)"};

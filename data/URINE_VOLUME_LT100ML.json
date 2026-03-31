@@ -1,0 +1,22 @@
+{
+  "concept_id": "URINE_VOLUME_LT100ML",
+  "title": "Total urine volume if less than 100 mL",
+  "unit": {},
+  "chips": ["numeric", "F51 · Urine Specimens", "Renal"],
+  "members": [
+    {
+      "concept_id": "URINE_VOLUME_LT100ML",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f51",
+      "dataset_stub": "e1f51",
+      "varname": "E51LT100",
+      "family": "F51",
+      "form_label": "Urine Collection Form for Microalbuminuria",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "F51: Urine Collection Form for Microalbuminuria",
+      "notes": ""
+    }
+  ]
+}

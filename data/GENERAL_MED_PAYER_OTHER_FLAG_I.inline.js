@@ -1,0 +1,1 @@
+window.__GENERAL_MED_PAYER_OTHER_FLAG_EXAM_I={"concept_id":"GENERAL_MED_PAYER_OTHER_FLAG","exam":"I","n":7992,"missing":7133,"n_levels":2,"mode_level":"(Missing)"};

@@ -1,0 +1,1 @@
+window.__MEAL_PATTERN_DINNER_DAYS_PER_MONTH_EXAM_G={"concept_id":"MEAL_PATTERN_DINNER_DAYS_PER_MONTH","exam":"G","n":3142,"missing":3083,"mean":18.5932,"sd":11.9238,"p50":25,"p99":30};

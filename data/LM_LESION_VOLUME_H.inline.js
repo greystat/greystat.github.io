@@ -1,0 +1,1 @@
+window.__LM_LESION_VOLUME_EXAM_H={"concept_id":"LM_LESION_VOLUME","exam":"H","n":3197,"missing":8,"mean":0.8849,"sd":8.7972,"p50":0,"p99":25.6325};

@@ -1,0 +1,1 @@
+window.__FORM38_BP_SAME_DATE_FLAG_EXAM_G={"concept_id":"FORM38_BP_SAME_DATE_FLAG","exam":"G","n":3492,"missing":342,"n_levels":3,"mode_level":"\"Yes\""};

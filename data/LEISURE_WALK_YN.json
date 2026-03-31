@@ -1,0 +1,26 @@
+{
+  "concept_id": "LEISURE_WALK_YN",
+  "title": "Walk during leisure time (yes/no)",
+  "chips": ["categorical", "1 levels", "F18 · Physical Activity History", "Physical Activity"],
+  "members": [
+    {
+      "concept_id": "LEISURE_WALK_YN",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f18",
+      "dataset_stub": "h3f18",
+      "varname": "H18LTWLK",
+      "family": "F18",
+      "form_label": "Physical Activity Questionnaire",
+      "n_labels": "1",
+      "instrument": "F18: Physical Activity Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Never"
+    }
+  ]
+}

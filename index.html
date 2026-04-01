@@ -1,6 +1,10 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"/><title>CARDIA Data Dictionary</title>
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta name="description" content="Browse harmonized measures across CARDIA exam waves. Search and filter thousands of concepts by type, domain, instrument, and exam availability."/>
+<meta property="og:title" content="CARDIA Data Dictionary"/>
+<meta property="og:description" content="Browse harmonized measures across CARDIA exam waves."/>
+<meta property="og:type" content="website"/>
 <link href="assets/style.css" rel="stylesheet"/>
 <style>
 body{max-width:1100px;margin:0 auto}
@@ -16,7 +20,7 @@ body{max-width:1100px;margin:0 auto}
   letter-spacing:0.08em;min-width:80px;padding-top:6px;flex-shrink:0}
 .filter-pills{display:flex;gap:5px;flex-wrap:wrap;flex:1}
 
-/* Chip styles — color-coded */
+/* Chip styles */
 .fc{display:inline-flex;align-items:center;font-size:12px;font-weight:500;cursor:pointer;
   border:1px solid transparent;transition:all .12s;white-space:nowrap;user-select:none}
 .fc:hover{opacity:.8}
@@ -48,7 +52,7 @@ body{max-width:1100px;margin:0 auto}
 .inst-item:hover{background:var(--border)}.inst-item.sel{background:#d4a44a18}
 .inst-item .ct{color:var(--muted);font-size:10px}
 
-/* Active filters + controls bar */
+/* Controls bar */
 .controls-bar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:10px}
 .active-filters{display:flex;gap:5px;flex-wrap:wrap;flex:1}
 .af-chip{display:inline-flex;align-items:center;gap:4px;padding:3px 10px;border-radius:999px;
@@ -66,7 +70,10 @@ body{max-width:1100px;margin:0 auto}
 .sort-ctl select{font-size:11px;padding:3px 6px;border-radius:6px;border:1px solid var(--border);
   background:var(--bg-surface);color:var(--ink);cursor:pointer}
 
-.result-count{font-size:12px;color:var(--muted);margin:4px 0 10px}
+/* Sticky result count */
+.result-bar{position:sticky;top:49px;z-index:150;background:var(--bg);
+  padding:6px 0;font-size:12px;color:var(--muted);border-bottom:1px solid var(--border);margin:0 0 12px}
+
 .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px}
 .concept-card{background:var(--bg-surface);border:1px solid var(--border);border-radius:12px;
   padding:14px 16px;transition:all .15s}
@@ -87,6 +94,10 @@ body{max-width:1100px;margin:0 auto}
 .exam-dot{width:20px;height:20px;border-radius:4px;display:flex;align-items:center;
   justify-content:center;font-size:10px;font-weight:600;background:var(--accent-muted);
   color:var(--accent);border:1px solid var(--accent)}
+.empty-state{text-align:center;padding:48px 24px;color:var(--muted)}
+.empty-state h3{margin:0 0 8px;font-size:16px;color:var(--ink)}
+.empty-state p{margin:0;font-size:13px}
+.cap-msg{text-align:center;padding:16px;font-size:13px;color:var(--muted)}
 .dd-footer{margin-top:36px;text-align:center;font-size:12px;color:var(--muted)}
 </style></head><body>
 <header class="site-header">
@@ -103,11 +114,14 @@ body{max-width:1100px;margin:0 auto}
 <div id="filters"></div>
 <div class="controls-bar">
   <div class="active-filters" id="active"></div>
-  <div class="sort-ctl"><label for="sort-sel">Sort:</label>
+  <div class="sort-ctl">
+    <label for="min-exams">Exams:</label>
+    <select id="min-exams"><option value="0">Any</option></select>
+    <label for="sort-sel">Sort:</label>
     <select id="sort-sel"><option value="alpha">A &rarr; Z</option><option value="exams">Most exams</option></select>
   </div>
 </div>
-<div class="result-count" id="count"></div>
+<div class="result-bar" id="count"></div>
 <div class="card-grid" id="grid"></div>
 <div class="dd-footer" id="footer"></div>
 </div>
@@ -120,11 +134,11 @@ try{const r=await fetch("catalog.json");if(r.ok)cat=await r.json()}catch(e){}
 if(!cat&&window.__CATALOG)cat=window.__CATALOG;
 if(!cat){document.getElementById("count").textContent="Could not load catalog.json";return}
 
-/* Synonym map — loads once, used in search */
 let SYN={};
 try{const r=await fetch("synonyms.json");if(r.ok)SYN=await r.json()}catch(e){}
 
-/* Known groups from family_reference (whitelist) */
+const MAX_CARDS=100;
+
 const KNOWN_GROUPS=new Set(["Administrative","Anthropometry","Brain & Cognitive","Cardiovascular",
   "Chemistry","Dermatology","Diet","Endocrine","Exercise Testing","Glycemia","Inflammation",
   "Lipids","Medical History","Medications","Physical Activity","Psychosocial","Pulmonary",
@@ -148,24 +162,32 @@ const buckets={type:[],source:[],form:[],group:[]};
 allC.forEach(ch=>{const t=classify(ch);if(buckets[t])buckets[t].push(ch)});
 Object.values(buckets).forEach(b=>b.sort((a,b)=>a.localeCompare(b)));
 
-/* Count concepts per form chip for the dropdown */
 const formCounts={};
 buckets.form.forEach(f=>{formCounts[f]=cat.filter(c=>{const ch=Array.isArray(c.chips)?c.chips:c.chips?[c.chips]:[];return ch.includes(f)}).length});
 
+/* Populate min-exams dropdown */
+const minExSel=document.getElementById("min-exams");
+for(var i=1;i<=10;i++){var o=document.createElement("option");o.value=i;o.textContent=i+"+";minExSel.appendChild(o)}
+
+/* State */
 let aC=[];
 let aExams=[];
 let sortMode="alpha";
-const params=new URLSearchParams(location.search);
-const cp=params.get("chip");
-if(cp&&allC.includes(cp))aC=[cp];
-const qp=params.get("q");
+let minExams=0;
 
+/* DOM refs */
 const fE=document.getElementById("filters"),gE=document.getElementById("grid");
 const cE=document.getElementById("count"),sE=document.getElementById("search");
 const actE=document.getElementById("active"),sortSel=document.getElementById("sort-sel");
 document.getElementById("footer").textContent="CARDIA Data Dictionary \u00b7 "+cat.length+" concepts";
 
-if(qp){sE.value=qp}
+/* Restore state from URL */
+const params=new URLSearchParams(location.search);
+if(params.get("q"))sE.value=params.get("q");
+if(params.get("chip")){params.get("chip").split(",").forEach(function(c){if(allC.includes(c))aC.push(c)})}
+if(params.get("exam")){params.get("exam").split(",").forEach(function(e){if(EXAM_LETTERS.includes(e))aExams.push(e)})}
+if(params.get("sort")==="exams"){sortMode="exams";sortSel.value="exams"}
+if(params.get("minExams")){var me=parseInt(params.get("minExams"));if(me>=1&&me<=10){minExams=me;minExSel.value=me}}
 
 let instOpen=false;
 
@@ -181,7 +203,6 @@ function toggleForm(ch){
 function renderFilters(){
   fE.innerHTML="";
 
-  /* Row 1: Type */
   const r1=document.createElement("div");r1.className="filter-row-wrap";
   r1.innerHTML="<div class=\"filter-label\">Type</div>";
   const p1=document.createElement("div");p1.className="filter-pills";
@@ -190,7 +211,6 @@ function renderFilters(){
     s.onclick=()=>toggle(ch);p1.appendChild(s)});
   r1.appendChild(p1);fE.appendChild(r1);
 
-  /* Row 2: Source */
   if(buckets.source.length){
     const r2=document.createElement("div");r2.className="filter-row-wrap";
     r2.innerHTML="<div class=\"filter-label\">Source</div>";
@@ -201,7 +221,6 @@ function renderFilters(){
     r2.appendChild(p2);fE.appendChild(r2);
   }
 
-  /* Row 3: Instrument dropdown */
   const r3=document.createElement("div");r3.className="filter-row-wrap";
   r3.innerHTML="<div class=\"filter-label\">Instrument</div>";
   const wrap=document.createElement("div");wrap.className="inst-wrap";
@@ -226,7 +245,6 @@ function renderFilters(){
   btn.onclick=e=>{e.stopPropagation();instOpen=!instOpen;drop.classList.toggle("open")};
   wrap.appendChild(btn);wrap.appendChild(drop);r3.appendChild(wrap);fE.appendChild(r3);
 
-  /* Row 4: Domain */
   const r4=document.createElement("div");r4.className="filter-row-wrap";
   r4.innerHTML="<div class=\"filter-label\">Domain</div>";
   const p4=document.createElement("div");p4.className="filter-pills";
@@ -235,7 +253,6 @@ function renderFilters(){
     s.onclick=()=>toggle(ch);p4.appendChild(s)});
   r4.appendChild(p4);fE.appendChild(r4);
 
-  /* Row 5: Exam */
   const r5=document.createElement("div");r5.className="filter-row-wrap";
   r5.innerHTML="<div class=\"filter-label\">Exam</div>";
   const p5=document.createElement("div");p5.className="filter-pills";
@@ -247,8 +264,7 @@ function renderFilters(){
 
 function renderActive(){
   actE.innerHTML="";
-  const allActive=[...aC,...aExams.map(e=>"exam:"+e)];
-  if(!allActive.length)return;
+  if(!aC.length&&!aExams.length&&!minExams)return;
   aC.forEach(ch=>{const s=document.createElement("span");
     const t=classify(ch);s.className="af-chip af-"+t;
     s.innerHTML=ch+"<span class=\"x\">\u2715</span>";
@@ -257,13 +273,16 @@ function renderActive(){
     s.className="af-chip af-exam";
     s.innerHTML="Exam "+ex+"<span class=\"x\">\u2715</span>";
     s.onclick=()=>toggleExam(ex);actE.appendChild(s)});
+  if(minExams>0){const s=document.createElement("span");
+    s.className="af-chip af-exam";
+    s.innerHTML=minExams+"+ exams<span class=\"x\">\u2715</span>";
+    s.onclick=()=>{minExams=0;minExSel.value=0;render()};actE.appendChild(s)}
   const cb=document.createElement("button");cb.className="clear-btn";
-  cb.textContent="clear all";cb.onclick=()=>{aC=[];aExams=[];render()};actE.appendChild(cb);
+  cb.textContent="clear all";cb.onclick=()=>{aC=[];aExams=[];minExams=0;minExSel.value=0;sE.value="";render()};actE.appendChild(cb);
 }
 
 function cardChipClass(ch){return"cc cc-"+classify(ch)}
 
-/* Expand search query using synonym map */
 function expandQuery(q){
   var terms=[q];
   Object.keys(SYN).forEach(function(k){
@@ -274,14 +293,13 @@ function expandQuery(q){
   return terms;
 }
 
-/* Featured concepts: all 10 exams, first 20 alphabetically */
 const featured=cat.filter(c=>{
   const ex=Array.isArray(c.exams)?c.exams:c.exams?[c.exams]:[];
   return ex.length>=10;
 }).sort((a,b)=>a.title.localeCompare(b.title)).slice(0,20);
 
 function isFiltering(){
-  return sE.value.trim().length>0||aC.length>0||aExams.length>0;
+  return sE.value.trim().length>0||aC.length>0||aExams.length>0||minExams>0;
 }
 
 function sortList(list){
@@ -293,8 +311,12 @@ function sortList(list){
   return list.sort((a,b)=>a.title.localeCompare(b.title));
 }
 
-function renderCards(list){
+function renderCards(list,total){
   gE.innerHTML="";
+  if(!list.length){
+    gE.innerHTML="<div class=\"empty-state\"><h3>No concepts found</h3><p>Try broadening your search or clearing some filters.</p></div>";
+    return;
+  }
   list.forEach(c=>{
     const sl=c.concept_id.replace(/[^A-Za-z0-9]+/g,"_");
     const chips=Array.isArray(c.chips)?c.chips:c.chips?[c.chips]:[];
@@ -312,46 +334,67 @@ function renderCards(list){
       "<div class=\"exam-dots\">"+examHtml+"</div>";
     gE.appendChild(d);
   });
+  if(total>MAX_CARDS){
+    const m=document.createElement("div");m.className="cap-msg";
+    m.textContent="Showing "+MAX_CARDS+" of "+total+" concepts \u2014 refine your search to see more.";
+    gE.appendChild(m);
+  }
+}
+
+function pushState(){
+  const p=new URLSearchParams();
+  const q=sE.value.trim();
+  if(q)p.set("q",q);
+  if(aC.length)p.set("chip",aC.join(","));
+  if(aExams.length)p.set("exam",aExams.join(","));
+  if(sortMode!=="alpha")p.set("sort",sortMode);
+  if(minExams>0)p.set("minExams",String(minExams));
+  var qs=p.toString();
+  history.replaceState(null,"",qs?("?"+qs):location.pathname);
 }
 
 function render(){
   const q=sE.value.toLowerCase().trim();
   const qTerms=q?expandQuery(q):[];
-  renderFilters();renderActive();
   sortMode=sortSel.value;
+  minExams=parseInt(minExSel.value)||0;
+  renderFilters();renderActive();
+  pushState();
   if(!isFiltering()){
     cE.textContent="Showing "+featured.length+" featured concepts (all 10 exams) \u2014 search or filter to explore all "+cat.length;
-    renderCards(featured);
+    renderCards(featured,featured.length);
     return;
   }
   const fl=cat.filter(c=>{
     const chips=Array.isArray(c.chips)?c.chips:c.chips?[c.chips]:[];
     const exams=Array.isArray(c.exams)?c.exams:c.exams?[c.exams]:[];
-    /* Text search: match title, concept_id, OR chip text */
     if(qTerms.length){
       const hay=(c.title+" "+c.concept_id+" "+chips.join(" ")).toLowerCase();
       if(!qTerms.some(t=>hay.includes(t)))return false;
     }
-    /* Chip filters */
     if(aC.length&&!aC.every(ch=>chips.includes(ch)))return false;
-    /* Exam filters — concept must include ALL selected exams */
     if(aExams.length&&!aExams.every(ex=>exams.includes(ex)))return false;
+    if(minExams>0&&exams.length<minExams)return false;
     return true;
   });
   sortList(fl);
-  var parts=[fl.length+" concept"+(fl.length!==1?"s":"")];
+  var total=fl.length;
+  var show=fl.slice(0,MAX_CARDS);
+  var parts=[total+" concept"+(total!==1?"s":"")];
   if(aC.length) parts.push("matching "+aC.length+" filter"+(aC.length>1?"s":""));
   if(aExams.length) parts.push("in exam"+(aExams.length>1?"s ":" ")+aExams.join(", "));
+  if(minExams>0) parts.push("with "+minExams+"+ exams");
   cE.textContent=parts.join(" ");
-  renderCards(fl);
+  renderCards(show,total);
 }
 
-/* Close dropdown when clicking outside */
 document.addEventListener("click",()=>{if(instOpen){instOpen=false;
   const d=document.querySelector(".inst-drop");if(d)d.classList.remove("open")}});
 
-sE.addEventListener("input",render);
+var debounceTimer=null;
+sE.addEventListener("input",function(){clearTimeout(debounceTimer);debounceTimer=setTimeout(render,200)});
 sortSel.addEventListener("change",render);
+minExSel.addEventListener("change",render);
 render();
 })();
 </script></body></html>

@@ -1,0 +1,877 @@
+{
+  "concept_id": "WEIGHT_LOSS_METHOD_SKIPPED_MEALS",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3460,
+        "missing": 2996,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2996,
+            "pct": 86.6
+          },
+          {
+            "level": "Skipped meals",
+            "count": 464,
+            "pct": 13.4
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1505,
+        "missing": 1313,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1313,
+            "pct": 87.2
+          },
+          {
+            "level": "Skipped meals",
+            "count": 192,
+            "pct": 12.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1955,
+        "missing": 1683,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1683,
+            "pct": 86.1
+          },
+          {
+            "level": "Skipped meals",
+            "count": 272,
+            "pct": 13.9
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1617,
+        "missing": 1319,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1319,
+            "pct": 81.6
+          },
+          {
+            "level": "Skipped meals",
+            "count": 298,
+            "pct": 18.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1843,
+        "missing": 1677,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1677,
+            "pct": 91
+          },
+          {
+            "level": "Skipped meals",
+            "count": 166,
+            "pct": 9
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 816,
+        "missing": 691,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 691,
+            "pct": 84.7
+          },
+          {
+            "level": "Skipped meals",
+            "count": 125,
+            "pct": 15.3
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 790,
+        "missing": 678,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 678,
+            "pct": 85.8
+          },
+          {
+            "level": "Skipped meals",
+            "count": 112,
+            "pct": 14.2
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 922,
+        "missing": 804,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 804,
+            "pct": 87.2
+          },
+          {
+            "level": "Skipped meals",
+            "count": 118,
+            "pct": 12.8
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 932,
+        "missing": 823,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 823,
+            "pct": 88.3
+          },
+          {
+            "level": "Skipped meals",
+            "count": 109,
+            "pct": 11.7
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 648,
+        "missing": 541,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 541,
+            "pct": 83.5
+          },
+          {
+            "level": "Skipped meals",
+            "count": 107,
+            "pct": 16.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 969,
+        "missing": 778,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 778,
+            "pct": 80.3
+          },
+          {
+            "level": "Skipped meals",
+            "count": 191,
+            "pct": 19.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 857,
+        "missing": 772,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 772,
+            "pct": 90.1
+          },
+          {
+            "level": "Skipped meals",
+            "count": 85,
+            "pct": 9.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 986,
+        "missing": 905,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 905,
+            "pct": 91.8
+          },
+          {
+            "level": "Skipped meals",
+            "count": 81,
+            "pct": 8.2
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 377,
+        "missing": 330,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 330,
+            "pct": 87.5
+          },
+          {
+            "level": "Skipped meals",
+            "count": 47,
+            "pct": 12.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 338,
+        "missing": 290,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 290,
+            "pct": 85.8
+          },
+          {
+            "level": "Skipped meals",
+            "count": 48,
+            "pct": 14.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 423,
+        "missing": 370,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 370,
+            "pct": 87.5
+          },
+          {
+            "level": "Skipped meals",
+            "count": 53,
+            "pct": 12.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 367,
+        "missing": 323,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 323,
+            "pct": 88
+          },
+          {
+            "level": "Skipped meals",
+            "count": 44,
+            "pct": 12
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 439,
+        "missing": 361,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 361,
+            "pct": 82.2
+          },
+          {
+            "level": "Skipped meals",
+            "count": 78,
+            "pct": 17.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 452,
+        "missing": 388,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 388,
+            "pct": 85.8
+          },
+          {
+            "level": "Skipped meals",
+            "count": 64,
+            "pct": 14.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 499,
+        "missing": 434,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 434,
+            "pct": 87
+          },
+          {
+            "level": "Skipped meals",
+            "count": 65,
+            "pct": 13
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 565,
+        "missing": 500,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 500,
+            "pct": 88.5
+          },
+          {
+            "level": "Skipped meals",
+            "count": 65,
+            "pct": 11.5
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 456,
+        "missing": 373,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 373,
+            "pct": 81.8
+          },
+          {
+            "level": "Skipped meals",
+            "count": 83,
+            "pct": 18.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 359,
+        "missing": 286,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 286,
+            "pct": 79.7
+          },
+          {
+            "level": "Skipped meals",
+            "count": 73,
+            "pct": 20.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 331,
+        "missing": 267,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 267,
+            "pct": 80.7
+          },
+          {
+            "level": "Skipped meals",
+            "count": 64,
+            "pct": 19.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 471,
+        "missing": 393,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 393,
+            "pct": 83.4
+          },
+          {
+            "level": "Skipped meals",
+            "count": 78,
+            "pct": 16.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 360,
+        "missing": 318,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 318,
+            "pct": 88.3
+          },
+          {
+            "level": "Skipped meals",
+            "count": 42,
+            "pct": 11.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 431,
+        "missing": 392,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 392,
+            "pct": 91
+          },
+          {
+            "level": "Skipped meals",
+            "count": 39,
+            "pct": 9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 591,
+        "missing": 537,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 537,
+            "pct": 90.9
+          },
+          {
+            "level": "Skipped meals",
+            "count": 54,
+            "pct": 9.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 461,
+        "missing": 430,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 430,
+            "pct": 93.3
+          },
+          {
+            "level": "Skipped meals",
+            "count": 31,
+            "pct": 6.7
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 190,
+        "missing": 165,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 165,
+            "pct": 86.8
+          },
+          {
+            "level": "Skipped meals",
+            "count": 25,
+            "pct": 13.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 131,
+        "missing": 105,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 105,
+            "pct": 80.2
+          },
+          {
+            "level": "Skipped meals",
+            "count": 26,
+            "pct": 19.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 146,
+        "missing": 118,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 118,
+            "pct": 80.8
+          },
+          {
+            "level": "Skipped meals",
+            "count": 28,
+            "pct": 19.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 181,
+        "missing": 153,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 153,
+            "pct": 84.5
+          },
+          {
+            "level": "Skipped meals",
+            "count": 28,
+            "pct": 15.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 266,
+        "missing": 208,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 208,
+            "pct": 78.2
+          },
+          {
+            "level": "Skipped meals",
+            "count": 58,
+            "pct": 21.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 228,
+        "missing": 181,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 181,
+            "pct": 79.4
+          },
+          {
+            "level": "Skipped meals",
+            "count": 47,
+            "pct": 20.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 185,
+        "missing": 149,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 149,
+            "pct": 80.5
+          },
+          {
+            "level": "Skipped meals",
+            "count": 36,
+            "pct": 19.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 290,
+        "missing": 240,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 240,
+            "pct": 82.8
+          },
+          {
+            "level": "Skipped meals",
+            "count": 50,
+            "pct": 17.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 187,
+        "missing": 165,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 165,
+            "pct": 88.2
+          },
+          {
+            "level": "Skipped meals",
+            "count": 22,
+            "pct": 11.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 207,
+        "missing": 185,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 185,
+            "pct": 89.4
+          },
+          {
+            "level": "Skipped meals",
+            "count": 22,
+            "pct": 10.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 277,
+        "missing": 252,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 252,
+            "pct": 91
+          },
+          {
+            "level": "Skipped meals",
+            "count": 25,
+            "pct": 9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 186,
+        "missing": 170,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 170,
+            "pct": 91.4
+          },
+          {
+            "level": "Skipped meals",
+            "count": 16,
+            "pct": 8.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 173,
+        "missing": 153,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 153,
+            "pct": 88.4
+          },
+          {
+            "level": "Skipped meals",
+            "count": 20,
+            "pct": 11.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 207,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 207,
+            "pct": 92.4
+          },
+          {
+            "level": "Skipped meals",
+            "count": 17,
+            "pct": 7.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 314,
+        "missing": 285,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 285,
+            "pct": 90.8
+          },
+          {
+            "level": "Skipped meals",
+            "count": 29,
+            "pct": 9.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 275,
+        "missing": 260,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 260,
+            "pct": 94.5
+          },
+          {
+            "level": "Skipped meals",
+            "count": 15,
+            "pct": 5.5
+          }
+        ]
+      }
+    ]
+  }
+}

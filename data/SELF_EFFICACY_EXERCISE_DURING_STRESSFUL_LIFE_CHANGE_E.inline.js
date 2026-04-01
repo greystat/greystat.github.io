@@ -1,0 +1,1 @@
+window.__SELF_EFFICACY_EXERCISE_DURING_STRESSFUL_LIFE_CHANGE_EXAM_E={"concept_id":"SELF_EFFICACY_EXERCISE_DURING_STRESSFUL_LIFE_CHANGE","exam":"E","n":3949,"missing":45,"n_levels":7,"mode_level":"Maybe I can"};

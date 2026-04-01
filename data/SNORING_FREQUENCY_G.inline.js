@@ -1,0 +1,1 @@
+window.__SNORING_FREQUENCY_EXAM_G={"concept_id":"SNORING_FREQUENCY","exam":"G","n":3501,"missing":1015,"n_levels":5,"mode_level":"2"};

@@ -1,0 +1,852 @@
+{
+  "concept_id": "TRIGLYCERIDES_GT400_FLAG",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3320,
+        "missing": 3289,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3289,
+            "pct": 99.1
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 31,
+            "pct": 0.9
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1431,
+        "missing": 1412,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1412,
+            "pct": 98.7
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 19,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1889,
+        "missing": 1877,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1877,
+            "pct": 99.4
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 12,
+            "pct": 0.6
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1576,
+        "missing": 1563,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1563,
+            "pct": 99.2
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 13,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1744,
+        "missing": 1726,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1726,
+            "pct": 99
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 18,
+            "pct": 1
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 754,
+        "missing": 752,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 752,
+            "pct": 99.7
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 739,
+        "missing": 731,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 731,
+            "pct": 98.9
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 8,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 835,
+        "missing": 825,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 825,
+            "pct": 98.8
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 10,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 992,
+        "missing": 981,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 981,
+            "pct": 98.9
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 11,
+            "pct": 1.1
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 638,
+        "missing": 631,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 631,
+            "pct": 98.9
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 7,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 938,
+        "missing": 932,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 932,
+            "pct": 99.4
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 6,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 793,
+        "missing": 781,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 781,
+            "pct": 98.5
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 12,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 951,
+        "missing": 945,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 945,
+            "pct": 99.4
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 6,
+            "pct": 0.6
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 348,
+        "missing": 347,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 347,
+            "pct": 99.7
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 323,
+        "missing": 318,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 318,
+            "pct": 98.5
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 5,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 378,
+        "missing": 370,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 370,
+            "pct": 97.9
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 8,
+            "pct": 2.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 382,
+        "missing": 377,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 377,
+            "pct": 98.7
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 5,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 406,
+        "missing": 405,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 405,
+            "pct": 99.8
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 416,
+        "missing": 413,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 413,
+            "pct": 99.3
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 3,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 457,
+        "missing": 455,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 455,
+            "pct": 99.6
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 610,
+        "missing": 604,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 604,
+            "pct": 99
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 6,
+            "pct": 1
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 422,
+        "missing": 422,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 422,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 340,
+        "missing": 335,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 335,
+            "pct": 98.5
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 5,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 287,
+        "missing": 286,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 286,
+            "pct": 99.7
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 527,
+        "missing": 520,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 520,
+            "pct": 98.7
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 7,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 332,
+        "missing": 330,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 330,
+            "pct": 99.4
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 399,
+        "missing": 396,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 396,
+            "pct": 99.2
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 3,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 548,
+        "missing": 539,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 539,
+            "pct": 98.4
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 9,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 465,
+        "missing": 461,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 461,
+            "pct": 99.1
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 4,
+            "pct": 0.9
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 177,
+        "missing": 177,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 177,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 131,
+        "missing": 129,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 129,
+            "pct": 98.5
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 2,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 130,
+        "missing": 129,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 129,
+            "pct": 99.2
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 1,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 200,
+        "missing": 196,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 196,
+            "pct": 98
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 4,
+            "pct": 2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 245,
+        "missing": 245,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 245,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 209,
+        "missing": 206,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 206,
+            "pct": 98.6
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 3,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 157,
+        "missing": 157,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 157,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 327,
+        "missing": 324,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 324,
+            "pct": 99.1
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 3,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 171,
+        "missing": 170,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 170,
+            "pct": 99.4
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 192,
+        "missing": 189,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 189,
+            "pct": 98.4
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 3,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 248,
+        "missing": 241,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 241,
+            "pct": 97.2
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 7,
+            "pct": 2.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 182,
+        "missing": 181,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 181,
+            "pct": 99.5
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 161,
+        "missing": 160,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 160,
+            "pct": 99.4
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 207,
+        "missing": 207,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 207,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 300,
+        "missing": 298,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 298,
+            "pct": 99.3
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 2,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 283,
+        "missing": 280,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 280,
+            "pct": 98.9
+          },
+          {
+            "level": "Triglycerides more than 400 mg/Dl",
+            "count": 3,
+            "pct": 1.1
+          }
+        ]
+      }
+    ]
+  }
+}

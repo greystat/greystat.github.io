@@ -1,0 +1,877 @@
+{
+  "concept_id": "RAVLT_INTERFERENCE_MOUNTAIN",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3386,
+        "missing": 2451,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2451,
+            "pct": 72.4
+          },
+          {
+            "level": "Mountain",
+            "count": 935,
+            "pct": 27.6
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1477,
+        "missing": 1107,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1107,
+            "pct": 74.9
+          },
+          {
+            "level": "Mountain",
+            "count": 370,
+            "pct": 25.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1909,
+        "missing": 1344,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1344,
+            "pct": 70.4
+          },
+          {
+            "level": "Mountain",
+            "count": 565,
+            "pct": 29.6
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1567,
+        "missing": 1246,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1246,
+            "pct": 79.5
+          },
+          {
+            "level": "Mountain",
+            "count": 321,
+            "pct": 20.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1819,
+        "missing": 1205,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1205,
+            "pct": 66.2
+          },
+          {
+            "level": "Mountain",
+            "count": 614,
+            "pct": 33.8
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 814,
+        "missing": 607,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 607,
+            "pct": 74.6
+          },
+          {
+            "level": "Mountain",
+            "count": 207,
+            "pct": 25.4
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 782,
+        "missing": 582,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 582,
+            "pct": 74.4
+          },
+          {
+            "level": "Mountain",
+            "count": 200,
+            "pct": 25.6
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 898,
+        "missing": 647,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 647,
+            "pct": 72
+          },
+          {
+            "level": "Mountain",
+            "count": 251,
+            "pct": 28
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 892,
+        "missing": 615,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 615,
+            "pct": 68.9
+          },
+          {
+            "level": "Mountain",
+            "count": 277,
+            "pct": 31.1
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 631,
+        "missing": 512,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 512,
+            "pct": 81.1
+          },
+          {
+            "level": "Mountain",
+            "count": 119,
+            "pct": 18.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 936,
+        "missing": 734,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 734,
+            "pct": 78.4
+          },
+          {
+            "level": "Mountain",
+            "count": 202,
+            "pct": 21.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 846,
+        "missing": 595,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 595,
+            "pct": 70.3
+          },
+          {
+            "level": "Mountain",
+            "count": 251,
+            "pct": 29.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 973,
+        "missing": 610,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 610,
+            "pct": 62.7
+          },
+          {
+            "level": "Mountain",
+            "count": 363,
+            "pct": 37.3
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 377,
+        "missing": 280,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 280,
+            "pct": 74.3
+          },
+          {
+            "level": "Mountain",
+            "count": 97,
+            "pct": 25.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 336,
+        "missing": 264,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 264,
+            "pct": 78.6
+          },
+          {
+            "level": "Mountain",
+            "count": 72,
+            "pct": 21.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 413,
+        "missing": 301,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 301,
+            "pct": 72.9
+          },
+          {
+            "level": "Mountain",
+            "count": 112,
+            "pct": 27.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 351,
+        "missing": 262,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 262,
+            "pct": 74.6
+          },
+          {
+            "level": "Mountain",
+            "count": 89,
+            "pct": 25.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 437,
+        "missing": 327,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 327,
+            "pct": 74.8
+          },
+          {
+            "level": "Mountain",
+            "count": 110,
+            "pct": 25.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 446,
+        "missing": 318,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 318,
+            "pct": 71.3
+          },
+          {
+            "level": "Mountain",
+            "count": 128,
+            "pct": 28.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 485,
+        "missing": 346,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 346,
+            "pct": 71.3
+          },
+          {
+            "level": "Mountain",
+            "count": 139,
+            "pct": 28.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 541,
+        "missing": 353,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 353,
+            "pct": 65.2
+          },
+          {
+            "level": "Mountain",
+            "count": 188,
+            "pct": 34.8
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 454,
+        "missing": 350,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 350,
+            "pct": 77.1
+          },
+          {
+            "level": "Mountain",
+            "count": 104,
+            "pct": 22.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 353,
+        "missing": 295,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 295,
+            "pct": 83.6
+          },
+          {
+            "level": "Mountain",
+            "count": 58,
+            "pct": 16.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 313,
+        "missing": 260,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 260,
+            "pct": 83.1
+          },
+          {
+            "level": "Mountain",
+            "count": 53,
+            "pct": 16.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 447,
+        "missing": 341,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 341,
+            "pct": 76.3
+          },
+          {
+            "level": "Mountain",
+            "count": 106,
+            "pct": 23.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 360,
+        "missing": 257,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 257,
+            "pct": 71.4
+          },
+          {
+            "level": "Mountain",
+            "count": 103,
+            "pct": 28.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 429,
+        "missing": 287,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 287,
+            "pct": 66.9
+          },
+          {
+            "level": "Mountain",
+            "count": 142,
+            "pct": 33.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 585,
+        "missing": 387,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 387,
+            "pct": 66.2
+          },
+          {
+            "level": "Mountain",
+            "count": 198,
+            "pct": 33.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 445,
+        "missing": 274,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 274,
+            "pct": 61.6
+          },
+          {
+            "level": "Mountain",
+            "count": 171,
+            "pct": 38.4
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 189,
+        "missing": 145,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 145,
+            "pct": 76.7
+          },
+          {
+            "level": "Mountain",
+            "count": 44,
+            "pct": 23.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 131,
+        "missing": 116,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 116,
+            "pct": 88.5
+          },
+          {
+            "level": "Mountain",
+            "count": 15,
+            "pct": 11.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 139,
+        "missing": 115,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 115,
+            "pct": 82.7
+          },
+          {
+            "level": "Mountain",
+            "count": 24,
+            "pct": 17.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 172,
+        "missing": 136,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 136,
+            "pct": 79.1
+          },
+          {
+            "level": "Mountain",
+            "count": 36,
+            "pct": 20.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 265,
+        "missing": 205,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 77.4
+          },
+          {
+            "level": "Mountain",
+            "count": 60,
+            "pct": 22.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 222,
+        "missing": 179,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 179,
+            "pct": 80.6
+          },
+          {
+            "level": "Mountain",
+            "count": 43,
+            "pct": 19.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 174,
+        "missing": 145,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 145,
+            "pct": 83.3
+          },
+          {
+            "level": "Mountain",
+            "count": 29,
+            "pct": 16.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 275,
+        "missing": 205,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 74.5
+          },
+          {
+            "level": "Mountain",
+            "count": 70,
+            "pct": 25.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 188,
+        "missing": 135,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 135,
+            "pct": 71.8
+          },
+          {
+            "level": "Mountain",
+            "count": 53,
+            "pct": 28.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 205,
+        "missing": 148,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 148,
+            "pct": 72.2
+          },
+          {
+            "level": "Mountain",
+            "count": 57,
+            "pct": 27.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 274,
+        "missing": 186,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 186,
+            "pct": 67.9
+          },
+          {
+            "level": "Mountain",
+            "count": 88,
+            "pct": 32.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 179,
+        "missing": 126,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 126,
+            "pct": 70.4
+          },
+          {
+            "level": "Mountain",
+            "count": 53,
+            "pct": 29.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 172,
+        "missing": 122,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 122,
+            "pct": 70.9
+          },
+          {
+            "level": "Mountain",
+            "count": 50,
+            "pct": 29.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 139,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 139,
+            "pct": 62.1
+          },
+          {
+            "level": "Mountain",
+            "count": 85,
+            "pct": 37.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 311,
+        "missing": 201,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 201,
+            "pct": 64.6
+          },
+          {
+            "level": "Mountain",
+            "count": 110,
+            "pct": 35.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 266,
+        "missing": 148,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 148,
+            "pct": 55.6
+          },
+          {
+            "level": "Mountain",
+            "count": 118,
+            "pct": 44.4
+          }
+        ]
+      }
+    ]
+  }
+}

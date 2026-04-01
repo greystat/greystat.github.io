@@ -1,0 +1,578 @@
+{
+  "concept_id": "OVARY_REMOVED_ONE_OR_BOTH",
+  "exam": "B",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 24,
+        "missing": 18,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 18,
+            "pct": 75
+          },
+          {
+            "level": "Both ovaries",
+            "count": 5,
+            "pct": 20.8
+          },
+          {
+            "level": "One ovary",
+            "count": 1,
+            "pct": 4.2
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 24,
+        "missing": 18,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 18,
+            "pct": 75
+          },
+          {
+            "level": "Both ovaries",
+            "count": 5,
+            "pct": 20.8
+          },
+          {
+            "level": "One ovary",
+            "count": 1,
+            "pct": 4.2
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 21,
+        "missing": 16,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 16,
+            "pct": 76.2
+          },
+          {
+            "level": "Both ovaries",
+            "count": 4,
+            "pct": 19
+          },
+          {
+            "level": "One ovary",
+            "count": 1,
+            "pct": 4.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 3,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 66.7
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 33.3
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 13,
+        "missing": 10,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 10,
+            "pct": 76.9
+          },
+          {
+            "level": "Both ovaries",
+            "count": 2,
+            "pct": 15.4
+          },
+          {
+            "level": "One ovary",
+            "count": 1,
+            "pct": 7.7
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 5,
+        "missing": 4,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 80
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 20
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 3,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 66.7
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 33.3
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 3,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 66.7
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 33.3
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 21,
+        "missing": 16,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 16,
+            "pct": 76.2
+          },
+          {
+            "level": "Both ovaries",
+            "count": 4,
+            "pct": 19
+          },
+          {
+            "level": "One ovary",
+            "count": 1,
+            "pct": 4.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 3,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 66.7
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 33.3
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 13,
+        "missing": 10,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 10,
+            "pct": 76.9
+          },
+          {
+            "level": "Both ovaries",
+            "count": 2,
+            "pct": 15.4
+          },
+          {
+            "level": "One ovary",
+            "count": 1,
+            "pct": 7.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 5,
+        "missing": 4,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 80
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 20
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 3,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 66.7
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 33.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 3,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 66.7
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 33.3
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 11,
+        "missing": 9,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 9,
+            "pct": 81.8
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 9.1
+          },
+          {
+            "level": "One ovary",
+            "count": 1,
+            "pct": 9.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 4,
+        "missing": 3,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 75
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 25
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 3,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 66.7
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 33.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 3,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 66.7
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 33.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 2,
+        "missing": 1,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 50
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 50
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 1,
+        "missing": 1,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 0,
+        "missing": 0,
+        "n_levels": 0,
+        "mode_level": null,
+        "freq": []
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 0,
+        "missing": 0,
+        "n_levels": 0,
+        "mode_level": null,
+        "freq": []
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 11,
+        "missing": 9,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 9,
+            "pct": 81.8
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 9.1
+          },
+          {
+            "level": "One ovary",
+            "count": 1,
+            "pct": 9.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 4,
+        "missing": 3,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 75
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 25
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 3,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 66.7
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 33.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 3,
+        "missing": 2,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 66.7
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 33.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 2,
+        "missing": 1,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 50
+          },
+          {
+            "level": "Both ovaries",
+            "count": 1,
+            "pct": 50
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 1,
+        "missing": 1,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 0,
+        "missing": 0,
+        "n_levels": 0,
+        "mode_level": null,
+        "freq": []
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 0,
+        "missing": 0,
+        "n_levels": 0,
+        "mode_level": null,
+        "freq": []
+      }
+    ]
+  }
+}

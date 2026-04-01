@@ -1,0 +1,1 @@
+window.__WORKPLACE_SMOKING_POLICY_EXAM_C={"concept_id":"WORKPLACE_SMOKING_POLICY","exam":"C","n":4351,"missing":1390,"n_levels":5,"mode_level":"(Missing)"};

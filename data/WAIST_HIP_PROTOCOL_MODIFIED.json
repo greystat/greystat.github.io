@@ -1,0 +1,64 @@
+{
+  "concept_id": "WAIST_HIP_PROTOCOL_MODIFIED",
+  "title": "Waist/hip measurement protocol modified",
+  "chips": ["categorical", "4 levels", "F20 · Anthropometry", "Anthropometry"],
+  "members": [
+    {
+      "concept_id": "WAIST_HIP_PROTOCOL_MODIFIED",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f20",
+      "dataset_stub": "a4f20",
+      "varname": "A20PROT",
+      "family": "F20",
+      "form_label": "Anthropometry",
+      "n_labels": "4",
+      "instrument": "F20: Anthropometry",
+      "notes": ""
+    },
+    {
+      "concept_id": "WAIST_HIP_PROTOCOL_MODIFIED",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f20",
+      "dataset_stub": "b2f20",
+      "varname": "B20PROT",
+      "family": "F20",
+      "form_label": "Anthropometry",
+      "n_labels": "4",
+      "instrument": "F20: Anthropometry",
+      "notes": ""
+    },
+    {
+      "concept_id": "WAIST_HIP_PROTOCOL_MODIFIED",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f20",
+      "dataset_stub": "c1f20",
+      "varname": "C20PROT",
+      "family": "F20",
+      "form_label": "Anthropometry",
+      "n_labels": "4",
+      "instrument": "F20: Anthropometry",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Yes, too tall"
+    },
+    {
+      "code": "2",
+      "label": "Yes, too obese"
+    },
+    {
+      "code": "3",
+      "label": "Other"
+    },
+    {
+      "code": "4",
+      "label": "No modification"
+    }
+  ]
+}

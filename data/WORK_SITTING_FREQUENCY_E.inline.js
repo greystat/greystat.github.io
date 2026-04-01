@@ -1,0 +1,1 @@
+window.__WORK_SITTING_FREQUENCY_EXAM_E={"concept_id":"WORK_SITTING_FREQUENCY","exam":"E","n":3949,"missing":40,"n_levels":7,"mode_level":"Often"};

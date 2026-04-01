@@ -1,0 +1,1 @@
+window.__WISHES_FOR_COMFORTING_EXAM_G={"concept_id":"WISHES_FOR_COMFORTING","exam":"G","n":3474,"missing":7,"n_levels":5,"mode_level":"Rarely"};

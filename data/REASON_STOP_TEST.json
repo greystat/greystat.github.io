@@ -1,0 +1,71 @@
+{
+  "concept_id": "REASON_STOP_TEST",
+  "title": "Reason for stopping treadmill test",
+  "chips": ["categorical", "9 levels", "F22 · Graded Exercise Treadmill Test", "Exercise Testing"],
+  "members": [
+    {
+      "concept_id": "REASON_STOP_TEST",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a7f22",
+      "dataset_stub": "a7f22",
+      "varname": "A22STRSN",
+      "family": "F22",
+      "form_label": "Treadmill Exercise Test",
+      "n_labels": "9",
+      "instrument": "F22: Treadmill Exercise Test",
+      "notes": ""
+    },
+    {
+      "concept_id": "REASON_STOP_TEST",
+      "exam": "D",
+      "exam_year": "Y7",
+      "dataset": "d3f22",
+      "dataset_stub": "d2f22",
+      "varname": "D22STRSN",
+      "family": "F22",
+      "form_label": "Treadmill Exercise Test Form",
+      "n_labels": "",
+      "instrument": "F22: Treadmill Exercise Test Form",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "General or leg fatigue"
+    },
+    {
+      "code": "2",
+      "label": "Shortness of breath"
+    },
+    {
+      "code": "3",
+      "label": "Complete test"
+    },
+    {
+      "code": "4",
+      "label": "Chest pain pressure"
+    },
+    {
+      "code": "5",
+      "label": "Abnormal ECG"
+    },
+    {
+      "code": "6",
+      "label": "Abnormal BP"
+    },
+    {
+      "code": "7",
+      "label": "Other medical"
+    },
+    {
+      "code": "8",
+      "label": "Participant refused to continue"
+    },
+    {
+      "code": "9",
+      "label": "Equipment failure"
+    }
+  ]
+}

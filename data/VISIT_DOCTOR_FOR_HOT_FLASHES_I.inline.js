@@ -1,0 +1,1 @@
+window.__VISIT_DOCTOR_FOR_HOT_FLASHES_EXAM_I={"concept_id":"VISIT_DOCTOR_FOR_HOT_FLASHES","exam":"I","n":1334,"missing":0,"n_levels":2,"mode_level":"\"No\""};

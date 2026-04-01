@@ -1,0 +1,1 @@
+window.__WAIST_HIP_VALUES_CHANGED_EXAM_B={"concept_id":"WAIST_HIP_VALUES_CHANGED","exam":"B","n":4623,"missing":0,"n_levels":2,"mode_level":"0"};

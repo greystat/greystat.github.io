@@ -1,0 +1,38 @@
+{
+  "concept_id": "PERCEIVED_CHOLESTEROL_STATUS",
+  "title": "Perceived cholesterol status",
+  "chips": ["categorical", "4 levels", "F35 · Life Satisfaction", "Psychosocial"],
+  "members": [
+    {
+      "concept_id": "PERCEIVED_CHOLESTEROL_STATUS",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f35",
+      "dataset_stub": "c1f35",
+      "varname": "C35CHOL",
+      "family": "F35",
+      "form_label": "Knowledge, Attitude and Behavior Questionnaire",
+      "n_labels": "4",
+      "instrument": "F35: Knowledge, Attitude and Behavior Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Low"
+    },
+    {
+      "code": "2",
+      "label": "Normal"
+    },
+    {
+      "code": "3",
+      "label": "High"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    }
+  ]
+}

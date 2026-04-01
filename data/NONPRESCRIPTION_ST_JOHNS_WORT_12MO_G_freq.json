@@ -1,0 +1,742 @@
+{
+  "concept_id": "NONPRESCRIPTION_ST_JOHNS_WORT_12MO",
+  "exam": "G",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1990,
+        "missing": 1853,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1853,
+            "pct": 93.1
+          },
+          {
+            "level": "1",
+            "count": 101,
+            "pct": 5.1
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 36,
+            "pct": 1.8
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 1990,
+        "missing": 1853,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1853,
+            "pct": 93.1
+          },
+          {
+            "level": "1",
+            "count": 101,
+            "pct": 5.1
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 36,
+            "pct": 1.8
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 990,
+        "missing": 928,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 928,
+            "pct": 93.7
+          },
+          {
+            "level": "1",
+            "count": 46,
+            "pct": 4.6
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 16,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1000,
+        "missing": 925,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 925,
+            "pct": 92.5
+          },
+          {
+            "level": "1",
+            "count": 55,
+            "pct": 5.5
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 20,
+            "pct": 2
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 430,
+        "missing": 394,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 394,
+            "pct": 91.6
+          },
+          {
+            "level": "1",
+            "count": 30,
+            "pct": 7
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 6,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 456,
+        "missing": 425,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 425,
+            "pct": 93.2
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 5
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 8,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 499,
+        "missing": 457,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 457,
+            "pct": 91.6
+          },
+          {
+            "level": "1",
+            "count": 34,
+            "pct": 6.8
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 8,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 605,
+        "missing": 577,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 577,
+            "pct": 95.4
+          },
+          {
+            "level": "1",
+            "count": 14,
+            "pct": 2.3
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 14,
+            "pct": 2.3
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 990,
+        "missing": 928,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 928,
+            "pct": 93.7
+          },
+          {
+            "level": "1",
+            "count": 46,
+            "pct": 4.6
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 16,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1000,
+        "missing": 925,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 925,
+            "pct": 92.5
+          },
+          {
+            "level": "1",
+            "count": 55,
+            "pct": 5.5
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 20,
+            "pct": 2
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 430,
+        "missing": 394,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 394,
+            "pct": 91.6
+          },
+          {
+            "level": "1",
+            "count": 30,
+            "pct": 7
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 6,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 456,
+        "missing": 425,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 425,
+            "pct": 93.2
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 5
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 8,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 499,
+        "missing": 457,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 457,
+            "pct": 91.6
+          },
+          {
+            "level": "1",
+            "count": 34,
+            "pct": 6.8
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 8,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 605,
+        "missing": 577,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 577,
+            "pct": 95.4
+          },
+          {
+            "level": "1",
+            "count": 14,
+            "pct": 2.3
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 14,
+            "pct": 2.3
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 257,
+        "missing": 236,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 236,
+            "pct": 91.8
+          },
+          {
+            "level": "1",
+            "count": 17,
+            "pct": 6.6
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 4,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 232,
+        "missing": 221,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 221,
+            "pct": 95.3
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 4.3
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 181,
+        "missing": 164,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 164,
+            "pct": 90.6
+          },
+          {
+            "level": "1",
+            "count": 14,
+            "pct": 7.7
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 3,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 320,
+        "missing": 307,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 307,
+            "pct": 95.9
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 8,
+            "pct": 2.5
+          },
+          {
+            "level": "1",
+            "count": 5,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 173,
+        "missing": 158,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 158,
+            "pct": 91.3
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 7.5
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 2,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 224,
+        "missing": 204,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 204,
+            "pct": 91.1
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 5.8
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 7,
+            "pct": 3.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 318,
+        "missing": 293,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 293,
+            "pct": 92.1
+          },
+          {
+            "level": "1",
+            "count": 20,
+            "pct": 6.3
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 5,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 285,
+        "missing": 270,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 270,
+            "pct": 94.7
+          },
+          {
+            "level": "1",
+            "count": 9,
+            "pct": 3.2
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 6,
+            "pct": 2.1
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 257,
+        "missing": 236,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 236,
+            "pct": 91.8
+          },
+          {
+            "level": "1",
+            "count": 17,
+            "pct": 6.6
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 4,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 232,
+        "missing": 221,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 221,
+            "pct": 95.3
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 4.3
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 181,
+        "missing": 164,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 164,
+            "pct": 90.6
+          },
+          {
+            "level": "1",
+            "count": 14,
+            "pct": 7.7
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 3,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 320,
+        "missing": 307,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 307,
+            "pct": 95.9
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 8,
+            "pct": 2.5
+          },
+          {
+            "level": "1",
+            "count": 5,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 173,
+        "missing": 158,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 158,
+            "pct": 91.3
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 7.5
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 2,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 204,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 204,
+            "pct": 91.1
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 5.8
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 7,
+            "pct": 3.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 318,
+        "missing": 293,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 293,
+            "pct": 92.1
+          },
+          {
+            "level": "1",
+            "count": 20,
+            "pct": 6.3
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 5,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 285,
+        "missing": 270,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 270,
+            "pct": 94.7
+          },
+          {
+            "level": "1",
+            "count": 9,
+            "pct": 3.2
+          },
+          {
+            "level": "St. John's Wort",
+            "count": 6,
+            "pct": 2.1
+          }
+        ]
+      }
+    ]
+  }
+}

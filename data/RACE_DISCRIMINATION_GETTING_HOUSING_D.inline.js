@@ -1,0 +1,1 @@
+window.__RACE_DISCRIMINATION_GETTING_HOUSING_EXAM_D={"concept_id":"RACE_DISCRIMINATION_GETTING_HOUSING","exam":"D","n":4085,"missing":57,"n_levels":2,"mode_level":"Yes"};

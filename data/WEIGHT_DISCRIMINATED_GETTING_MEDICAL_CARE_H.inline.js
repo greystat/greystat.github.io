@@ -1,0 +1,1 @@
+window.__WEIGHT_DISCRIMINATED_GETTING_MEDICAL_CARE_EXAM_H={"concept_id":"WEIGHT_DISCRIMINATED_GETTING_MEDICAL_CARE","exam":"H","n":3474,"missing":3347,"n_levels":3,"mode_level":"(Missing)"};

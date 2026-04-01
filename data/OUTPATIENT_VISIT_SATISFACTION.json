@@ -1,0 +1,63 @@
+{
+  "concept_id": "OUTPATIENT_VISIT_SATISFACTION",
+  "title": "Satisfaction with outpatient care",
+  "chips": ["categorical", "7 levels", "F31 · Interim Health Contact", "Administrative"],
+  "members": [
+    {
+      "concept_id": "OUTPATIENT_VISIT_SATISFACTION",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f31",
+      "dataset_stub": "e1f31",
+      "varname": "E31OPSAT",
+      "family": "F31",
+      "form_label": "Interim Hospitalizations, Serious Illnesses and Injuries Questionnaire",
+      "n_labels": "5",
+      "instrument": "F31: Interim Hospitalizations, Serious Illnesses and Injuries Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "OUTPATIENT_VISIT_SATISFACTION",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f2f31",
+      "dataset_stub": "f1f31",
+      "varname": "F31OPSAT",
+      "family": "F31",
+      "form_label": "Interim Hospitalizations, Serious Illnesses and Injuries Questionnaire",
+      "n_labels": "7",
+      "instrument": "F31: Interim Hospitalizations, Serious Illnesses and Injuries Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Very satisfied"
+    },
+    {
+      "code": "2",
+      "label": "Somewhat satisfied"
+    },
+    {
+      "code": "3",
+      "label": "Not at all satisfied"
+    },
+    {
+      "code": "4",
+      "label": "Don't know"
+    },
+    {
+      "code": "9",
+      "label": "No answer"
+    },
+    {
+      "code": "5",
+      "label": "No answer"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    }
+  ]
+}

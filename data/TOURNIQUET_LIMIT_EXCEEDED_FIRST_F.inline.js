@@ -1,0 +1,1 @@
+window.__TOURNIQUET_LIMIT_EXCEEDED_FIRST_EXAM_F={"concept_id":"TOURNIQUET_LIMIT_EXCEEDED_FIRST","exam":"F","n":3671,"missing":76,"n_levels":3,"mode_level":"\"No\""};

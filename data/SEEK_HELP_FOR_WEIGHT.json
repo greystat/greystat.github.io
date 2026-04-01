@@ -1,0 +1,39 @@
+{
+  "concept_id": "SEEK_HELP_FOR_WEIGHT",
+  "title": "Sought professional help for weight control",
+  "chips": ["categorical", "1 levels", "F46 · Weight Change", "Anthropometry"],
+  "members": [
+    {
+      "concept_id": "SEEK_HELP_FOR_WEIGHT",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f46",
+      "dataset_stub": "h4f46",
+      "varname": "H46SKHELP",
+      "family": "F46",
+      "form_label": "Weight Change",
+      "n_labels": "1",
+      "instrument": "F46: Weight Change",
+      "notes": ""
+    },
+    {
+      "concept_id": "SEEK_HELP_FOR_WEIGHT",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f46",
+      "dataset_stub": "i1f46",
+      "varname": "I46SKHELP",
+      "family": "F46",
+      "form_label": "Weight Change",
+      "n_labels": "1",
+      "instrument": "F46: Weight Change",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    }
+  ]
+}

@@ -1,0 +1,742 @@
+{
+  "concept_id": "USED_BC_12MO_CRAMPS",
+  "exam": "G",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1990,
+        "missing": 1839,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1839,
+            "pct": 92.4
+          },
+          {
+            "level": "1",
+            "count": 110,
+            "pct": 5.5
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 41,
+            "pct": 2.1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 1990,
+        "missing": 1839,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1839,
+            "pct": 92.4
+          },
+          {
+            "level": "1",
+            "count": 110,
+            "pct": 5.5
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 41,
+            "pct": 2.1
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 990,
+        "missing": 923,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 923,
+            "pct": 93.2
+          },
+          {
+            "level": "1",
+            "count": 49,
+            "pct": 4.9
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 18,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1000,
+        "missing": 916,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 916,
+            "pct": 91.6
+          },
+          {
+            "level": "1",
+            "count": 61,
+            "pct": 6.1
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 23,
+            "pct": 2.3
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 430,
+        "missing": 381,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 381,
+            "pct": 88.6
+          },
+          {
+            "level": "1",
+            "count": 37,
+            "pct": 8.6
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 12,
+            "pct": 2.8
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 456,
+        "missing": 419,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 419,
+            "pct": 91.9
+          },
+          {
+            "level": "1",
+            "count": 30,
+            "pct": 6.6
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 7,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 499,
+        "missing": 466,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 466,
+            "pct": 93.4
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 4.6
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 10,
+            "pct": 2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 605,
+        "missing": 573,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 573,
+            "pct": 94.7
+          },
+          {
+            "level": "1",
+            "count": 20,
+            "pct": 3.3
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 12,
+            "pct": 2
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 990,
+        "missing": 923,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 923,
+            "pct": 93.2
+          },
+          {
+            "level": "1",
+            "count": 49,
+            "pct": 4.9
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 18,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1000,
+        "missing": 916,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 916,
+            "pct": 91.6
+          },
+          {
+            "level": "1",
+            "count": 61,
+            "pct": 6.1
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 23,
+            "pct": 2.3
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 430,
+        "missing": 381,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 381,
+            "pct": 88.6
+          },
+          {
+            "level": "1",
+            "count": 37,
+            "pct": 8.6
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 12,
+            "pct": 2.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 456,
+        "missing": 419,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 419,
+            "pct": 91.9
+          },
+          {
+            "level": "1",
+            "count": 30,
+            "pct": 6.6
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 7,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 499,
+        "missing": 466,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 466,
+            "pct": 93.4
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 4.6
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 10,
+            "pct": 2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 605,
+        "missing": 573,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 573,
+            "pct": 94.7
+          },
+          {
+            "level": "1",
+            "count": 20,
+            "pct": 3.3
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 12,
+            "pct": 2
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 257,
+        "missing": 230,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 230,
+            "pct": 89.5
+          },
+          {
+            "level": "1",
+            "count": 21,
+            "pct": 8.2
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 6,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 232,
+        "missing": 216,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 216,
+            "pct": 93.1
+          },
+          {
+            "level": "1",
+            "count": 14,
+            "pct": 6
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 2,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 181,
+        "missing": 171,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 171,
+            "pct": 94.5
+          },
+          {
+            "level": "1",
+            "count": 6,
+            "pct": 3.3
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 4,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 320,
+        "missing": 306,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 306,
+            "pct": 95.6
+          },
+          {
+            "level": "1",
+            "count": 8,
+            "pct": 2.5
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 6,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 173,
+        "missing": 151,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 151,
+            "pct": 87.3
+          },
+          {
+            "level": "1",
+            "count": 16,
+            "pct": 9.2
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 6,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 224,
+        "missing": 203,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 203,
+            "pct": 90.6
+          },
+          {
+            "level": "1",
+            "count": 16,
+            "pct": 7.1
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 5,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 318,
+        "missing": 295,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 295,
+            "pct": 92.8
+          },
+          {
+            "level": "1",
+            "count": 17,
+            "pct": 5.3
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 6,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 285,
+        "missing": 267,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 267,
+            "pct": 93.7
+          },
+          {
+            "level": "1",
+            "count": 12,
+            "pct": 4.2
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 6,
+            "pct": 2.1
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 257,
+        "missing": 230,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 230,
+            "pct": 89.5
+          },
+          {
+            "level": "1",
+            "count": 21,
+            "pct": 8.2
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 6,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 232,
+        "missing": 216,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 216,
+            "pct": 93.1
+          },
+          {
+            "level": "1",
+            "count": 14,
+            "pct": 6
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 2,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 181,
+        "missing": 171,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 171,
+            "pct": 94.5
+          },
+          {
+            "level": "1",
+            "count": 6,
+            "pct": 3.3
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 4,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 320,
+        "missing": 306,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 306,
+            "pct": 95.6
+          },
+          {
+            "level": "1",
+            "count": 8,
+            "pct": 2.5
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 6,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 173,
+        "missing": 151,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 151,
+            "pct": 87.3
+          },
+          {
+            "level": "1",
+            "count": 16,
+            "pct": 9.2
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 6,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 203,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 203,
+            "pct": 90.6
+          },
+          {
+            "level": "1",
+            "count": 16,
+            "pct": 7.1
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 5,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 318,
+        "missing": 295,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 295,
+            "pct": 92.8
+          },
+          {
+            "level": "1",
+            "count": 17,
+            "pct": 5.3
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 6,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 285,
+        "missing": 267,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 267,
+            "pct": 93.7
+          },
+          {
+            "level": "1",
+            "count": 12,
+            "pct": 4.2
+          },
+          {
+            "level": "Menstrual cramps",
+            "count": 6,
+            "pct": 2.1
+          }
+        ]
+      }
+    ]
+  }
+}

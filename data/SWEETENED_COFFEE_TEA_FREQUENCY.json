@@ -1,0 +1,39 @@
+{
+  "concept_id": "SWEETENED_COFFEE_TEA_FREQUENCY",
+  "title": "Coffee or tea with sugar or honey frequency",
+  "chips": ["categorical", "1 levels", "F90 · Beverages Questionnaire", "Diet"],
+  "members": [
+    {
+      "concept_id": "SWEETENED_COFFEE_TEA_FREQUENCY",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f90",
+      "dataset_stub": "h3f90",
+      "varname": "H90SWCOFF",
+      "family": "F90",
+      "form_label": "Beverages Questionnaire",
+      "n_labels": "1",
+      "instrument": "F90: Beverages Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "SWEETENED_COFFEE_TEA_FREQUENCY",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f90",
+      "dataset_stub": "i1f90",
+      "varname": "I90SWCOFF",
+      "family": "F90",
+      "form_label": "Beverages Questionnaire",
+      "n_labels": "1",
+      "instrument": "F90: Beverages Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Never"
+    }
+  ]
+}

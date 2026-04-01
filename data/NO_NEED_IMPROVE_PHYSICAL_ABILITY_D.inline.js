@@ -1,0 +1,1 @@
+window.__NO_NEED_IMPROVE_PHYSICAL_ABILITY_EXAM_D={"concept_id":"NO_NEED_IMPROVE_PHYSICAL_ABILITY","exam":"D","n":4085,"missing":63,"n_levels":6,"mode_level":"Mostly disagree"};

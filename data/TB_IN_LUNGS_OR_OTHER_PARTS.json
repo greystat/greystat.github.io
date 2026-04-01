@@ -1,0 +1,69 @@
+{
+  "concept_id": "TB_IN_LUNGS_OR_OTHER_PARTS",
+  "title": "Tuberculosis in lungs or other body parts",
+  "chips": ["categorical", "2 levels"],
+  "members": [
+    {
+      "concept_id": "TB_IN_LUNGS_OR_OTHER_PARTS",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f09tb",
+      "dataset_stub": "e1f09tb",
+      "varname": "E09TBOTH",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "2",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TB_IN_LUNGS_OR_OTHER_PARTS",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f09tb",
+      "dataset_stub": "f1f09tb",
+      "varname": "F09TBOTH",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "2",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TB_IN_LUNGS_OR_OTHER_PARTS",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09tb",
+      "dataset_stub": "g3f09tb",
+      "varname": "G09TBOTH1",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "1",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TB_IN_LUNGS_OR_OTHER_PARTS",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09tb",
+      "dataset_stub": "g3f09tb",
+      "varname": "G09TBOTH2",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "1",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

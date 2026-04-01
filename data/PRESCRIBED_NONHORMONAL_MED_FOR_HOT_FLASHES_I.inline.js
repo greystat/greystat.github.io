@@ -1,0 +1,1 @@
+window.__PRESCRIBED_NONHORMONAL_MED_FOR_HOT_FLASHES_EXAM_I={"concept_id":"PRESCRIBED_NONHORMONAL_MED_FOR_HOT_FLASHES","exam":"I","n":1334,"missing":2,"n_levels":3,"mode_level":"\"No\""};

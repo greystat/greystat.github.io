@@ -1,0 +1,52 @@
+{
+  "concept_id": "TRIGLYCERIDES_GT400_FLAG",
+  "title": "Triglycerides >400 mg/dL flag",
+  "chips": ["categorical", "1 levels", "LIP · Lipid Panel", "Lipids", "Lab"],
+  "members": [
+    {
+      "concept_id": "TRIGLYCERIDES_GT400_FLAG",
+      "exam": "G",
+      "exam_year": "",
+      "dataset": "g3lip",
+      "dataset_stub": "g3lip",
+      "varname": "GL1TRIGF",
+      "family": "LIP",
+      "form_label": "",
+      "n_labels": "1",
+      "instrument": "LIP",
+      "notes": ""
+    },
+    {
+      "concept_id": "TRIGLYCERIDES_GT400_FLAG",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h3lip",
+      "dataset_stub": "h3lip",
+      "varname": "HL1TRIGF",
+      "family": "LIP",
+      "form_label": "",
+      "n_labels": "1",
+      "instrument": "LIP",
+      "notes": ""
+    },
+    {
+      "concept_id": "TRIGLYCERIDES_GT400_FLAG",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i2lip",
+      "dataset_stub": "i2lip",
+      "varname": "IL1TRIGF",
+      "family": "LIP",
+      "form_label": "",
+      "n_labels": "1",
+      "instrument": "LIP",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Triglycerides more than 400 mg/Dl"
+    }
+  ]
+}

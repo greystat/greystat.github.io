@@ -1,0 +1,1 @@
+window.__USED_BC_12MO_ACNE_EXAM_G={"concept_id":"USED_BC_12MO_ACNE","exam":"G","n":1990,"missing":1869,"n_levels":3,"mode_level":"(Missing)"};

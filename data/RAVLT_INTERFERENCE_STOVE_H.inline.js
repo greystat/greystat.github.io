@@ -1,0 +1,1 @@
+window.__RAVLT_INTERFERENCE_STOVE_EXAM_H={"concept_id":"RAVLT_INTERFERENCE_STOVE","exam":"H","n":3386,"missing":3174,"n_levels":2,"mode_level":"(Missing)"};

@@ -1,0 +1,1 @@
+window.__SF12_GENERAL_HEALTH_STATUS_EXAM_J={"concept_id":"SF12_GENERAL_HEALTH_STATUS","exam":"J","n":2508,"missing":12,"n_levels":6,"mode_level":"Very good"};

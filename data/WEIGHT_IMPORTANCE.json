@@ -1,0 +1,38 @@
+{
+  "concept_id": "WEIGHT_IMPORTANCE",
+  "title": "Importance of body weight",
+  "chips": ["categorical", "4 levels", "F50 · Diet History (FFQ)", "Diet"],
+  "members": [
+    {
+      "concept_id": "WEIGHT_IMPORTANCE",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f50",
+      "dataset_stub": "e1f50",
+      "varname": "E50EVAL",
+      "family": "F50",
+      "form_label": "Binge Eating Disorder Questionnaire",
+      "n_labels": "4",
+      "instrument": "F50: Binge Eating Disorder Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Not very important"
+    },
+    {
+      "code": "2",
+      "label": "Played a part"
+    },
+    {
+      "code": "3",
+      "label": "Were among the main things"
+    },
+    {
+      "code": "4",
+      "label": "Were the most important things"
+    }
+  ]
+}

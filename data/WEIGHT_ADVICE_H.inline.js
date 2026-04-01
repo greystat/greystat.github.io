@@ -1,0 +1,1 @@
+window.__WEIGHT_ADVICE_EXAM_H={"concept_id":"WEIGHT_ADVICE","exam":"H","n":3460,"missing":7,"n_levels":7,"mode_level":"4"};

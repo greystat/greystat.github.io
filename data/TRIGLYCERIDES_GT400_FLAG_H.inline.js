@@ -1,0 +1,1 @@
+window.__TRIGLYCERIDES_GT400_FLAG_EXAM_H={"concept_id":"TRIGLYCERIDES_GT400_FLAG","exam":"H","n":3482,"missing":3446,"n_levels":2,"mode_level":"(Missing)"};

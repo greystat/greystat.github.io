@@ -1,0 +1,872 @@
+{
+  "concept_id": "WEIGHT_LOSS_METHOD_STARTED_SMOKING",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3460,
+        "missing": 3424,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3424,
+            "pct": 99
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 36,
+            "pct": 1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1505,
+        "missing": 1493,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1493,
+            "pct": 99.2
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 12,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1955,
+        "missing": 1931,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1931,
+            "pct": 98.8
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 24,
+            "pct": 1.2
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1617,
+        "missing": 1595,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1595,
+            "pct": 98.6
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 22,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1843,
+        "missing": 1829,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1829,
+            "pct": 99.2
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 14,
+            "pct": 0.8
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 816,
+        "missing": 808,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 808,
+            "pct": 99
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 8,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 790,
+        "missing": 777,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 777,
+            "pct": 98.4
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 13,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 922,
+        "missing": 911,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 911,
+            "pct": 98.8
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 11,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 932,
+        "missing": 928,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 928,
+            "pct": 99.6
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 4,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 648,
+        "missing": 641,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 641,
+            "pct": 98.9
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 7,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 969,
+        "missing": 954,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 954,
+            "pct": 98.5
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 15,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 857,
+        "missing": 852,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 852,
+            "pct": 99.4
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 5,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 986,
+        "missing": 977,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 977,
+            "pct": 99.1
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 9,
+            "pct": 0.9
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 377,
+        "missing": 374,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 374,
+            "pct": 99.2
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 3,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 338,
+        "missing": 335,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 335,
+            "pct": 99.1
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 3,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 423,
+        "missing": 419,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 419,
+            "pct": 99.1
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 4,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 367,
+        "missing": 365,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 365,
+            "pct": 99.5
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 439,
+        "missing": 434,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 434,
+            "pct": 98.9
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 5,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 452,
+        "missing": 442,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 442,
+            "pct": 97.8
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 10,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 499,
+        "missing": 492,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 492,
+            "pct": 98.6
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 7,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 565,
+        "missing": 563,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 563,
+            "pct": 99.6
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 456,
+        "missing": 452,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 452,
+            "pct": 99.1
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 4,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 359,
+        "missing": 352,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 352,
+            "pct": 98.1
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 7,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 331,
+        "missing": 323,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 323,
+            "pct": 97.6
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 8,
+            "pct": 2.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 471,
+        "missing": 468,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 468,
+            "pct": 99.4
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 3,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 360,
+        "missing": 356,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 356,
+            "pct": 98.9
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 4,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 431,
+        "missing": 425,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 425,
+            "pct": 98.6
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 6,
+            "pct": 1.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 591,
+        "missing": 588,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 588,
+            "pct": 99.5
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 3,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 461,
+        "missing": 460,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 460,
+            "pct": 99.8
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 190,
+        "missing": 189,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 189,
+            "pct": 99.5
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 131,
+        "missing": 129,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 129,
+            "pct": 98.5
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 2,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 146,
+        "missing": 143,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 143,
+            "pct": 97.9
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 3,
+            "pct": 2.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 181,
+        "missing": 180,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 180,
+            "pct": 99.4
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 266,
+        "missing": 263,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 263,
+            "pct": 98.9
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 3,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 228,
+        "missing": 223,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 223,
+            "pct": 97.8
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 5,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 185,
+        "missing": 180,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 180,
+            "pct": 97.3
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 5,
+            "pct": 2.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 290,
+        "missing": 288,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 288,
+            "pct": 99.3
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 2,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 187,
+        "missing": 185,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 185,
+            "pct": 98.9
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 2,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 207,
+        "missing": 206,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 206,
+            "pct": 99.5
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 277,
+        "missing": 276,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 276,
+            "pct": 99.6
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 186,
+        "missing": 185,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 185,
+            "pct": 99.5
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 173,
+        "missing": 171,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 171,
+            "pct": 98.8
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 2,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 219,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 219,
+            "pct": 97.8
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 5,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 314,
+        "missing": 312,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 312,
+            "pct": 99.4
+          },
+          {
+            "level": "Started to smoke or began to smoke again",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 275,
+        "missing": 275,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 275,
+            "pct": 100
+          }
+        ]
+      }
+    ]
+  }
+}

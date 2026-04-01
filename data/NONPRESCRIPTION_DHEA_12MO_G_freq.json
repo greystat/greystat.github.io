@@ -1,0 +1,722 @@
+{
+  "concept_id": "NONPRESCRIPTION_DHEA_12MO",
+  "exam": "G",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1990,
+        "missing": 1878,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1878,
+            "pct": 94.4
+          },
+          {
+            "level": "1",
+            "count": 103,
+            "pct": 5.2
+          },
+          {
+            "level": "DHEA pills",
+            "count": 9,
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 1990,
+        "missing": 1878,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1878,
+            "pct": 94.4
+          },
+          {
+            "level": "1",
+            "count": 103,
+            "pct": 5.2
+          },
+          {
+            "level": "DHEA pills",
+            "count": 9,
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 990,
+        "missing": 938,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 938,
+            "pct": 94.7
+          },
+          {
+            "level": "1",
+            "count": 48,
+            "pct": 4.8
+          },
+          {
+            "level": "DHEA pills",
+            "count": 4,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1000,
+        "missing": 940,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 940,
+            "pct": 94
+          },
+          {
+            "level": "1",
+            "count": 55,
+            "pct": 5.5
+          },
+          {
+            "level": "DHEA pills",
+            "count": 5,
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 430,
+        "missing": 399,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 399,
+            "pct": 92.8
+          },
+          {
+            "level": "1",
+            "count": 30,
+            "pct": 7
+          },
+          {
+            "level": "DHEA pills",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 456,
+        "missing": 431,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 431,
+            "pct": 94.5
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 5
+          },
+          {
+            "level": "DHEA pills",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 499,
+        "missing": 463,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 463,
+            "pct": 92.8
+          },
+          {
+            "level": "1",
+            "count": 34,
+            "pct": 6.8
+          },
+          {
+            "level": "DHEA pills",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 605,
+        "missing": 585,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 585,
+            "pct": 96.7
+          },
+          {
+            "level": "1",
+            "count": 16,
+            "pct": 2.6
+          },
+          {
+            "level": "DHEA pills",
+            "count": 4,
+            "pct": 0.7
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 990,
+        "missing": 938,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 938,
+            "pct": 94.7
+          },
+          {
+            "level": "1",
+            "count": 48,
+            "pct": 4.8
+          },
+          {
+            "level": "DHEA pills",
+            "count": 4,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1000,
+        "missing": 940,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 940,
+            "pct": 94
+          },
+          {
+            "level": "1",
+            "count": 55,
+            "pct": 5.5
+          },
+          {
+            "level": "DHEA pills",
+            "count": 5,
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 430,
+        "missing": 399,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 399,
+            "pct": 92.8
+          },
+          {
+            "level": "1",
+            "count": 30,
+            "pct": 7
+          },
+          {
+            "level": "DHEA pills",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 456,
+        "missing": 431,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 431,
+            "pct": 94.5
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 5
+          },
+          {
+            "level": "DHEA pills",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 499,
+        "missing": 463,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 463,
+            "pct": 92.8
+          },
+          {
+            "level": "1",
+            "count": 34,
+            "pct": 6.8
+          },
+          {
+            "level": "DHEA pills",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 605,
+        "missing": 585,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 585,
+            "pct": 96.7
+          },
+          {
+            "level": "1",
+            "count": 16,
+            "pct": 2.6
+          },
+          {
+            "level": "DHEA pills",
+            "count": 4,
+            "pct": 0.7
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 257,
+        "missing": 240,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 240,
+            "pct": 93.4
+          },
+          {
+            "level": "1",
+            "count": 17,
+            "pct": 6.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 232,
+        "missing": 221,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 221,
+            "pct": 95.3
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 4.3
+          },
+          {
+            "level": "DHEA pills",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 181,
+        "missing": 166,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 166,
+            "pct": 91.7
+          },
+          {
+            "level": "1",
+            "count": 15,
+            "pct": 8.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 320,
+        "missing": 311,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 311,
+            "pct": 97.2
+          },
+          {
+            "level": "1",
+            "count": 6,
+            "pct": 1.9
+          },
+          {
+            "level": "DHEA pills",
+            "count": 3,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 173,
+        "missing": 159,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 159,
+            "pct": 91.9
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 7.5
+          },
+          {
+            "level": "DHEA pills",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 224,
+        "missing": 210,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 210,
+            "pct": 93.8
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 5.8
+          },
+          {
+            "level": "DHEA pills",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 318,
+        "missing": 297,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 297,
+            "pct": 93.4
+          },
+          {
+            "level": "1",
+            "count": 19,
+            "pct": 6
+          },
+          {
+            "level": "DHEA pills",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 285,
+        "missing": 274,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 274,
+            "pct": 96.1
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 3.5
+          },
+          {
+            "level": "DHEA pills",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 257,
+        "missing": 240,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 240,
+            "pct": 93.4
+          },
+          {
+            "level": "1",
+            "count": 17,
+            "pct": 6.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 232,
+        "missing": 221,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 221,
+            "pct": 95.3
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 4.3
+          },
+          {
+            "level": "DHEA pills",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 181,
+        "missing": 166,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 166,
+            "pct": 91.7
+          },
+          {
+            "level": "1",
+            "count": 15,
+            "pct": 8.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 320,
+        "missing": 311,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 311,
+            "pct": 97.2
+          },
+          {
+            "level": "1",
+            "count": 6,
+            "pct": 1.9
+          },
+          {
+            "level": "DHEA pills",
+            "count": 3,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 173,
+        "missing": 159,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 159,
+            "pct": 91.9
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 7.5
+          },
+          {
+            "level": "DHEA pills",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 210,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 210,
+            "pct": 93.8
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 5.8
+          },
+          {
+            "level": "DHEA pills",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 318,
+        "missing": 297,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 297,
+            "pct": 93.4
+          },
+          {
+            "level": "1",
+            "count": 19,
+            "pct": 6
+          },
+          {
+            "level": "DHEA pills",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 285,
+        "missing": 274,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 274,
+            "pct": 96.1
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 3.5
+          },
+          {
+            "level": "DHEA pills",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      }
+    ]
+  }
+}

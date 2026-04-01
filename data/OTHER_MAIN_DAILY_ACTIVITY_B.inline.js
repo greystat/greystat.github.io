@@ -1,0 +1,1 @@
+window.__OTHER_MAIN_DAILY_ACTIVITY_EXAM_B={"concept_id":"OTHER_MAIN_DAILY_ACTIVITY","exam":"B","n":4623,"missing":45,"n_levels":3,"mode_level":"No"};

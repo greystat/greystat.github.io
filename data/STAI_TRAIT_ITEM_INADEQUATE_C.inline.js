@@ -1,0 +1,1 @@
+window.__STAI_TRAIT_ITEM_INADEQUATE_EXAM_C={"concept_id":"STAI_TRAIT_ITEM_INADEQUATE","exam":"C","n":4351,"missing":55,"n_levels":5,"mode_level":"Almost never"};

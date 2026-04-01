@@ -1,0 +1,63 @@
+{
+  "concept_id": "TOBACCO_INHALATION_FREQUENCY",
+  "title": "How often smoke is inhaled",
+  "chips": ["categorical", "7 levels"],
+  "members": [
+    {
+      "concept_id": "TOBACCO_INHALATION_FREQUENCY",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f09tob",
+      "dataset_stub": "a4f09tob",
+      "varname": "A09INHAL",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "7",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOBACCO_INHALATION_FREQUENCY",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f09tob",
+      "dataset_stub": "b2f09tob",
+      "varname": "B09INHAL",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "7",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Always"
+    },
+    {
+      "code": "2",
+      "label": "Most of the time"
+    },
+    {
+      "code": "3",
+      "label": "Part of the time"
+    },
+    {
+      "code": "4",
+      "label": "Rarely"
+    },
+    {
+      "code": "5",
+      "label": "Niver inhale"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    },
+    {
+      "code": "9",
+      "label": "No answer"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "concept_id": "WEIGHT_DISCRIMINATED_AT_SCHOOL",
+  "title": "Weight discriminated at school (ever, yes/no)",
+  "chips": ["categorical", "1 levels", "F44 · Discrimination", "Psychosocial"],
+  "members": [
+    {
+      "concept_id": "WEIGHT_DISCRIMINATED_AT_SCHOOL",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f44",
+      "dataset_stub": "h3f44",
+      "varname": "H44WSCHF",
+      "family": "F44",
+      "form_label": "Discrimination",
+      "n_labels": "1",
+      "instrument": "F44: Discrimination",
+      "notes": ""
+    },
+    {
+      "concept_id": "WEIGHT_DISCRIMINATED_AT_SCHOOL",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f44",
+      "dataset_stub": "i1f44",
+      "varname": "I44WSCHF",
+      "family": "F44",
+      "form_label": "Discrimination",
+      "n_labels": "1",
+      "instrument": "F44: Discrimination",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "4a1",
+      "label": "Rarely"
+    }
+  ]
+}

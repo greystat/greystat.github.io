@@ -1,0 +1,1 @@
+window.__TAKES_HEALTH_FOR_GRANTED_EXAM_D={"concept_id":"TAKES_HEALTH_FOR_GRANTED","exam":"D","n":4085,"missing":57,"n_levels":6,"mode_level":"Mostly disagree"};

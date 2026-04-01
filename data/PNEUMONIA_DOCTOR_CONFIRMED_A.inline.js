@@ -1,0 +1,1 @@
+window.__PNEUMONIA_DOCTOR_CONFIRMED_EXAM_A={"concept_id":"PNEUMONIA_DOCTOR_CONFIRMED","exam":"A","n":5114,"missing":23,"n_levels":4,"mode_level":"0"};

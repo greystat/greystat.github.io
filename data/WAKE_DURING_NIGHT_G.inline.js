@@ -1,0 +1,1 @@
+window.__WAKE_DURING_NIGHT_EXAM_G={"concept_id":"WAKE_DURING_NIGHT","exam":"G","n":3501,"missing":16,"n_levels":4,"mode_level":"Yes"};

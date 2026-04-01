@@ -1,0 +1,1 @@
+window.__RESTRICT_CARBS_MEDICAL_EXAM_I={"concept_id":"RESTRICT_CARBS_MEDICAL","exam":"I","n":3418,"missing":2395,"n_levels":3,"mode_level":"(Missing)"};

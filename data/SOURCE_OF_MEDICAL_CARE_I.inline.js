@@ -1,0 +1,1 @@
+window.__SOURCE_OF_MEDICAL_CARE_EXAM_I={"concept_id":"SOURCE_OF_MEDICAL_CARE","exam":"I","n":3335,"missing":204,"n_levels":6,"mode_level":"Private or personal physician/HMO"};

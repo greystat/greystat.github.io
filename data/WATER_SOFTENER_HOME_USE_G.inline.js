@@ -1,0 +1,1 @@
+window.__WATER_SOFTENER_HOME_USE_EXAM_G={"concept_id":"WATER_SOFTENER_HOME_USE","exam":"G","n":3448,"missing":12,"n_levels":4,"mode_level":"\"No\""};

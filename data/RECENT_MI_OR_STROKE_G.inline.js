@@ -1,0 +1,1 @@
+window.__RECENT_MI_OR_STROKE_EXAM_G={"concept_id":"RECENT_MI_OR_STROKE","exam":"G","n":3496,"missing":15,"n_levels":3,"mode_level":"\"No\""};

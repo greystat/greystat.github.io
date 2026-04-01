@@ -1,0 +1,1 @@
+window.__USED_BC_AGE20_30_REGULATE_PERIOD_EXAM_F={"concept_id":"USED_BC_AGE20_30_REGULATE_PERIOD","exam":"F","n":2051,"missing":1858,"n_levels":2,"mode_level":"(Missing)"};

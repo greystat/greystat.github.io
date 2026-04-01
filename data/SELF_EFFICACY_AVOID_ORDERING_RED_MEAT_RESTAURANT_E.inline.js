@@ -1,0 +1,1 @@
+window.__SELF_EFFICACY_AVOID_ORDERING_RED_MEAT_RESTAURANT_EXAM_E={"concept_id":"SELF_EFFICACY_AVOID_ORDERING_RED_MEAT_RESTAURANT","exam":"E","n":3949,"missing":44,"n_levels":7,"mode_level":"I know I can"};

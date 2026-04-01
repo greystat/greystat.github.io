@@ -1,0 +1,1 @@
+window.__PAY_OUT_OF_POCKET_FULL_OR_COPAY_EXAM_E={"concept_id":"PAY_OUT_OF_POCKET_FULL_OR_COPAY","exam":"E","n":3949,"missing":1359,"n_levels":3,"mode_level":"Co-pay"};

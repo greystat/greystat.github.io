@@ -1,0 +1,592 @@
+{
+  "concept_id": "NONPRESCRIPTION_WILD_YAM_12MO",
+  "exam": "F",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 2051,
+        "missing": 2023,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2023,
+            "pct": 98.6
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 28,
+            "pct": 1.4
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 2051,
+        "missing": 2023,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2023,
+            "pct": 98.6
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 28,
+            "pct": 1.4
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1021,
+        "missing": 1009,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1009,
+            "pct": 98.8
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 12,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1030,
+        "missing": 1014,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1014,
+            "pct": 98.4
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 16,
+            "pct": 1.6
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 448,
+        "missing": 445,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 445,
+            "pct": 99.3
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 3,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 449,
+        "missing": 444,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 444,
+            "pct": 98.9
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 5,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 524,
+        "missing": 515,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 515,
+            "pct": 98.3
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 9,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 630,
+        "missing": 619,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 619,
+            "pct": 98.3
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 11,
+            "pct": 1.7
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1021,
+        "missing": 1009,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1009,
+            "pct": 98.8
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 12,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1030,
+        "missing": 1014,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1014,
+            "pct": 98.4
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 16,
+            "pct": 1.6
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 448,
+        "missing": 445,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 445,
+            "pct": 99.3
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 3,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 449,
+        "missing": 444,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 444,
+            "pct": 98.9
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 5,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 524,
+        "missing": 515,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 515,
+            "pct": 98.3
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 9,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 630,
+        "missing": 619,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 619,
+            "pct": 98.3
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 11,
+            "pct": 1.7
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 268,
+        "missing": 266,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 266,
+            "pct": 99.3
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 2,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 224,
+        "missing": 223,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 223,
+            "pct": 99.6
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 191,
+        "missing": 188,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 188,
+            "pct": 98.4
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 3,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 338,
+        "missing": 332,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 332,
+            "pct": 98.2
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 6,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 180,
+        "missing": 179,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 179,
+            "pct": 99.4
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 225,
+        "missing": 221,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 221,
+            "pct": 98.2
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 4,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 333,
+        "missing": 327,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 327,
+            "pct": 98.2
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 6,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 292,
+        "missing": 287,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 287,
+            "pct": 98.3
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 5,
+            "pct": 1.7
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 268,
+        "missing": 266,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 266,
+            "pct": 99.3
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 2,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 223,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 223,
+            "pct": 99.6
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 191,
+        "missing": 188,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 188,
+            "pct": 98.4
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 3,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 338,
+        "missing": 332,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 332,
+            "pct": 98.2
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 6,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 180,
+        "missing": 179,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 179,
+            "pct": 99.4
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 225,
+        "missing": 221,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 221,
+            "pct": 98.2
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 4,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 333,
+        "missing": 327,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 327,
+            "pct": 98.2
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 6,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 292,
+        "missing": 287,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 287,
+            "pct": 98.3
+          },
+          {
+            "level": "Wild yams or wild yam pills",
+            "count": 5,
+            "pct": 1.7
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+window.__SALT_ADDED_AT_TABLE_AMOUNT_EXAM_G={"concept_id":"SALT_ADDED_AT_TABLE_AMOUNT","exam":"G","n":3448,"missing":13,"n_levels":7,"mode_level":"2"};

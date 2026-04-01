@@ -1,0 +1,1 @@
+window.__TIME_SECOND_BLOOD_COLLECTION_AMPM_EXAM_I={"concept_id":"TIME_SECOND_BLOOD_COLLECTION_AMPM","exam":"I","n":3418,"missing":2407,"n_levels":3,"mode_level":"(Missing)"};

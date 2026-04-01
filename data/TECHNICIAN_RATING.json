@@ -1,0 +1,51 @@
+{
+  "concept_id": "TECHNICIAN_RATING",
+  "title": "Echocardiography technical rating",
+  "chips": ["categorical", "4 levels", "F40 · Echo Technician Worksheet", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "TECHNICIAN_RATING",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f40",
+      "dataset_stub": "c1f40",
+      "varname": "C40TECHR",
+      "family": "F40",
+      "form_label": "Echocardiography Sonographer's Worksheet",
+      "n_labels": "",
+      "instrument": "F40: Echocardiography Sonographer's Worksheet",
+      "notes": ""
+    },
+    {
+      "concept_id": "TECHNICIAN_RATING",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f40",
+      "dataset_stub": "e1f40",
+      "varname": "E40TECHR",
+      "family": "F40",
+      "form_label": "Echocardiography Sonographer's Worksheet",
+      "n_labels": "4",
+      "instrument": "F40: Echocardiography Sonographer's Worksheet",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Poor"
+    },
+    {
+      "code": "2",
+      "label": "Fair"
+    },
+    {
+      "code": "3",
+      "label": "Good"
+    },
+    {
+      "code": "4",
+      "label": "Excellent"
+    }
+  ]
+}

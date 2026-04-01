@@ -1,0 +1,1 @@
+window.__WISHES_MORE_CLOSE_FRIENDS_EXAM_G={"concept_id":"WISHES_MORE_CLOSE_FRIENDS","exam":"G","n":3474,"missing":6,"n_levels":5,"mode_level":"Rarely"};

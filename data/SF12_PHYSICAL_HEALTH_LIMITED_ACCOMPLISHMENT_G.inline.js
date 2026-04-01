@@ -1,0 +1,1 @@
+window.__SF12_PHYSICAL_HEALTH_LIMITED_ACCOMPLISHMENT_EXAM_G={"concept_id":"SF12_PHYSICAL_HEALTH_LIMITED_ACCOMPLISHMENT","exam":"G","n":3504,"missing":5,"n_levels":3,"mode_level":"\"No\""};

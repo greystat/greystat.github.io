@@ -1,0 +1,1 @@
+window.__RAVLT_LONG_DELAY_NOT_GIVEN_NOT_COOPERATIVE_EXAM_H={"concept_id":"RAVLT_LONG_DELAY_NOT_GIVEN_NOT_COOPERATIVE","exam":"H","n":3386,"missing":3375,"n_levels":2,"mode_level":"(Missing)"};

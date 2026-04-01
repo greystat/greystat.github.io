@@ -1,0 +1,1 @@
+window.__PHYS_ACTIVITY_PAST_YEAR_GLOBAL_EXAM_C={"concept_id":"PHYS_ACTIVITY_PAST_YEAR_GLOBAL","exam":"C","n":4351,"missing":51,"n_levels":6,"mode_level":"Moderately active"};

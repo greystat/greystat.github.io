@@ -1,0 +1,1 @@
+window.__URINE_COLLECTED_YN_EXAM_G={"concept_id":"URINE_COLLECTED_YN","exam":"G","n":3537,"missing":28,"n_levels":3,"mode_level":"Yes"};

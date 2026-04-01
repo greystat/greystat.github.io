@@ -1,0 +1,39 @@
+{
+  "concept_id": "WEIGHT_PROTOCOL_REASON",
+  "title": "Reason weight not measured or modified",
+  "chips": ["categorical", "1 levels", "F20 · Anthropometry", "Anthropometry"],
+  "members": [
+    {
+      "concept_id": "WEIGHT_PROTOCOL_REASON",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f20",
+      "dataset_stub": "g4f20",
+      "varname": "G20WTRESN",
+      "family": "F20",
+      "form_label": "Anthropometry",
+      "n_labels": "1",
+      "instrument": "F20: Anthropometry",
+      "notes": ""
+    },
+    {
+      "concept_id": "WEIGHT_PROTOCOL_REASON",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f20",
+      "dataset_stub": "i1f20",
+      "varname": "I20WTRESN",
+      "family": "F20",
+      "form_label": "Anthropometry",
+      "n_labels": "1",
+      "instrument": "F20: Anthropometry",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Weight is more than device measuring range (weight >450 pounds or >204.3 Kg)"
+    }
+  ]
+}

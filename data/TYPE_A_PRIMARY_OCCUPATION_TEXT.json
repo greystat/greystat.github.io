@@ -1,0 +1,42 @@
+{
+  "concept_id": "TYPE_A_PRIMARY_OCCUPATION_TEXT",
+  "title": "Primary occupation (coded category)",
+  "chips": ["categorical", "5 levels", "F16 · Framingham Type A", "Psychosocial"],
+  "members": [
+    {
+      "concept_id": "TYPE_A_PRIMARY_OCCUPATION_TEXT",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f16",
+      "dataset_stub": "b2f16",
+      "varname": "B16X1OCC",
+      "family": "F16",
+      "form_label": "Framingham Type A/B Questionnaire",
+      "n_labels": "5",
+      "instrument": "F16: Framingham Type A/B Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Working"
+    },
+    {
+      "code": "2",
+      "label": "Student"
+    },
+    {
+      "code": "3",
+      "label": "Unemployed"
+    },
+    {
+      "code": "4",
+      "label": "Homemaker"
+    },
+    {
+      "code": "5",
+      "label": "Other"
+    }
+  ]
+}

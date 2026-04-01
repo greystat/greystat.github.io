@@ -1,0 +1,1 @@
+window.__RAISING_CHILDREN_FULL_TIME_EXAM_G={"concept_id":"RAISING_CHILDREN_FULL_TIME","exam":"G","n":3537,"missing":0,"n_levels":3,"mode_level":"No"};

@@ -1,0 +1,1 @@
+window.__TYPE_A_AMBITION_SATISFACTION_EXAM_B={"concept_id":"TYPE_A_AMBITION_SATISFACTION","exam":"B","n":4623,"missing":48,"n_levels":3,"mode_level":"\"Satisfied most of ambitions\""};

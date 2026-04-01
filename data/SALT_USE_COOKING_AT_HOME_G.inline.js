@@ -1,0 +1,1 @@
+window.__SALT_USE_COOKING_AT_HOME_EXAM_G={"concept_id":"SALT_USE_COOKING_AT_HOME","exam":"G","n":3448,"missing":10,"n_levels":6,"mode_level":"2"};

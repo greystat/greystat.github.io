@@ -1,0 +1,1 @@
+window.__SEVERE_HYPERTENSION_AT_REST_EXAM_G={"concept_id":"SEVERE_HYPERTENSION_AT_REST","exam":"G","n":2986,"missing":63,"n_levels":3,"mode_level":"\"No\""};

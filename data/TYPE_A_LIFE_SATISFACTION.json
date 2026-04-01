@@ -1,0 +1,68 @@
+{
+  "concept_id": "TYPE_A_LIFE_SATISFACTION",
+  "title": "Satisfaction with life as a whole",
+  "chips": ["categorical", "5 levels", "F16 · Framingham Type A", "Psychosocial"],
+  "members": [
+    {
+      "concept_id": "TYPE_A_LIFE_SATISFACTION",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f16",
+      "dataset_stub": "a4f16",
+      "varname": "A16SATIS",
+      "family": "F16",
+      "form_label": "Framingham Type A/B Questionnaire",
+      "n_labels": "5",
+      "instrument": "F16: Framingham Type A/B Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "TYPE_A_LIFE_SATISFACTION",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f16",
+      "dataset_stub": "b2f16",
+      "varname": "B16SATIS",
+      "family": "F16",
+      "form_label": "Framingham Type A/B Questionnaire",
+      "n_labels": "5",
+      "instrument": "F16: Framingham Type A/B Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "TYPE_A_LIFE_SATISFACTION",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f16",
+      "dataset_stub": "g3f16",
+      "varname": "G16LIFESAT",
+      "family": "F16",
+      "form_label": "Framingham Type A",
+      "n_labels": "1",
+      "instrument": "F16: Framingham Type A",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"Very satisfied\""
+    },
+    {
+      "code": "2",
+      "label": "Somewhat satisfied"
+    },
+    {
+      "code": "3",
+      "label": "Neither satisfied/dissatisfied"
+    },
+    {
+      "code": "4",
+      "label": "Somewhat dissatisfied"
+    },
+    {
+      "code": "5",
+      "label": "Very dissatisfied"
+    }
+  ]
+}

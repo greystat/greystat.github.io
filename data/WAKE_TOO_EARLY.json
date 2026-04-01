@@ -1,0 +1,47 @@
+{
+  "concept_id": "WAKE_TOO_EARLY",
+  "title": "Waking too early",
+  "chips": ["categorical", "3 levels", "F67 · Sleep Habits", "Sleep"],
+  "members": [
+    {
+      "concept_id": "WAKE_TOO_EARLY",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f67",
+      "dataset_stub": "f1f67",
+      "varname": "F67EARLY",
+      "family": "F67",
+      "form_label": "Sleep Questionnaire",
+      "n_labels": "3",
+      "instrument": "F67: Sleep Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "WAKE_TOO_EARLY",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f67",
+      "dataset_stub": "g3f67",
+      "varname": "G67EARLY",
+      "family": "F67",
+      "form_label": "Sleep Habits",
+      "n_labels": "1",
+      "instrument": "F67: Sleep Habits",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    }
+  ]
+}

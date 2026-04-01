@@ -1,0 +1,56 @@
+{
+  "concept_id": "RESTAURANT_EATING_FREQUENCY_CATEGORY",
+  "title": "Restaurant/cafeteria eating frequency (times/week vs month, categorical)",
+  "chips": ["categorical", "2 levels", "F48 · Diet Practices", "Diet"],
+  "members": [
+    {
+      "concept_id": "RESTAURANT_EATING_FREQUENCY_CATEGORY",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f48",
+      "dataset_stub": "e1f48",
+      "varname": "E48REFRQ",
+      "family": "F48",
+      "form_label": "Dietary Practices, Behaviors, and Attitudes Questionnaire",
+      "n_labels": "",
+      "instrument": "F48: Dietary Practices, Behaviors, and Attitudes Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "RESTAURANT_EATING_FREQUENCY_CATEGORY",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f48",
+      "dataset_stub": "h3f48",
+      "varname": "H48RCFRQ",
+      "family": "F48",
+      "form_label": "Diet Practices",
+      "n_labels": "1",
+      "instrument": "F48: Diet Practices",
+      "notes": ""
+    },
+    {
+      "concept_id": "RESTAURANT_EATING_FREQUENCY_CATEGORY",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f48",
+      "dataset_stub": "i1f48",
+      "varname": "I48RCFRQ",
+      "family": "F48",
+      "form_label": "Diet Practices",
+      "n_labels": "1",
+      "instrument": "F48: Diet Practices",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "2",
+      "label": "Times per month"
+    },
+    {
+      "code": "1",
+      "label": "Times per week"
+    }
+  ]
+}

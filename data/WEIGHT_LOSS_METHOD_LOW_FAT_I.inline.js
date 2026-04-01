@@ -1,0 +1,1 @@
+window.__WEIGHT_LOSS_METHOD_LOW_FAT_EXAM_I={"concept_id":"WEIGHT_LOSS_METHOD_LOW_FAT","exam":"I","n":3249,"missing":2464,"n_levels":2,"mode_level":"(Missing)"};

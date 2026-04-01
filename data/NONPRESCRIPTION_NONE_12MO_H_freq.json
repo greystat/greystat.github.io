@@ -1,0 +1,592 @@
+{
+  "concept_id": "NONPRESCRIPTION_NONE_12MO",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1964,
+        "missing": 402,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 1562,
+            "pct": 79.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 402,
+            "pct": 20.5
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 1964,
+        "missing": 402,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 1562,
+            "pct": 79.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 402,
+            "pct": 20.5
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 975,
+        "missing": 187,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 788,
+            "pct": 80.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 187,
+            "pct": 19.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 989,
+        "missing": 215,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 774,
+            "pct": 78.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 215,
+            "pct": 21.7
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 440,
+        "missing": 75,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 365,
+            "pct": 83
+          },
+          {
+            "level": "(Missing)",
+            "count": 75,
+            "pct": 17
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 448,
+        "missing": 79,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 369,
+            "pct": 82.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 79,
+            "pct": 17.6
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 498,
+        "missing": 112,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 386,
+            "pct": 77.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 112,
+            "pct": 22.5
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 578,
+        "missing": 136,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 442,
+            "pct": 76.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 136,
+            "pct": 23.5
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 975,
+        "missing": 187,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 788,
+            "pct": 80.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 187,
+            "pct": 19.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 989,
+        "missing": 215,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 774,
+            "pct": 78.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 215,
+            "pct": 21.7
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 440,
+        "missing": 75,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 365,
+            "pct": 83
+          },
+          {
+            "level": "(Missing)",
+            "count": 75,
+            "pct": 17
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 448,
+        "missing": 79,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 369,
+            "pct": 82.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 79,
+            "pct": 17.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 498,
+        "missing": 112,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 386,
+            "pct": 77.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 112,
+            "pct": 22.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 578,
+        "missing": 136,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 442,
+            "pct": 76.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 136,
+            "pct": 23.5
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 266,
+        "missing": 37,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 229,
+            "pct": 86.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 37,
+            "pct": 13.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 226,
+        "missing": 40,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 186,
+            "pct": 82.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 40,
+            "pct": 17.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 186,
+        "missing": 38,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 148,
+            "pct": 79.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 38,
+            "pct": 20.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 297,
+        "missing": 72,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 225,
+            "pct": 75.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 72,
+            "pct": 24.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 174,
+        "missing": 38,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 136,
+            "pct": 78.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 38,
+            "pct": 21.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 222,
+        "missing": 39,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 183,
+            "pct": 82.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 39,
+            "pct": 17.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 312,
+        "missing": 74,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 238,
+            "pct": 76.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 74,
+            "pct": 23.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 281,
+        "missing": 64,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 217,
+            "pct": 77.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 64,
+            "pct": 22.8
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 266,
+        "missing": 37,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 229,
+            "pct": 86.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 37,
+            "pct": 13.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 226,
+        "missing": 40,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 186,
+            "pct": 82.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 40,
+            "pct": 17.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 186,
+        "missing": 38,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 148,
+            "pct": 79.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 38,
+            "pct": 20.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 297,
+        "missing": 72,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 225,
+            "pct": 75.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 72,
+            "pct": 24.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 174,
+        "missing": 38,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 136,
+            "pct": 78.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 38,
+            "pct": 21.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 222,
+        "missing": 39,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 183,
+            "pct": 82.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 39,
+            "pct": 17.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 312,
+        "missing": 74,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 238,
+            "pct": 76.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 74,
+            "pct": 23.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 281,
+        "missing": 64,
+        "n_levels": 2,
+        "mode_level": "Did not take any of the above",
+        "freq": [
+          {
+            "level": "Did not take any of the above",
+            "count": 217,
+            "pct": 77.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 64,
+            "pct": 22.8
+          }
+        ]
+      }
+    ]
+  }
+}

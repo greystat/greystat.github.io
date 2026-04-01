@@ -1,0 +1,120 @@
+{
+  "concept_id": "SOURCE_OF_MEDICAL_CARE",
+  "title": "Source of usual medical care",
+  "chips": ["categorical", "5 levels", "F03 · Sociodemographic Questionnaire", "Sociodemographic"],
+  "members": [
+    {
+      "concept_id": "SOURCE_OF_MEDICAL_CARE",
+      "exam": "D",
+      "exam_year": "Y7",
+      "dataset": "d1f03",
+      "dataset_stub": "d1f03",
+      "varname": "D03SOURC",
+      "family": "F03",
+      "form_label": "Sociodemographic",
+      "n_labels": "5",
+      "instrument": "F03: Sociodemographic",
+      "notes": ""
+    },
+    {
+      "concept_id": "SOURCE_OF_MEDICAL_CARE",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f03",
+      "dataset_stub": "e1f03",
+      "varname": "E03SOURC",
+      "family": "F03",
+      "form_label": "Sociodemographic",
+      "n_labels": "5",
+      "instrument": "F03: Sociodemographic",
+      "notes": ""
+    },
+    {
+      "concept_id": "SOURCE_OF_MEDICAL_CARE",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f3f03",
+      "dataset_stub": "f2f03",
+      "varname": "F03SOURC",
+      "family": "F03",
+      "form_label": "Sociodemographic",
+      "n_labels": "5",
+      "instrument": "F03: Sociodemographic",
+      "notes": ""
+    },
+    {
+      "concept_id": "SOURCE_OF_MEDICAL_CARE",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f03",
+      "dataset_stub": "g3f03",
+      "varname": "G03SOURC",
+      "family": "F03",
+      "form_label": "Sociodemographics",
+      "n_labels": "1",
+      "instrument": "F03: Sociodemographics",
+      "notes": ""
+    },
+    {
+      "concept_id": "SOURCE_OF_MEDICAL_CARE",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f03",
+      "dataset_stub": "h4f03",
+      "varname": "H03SOURC",
+      "family": "F03",
+      "form_label": "Sociodemographic Questionnaire",
+      "n_labels": "1",
+      "instrument": "F03: Sociodemographic Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "SOURCE_OF_MEDICAL_CARE",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f03",
+      "dataset_stub": "i1f03",
+      "varname": "I03SOURC",
+      "family": "F03",
+      "form_label": "Sociodemographic Questionnaire",
+      "n_labels": "5",
+      "instrument": "F03: Sociodemographic Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "SOURCE_OF_MEDICAL_CARE",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j2f03",
+      "dataset_stub": "j2f03",
+      "varname": "J03SOURC",
+      "family": "F03",
+      "form_label": "Sociodemographic Questionnaire",
+      "n_labels": "1",
+      "instrument": "F03: Sociodemographic Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Private or personal physician/HMO"
+    },
+    {
+      "code": "2",
+      "label": "Walk-in clinic (no appointments taken)"
+    },
+    {
+      "code": "3",
+      "label": "Other clinic (by appointment)"
+    },
+    {
+      "code": "4",
+      "label": "Hospital emergency room"
+    },
+    {
+      "code": "5",
+      "label": "Other (specify)"
+    }
+  ]
+}

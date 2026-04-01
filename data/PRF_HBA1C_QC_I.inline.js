@@ -1,0 +1,1 @@
+window.__PRF_HBA1C_QC_EXAM_I={"concept_id":"PRF_HBA1C_QC","exam":"I","n":3355,"missing":2025,"n_levels":3,"mode_level":"(Missing)"};

@@ -1,0 +1,1 @@
+window.__TIME_OF_FOLLOWUP_MONTHS_EXAM_D={"concept_id":"TIME_OF_FOLLOWUP_MONTHS","exam":"D","n":884,"missing":0,"n_levels":2,"mode_level":"108"};

@@ -1,0 +1,1 @@
+window.__URINE_2ML_HEP_ALIQUOT_NUMBER_EXAM_E={"concept_id":"URINE_2ML_HEP_ALIQUOT_NUMBER","exam":"E","n":3949,"missing":3719,"n_levels":3,"mode_level":"(Missing)"};

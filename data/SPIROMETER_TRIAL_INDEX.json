@@ -1,0 +1,34 @@
+{
+  "concept_id": "SPIROMETER_TRIAL_INDEX",
+  "title": "Pulmonary function trial index",
+  "chips": ["categorical", "F12 · Lung Disease History", "Pulmonary"],
+  "members": [
+    {
+      "concept_id": "SPIROMETER_TRIAL_INDEX",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f12pf",
+      "dataset_stub": "b2f12pf",
+      "varname": "B12TRIAL",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "n_labels": "",
+      "instrument": "F12: History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "notes": ""
+    },
+    {
+      "concept_id": "SPIROMETER_TRIAL_INDEX",
+      "exam": "C",
+      "exam_year": "",
+      "dataset": "c1f12pf",
+      "dataset_stub": "c1f12pf",
+      "varname": "C12TRIAL",
+      "family": "F12",
+      "form_label": "",
+      "n_labels": "",
+      "instrument": "F12",
+      "notes": ""
+    }
+  ],
+  "dictionary": {}
+}

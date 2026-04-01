@@ -1,0 +1,1 @@
+window.__OTHER_FINDINGS_FLAG_EXAM_H={"concept_id":"OTHER_FINDINGS_FLAG","exam":"H","n":3470,"missing":49,"n_levels":3,"mode_level":"No"};

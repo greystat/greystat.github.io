@@ -1,0 +1,26 @@
+{
+  "concept_id": "TRAVEL_DISTANCE_50MI",
+  "title": "Participant traveled more than 50 miles to exam",
+  "chips": ["categorical", "1 levels", "F02 · Blood Pressure", "Cardiovascular"],
+  "members": [
+    {
+      "concept_id": "TRAVEL_DISTANCE_50MI",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f02",
+      "dataset_stub": "j1f02",
+      "varname": "J02DIST",
+      "family": "F02",
+      "form_label": "Blood Pressure",
+      "n_labels": "1",
+      "instrument": "F02: Blood Pressure",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "concept_id": "TIME_URINE_COLLECTED_AMPM",
+  "title": "Time urine collected (AM/PM)",
+  "chips": ["categorical", "2 levels", "F51 · Urine Specimens", "Renal"],
+  "members": [
+    {
+      "concept_id": "TIME_URINE_COLLECTED_AMPM",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f51",
+      "dataset_stub": "g3f51",
+      "varname": "G51CDTIMX",
+      "family": "F51",
+      "form_label": "Urine",
+      "n_labels": "1",
+      "instrument": "F51: Urine",
+      "notes": ""
+    },
+    {
+      "concept_id": "TIME_URINE_COLLECTED_AMPM",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f51",
+      "dataset_stub": "h3f51",
+      "varname": "H51CDTIMX",
+      "family": "F51",
+      "form_label": "Urine Specimens",
+      "n_labels": "2",
+      "instrument": "F51: Urine Specimens",
+      "notes": ""
+    },
+    {
+      "concept_id": "TIME_URINE_COLLECTED_AMPM",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f51",
+      "dataset_stub": "i1f51",
+      "varname": "I51CDTIMX",
+      "family": "F51",
+      "form_label": "Urine Specimens",
+      "n_labels": "2",
+      "instrument": "F51: Urine Specimens",
+      "notes": ""
+    },
+    {
+      "concept_id": "TIME_URINE_COLLECTED_AMPM",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f51",
+      "dataset_stub": "j1f51",
+      "varname": "J51CDTIMX",
+      "family": "F51",
+      "form_label": "Urine Specimens",
+      "n_labels": "1",
+      "instrument": "F51: Urine Specimens",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"AM\""
+    },
+    {
+      "code": "2",
+      "label": "PM"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__SPOUSE_OTHER_MAIN_ACTIVITY_EXAM_B={"concept_id":"SPOUSE_OTHER_MAIN_ACTIVITY","exam":"B","n":4623,"missing":45,"n_levels":3,"mode_level":"No"};

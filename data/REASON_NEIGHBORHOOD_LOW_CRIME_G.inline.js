@@ -1,0 +1,1 @@
+window.__REASON_NEIGHBORHOOD_LOW_CRIME_EXAM_G={"concept_id":"REASON_NEIGHBORHOOD_LOW_CRIME","exam":"G","n":2989,"missing":1197,"n_levels":3,"mode_level":"\"Yes\""};

@@ -1,0 +1,862 @@
+{
+  "concept_id": "OVARIAN_SURGERY_REASON",
+  "exam": "F",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 134,
+        "missing": 4,
+        "n_levels": 5,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 74,
+            "pct": 55.2
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 39,
+            "pct": 29.1
+          },
+          {
+            "level": "2",
+            "count": 15,
+            "pct": 11.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 3
+          },
+          {
+            "level": "3",
+            "count": 2,
+            "pct": 1.5
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 134,
+        "missing": 4,
+        "n_levels": 5,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 74,
+            "pct": 55.2
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 39,
+            "pct": 29.1
+          },
+          {
+            "level": "2",
+            "count": 15,
+            "pct": 11.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 3
+          },
+          {
+            "level": "3",
+            "count": 2,
+            "pct": 1.5
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 99,
+        "missing": 3,
+        "n_levels": 5,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 55,
+            "pct": 55.6
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 27,
+            "pct": 27.3
+          },
+          {
+            "level": "2",
+            "count": 13,
+            "pct": 13.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 3
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 35,
+        "missing": 1,
+        "n_levels": 5,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 19,
+            "pct": 54.3
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 12,
+            "pct": 34.3
+          },
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 5.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 2.9
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 2.9
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 44,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 22,
+            "pct": 50
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 15,
+            "pct": 34.1
+          },
+          {
+            "level": "2",
+            "count": 6,
+            "pct": 13.6
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 25,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 12,
+            "pct": 48
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 7,
+            "pct": 28
+          },
+          {
+            "level": "2",
+            "count": 5,
+            "pct": 20
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 22,
+        "missing": 2,
+        "n_levels": 5,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 11,
+            "pct": 50
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 6,
+            "pct": 27.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 9.1
+          },
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 9.1
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 4.5
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 43,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 29,
+            "pct": 67.4
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 11,
+            "pct": 25.6
+          },
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 4.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 2.3
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 99,
+        "missing": 3,
+        "n_levels": 5,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 55,
+            "pct": 55.6
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 27,
+            "pct": 27.3
+          },
+          {
+            "level": "2",
+            "count": 13,
+            "pct": 13.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 3
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 35,
+        "missing": 1,
+        "n_levels": 5,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 19,
+            "pct": 54.3
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 12,
+            "pct": 34.3
+          },
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 5.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 2.9
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 2.9
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 44,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 22,
+            "pct": 50
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 15,
+            "pct": 34.1
+          },
+          {
+            "level": "2",
+            "count": 6,
+            "pct": 13.6
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 25,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 12,
+            "pct": 48
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 7,
+            "pct": 28
+          },
+          {
+            "level": "2",
+            "count": 5,
+            "pct": 20
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 22,
+        "missing": 2,
+        "n_levels": 5,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 11,
+            "pct": 50
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 6,
+            "pct": 27.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 9.1
+          },
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 9.1
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 4.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 43,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 29,
+            "pct": 67.4
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 11,
+            "pct": 25.6
+          },
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 4.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 2.3
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 35,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 16,
+            "pct": 45.7
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 12,
+            "pct": 34.3
+          },
+          {
+            "level": "2",
+            "count": 6,
+            "pct": 17.1
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 22,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 12,
+            "pct": 54.5
+          },
+          {
+            "level": "2",
+            "count": 5,
+            "pct": 22.7
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 4,
+            "pct": 18.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 4.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 10,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 6,
+            "pct": 60
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 3,
+            "pct": 30
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 10
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 32,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 21,
+            "pct": 65.6
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 8,
+            "pct": 25
+          },
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 6.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 3.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 9,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 6,
+            "pct": 66.7
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 3,
+            "pct": 33.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 3,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "\"Simple ovarian cysts\"",
+        "freq": [
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 3,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 12,
+        "missing": 1,
+        "n_levels": 5,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 5,
+            "pct": 41.7
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 3,
+            "pct": 25
+          },
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 16.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 8.3
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 8.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 11,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 8,
+            "pct": 72.7
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 3,
+            "pct": 27.3
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 35,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 16,
+            "pct": 45.7
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 12,
+            "pct": 34.3
+          },
+          {
+            "level": "2",
+            "count": 6,
+            "pct": 17.1
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 22,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 12,
+            "pct": 54.5
+          },
+          {
+            "level": "2",
+            "count": 5,
+            "pct": 22.7
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 4,
+            "pct": 18.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 4.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 10,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 6,
+            "pct": 60
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 3,
+            "pct": 30
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 10
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 32,
+        "missing": 1,
+        "n_levels": 4,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 21,
+            "pct": 65.6
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 8,
+            "pct": 25
+          },
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 6.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 3.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 9,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 6,
+            "pct": 66.7
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 3,
+            "pct": 33.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 3,
+        "missing": 0,
+        "n_levels": 1,
+        "mode_level": "\"Simple ovarian cysts\"",
+        "freq": [
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 3,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 12,
+        "missing": 1,
+        "n_levels": 5,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 5,
+            "pct": 41.7
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 3,
+            "pct": 25
+          },
+          {
+            "level": "2",
+            "count": 2,
+            "pct": 16.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 8.3
+          },
+          {
+            "level": "3",
+            "count": 1,
+            "pct": 8.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 11,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "4",
+        "freq": [
+          {
+            "level": "4",
+            "count": 8,
+            "pct": 72.7
+          },
+          {
+            "level": "\"Simple ovarian cysts\"",
+            "count": 3,
+            "pct": 27.3
+          }
+        ]
+      }
+    ]
+  }
+}

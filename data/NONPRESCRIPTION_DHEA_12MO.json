@@ -1,0 +1,65 @@
+{
+  "concept_id": "NONPRESCRIPTION_DHEA_12MO",
+  "title": "Took non-prescription DHEA in past 12 months",
+  "chips": ["categorical", "1 levels", "F68 · Reproductive Health", "Reproductive Health"],
+  "members": [
+    {
+      "concept_id": "NONPRESCRIPTION_DHEA_12MO",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f68",
+      "dataset_stub": "f1f68",
+      "varname": "F68DHEA",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health Questionnaire",
+      "n_labels": "",
+      "instrument": "F68: Women's Reproductive Health Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "NONPRESCRIPTION_DHEA_12MO",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f68",
+      "dataset_stub": "g3f68",
+      "varname": "G68DHEA",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health",
+      "n_labels": "1",
+      "instrument": "F68: Women's Reproductive Health",
+      "notes": ""
+    },
+    {
+      "concept_id": "NONPRESCRIPTION_DHEA_12MO",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f68",
+      "dataset_stub": "h3f68",
+      "varname": "H68DHEA",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health Questionnaire",
+      "n_labels": "1",
+      "instrument": "F68: Women's Reproductive Health Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "NONPRESCRIPTION_DHEA_12MO",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f68",
+      "dataset_stub": "i1f68",
+      "varname": "I68DHEA",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health Questionnaire",
+      "n_labels": "1",
+      "instrument": "F68: Women's Reproductive Health Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "2",
+      "label": "DHEA pills"
+    }
+  ]
+}

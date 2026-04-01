@@ -1,0 +1,34 @@
+{
+  "concept_id": "SUBJECT_APPEARANCE",
+  "title": "Subject appearance rating",
+  "chips": ["categorical", "3 levels", "F25 · Impedance Cardiography", "Cardiovascular"],
+  "members": [
+    {
+      "concept_id": "SUBJECT_APPEARANCE",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f25",
+      "dataset_stub": "a4f25",
+      "varname": "A25APPR",
+      "family": "F25",
+      "form_label": "Type A/B Interviewer Rating Form",
+      "n_labels": "3",
+      "instrument": "F25: Type A/B Interviewer Rating Form",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Calm"
+    },
+    {
+      "code": "2",
+      "label": "Nervous"
+    },
+    {
+      "code": "3",
+      "label": "Tense"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "concept_id": "TIME_OUT_OF_BED_ENCODED",
+  "title": "Time participant got out of bed (encoded)",
+  "chips": ["categorical", "2 levels", "F51 · Urine Specimens", "Renal"],
+  "members": [
+    {
+      "concept_id": "TIME_OUT_OF_BED_ENCODED",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f51",
+      "dataset_stub": "h3f51",
+      "varname": "H51BDTIM",
+      "family": "F51",
+      "form_label": "Urine Specimens",
+      "n_labels": "1",
+      "instrument": "F51: Urine Specimens",
+      "notes": ""
+    },
+    {
+      "concept_id": "TIME_OUT_OF_BED_ENCODED",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f51",
+      "dataset_stub": "i1f51",
+      "varname": "I51BDTIM",
+      "family": "F51",
+      "form_label": "Urine Specimens",
+      "n_labels": "2",
+      "instrument": "F51: Urine Specimens",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "AM"
+    },
+    {
+      "code": "2",
+      "label": "PM"
+    }
+  ]
+}

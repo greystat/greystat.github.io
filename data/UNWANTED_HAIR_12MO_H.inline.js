@@ -1,0 +1,1 @@
+window.__UNWANTED_HAIR_12MO_EXAM_H={"concept_id":"UNWANTED_HAIR_12MO","exam":"H","n":1964,"missing":1104,"n_levels":4,"mode_level":"(Missing)"};

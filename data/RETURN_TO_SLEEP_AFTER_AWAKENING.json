@@ -1,0 +1,47 @@
+{
+  "concept_id": "RETURN_TO_SLEEP_AFTER_AWAKENING",
+  "title": "Ability to return to sleep after awakening",
+  "chips": ["categorical", "3 levels", "F67 · Sleep Habits", "Sleep"],
+  "members": [
+    {
+      "concept_id": "RETURN_TO_SLEEP_AFTER_AWAKENING",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f67",
+      "dataset_stub": "f1f67",
+      "varname": "F67RESLP",
+      "family": "F67",
+      "form_label": "Sleep Questionnaire",
+      "n_labels": "3",
+      "instrument": "F67: Sleep Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "RETURN_TO_SLEEP_AFTER_AWAKENING",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f67",
+      "dataset_stub": "g3f67",
+      "varname": "G67RESLP",
+      "family": "F67",
+      "form_label": "Sleep Habits",
+      "n_labels": "1",
+      "instrument": "F67: Sleep Habits",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    }
+  ]
+}

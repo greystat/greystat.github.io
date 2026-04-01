@@ -1,0 +1,1 @@
+window.__SEDENTARY_WN_TV_EXAM_H={"concept_id":"SEDENTARY_WN_TV","exam":"H","n":3476,"missing":4,"n_levels":10,"mode_level":"5"};

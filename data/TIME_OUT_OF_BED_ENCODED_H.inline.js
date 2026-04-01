@@ -1,0 +1,1 @@
+window.__TIME_OUT_OF_BED_ENCODED_EXAM_H={"concept_id":"TIME_OUT_OF_BED_ENCODED","exam":"H","n":3493,"missing":40,"n_levels":160,"mode_level":"06:00:00"};

@@ -1,0 +1,1 @@
+window.__SELF_EFFICACY_EXERCISE_AFTER_TIRING_WORKDAY_EXAM_E={"concept_id":"SELF_EFFICACY_EXERCISE_AFTER_TIRING_WORKDAY","exam":"E","n":3949,"missing":45,"n_levels":7,"mode_level":"Maybe I can"};

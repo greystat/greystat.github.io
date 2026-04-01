@@ -1,0 +1,1 @@
+window.__PAST_LIQUOR_CONSUMPTION_EXAM_A={"concept_id":"PAST_LIQUOR_CONSUMPTION","exam":"A","n":5114,"missing":35,"n_levels":4,"mode_level":"0"};

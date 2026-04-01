@@ -1,0 +1,1 @@
+window.__SOCIAL_ACTIVITY_OUTINGS_EXAM_I={"concept_id":"SOCIAL_ACTIVITY_OUTINGS","exam":"I","n":3264,"missing":15,"n_levels":8,"mode_level":"2"};

@@ -1,0 +1,34 @@
+{
+  "concept_id": "WEIGHT_CHANGE_DIRECTION_CODE",
+  "title": "Weight change direction (gain/loss/stable)",
+  "chips": ["categorical", "F46 · Weight Change", "Anthropometry"],
+  "members": [
+    {
+      "concept_id": "WEIGHT_CHANGE_DIRECTION_CODE",
+      "exam": "D",
+      "exam_year": "Y7",
+      "dataset": "d1f46",
+      "dataset_stub": "d1f46",
+      "varname": "D46WCODE",
+      "family": "F46",
+      "form_label": "Weight Change Questionnaire",
+      "n_labels": "",
+      "instrument": "F46: Weight Change Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "WEIGHT_CHANGE_DIRECTION_CODE",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f46",
+      "dataset_stub": "e1f46",
+      "varname": "E46WCODE",
+      "family": "F46",
+      "form_label": "Weight Change Questionnaire",
+      "n_labels": "",
+      "instrument": "F46: Weight Change Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": {}
+}

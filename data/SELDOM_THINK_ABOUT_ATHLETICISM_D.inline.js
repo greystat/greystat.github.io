@@ -1,0 +1,1 @@
+window.__SELDOM_THINK_ABOUT_ATHLETICISM_EXAM_D={"concept_id":"SELDOM_THINK_ABOUT_ATHLETICISM","exam":"D","n":4085,"missing":59,"n_levels":6,"mode_level":"Mostly disagree"};

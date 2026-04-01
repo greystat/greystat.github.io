@@ -1,0 +1,1 @@
+window.__TOTAL_ASSETS_EXAM_F={"concept_id":"TOTAL_ASSETS","exam":"F","n":3671,"missing":11,"n_levels":12,"mode_level":"$200,000 to $499,999"};

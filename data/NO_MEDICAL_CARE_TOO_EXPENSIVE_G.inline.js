@@ -1,0 +1,1 @@
+window.__NO_MEDICAL_CARE_TOO_EXPENSIVE_EXAM_G={"concept_id":"NO_MEDICAL_CARE_TOO_EXPENSIVE","exam":"G","n":3537,"missing":0,"n_levels":3,"mode_level":"No"};

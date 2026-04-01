@@ -1,0 +1,30 @@
+{
+  "concept_id": "YEAR7_ATTENDANCE",
+  "title": "Attended year 7 exam (indicator)",
+  "chips": ["categorical", "2 levels", "F18 · Physical Activity History", "Physical Activity"],
+  "members": [
+    {
+      "concept_id": "YEAR7_ATTENDANCE",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f18r",
+      "dataset_stub": "f1f18r",
+      "varname": "F18RYR7",
+      "family": "F18",
+      "form_label": "Physical Activity Questionnaire",
+      "n_labels": "2",
+      "instrument": "F18: Physical Activity Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

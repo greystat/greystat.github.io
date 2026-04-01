@@ -1,0 +1,1 @@
+window.__WEIGHT_LOSS_METHOD_LAXATIVES_VOMIT_EXAM_I={"concept_id":"WEIGHT_LOSS_METHOD_LAXATIVES_VOMIT","exam":"I","n":3249,"missing":3225,"n_levels":2,"mode_level":"(Missing)"};

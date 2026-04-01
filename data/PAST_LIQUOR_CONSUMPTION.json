@@ -1,0 +1,43 @@
+{
+  "concept_id": "PAST_LIQUOR_CONSUMPTION",
+  "title": "Previously drank liquor (past consumption of liquor)",
+  "chips": ["categorical", "2 levels", "F07 · Alcohol Use Questionnaire", "Substance Use"],
+  "members": [
+    {
+      "concept_id": "PAST_LIQUOR_CONSUMPTION",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f07",
+      "dataset_stub": "a4f07",
+      "varname": "A07PSLIQ",
+      "family": "F07",
+      "form_label": "Alcohol Use Questionnaire",
+      "n_labels": "2",
+      "instrument": "F07: Alcohol Use Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "PAST_LIQUOR_CONSUMPTION",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f07",
+      "dataset_stub": "b2f07",
+      "varname": "B07PSLIQ",
+      "family": "F07",
+      "form_label": "Alcohol Use Questionnaire",
+      "n_labels": "2",
+      "instrument": "F07: Alcohol Use Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

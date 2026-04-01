@@ -1,0 +1,1 @@
+window.__RHEUMATIC_HEART_DISEASE_STATUS_EXAM_A={"concept_id":"RHEUMATIC_HEART_DISEASE_STATUS","exam":"A","n":4008,"missing":4003,"n_levels":5,"mode_level":"(Missing)"};

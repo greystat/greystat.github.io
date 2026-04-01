@@ -1,0 +1,1 @@
+window.__PAY_OUT_OF_POCKET_FULL_OR_COPAY_EXAM_D={"concept_id":"PAY_OUT_OF_POCKET_FULL_OR_COPAY","exam":"D","n":4085,"missing":2006,"n_levels":3,"mode_level":"(Missing)"};

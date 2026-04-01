@@ -1,0 +1,1 @@
+window.__REACTIVE_RESPONDING_LONG_TERM_GOALS_NOT_THINKING_EXAM_F={"concept_id":"REACTIVE_RESPONDING_LONG_TERM_GOALS_NOT_THINKING","exam":"F","n":3671,"missing":17,"n_levels":6,"mode_level":"Disagree"};

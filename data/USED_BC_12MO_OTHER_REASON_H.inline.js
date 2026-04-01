@@ -1,0 +1,1 @@
+window.__USED_BC_12MO_OTHER_REASON_EXAM_H={"concept_id":"USED_BC_12MO_OTHER_REASON","exam":"H","n":1964,"missing":1943,"n_levels":2,"mode_level":"(Missing)"};

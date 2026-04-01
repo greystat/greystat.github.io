@@ -1,0 +1,1 @@
+window.__REGULAR_HARD_LABOR_EXERCISE_EXAM_A={"concept_id":"REGULAR_HARD_LABOR_EXERCISE","exam":"A","n":5114,"missing":652,"n_levels":3,"mode_level":"1"};

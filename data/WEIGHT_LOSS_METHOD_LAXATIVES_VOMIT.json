@@ -1,0 +1,39 @@
+{
+  "concept_id": "WEIGHT_LOSS_METHOD_LAXATIVES_VOMIT",
+  "title": "Weight control method – laxatives or vomiting",
+  "chips": ["categorical", "1 levels", "F46 · Weight Change", "Anthropometry"],
+  "members": [
+    {
+      "concept_id": "WEIGHT_LOSS_METHOD_LAXATIVES_VOMIT",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f46",
+      "dataset_stub": "h4f46",
+      "varname": "H46LAXAT",
+      "family": "F46",
+      "form_label": "Weight Change",
+      "n_labels": "1",
+      "instrument": "F46: Weight Change",
+      "notes": ""
+    },
+    {
+      "concept_id": "WEIGHT_LOSS_METHOD_LAXATIVES_VOMIT",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f46",
+      "dataset_stub": "i1f46",
+      "varname": "I46LAXAT",
+      "family": "F46",
+      "form_label": "Weight Change",
+      "n_labels": "1",
+      "instrument": "F46: Weight Change",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "2",
+      "label": "Took laxatives or vomited"
+    }
+  ]
+}

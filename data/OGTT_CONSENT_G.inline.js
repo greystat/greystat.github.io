@@ -1,0 +1,1 @@
+window.__OGTT_CONSENT_EXAM_G={"concept_id":"OGTT_CONSENT","exam":"G","n":3535,"missing":32,"n_levels":3,"mode_level":"Yes"};

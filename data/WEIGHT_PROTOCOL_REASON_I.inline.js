@@ -1,0 +1,1 @@
+window.__WEIGHT_PROTOCOL_REASON_EXAM_I={"concept_id":"WEIGHT_PROTOCOL_REASON","exam":"I","n":2336,"missing":2315,"n_levels":4,"mode_level":"(Missing)"};

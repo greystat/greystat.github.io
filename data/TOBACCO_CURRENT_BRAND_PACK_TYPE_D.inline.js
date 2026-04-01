@@ -1,0 +1,1 @@
+window.__TOBACCO_CURRENT_BRAND_PACK_TYPE_EXAM_D={"concept_id":"TOBACCO_CURRENT_BRAND_PACK_TYPE","exam":"D","n":2404,"missing":1305,"n_levels":4,"mode_level":"(Missing)"};

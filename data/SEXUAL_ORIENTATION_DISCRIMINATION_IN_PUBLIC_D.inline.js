@@ -1,0 +1,1 @@
+window.__SEXUAL_ORIENTATION_DISCRIMINATION_IN_PUBLIC_EXAM_D={"concept_id":"SEXUAL_ORIENTATION_DISCRIMINATION_IN_PUBLIC","exam":"D","n":4085,"missing":52,"n_levels":3,"mode_level":"Yes"};

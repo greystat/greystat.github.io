@@ -1,0 +1,877 @@
+{
+  "concept_id": "SEEK_HELP_DIETICIAN",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3249,
+        "missing": 3180,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3180,
+            "pct": 97.9
+          },
+          {
+            "level": "Dietician",
+            "count": 69,
+            "pct": 2.1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1395,
+        "missing": 1373,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1373,
+            "pct": 98.4
+          },
+          {
+            "level": "Dietician",
+            "count": 22,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1854,
+        "missing": 1807,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1807,
+            "pct": 97.5
+          },
+          {
+            "level": "Dietician",
+            "count": 47,
+            "pct": 2.5
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1531,
+        "missing": 1486,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1486,
+            "pct": 97.1
+          },
+          {
+            "level": "Dietician",
+            "count": 45,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1718,
+        "missing": 1694,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1694,
+            "pct": 98.6
+          },
+          {
+            "level": "Dietician",
+            "count": 24,
+            "pct": 1.4
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 729,
+        "missing": 716,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 716,
+            "pct": 98.2
+          },
+          {
+            "level": "Dietician",
+            "count": 13,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 740,
+        "missing": 726,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 726,
+            "pct": 98.1
+          },
+          {
+            "level": "Dietician",
+            "count": 14,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 791,
+        "missing": 775,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 775,
+            "pct": 98
+          },
+          {
+            "level": "Dietician",
+            "count": 16,
+            "pct": 2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 989,
+        "missing": 963,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 963,
+            "pct": 97.4
+          },
+          {
+            "level": "Dietician",
+            "count": 26,
+            "pct": 2.6
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 616,
+        "missing": 603,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 603,
+            "pct": 97.9
+          },
+          {
+            "level": "Dietician",
+            "count": 13,
+            "pct": 2.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 915,
+        "missing": 883,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 883,
+            "pct": 96.5
+          },
+          {
+            "level": "Dietician",
+            "count": 32,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 779,
+        "missing": 770,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 770,
+            "pct": 98.8
+          },
+          {
+            "level": "Dietician",
+            "count": 9,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 939,
+        "missing": 924,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 924,
+            "pct": 98.4
+          },
+          {
+            "level": "Dietician",
+            "count": 15,
+            "pct": 1.6
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 339,
+        "missing": 334,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 334,
+            "pct": 98.5
+          },
+          {
+            "level": "Dietician",
+            "count": 5,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 322,
+        "missing": 316,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 316,
+            "pct": 98.1
+          },
+          {
+            "level": "Dietician",
+            "count": 6,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 355,
+        "missing": 352,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 352,
+            "pct": 99.2
+          },
+          {
+            "level": "Dietician",
+            "count": 3,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 379,
+        "missing": 371,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 371,
+            "pct": 97.9
+          },
+          {
+            "level": "Dietician",
+            "count": 8,
+            "pct": 2.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 390,
+        "missing": 382,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 382,
+            "pct": 97.9
+          },
+          {
+            "level": "Dietician",
+            "count": 8,
+            "pct": 2.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 418,
+        "missing": 410,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 410,
+            "pct": 98.1
+          },
+          {
+            "level": "Dietician",
+            "count": 8,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 436,
+        "missing": 423,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 423,
+            "pct": 97
+          },
+          {
+            "level": "Dietician",
+            "count": 13,
+            "pct": 3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 610,
+        "missing": 592,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 592,
+            "pct": 97
+          },
+          {
+            "level": "Dietician",
+            "count": 18,
+            "pct": 3
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 405,
+        "missing": 399,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 399,
+            "pct": 98.5
+          },
+          {
+            "level": "Dietician",
+            "count": 6,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 341,
+        "missing": 331,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 331,
+            "pct": 97.1
+          },
+          {
+            "level": "Dietician",
+            "count": 10,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 262,
+        "missing": 253,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 253,
+            "pct": 96.6
+          },
+          {
+            "level": "Dietician",
+            "count": 9,
+            "pct": 3.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 523,
+        "missing": 503,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 503,
+            "pct": 96.2
+          },
+          {
+            "level": "Dietician",
+            "count": 20,
+            "pct": 3.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 324,
+        "missing": 317,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 317,
+            "pct": 97.8
+          },
+          {
+            "level": "Dietician",
+            "count": 7,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 399,
+        "missing": 395,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 395,
+            "pct": 99
+          },
+          {
+            "level": "Dietician",
+            "count": 4,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 529,
+        "missing": 522,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 522,
+            "pct": 98.7
+          },
+          {
+            "level": "Dietician",
+            "count": 7,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 466,
+        "missing": 460,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 460,
+            "pct": 98.7
+          },
+          {
+            "level": "Dietician",
+            "count": 6,
+            "pct": 1.3
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 171,
+        "missing": 169,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 169,
+            "pct": 98.8
+          },
+          {
+            "level": "Dietician",
+            "count": 2,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 130,
+        "missing": 126,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 126,
+            "pct": 96.9
+          },
+          {
+            "level": "Dietician",
+            "count": 4,
+            "pct": 3.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 117,
+        "missing": 115,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 115,
+            "pct": 98.3
+          },
+          {
+            "level": "Dietician",
+            "count": 2,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 198,
+        "missing": 193,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 193,
+            "pct": 97.5
+          },
+          {
+            "level": "Dietician",
+            "count": 5,
+            "pct": 2.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 234,
+        "missing": 230,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 230,
+            "pct": 98.3
+          },
+          {
+            "level": "Dietician",
+            "count": 4,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 211,
+        "missing": 205,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 97.2
+          },
+          {
+            "level": "Dietician",
+            "count": 6,
+            "pct": 2.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 145,
+        "missing": 138,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 138,
+            "pct": 95.2
+          },
+          {
+            "level": "Dietician",
+            "count": 7,
+            "pct": 4.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 325,
+        "missing": 310,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 310,
+            "pct": 95.4
+          },
+          {
+            "level": "Dietician",
+            "count": 15,
+            "pct": 4.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 168,
+        "missing": 165,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 165,
+            "pct": 98.2
+          },
+          {
+            "level": "Dietician",
+            "count": 3,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 192,
+        "missing": 190,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 190,
+            "pct": 99
+          },
+          {
+            "level": "Dietician",
+            "count": 2,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 238,
+        "missing": 237,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 237,
+            "pct": 99.6
+          },
+          {
+            "level": "Dietician",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 181,
+        "missing": 178,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 178,
+            "pct": 98.3
+          },
+          {
+            "level": "Dietician",
+            "count": 3,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 156,
+        "missing": 152,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 152,
+            "pct": 97.4
+          },
+          {
+            "level": "Dietician",
+            "count": 4,
+            "pct": 2.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 207,
+        "missing": 205,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 99
+          },
+          {
+            "level": "Dietician",
+            "count": 2,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 291,
+        "missing": 285,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 285,
+            "pct": 97.9
+          },
+          {
+            "level": "Dietician",
+            "count": 6,
+            "pct": 2.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 285,
+        "missing": 282,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 282,
+            "pct": 98.9
+          },
+          {
+            "level": "Dietician",
+            "count": 3,
+            "pct": 1.1
+          }
+        ]
+      }
+    ]
+  }
+}

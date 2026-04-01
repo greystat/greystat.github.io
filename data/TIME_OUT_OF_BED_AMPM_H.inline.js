@@ -1,0 +1,1 @@
+window.__TIME_OUT_OF_BED_AMPM_EXAM_H={"concept_id":"TIME_OUT_OF_BED_AMPM","exam":"H","n":3493,"missing":46,"n_levels":3,"mode_level":"\"AM\""};

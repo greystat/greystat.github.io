@@ -1,0 +1,1 @@
+window.__TV_WATCHING_LEISURE_YN_EXAM_I={"concept_id":"TV_WATCHING_LEISURE_YN","exam":"I","n":3271,"missing":1,"n_levels":6,"mode_level":"Often"};

@@ -1,0 +1,1 @@
+window.__TYPE_A_HOUSEWORK_PRESSED_FOR_TIME_EXAM_G={"concept_id":"TYPE_A_HOUSEWORK_PRESSED_FOR_TIME","exam":"G","n":3498,"missing":2995,"n_levels":3,"mode_level":"(Missing)"};

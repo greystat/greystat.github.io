@@ -1,0 +1,55 @@
+{
+  "concept_id": "RELIGIOUS_ACTIVITY_FREQUENCY",
+  "title": "Frequency of participation in religious activities",
+  "chips": ["categorical", "5 levels", "F14 · Social Support", "Psychosocial"],
+  "members": [
+    {
+      "concept_id": "RELIGIOUS_ACTIVITY_FREQUENCY",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f14",
+      "dataset_stub": "a4f14",
+      "varname": "A14RELIG",
+      "family": "F14",
+      "form_label": "Social Support Questionnaire",
+      "n_labels": "5",
+      "instrument": "F14: Social Support Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "RELIGIOUS_ACTIVITY_FREQUENCY",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f14",
+      "dataset_stub": "b2f14",
+      "varname": "B14RELIG",
+      "family": "F14",
+      "form_label": "Social Support Questionnaire",
+      "n_labels": "5",
+      "instrument": "F14: Social Support Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Nome than once a week"
+    },
+    {
+      "code": "2",
+      "label": "Every week"
+    },
+    {
+      "code": "3",
+      "label": "Regularly, but not every week"
+    },
+    {
+      "code": "4",
+      "label": "Only on special occasions"
+    },
+    {
+      "code": "5",
+      "label": "Never"
+    }
+  ]
+}

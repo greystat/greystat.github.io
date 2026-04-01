@@ -1,0 +1,43 @@
+{
+  "concept_id": "TRACKING_SEGMENTS_ACCEPTABLE_4CH",
+  "title": "Acceptable tracking segments in 4-chamber images",
+  "chips": ["categorical", "2 levels", "ECHO · Echocardiography", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "TRACKING_SEGMENTS_ACCEPTABLE_4CH",
+      "exam": "H",
+      "exam_year": "",
+      "dataset": "h10echo",
+      "dataset_stub": "h10echo",
+      "varname": "H4CHACCEPT",
+      "family": "ECHO",
+      "form_label": "",
+      "n_labels": "1",
+      "instrument": "ECHO",
+      "notes": ""
+    },
+    {
+      "concept_id": "TRACKING_SEGMENTS_ACCEPTABLE_4CH",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i5echo",
+      "dataset_stub": "i5echo",
+      "varname": "I4CHACCEPT",
+      "family": "ECHO",
+      "form_label": "",
+      "n_labels": "1",
+      "instrument": "ECHO",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Yes"
+    },
+    {
+      "code": "0",
+      "label": "No"
+    }
+  ]
+}

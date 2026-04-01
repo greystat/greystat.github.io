@@ -1,0 +1,947 @@
+{
+  "concept_id": "TOBACCO_OLD_BRAND_MENTHOL",
+  "exam": "A",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3044,
+        "missing": 3021,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3021,
+            "pct": 99.2
+          },
+          {
+            "level": "Minthol",
+            "count": 13,
+            "pct": 0.4
+          },
+          {
+            "level": "Non-menthol",
+            "count": 10,
+            "pct": 0.3
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1457,
+        "missing": 1440,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1440,
+            "pct": 98.8
+          },
+          {
+            "level": "Minthol",
+            "count": 9,
+            "pct": 0.6
+          },
+          {
+            "level": "Non-menthol",
+            "count": 8,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1587,
+        "missing": 1581,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1581,
+            "pct": 99.6
+          },
+          {
+            "level": "Minthol",
+            "count": 4,
+            "pct": 0.3
+          },
+          {
+            "level": "Non-menthol",
+            "count": 2,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1448,
+        "missing": 1435,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1435,
+            "pct": 99.1
+          },
+          {
+            "level": "Minthol",
+            "count": 11,
+            "pct": 0.8
+          },
+          {
+            "level": "Non-menthol",
+            "count": 2,
+            "pct": 0.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1596,
+        "missing": 1586,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1586,
+            "pct": 99.4
+          },
+          {
+            "level": "Non-menthol",
+            "count": 8,
+            "pct": 0.5
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 614,
+        "missing": 609,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 609,
+            "pct": 99.2
+          },
+          {
+            "level": "Minthol",
+            "count": 3,
+            "pct": 0.5
+          },
+          {
+            "level": "Non-menthol",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 657,
+        "missing": 651,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 651,
+            "pct": 99.1
+          },
+          {
+            "level": "Minthol",
+            "count": 6,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 948,
+        "missing": 941,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 941,
+            "pct": 99.3
+          },
+          {
+            "level": "Non-menthol",
+            "count": 5,
+            "pct": 0.5
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 825,
+        "missing": 820,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 820,
+            "pct": 99.4
+          },
+          {
+            "level": "Non-menthol",
+            "count": 3,
+            "pct": 0.4
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 690,
+        "missing": 681,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 681,
+            "pct": 98.7
+          },
+          {
+            "level": "Minthol",
+            "count": 7,
+            "pct": 1
+          },
+          {
+            "level": "Non-menthol",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 758,
+        "missing": 754,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 754,
+            "pct": 99.5
+          },
+          {
+            "level": "Minthol",
+            "count": 4,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 767,
+        "missing": 759,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 759,
+            "pct": 99
+          },
+          {
+            "level": "Non-menthol",
+            "count": 6,
+            "pct": 0.8
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 829,
+        "missing": 827,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 827,
+            "pct": 99.8
+          },
+          {
+            "level": "Non-menthol",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 336,
+        "missing": 333,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 333,
+            "pct": 99.1
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 0.6
+          },
+          {
+            "level": "Non-menthol",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 314,
+        "missing": 310,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 310,
+            "pct": 98.7
+          },
+          {
+            "level": "Minthol",
+            "count": 4,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 473,
+        "missing": 467,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 467,
+            "pct": 98.7
+          },
+          {
+            "level": "Non-menthol",
+            "count": 4,
+            "pct": 0.8
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 334,
+        "missing": 330,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 330,
+            "pct": 98.8
+          },
+          {
+            "level": "Non-menthol",
+            "count": 3,
+            "pct": 0.9
+          },
+          {
+            "level": "Minthol",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 278,
+        "missing": 276,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 276,
+            "pct": 99.3
+          },
+          {
+            "level": "Minthol",
+            "count": 1,
+            "pct": 0.4
+          },
+          {
+            "level": "Non-menthol",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 343,
+        "missing": 341,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 341,
+            "pct": 99.4
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 475,
+        "missing": 474,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 474,
+            "pct": 99.8
+          },
+          {
+            "level": "Non-menthol",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 491,
+        "missing": 490,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 490,
+            "pct": 99.8
+          },
+          {
+            "level": "Minthol",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 277,
+        "missing": 276,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 276,
+            "pct": 99.6
+          },
+          {
+            "level": "Minthol",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 296,
+        "missing": 290,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 290,
+            "pct": 98
+          },
+          {
+            "level": "Minthol",
+            "count": 6,
+            "pct": 2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 411,
+        "missing": 408,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 408,
+            "pct": 99.3
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 0.5
+          },
+          {
+            "level": "Non-menthol",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 464,
+        "missing": 461,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 461,
+            "pct": 99.4
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 0.4
+          },
+          {
+            "level": "Non-menthol",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 337,
+        "missing": 333,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 333,
+            "pct": 98.8
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 0.6
+          },
+          {
+            "level": "Non-menthol",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 361,
+        "missing": 361,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 361,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 537,
+        "missing": 533,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 533,
+            "pct": 99.3
+          },
+          {
+            "level": "Non-menthol",
+            "count": 4,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 361,
+        "missing": 359,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 359,
+            "pct": 99.4
+          },
+          {
+            "level": "Non-menthol",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 154,
+        "missing": 154,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 154,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 143,
+        "missing": 139,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 139,
+            "pct": 97.2
+          },
+          {
+            "level": "Minthol",
+            "count": 4,
+            "pct": 2.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 210,
+        "missing": 207,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 207,
+            "pct": 98.6
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 1
+          },
+          {
+            "level": "Non-menthol",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 183,
+        "missing": 181,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 181,
+            "pct": 98.9
+          },
+          {
+            "level": "Minthol",
+            "count": 1,
+            "pct": 0.5
+          },
+          {
+            "level": "Non-menthol",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 123,
+        "missing": 122,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 122,
+            "pct": 99.2
+          },
+          {
+            "level": "Minthol",
+            "count": 1,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 153,
+        "missing": 151,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 151,
+            "pct": 98.7
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 201,
+        "missing": 201,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 201,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 281,
+        "missing": 280,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 280,
+            "pct": 99.6
+          },
+          {
+            "level": "Minthol",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 182,
+        "missing": 179,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 179,
+            "pct": 98.4
+          },
+          {
+            "level": "Minthol",
+            "count": 2,
+            "pct": 1.1
+          },
+          {
+            "level": "Non-menthol",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 171,
+        "missing": 171,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 171,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 263,
+        "missing": 260,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 260,
+            "pct": 98.9
+          },
+          {
+            "level": "Non-menthol",
+            "count": 3,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 151,
+        "missing": 149,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 149,
+            "pct": 98.7
+          },
+          {
+            "level": "Non-menthol",
+            "count": 2,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 155,
+        "missing": 154,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 154,
+            "pct": 99.4
+          },
+          {
+            "level": "Non-menthol",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 190,
+        "missing": 190,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 190,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 274,
+        "missing": 273,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 273,
+            "pct": 99.6
+          },
+          {
+            "level": "Non-menthol",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 210,
+        "missing": 210,
+        "n_levels": 1,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 210,
+            "pct": 100
+          }
+        ]
+      }
+    ]
+  }
+}

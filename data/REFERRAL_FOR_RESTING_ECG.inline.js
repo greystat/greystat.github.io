@@ -1,0 +1,1 @@
+window.__REFERRAL_FOR_RESTING_ECG_CONCEPT={"concept_id":"REFERRAL_FOR_RESTING_ECG","title":"Referral for resting ECG","chips":"categorical","members":[{"concept_id":"REFERRAL_FOR_RESTING_ECG","exam":"D","exam_year":"","dataset":"dflwup1","dataset_stub":"dflwup1","varname":"FY096RER","family":"FLWUP","form_label":"","n_labels":"","instrument":"FLWUP","notes":""}],"dictionary":{}};

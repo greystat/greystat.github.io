@@ -1,0 +1,1 @@
+window.__WAIST_HIP_PROTOCOL_MODIFIED_EXAM_C={"concept_id":"WAIST_HIP_PROTOCOL_MODIFIED","exam":"C","n":4351,"missing":38,"n_levels":5,"mode_level":"No modification"};

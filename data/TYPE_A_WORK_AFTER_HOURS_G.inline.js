@@ -1,0 +1,1 @@
+window.__TYPE_A_WORK_AFTER_HOURS_EXAM_G={"concept_id":"TYPE_A_WORK_AFTER_HOURS","exam":"G","n":3498,"missing":472,"n_levels":3,"mode_level":"Yes"};

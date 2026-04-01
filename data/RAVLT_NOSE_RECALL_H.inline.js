@@ -1,0 +1,1 @@
+window.__RAVLT_NOSE_RECALL_EXAM_H={"concept_id":"RAVLT_NOSE_RECALL","exam":"H","n":3386,"missing":1613,"n_levels":2,"mode_level":"Nose"};

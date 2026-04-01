@@ -1,0 +1,1 @@
+window.__USUALLY_WEAR_WHAT_IS_HANDY_EXAM_D={"concept_id":"USUALLY_WEAR_WHAT_IS_HANDY","exam":"D","n":4085,"missing":58,"n_levels":6,"mode_level":"Mostly disagree"};

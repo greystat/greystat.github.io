@@ -1,0 +1,1 @@
+window.__YALTA_QC_3ML_ALIQUOTS_YN_EXAM_H={"concept_id":"YALTA_QC_3ML_ALIQUOTS_YN","exam":"H","n":3493,"missing":3318,"n_levels":3,"mode_level":"(Missing)"};

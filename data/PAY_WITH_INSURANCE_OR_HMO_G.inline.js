@@ -1,0 +1,1 @@
+window.__PAY_WITH_INSURANCE_OR_HMO_EXAM_G={"concept_id":"PAY_WITH_INSURANCE_OR_HMO","exam":"G","n":3537,"missing":335,"n_levels":3,"mode_level":"Yes"};

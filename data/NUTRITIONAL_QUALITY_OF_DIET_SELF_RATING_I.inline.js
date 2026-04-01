@@ -1,0 +1,1 @@
+window.__NUTRITIONAL_QUALITY_OF_DIET_SELF_RATING_EXAM_I={"concept_id":"NUTRITIONAL_QUALITY_OF_DIET_SELF_RATING","exam":"I","n":3277,"missing":3,"n_levels":5,"mode_level":"3"};

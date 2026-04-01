@@ -1,0 +1,1 @@
+window.__TYPE_A_HOUSEWORK_THINK_ALL_DAY_EXAM_A={"concept_id":"TYPE_A_HOUSEWORK_THINK_ALL_DAY","exam":"A","n":5114,"missing":38,"n_levels":4,"mode_level":"0"};

@@ -1,0 +1,1 @@
+window.__TYPE_A_GENERAL_TIME_PRESSURE_END_OF_DAY_EXAM_G={"concept_id":"TYPE_A_GENERAL_TIME_PRESSURE_END_OF_DAY","exam":"G","n":3498,"missing":466,"n_levels":3,"mode_level":"Yes"};

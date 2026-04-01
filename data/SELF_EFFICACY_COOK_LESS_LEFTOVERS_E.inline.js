@@ -1,0 +1,1 @@
+window.__SELF_EFFICACY_COOK_LESS_LEFTOVERS_EXAM_E={"concept_id":"SELF_EFFICACY_COOK_LESS_LEFTOVERS","exam":"E","n":3949,"missing":50,"n_levels":7,"mode_level":"I know I can"};

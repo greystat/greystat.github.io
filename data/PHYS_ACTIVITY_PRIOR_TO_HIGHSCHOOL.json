@@ -1,0 +1,55 @@
+{
+  "concept_id": "PHYS_ACTIVITY_PRIOR_TO_HIGHSCHOOL",
+  "title": "Physical activity prior to high school",
+  "chips": ["categorical", "5 levels", "F18 · Physical Activity History", "Physical Activity"],
+  "members": [
+    {
+      "concept_id": "PHYS_ACTIVITY_PRIOR_TO_HIGHSCHOOL",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f18",
+      "dataset_stub": "a4f18",
+      "varname": "A18PREHS",
+      "family": "F18",
+      "form_label": "Physical Activity Questionnaire",
+      "n_labels": "5",
+      "instrument": "F18: Physical Activity Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "PHYS_ACTIVITY_PRIOR_TO_HIGHSCHOOL",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f18r",
+      "dataset_stub": "f1f18r",
+      "varname": "F18RAPST",
+      "family": "F18",
+      "form_label": "Physical Activity Questionnaire",
+      "n_labels": "",
+      "instrument": "F18: Physical Activity Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Physically inactive"
+    },
+    {
+      "code": "2",
+      "label": "Between 1 and 3"
+    },
+    {
+      "code": "3",
+      "label": "Moderately active"
+    },
+    {
+      "code": "4",
+      "label": "Between 3 and 4"
+    },
+    {
+      "code": "5",
+      "label": "Very active"
+    }
+  ]
+}

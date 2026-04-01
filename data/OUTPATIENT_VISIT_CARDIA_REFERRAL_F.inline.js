@@ -1,0 +1,1 @@
+window.__OUTPATIENT_VISIT_CARDIA_REFERRAL_EXAM_F={"concept_id":"OUTPATIENT_VISIT_CARDIA_REFERRAL","exam":"F","n":3671,"missing":308,"n_levels":3,"mode_level":"No"};

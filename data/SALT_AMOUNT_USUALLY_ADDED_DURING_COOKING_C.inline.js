@@ -1,0 +1,1 @@
+window.__SALT_AMOUNT_USUALLY_ADDED_DURING_COOKING_EXAM_C={"concept_id":"SALT_AMOUNT_USUALLY_ADDED_DURING_COOKING","exam":"C","n":448,"missing":62,"n_levels":6,"mode_level":"Light to moderate"};

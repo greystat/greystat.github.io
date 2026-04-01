@@ -1,0 +1,1 @@
+window.__TYPE_A_HOUSEWORK_DISSATISFACTION_EXAM_A={"concept_id":"TYPE_A_HOUSEWORK_DISSATISFACTION","exam":"A","n":5114,"missing":36,"n_levels":4,"mode_level":"0"};

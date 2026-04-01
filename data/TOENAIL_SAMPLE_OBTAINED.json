@@ -1,0 +1,30 @@
+{
+  "concept_id": "TOENAIL_SAMPLE_OBTAINED",
+  "title": "Toenail sample obtained",
+  "chips": ["categorical", "2 levels", "F30 · Carotid IMT", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "TOENAIL_SAMPLE_OBTAINED",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f30",
+      "dataset_stub": "b2f30",
+      "varname": "B30SAMPL",
+      "family": "F30",
+      "form_label": "Toenail Collection Form",
+      "n_labels": "2",
+      "instrument": "F30: Toenail Collection Form",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

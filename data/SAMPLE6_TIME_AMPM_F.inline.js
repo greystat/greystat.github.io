@@ -1,0 +1,1 @@
+window.__SAMPLE6_TIME_AMPM_EXAM_F={"concept_id":"SAMPLE6_TIME_AMPM","exam":"F","n":811,"missing":19,"n_levels":3,"mode_level":"2"};

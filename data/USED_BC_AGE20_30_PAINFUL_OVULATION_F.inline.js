@@ -1,0 +1,1 @@
+window.__USED_BC_AGE20_30_PAINFUL_OVULATION_EXAM_F={"concept_id":"USED_BC_AGE20_30_PAINFUL_OVULATION","exam":"F","n":2051,"missing":2016,"n_levels":2,"mode_level":"(Missing)"};

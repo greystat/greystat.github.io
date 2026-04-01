@@ -1,0 +1,877 @@
+{
+  "concept_id": "RAVLT_INTERFERENCE_BOAT",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3386,
+        "missing": 2828,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2828,
+            "pct": 83.5
+          },
+          {
+            "level": "Boat",
+            "count": 558,
+            "pct": 16.5
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1477,
+        "missing": 1247,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1247,
+            "pct": 84.4
+          },
+          {
+            "level": "Boat",
+            "count": 230,
+            "pct": 15.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1909,
+        "missing": 1581,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1581,
+            "pct": 82.8
+          },
+          {
+            "level": "Boat",
+            "count": 328,
+            "pct": 17.2
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1567,
+        "missing": 1296,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1296,
+            "pct": 82.7
+          },
+          {
+            "level": "Boat",
+            "count": 271,
+            "pct": 17.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1819,
+        "missing": 1532,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1532,
+            "pct": 84.2
+          },
+          {
+            "level": "Boat",
+            "count": 287,
+            "pct": 15.8
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 814,
+        "missing": 643,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 643,
+            "pct": 79
+          },
+          {
+            "level": "Boat",
+            "count": 171,
+            "pct": 21
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 782,
+        "missing": 665,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 665,
+            "pct": 85
+          },
+          {
+            "level": "Boat",
+            "count": 117,
+            "pct": 15
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 898,
+        "missing": 744,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 744,
+            "pct": 82.9
+          },
+          {
+            "level": "Boat",
+            "count": 154,
+            "pct": 17.1
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 892,
+        "missing": 776,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 776,
+            "pct": 87
+          },
+          {
+            "level": "Boat",
+            "count": 116,
+            "pct": 13
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 631,
+        "missing": 524,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 524,
+            "pct": 83
+          },
+          {
+            "level": "Boat",
+            "count": 107,
+            "pct": 17
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 936,
+        "missing": 772,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 772,
+            "pct": 82.5
+          },
+          {
+            "level": "Boat",
+            "count": 164,
+            "pct": 17.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 846,
+        "missing": 723,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 723,
+            "pct": 85.5
+          },
+          {
+            "level": "Boat",
+            "count": 123,
+            "pct": 14.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 973,
+        "missing": 809,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 809,
+            "pct": 83.1
+          },
+          {
+            "level": "Boat",
+            "count": 164,
+            "pct": 16.9
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 377,
+        "missing": 295,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 295,
+            "pct": 78.2
+          },
+          {
+            "level": "Boat",
+            "count": 82,
+            "pct": 21.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 336,
+        "missing": 293,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 293,
+            "pct": 87.2
+          },
+          {
+            "level": "Boat",
+            "count": 43,
+            "pct": 12.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 413,
+        "missing": 350,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 350,
+            "pct": 84.7
+          },
+          {
+            "level": "Boat",
+            "count": 63,
+            "pct": 15.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 351,
+        "missing": 309,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 309,
+            "pct": 88
+          },
+          {
+            "level": "Boat",
+            "count": 42,
+            "pct": 12
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 437,
+        "missing": 348,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 348,
+            "pct": 79.6
+          },
+          {
+            "level": "Boat",
+            "count": 89,
+            "pct": 20.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 446,
+        "missing": 372,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 372,
+            "pct": 83.4
+          },
+          {
+            "level": "Boat",
+            "count": 74,
+            "pct": 16.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 485,
+        "missing": 394,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 394,
+            "pct": 81.2
+          },
+          {
+            "level": "Boat",
+            "count": 91,
+            "pct": 18.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 541,
+        "missing": 467,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 467,
+            "pct": 86.3
+          },
+          {
+            "level": "Boat",
+            "count": 74,
+            "pct": 13.7
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 454,
+        "missing": 355,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 355,
+            "pct": 78.2
+          },
+          {
+            "level": "Boat",
+            "count": 99,
+            "pct": 21.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 353,
+        "missing": 294,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 294,
+            "pct": 83.3
+          },
+          {
+            "level": "Boat",
+            "count": 59,
+            "pct": 16.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 313,
+        "missing": 256,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 256,
+            "pct": 81.8
+          },
+          {
+            "level": "Boat",
+            "count": 57,
+            "pct": 18.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 447,
+        "missing": 391,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 391,
+            "pct": 87.5
+          },
+          {
+            "level": "Boat",
+            "count": 56,
+            "pct": 12.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 360,
+        "missing": 288,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 288,
+            "pct": 80
+          },
+          {
+            "level": "Boat",
+            "count": 72,
+            "pct": 20
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 429,
+        "missing": 371,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 371,
+            "pct": 86.5
+          },
+          {
+            "level": "Boat",
+            "count": 58,
+            "pct": 13.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 585,
+        "missing": 488,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 488,
+            "pct": 83.4
+          },
+          {
+            "level": "Boat",
+            "count": 97,
+            "pct": 16.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 445,
+        "missing": 385,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 385,
+            "pct": 86.5
+          },
+          {
+            "level": "Boat",
+            "count": 60,
+            "pct": 13.5
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 189,
+        "missing": 150,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 150,
+            "pct": 79.4
+          },
+          {
+            "level": "Boat",
+            "count": 39,
+            "pct": 20.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 131,
+        "missing": 109,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 109,
+            "pct": 83.2
+          },
+          {
+            "level": "Boat",
+            "count": 22,
+            "pct": 16.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 139,
+        "missing": 116,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 116,
+            "pct": 83.5
+          },
+          {
+            "level": "Boat",
+            "count": 23,
+            "pct": 16.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 172,
+        "missing": 149,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 149,
+            "pct": 86.6
+          },
+          {
+            "level": "Boat",
+            "count": 23,
+            "pct": 13.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 265,
+        "missing": 205,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 77.4
+          },
+          {
+            "level": "Boat",
+            "count": 60,
+            "pct": 22.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 222,
+        "missing": 185,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 185,
+            "pct": 83.3
+          },
+          {
+            "level": "Boat",
+            "count": 37,
+            "pct": 16.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 174,
+        "missing": 140,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 140,
+            "pct": 80.5
+          },
+          {
+            "level": "Boat",
+            "count": 34,
+            "pct": 19.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 275,
+        "missing": 242,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 242,
+            "pct": 88
+          },
+          {
+            "level": "Boat",
+            "count": 33,
+            "pct": 12
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 188,
+        "missing": 145,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 145,
+            "pct": 77.1
+          },
+          {
+            "level": "Boat",
+            "count": 43,
+            "pct": 22.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 205,
+        "missing": 184,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 184,
+            "pct": 89.8
+          },
+          {
+            "level": "Boat",
+            "count": 21,
+            "pct": 10.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 274,
+        "missing": 234,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 234,
+            "pct": 85.4
+          },
+          {
+            "level": "Boat",
+            "count": 40,
+            "pct": 14.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 179,
+        "missing": 160,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 160,
+            "pct": 89.4
+          },
+          {
+            "level": "Boat",
+            "count": 19,
+            "pct": 10.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 172,
+        "missing": 143,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 143,
+            "pct": 83.1
+          },
+          {
+            "level": "Boat",
+            "count": 29,
+            "pct": 16.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 187,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 187,
+            "pct": 83.5
+          },
+          {
+            "level": "Boat",
+            "count": 37,
+            "pct": 16.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 311,
+        "missing": 254,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 254,
+            "pct": 81.7
+          },
+          {
+            "level": "Boat",
+            "count": 57,
+            "pct": 18.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 266,
+        "missing": 225,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 225,
+            "pct": 84.6
+          },
+          {
+            "level": "Boat",
+            "count": 41,
+            "pct": 15.4
+          }
+        ]
+      }
+    ]
+  }
+}

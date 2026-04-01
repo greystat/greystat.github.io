@@ -1,0 +1,34 @@
+{
+  "concept_id": "UNWANTED_HAIR_AGE20_30",
+  "title": "Unwanted facial hair at age 20–30",
+  "chips": ["categorical", "3 levels", "F68 · Reproductive Health", "Reproductive Health"],
+  "members": [
+    {
+      "concept_id": "UNWANTED_HAIR_AGE20_30",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f68",
+      "dataset_stub": "f1f68",
+      "varname": "F68THAIR",
+      "family": "F68",
+      "form_label": "Women's Reproductive Health Questionnaire",
+      "n_labels": "3",
+      "instrument": "F68: Women's Reproductive Health Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "8",
+      "label": "Not sure"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__PERIODS_CHANGED_12MO_EXAM_F={"concept_id":"PERIODS_CHANGED_12MO","exam":"F","n":2051,"missing":462,"n_levels":7,"mode_level":"Stayed the same"};

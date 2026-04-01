@@ -1,0 +1,1 @@
+window.__PARTICIPATION_AFFECTED_CARDIA_INTEREST_EXAM_C={"concept_id":"PARTICIPATION_AFFECTED_CARDIA_INTEREST","exam":"C","n":316,"missing":10,"n_levels":3,"mode_level":"1"};

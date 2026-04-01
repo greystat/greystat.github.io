@@ -1,0 +1,95 @@
+{
+  "concept_id": "NICOTINE_PATCH_USED_PAST_WEEK",
+  "title": "Nicotine patch use in past week",
+  "chips": ["categorical", "2 levels", "F10 · Tobacco Use Questionnaire", "Substance Use"],
+  "members": [
+    {
+      "concept_id": "NICOTINE_PATCH_USED_PAST_WEEK",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f10",
+      "dataset_stub": "e1f10",
+      "varname": "E10PATWK",
+      "family": "F10",
+      "form_label": "Tobacco Use Questionnaire",
+      "n_labels": "2",
+      "instrument": "F10: Tobacco Use Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "NICOTINE_PATCH_USED_PAST_WEEK",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f10",
+      "dataset_stub": "f1f10",
+      "varname": "F10PATWK",
+      "family": "F10",
+      "form_label": "Tobacco Use Questionnaire",
+      "n_labels": "",
+      "instrument": "F10: Tobacco Use Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "NICOTINE_PATCH_USED_PAST_WEEK",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f10",
+      "dataset_stub": "g3f10",
+      "varname": "G10PATWK",
+      "family": "F10",
+      "form_label": "Tobacco use",
+      "n_labels": "1",
+      "instrument": "F10: Tobacco use",
+      "notes": ""
+    },
+    {
+      "concept_id": "NICOTINE_PATCH_USED_PAST_WEEK",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f10",
+      "dataset_stub": "h3f10",
+      "varname": "H10PATWK",
+      "family": "F10",
+      "form_label": "Tobacco use Questionnaire",
+      "n_labels": "1",
+      "instrument": "F10: Tobacco use Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "NICOTINE_PATCH_USED_PAST_WEEK",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f10",
+      "dataset_stub": "i1f10",
+      "varname": "I10PATWK",
+      "family": "F10",
+      "form_label": "Tobacco Use Questionnarie",
+      "n_labels": "2",
+      "instrument": "F10: Tobacco Use Questionnarie",
+      "notes": ""
+    },
+    {
+      "concept_id": "NICOTINE_PATCH_USED_PAST_WEEK",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f10",
+      "dataset_stub": "j1f10",
+      "varname": "J10PATWK",
+      "family": "F10",
+      "form_label": "Tobacco Use Questionnaire",
+      "n_labels": "1",
+      "instrument": "F10: Tobacco Use Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

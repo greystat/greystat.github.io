@@ -1,0 +1,1 @@
+window.__UNEMPLOYED_MORE_THAN_2M_SINCE_LAST_EXAM_EXAM_J={"concept_id":"UNEMPLOYED_MORE_THAN_2M_SINCE_LAST_EXAM","exam":"J","n":2516,"missing":24,"n_levels":5,"mode_level":"No"};

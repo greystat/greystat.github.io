@@ -1,0 +1,1 @@
+window.__TROUBLE_FALLING_ASLEEP_EXAM_G={"concept_id":"TROUBLE_FALLING_ASLEEP","exam":"G","n":3501,"missing":8,"n_levels":4,"mode_level":"\"No\""};

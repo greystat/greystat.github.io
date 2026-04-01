@@ -1,0 +1,1 @@
+window.__SPOUSE_UNEMPLOYED_LAID_OFF_EXAM_B={"concept_id":"SPOUSE_UNEMPLOYED_LAID_OFF","exam":"B","n":4623,"missing":44,"n_levels":4,"mode_level":"No"};

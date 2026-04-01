@@ -1,0 +1,1 @@
+window.__TIME_OF_FOLLOWUP_MONTHS_CONCEPT={"concept_id":"TIME_OF_FOLLOWUP_MONTHS","title":"Time of follow-up (months)","chips":"categorical","members":[{"concept_id":"TIME_OF_FOLLOWUP_MONTHS","exam":"D","exam_year":"","dataset":"dflwupt1","dataset_stub":"dflwupt1","varname":"FYINMOS","family":"FLWUP","form_label":"","n_labels":"","instrument":"FLWUP","notes":""}],"dictionary":{}};

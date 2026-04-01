@@ -1,0 +1,60 @@
+{
+  "concept_id": "SPIROMETER_RACE_CODE",
+  "title": "Race code for spirometry",
+  "chips": ["categorical", "F12 · Lung Disease History", "Pulmonary"],
+  "members": [
+    {
+      "concept_id": "SPIROMETER_RACE_CODE",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f12",
+      "dataset_stub": "a4f12",
+      "varname": "A12RACE",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "n_labels": "",
+      "instrument": "F12: History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "notes": ""
+    },
+    {
+      "concept_id": "SPIROMETER_RACE_CODE",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f12",
+      "dataset_stub": "b2f12",
+      "varname": "B12RACE",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "n_labels": "",
+      "instrument": "F12: History of Lung Problems Questionnaire and Pulmonary Function Results",
+      "notes": ""
+    },
+    {
+      "concept_id": "SPIROMETER_RACE_CODE",
+      "exam": "C",
+      "exam_year": "",
+      "dataset": "c1f12pf",
+      "dataset_stub": "c1f12pf",
+      "varname": "C12RACE",
+      "family": "F12",
+      "form_label": "",
+      "n_labels": "",
+      "instrument": "F12",
+      "notes": ""
+    },
+    {
+      "concept_id": "SPIROMETER_RACE_CODE",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f12pf",
+      "dataset_stub": "e1f12pf",
+      "varname": "E12RACE",
+      "family": "F12",
+      "form_label": "History of Lung Problems Questionnaire",
+      "n_labels": "",
+      "instrument": "F12: History of Lung Problems Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": {}
+}

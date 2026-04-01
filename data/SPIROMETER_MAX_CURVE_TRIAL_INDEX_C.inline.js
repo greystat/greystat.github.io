@@ -1,0 +1,1 @@
+window.__SPIROMETER_MAX_CURVE_TRIAL_INDEX_EXAM_C={"concept_id":"SPIROMETER_MAX_CURVE_TRIAL_INDEX","exam":"C","n":4351,"missing":78,"n_levels":6,"mode_level":"5"};

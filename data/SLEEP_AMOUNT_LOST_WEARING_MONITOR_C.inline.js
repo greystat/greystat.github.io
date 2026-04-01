@@ -1,0 +1,1 @@
+window.__SLEEP_AMOUNT_LOST_WEARING_MONITOR_EXAM_C={"concept_id":"SLEEP_AMOUNT_LOST_WEARING_MONITOR","exam":"C","n":316,"missing":197,"n_levels":6,"mode_level":"(Missing)"};

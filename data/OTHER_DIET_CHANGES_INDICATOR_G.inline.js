@@ -1,0 +1,1 @@
+window.__OTHER_DIET_CHANGES_INDICATOR_EXAM_G={"concept_id":"OTHER_DIET_CHANGES_INDICATOR","exam":"G","n":3142,"missing":1189,"n_levels":3,"mode_level":"\"Yes\""};

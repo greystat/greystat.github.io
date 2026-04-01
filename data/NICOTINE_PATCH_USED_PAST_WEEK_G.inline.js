@@ -1,0 +1,1 @@
+window.__NICOTINE_PATCH_USED_PAST_WEEK_EXAM_G={"concept_id":"NICOTINE_PATCH_USED_PAST_WEEK","exam":"G","n":3547,"missing":3288,"n_levels":3,"mode_level":"(Missing)"};

@@ -1,0 +1,1 @@
+window.__SAMPLE5_TIME_AMPM_CONCEPT={"concept_id":"SAMPLE5_TIME_AMPM","title":"Saliva sample 5 time AM/PM indicator","chips":"categorical","members":[{"concept_id":"SAMPLE5_TIME_AMPM","exam":"F","exam_year":"","dataset":"f4scort","dataset_stub":"f3scort","varname":"FLHS5AM","family":"SCORT","form_label":"","n_labels":"","instrument":"SCORT","notes":""}],"dictionary":{}};

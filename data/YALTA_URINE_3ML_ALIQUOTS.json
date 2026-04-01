@@ -1,0 +1,55 @@
+{
+  "concept_id": "YALTA_URINE_3ML_ALIQUOTS",
+  "title": "3 mL urine aliquots for YALTA samples",
+  "chips": ["categorical", "5 levels", "F51 · Urine Specimens", "Renal"],
+  "members": [
+    {
+      "concept_id": "YALTA_URINE_3ML_ALIQUOTS",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f51",
+      "dataset_stub": "h3f51",
+      "varname": "H51YCTB1",
+      "family": "F51",
+      "form_label": "Urine Specimens",
+      "n_labels": "1",
+      "instrument": "F51: Urine Specimens",
+      "notes": ""
+    },
+    {
+      "concept_id": "YALTA_URINE_3ML_ALIQUOTS",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f51",
+      "dataset_stub": "i1f51",
+      "varname": "I51YCTB1",
+      "family": "F51",
+      "form_label": "Urine Specimens",
+      "n_labels": "4",
+      "instrument": "F51: Urine Specimens",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "4",
+      "label": "3 mL urine aliquots, metabolic profile, brown stripe, MEBRL?UMN"
+    },
+    {
+      "code": "3",
+      "label": "3 mL urine aliquots, metabolic profile, brown stripe, MEBRL?UMN"
+    },
+    {
+      "code": "0",
+      "label": "Unknown"
+    },
+    {
+      "code": "1",
+      "label": "Unknown"
+    },
+    {
+      "code": "2",
+      "label": "Unknown"
+    }
+  ]
+}

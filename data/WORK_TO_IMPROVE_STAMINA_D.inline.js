@@ -1,0 +1,1 @@
+window.__WORK_TO_IMPROVE_STAMINA_EXAM_D={"concept_id":"WORK_TO_IMPROVE_STAMINA","exam":"D","n":4085,"missing":60,"n_levels":6,"mode_level":"Neither agree nor disagree"};

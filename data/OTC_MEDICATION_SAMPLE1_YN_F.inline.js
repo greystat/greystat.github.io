@@ -1,0 +1,1 @@
+window.__OTC_MEDICATION_SAMPLE1_YN_EXAM_F={"concept_id":"OTC_MEDICATION_SAMPLE1_YN","exam":"F","n":814,"missing":812,"n_levels":3,"mode_level":"(Missing)"};

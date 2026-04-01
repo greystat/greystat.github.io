@@ -1,0 +1,1 @@
+window.__REDUCED_CALORIES_EXAM_F={"concept_id":"REDUCED_CALORIES","exam":"F","n":3671,"missing":1841,"n_levels":3,"mode_level":"(Missing)"};

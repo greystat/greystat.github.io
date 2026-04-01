@@ -1,0 +1,742 @@
+{
+  "concept_id": "URINARY_LEAKAGE_3MO",
+  "exam": "G",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1990,
+        "missing": 1406,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1406,
+            "pct": 70.7
+          },
+          {
+            "level": "Leaking urine",
+            "count": 503,
+            "pct": 25.3
+          },
+          {
+            "level": "\"No\"",
+            "count": 81,
+            "pct": 4.1
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 1990,
+        "missing": 1406,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1406,
+            "pct": 70.7
+          },
+          {
+            "level": "Leaking urine",
+            "count": 503,
+            "pct": 25.3
+          },
+          {
+            "level": "\"No\"",
+            "count": 81,
+            "pct": 4.1
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 990,
+        "missing": 748,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 748,
+            "pct": 75.6
+          },
+          {
+            "level": "Leaking urine",
+            "count": 201,
+            "pct": 20.3
+          },
+          {
+            "level": "\"No\"",
+            "count": 41,
+            "pct": 4.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1000,
+        "missing": 658,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 658,
+            "pct": 65.8
+          },
+          {
+            "level": "Leaking urine",
+            "count": 302,
+            "pct": 30.2
+          },
+          {
+            "level": "\"No\"",
+            "count": 40,
+            "pct": 4
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 430,
+        "missing": 298,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 298,
+            "pct": 69.3
+          },
+          {
+            "level": "Leaking urine",
+            "count": 112,
+            "pct": 26
+          },
+          {
+            "level": "\"No\"",
+            "count": 20,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 456,
+        "missing": 334,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 334,
+            "pct": 73.2
+          },
+          {
+            "level": "Leaking urine",
+            "count": 106,
+            "pct": 23.2
+          },
+          {
+            "level": "\"No\"",
+            "count": 16,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 499,
+        "missing": 331,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 331,
+            "pct": 66.3
+          },
+          {
+            "level": "Leaking urine",
+            "count": 137,
+            "pct": 27.5
+          },
+          {
+            "level": "\"No\"",
+            "count": 31,
+            "pct": 6.2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 605,
+        "missing": 443,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 443,
+            "pct": 73.2
+          },
+          {
+            "level": "Leaking urine",
+            "count": 148,
+            "pct": 24.5
+          },
+          {
+            "level": "\"No\"",
+            "count": 14,
+            "pct": 2.3
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 990,
+        "missing": 748,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 748,
+            "pct": 75.6
+          },
+          {
+            "level": "Leaking urine",
+            "count": 201,
+            "pct": 20.3
+          },
+          {
+            "level": "\"No\"",
+            "count": 41,
+            "pct": 4.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1000,
+        "missing": 658,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 658,
+            "pct": 65.8
+          },
+          {
+            "level": "Leaking urine",
+            "count": 302,
+            "pct": 30.2
+          },
+          {
+            "level": "\"No\"",
+            "count": 40,
+            "pct": 4
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 430,
+        "missing": 298,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 298,
+            "pct": 69.3
+          },
+          {
+            "level": "Leaking urine",
+            "count": 112,
+            "pct": 26
+          },
+          {
+            "level": "\"No\"",
+            "count": 20,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 456,
+        "missing": 334,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 334,
+            "pct": 73.2
+          },
+          {
+            "level": "Leaking urine",
+            "count": 106,
+            "pct": 23.2
+          },
+          {
+            "level": "\"No\"",
+            "count": 16,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 499,
+        "missing": 331,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 331,
+            "pct": 66.3
+          },
+          {
+            "level": "Leaking urine",
+            "count": 137,
+            "pct": 27.5
+          },
+          {
+            "level": "\"No\"",
+            "count": 31,
+            "pct": 6.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 605,
+        "missing": 443,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 443,
+            "pct": 73.2
+          },
+          {
+            "level": "Leaking urine",
+            "count": 148,
+            "pct": 24.5
+          },
+          {
+            "level": "\"No\"",
+            "count": 14,
+            "pct": 2.3
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 257,
+        "missing": 187,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 187,
+            "pct": 72.8
+          },
+          {
+            "level": "Leaking urine",
+            "count": 58,
+            "pct": 22.6
+          },
+          {
+            "level": "\"No\"",
+            "count": 12,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 232,
+        "missing": 176,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 176,
+            "pct": 75.9
+          },
+          {
+            "level": "Leaking urine",
+            "count": 48,
+            "pct": 20.7
+          },
+          {
+            "level": "\"No\"",
+            "count": 8,
+            "pct": 3.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 181,
+        "missing": 130,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 130,
+            "pct": 71.8
+          },
+          {
+            "level": "Leaking urine",
+            "count": 34,
+            "pct": 18.8
+          },
+          {
+            "level": "\"No\"",
+            "count": 17,
+            "pct": 9.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 320,
+        "missing": 255,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 255,
+            "pct": 79.7
+          },
+          {
+            "level": "Leaking urine",
+            "count": 61,
+            "pct": 19.1
+          },
+          {
+            "level": "\"No\"",
+            "count": 4,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 173,
+        "missing": 111,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 111,
+            "pct": 64.2
+          },
+          {
+            "level": "Leaking urine",
+            "count": 54,
+            "pct": 31.2
+          },
+          {
+            "level": "\"No\"",
+            "count": 8,
+            "pct": 4.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 224,
+        "missing": 158,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 158,
+            "pct": 70.5
+          },
+          {
+            "level": "Leaking urine",
+            "count": 58,
+            "pct": 25.9
+          },
+          {
+            "level": "\"No\"",
+            "count": 8,
+            "pct": 3.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 318,
+        "missing": 201,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 201,
+            "pct": 63.2
+          },
+          {
+            "level": "Leaking urine",
+            "count": 103,
+            "pct": 32.4
+          },
+          {
+            "level": "\"No\"",
+            "count": 14,
+            "pct": 4.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 285,
+        "missing": 188,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 188,
+            "pct": 66
+          },
+          {
+            "level": "Leaking urine",
+            "count": 87,
+            "pct": 30.5
+          },
+          {
+            "level": "\"No\"",
+            "count": 10,
+            "pct": 3.5
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 257,
+        "missing": 187,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 187,
+            "pct": 72.8
+          },
+          {
+            "level": "Leaking urine",
+            "count": 58,
+            "pct": 22.6
+          },
+          {
+            "level": "\"No\"",
+            "count": 12,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 232,
+        "missing": 176,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 176,
+            "pct": 75.9
+          },
+          {
+            "level": "Leaking urine",
+            "count": 48,
+            "pct": 20.7
+          },
+          {
+            "level": "\"No\"",
+            "count": 8,
+            "pct": 3.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 181,
+        "missing": 130,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 130,
+            "pct": 71.8
+          },
+          {
+            "level": "Leaking urine",
+            "count": 34,
+            "pct": 18.8
+          },
+          {
+            "level": "\"No\"",
+            "count": 17,
+            "pct": 9.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 320,
+        "missing": 255,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 255,
+            "pct": 79.7
+          },
+          {
+            "level": "Leaking urine",
+            "count": 61,
+            "pct": 19.1
+          },
+          {
+            "level": "\"No\"",
+            "count": 4,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 173,
+        "missing": 111,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 111,
+            "pct": 64.2
+          },
+          {
+            "level": "Leaking urine",
+            "count": 54,
+            "pct": 31.2
+          },
+          {
+            "level": "\"No\"",
+            "count": 8,
+            "pct": 4.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 158,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 158,
+            "pct": 70.5
+          },
+          {
+            "level": "Leaking urine",
+            "count": 58,
+            "pct": 25.9
+          },
+          {
+            "level": "\"No\"",
+            "count": 8,
+            "pct": 3.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 318,
+        "missing": 201,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 201,
+            "pct": 63.2
+          },
+          {
+            "level": "Leaking urine",
+            "count": 103,
+            "pct": 32.4
+          },
+          {
+            "level": "\"No\"",
+            "count": 14,
+            "pct": 4.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 285,
+        "missing": 188,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 188,
+            "pct": 66
+          },
+          {
+            "level": "Leaking urine",
+            "count": 87,
+            "pct": 30.5
+          },
+          {
+            "level": "\"No\"",
+            "count": 10,
+            "pct": 3.5
+          }
+        ]
+      }
+    ]
+  }
+}

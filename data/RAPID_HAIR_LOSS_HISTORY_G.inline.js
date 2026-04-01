@@ -1,0 +1,1 @@
+window.__RAPID_HAIR_LOSS_HISTORY_EXAM_G={"concept_id":"RAPID_HAIR_LOSS_HISTORY","exam":"G","n":3467,"missing":6,"n_levels":3,"mode_level":"\"No\""};

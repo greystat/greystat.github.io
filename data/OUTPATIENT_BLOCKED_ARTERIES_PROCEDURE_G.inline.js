@@ -1,0 +1,1 @@
+window.__OUTPATIENT_BLOCKED_ARTERIES_PROCEDURE_EXAM_G={"concept_id":"OUTPATIENT_BLOCKED_ARTERIES_PROCEDURE","exam":"G","n":184,"missing":0,"n_levels":1,"mode_level":"\"No\""};

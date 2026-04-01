@@ -1,0 +1,38 @@
+{
+  "concept_id": "PALPITATIONS_FREQUENCY",
+  "title": "Frequency of heart palpitations",
+  "chips": ["categorical", "4 levels", "F41 · Pulmonary Function", "Pulmonary"],
+  "members": [
+    {
+      "concept_id": "PALPITATIONS_FREQUENCY",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f41",
+      "dataset_stub": "c1f41",
+      "varname": "C41PTIME",
+      "family": "F41",
+      "form_label": "Chest Pain/Palpitations Questionnaire",
+      "n_labels": "4",
+      "instrument": "F41: Chest Pain/Palpitations Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "More than once a day"
+    },
+    {
+      "code": "2",
+      "label": "2-7 times per week"
+    },
+    {
+      "code": "3",
+      "label": "Once every 1-4 weeks"
+    },
+    {
+      "code": "4",
+      "label": "Less than once a month"
+    }
+  ]
+}

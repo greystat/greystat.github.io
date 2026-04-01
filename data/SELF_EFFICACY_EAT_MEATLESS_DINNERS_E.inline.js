@@ -1,0 +1,1 @@
+window.__SELF_EFFICACY_EAT_MEATLESS_DINNERS_EXAM_E={"concept_id":"SELF_EFFICACY_EAT_MEATLESS_DINNERS","exam":"E","n":3949,"missing":48,"n_levels":7,"mode_level":"I know I can"};

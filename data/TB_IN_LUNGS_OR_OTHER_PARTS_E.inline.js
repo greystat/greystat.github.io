@@ -1,0 +1,1 @@
+window.__TB_IN_LUNGS_OR_OTHER_PARTS_EXAM_E={"concept_id":"TB_IN_LUNGS_OR_OTHER_PARTS","exam":"E","n":115,"missing":6,"n_levels":3,"mode_level":"\"No\""};

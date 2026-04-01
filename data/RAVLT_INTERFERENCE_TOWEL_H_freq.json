@@ -1,0 +1,877 @@
+{
+  "concept_id": "RAVLT_INTERFERENCE_TOWEL",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3386,
+        "missing": 3155,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 3155,
+            "pct": 93.2
+          },
+          {
+            "level": "Towel",
+            "count": 231,
+            "pct": 6.8
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1477,
+        "missing": 1392,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1392,
+            "pct": 94.2
+          },
+          {
+            "level": "Towel",
+            "count": 85,
+            "pct": 5.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1909,
+        "missing": 1763,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1763,
+            "pct": 92.4
+          },
+          {
+            "level": "Towel",
+            "count": 146,
+            "pct": 7.6
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1567,
+        "missing": 1484,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1484,
+            "pct": 94.7
+          },
+          {
+            "level": "Towel",
+            "count": 83,
+            "pct": 5.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1819,
+        "missing": 1671,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1671,
+            "pct": 91.9
+          },
+          {
+            "level": "Towel",
+            "count": 148,
+            "pct": 8.1
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 814,
+        "missing": 747,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 747,
+            "pct": 91.8
+          },
+          {
+            "level": "Towel",
+            "count": 67,
+            "pct": 8.2
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 782,
+        "missing": 728,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 728,
+            "pct": 93.1
+          },
+          {
+            "level": "Towel",
+            "count": 54,
+            "pct": 6.9
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 898,
+        "missing": 845,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 845,
+            "pct": 94.1
+          },
+          {
+            "level": "Towel",
+            "count": 53,
+            "pct": 5.9
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 892,
+        "missing": 835,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 835,
+            "pct": 93.6
+          },
+          {
+            "level": "Towel",
+            "count": 57,
+            "pct": 6.4
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 631,
+        "missing": 602,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 602,
+            "pct": 95.4
+          },
+          {
+            "level": "Towel",
+            "count": 29,
+            "pct": 4.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 936,
+        "missing": 882,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 882,
+            "pct": 94.2
+          },
+          {
+            "level": "Towel",
+            "count": 54,
+            "pct": 5.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 846,
+        "missing": 790,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 790,
+            "pct": 93.4
+          },
+          {
+            "level": "Towel",
+            "count": 56,
+            "pct": 6.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 973,
+        "missing": 881,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 881,
+            "pct": 90.5
+          },
+          {
+            "level": "Towel",
+            "count": 92,
+            "pct": 9.5
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 377,
+        "missing": 354,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 354,
+            "pct": 93.9
+          },
+          {
+            "level": "Towel",
+            "count": 23,
+            "pct": 6.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 336,
+        "missing": 314,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 314,
+            "pct": 93.5
+          },
+          {
+            "level": "Towel",
+            "count": 22,
+            "pct": 6.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 413,
+        "missing": 391,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 391,
+            "pct": 94.7
+          },
+          {
+            "level": "Towel",
+            "count": 22,
+            "pct": 5.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 351,
+        "missing": 333,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 333,
+            "pct": 94.9
+          },
+          {
+            "level": "Towel",
+            "count": 18,
+            "pct": 5.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 437,
+        "missing": 393,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 393,
+            "pct": 89.9
+          },
+          {
+            "level": "Towel",
+            "count": 44,
+            "pct": 10.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 446,
+        "missing": 414,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 414,
+            "pct": 92.8
+          },
+          {
+            "level": "Towel",
+            "count": 32,
+            "pct": 7.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 485,
+        "missing": 454,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 454,
+            "pct": 93.6
+          },
+          {
+            "level": "Towel",
+            "count": 31,
+            "pct": 6.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 541,
+        "missing": 502,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 502,
+            "pct": 92.8
+          },
+          {
+            "level": "Towel",
+            "count": 39,
+            "pct": 7.2
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 454,
+        "missing": 423,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 423,
+            "pct": 93.2
+          },
+          {
+            "level": "Towel",
+            "count": 31,
+            "pct": 6.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 353,
+        "missing": 336,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 336,
+            "pct": 95.2
+          },
+          {
+            "level": "Towel",
+            "count": 17,
+            "pct": 4.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 313,
+        "missing": 299,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 299,
+            "pct": 95.5
+          },
+          {
+            "level": "Towel",
+            "count": 14,
+            "pct": 4.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 447,
+        "missing": 426,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 426,
+            "pct": 95.3
+          },
+          {
+            "level": "Towel",
+            "count": 21,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 360,
+        "missing": 324,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 324,
+            "pct": 90
+          },
+          {
+            "level": "Towel",
+            "count": 36,
+            "pct": 10
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 429,
+        "missing": 392,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 392,
+            "pct": 91.4
+          },
+          {
+            "level": "Towel",
+            "count": 37,
+            "pct": 8.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 585,
+        "missing": 546,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 546,
+            "pct": 93.3
+          },
+          {
+            "level": "Towel",
+            "count": 39,
+            "pct": 6.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 445,
+        "missing": 409,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 409,
+            "pct": 91.9
+          },
+          {
+            "level": "Towel",
+            "count": 36,
+            "pct": 8.1
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 189,
+        "missing": 181,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 181,
+            "pct": 95.8
+          },
+          {
+            "level": "Towel",
+            "count": 8,
+            "pct": 4.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 131,
+        "missing": 123,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 123,
+            "pct": 93.9
+          },
+          {
+            "level": "Towel",
+            "count": 8,
+            "pct": 6.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 139,
+        "missing": 136,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 136,
+            "pct": 97.8
+          },
+          {
+            "level": "Towel",
+            "count": 3,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 172,
+        "missing": 162,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 162,
+            "pct": 94.2
+          },
+          {
+            "level": "Towel",
+            "count": 10,
+            "pct": 5.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 265,
+        "missing": 242,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 242,
+            "pct": 91.3
+          },
+          {
+            "level": "Towel",
+            "count": 23,
+            "pct": 8.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 222,
+        "missing": 213,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 213,
+            "pct": 95.9
+          },
+          {
+            "level": "Towel",
+            "count": 9,
+            "pct": 4.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 174,
+        "missing": 163,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 163,
+            "pct": 93.7
+          },
+          {
+            "level": "Towel",
+            "count": 11,
+            "pct": 6.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 275,
+        "missing": 264,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 264,
+            "pct": 96
+          },
+          {
+            "level": "Towel",
+            "count": 11,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 188,
+        "missing": 173,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 173,
+            "pct": 92
+          },
+          {
+            "level": "Towel",
+            "count": 15,
+            "pct": 8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 205,
+        "missing": 191,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 191,
+            "pct": 93.2
+          },
+          {
+            "level": "Towel",
+            "count": 14,
+            "pct": 6.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 274,
+        "missing": 255,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 255,
+            "pct": 93.1
+          },
+          {
+            "level": "Towel",
+            "count": 19,
+            "pct": 6.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 179,
+        "missing": 171,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 171,
+            "pct": 95.5
+          },
+          {
+            "level": "Towel",
+            "count": 8,
+            "pct": 4.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 172,
+        "missing": 151,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 151,
+            "pct": 87.8
+          },
+          {
+            "level": "Towel",
+            "count": 21,
+            "pct": 12.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 201,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 201,
+            "pct": 89.7
+          },
+          {
+            "level": "Towel",
+            "count": 23,
+            "pct": 10.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 311,
+        "missing": 291,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 291,
+            "pct": 93.6
+          },
+          {
+            "level": "Towel",
+            "count": 20,
+            "pct": 6.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 266,
+        "missing": 238,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 238,
+            "pct": 89.5
+          },
+          {
+            "level": "Towel",
+            "count": 28,
+            "pct": 10.5
+          }
+        ]
+      }
+    ]
+  }
+}

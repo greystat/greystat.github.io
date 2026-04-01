@@ -1,0 +1,877 @@
+{
+  "concept_id": "NONPRESCRIPTION_VITAMIN_B_12MO",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1334,
+        "missing": 1168,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1168,
+            "pct": 87.6
+          },
+          {
+            "level": "B vitamins",
+            "count": 166,
+            "pct": 12.4
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 333,
+        "missing": 288,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 288,
+            "pct": 86.5
+          },
+          {
+            "level": "B vitamins",
+            "count": 45,
+            "pct": 13.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1001,
+        "missing": 880,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 880,
+            "pct": 87.9
+          },
+          {
+            "level": "B vitamins",
+            "count": 121,
+            "pct": 12.1
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 662,
+        "missing": 571,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 571,
+            "pct": 86.3
+          },
+          {
+            "level": "B vitamins",
+            "count": 91,
+            "pct": 13.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 672,
+        "missing": 597,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 597,
+            "pct": 88.8
+          },
+          {
+            "level": "B vitamins",
+            "count": 75,
+            "pct": 11.2
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 287,
+        "missing": 257,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 257,
+            "pct": 89.5
+          },
+          {
+            "level": "B vitamins",
+            "count": 30,
+            "pct": 10.5
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 311,
+        "missing": 270,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 270,
+            "pct": 86.8
+          },
+          {
+            "level": "B vitamins",
+            "count": 41,
+            "pct": 13.2
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 315,
+        "missing": 274,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 274,
+            "pct": 87
+          },
+          {
+            "level": "B vitamins",
+            "count": 41,
+            "pct": 13
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 421,
+        "missing": 367,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 367,
+            "pct": 87.2
+          },
+          {
+            "level": "B vitamins",
+            "count": 54,
+            "pct": 12.8
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 171,
+        "missing": 142,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 142,
+            "pct": 83
+          },
+          {
+            "level": "B vitamins",
+            "count": 29,
+            "pct": 17
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 491,
+        "missing": 429,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 429,
+            "pct": 87.4
+          },
+          {
+            "level": "B vitamins",
+            "count": 62,
+            "pct": 12.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 162,
+        "missing": 146,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 146,
+            "pct": 90.1
+          },
+          {
+            "level": "B vitamins",
+            "count": 16,
+            "pct": 9.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 510,
+        "missing": 451,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 451,
+            "pct": 88.4
+          },
+          {
+            "level": "B vitamins",
+            "count": 59,
+            "pct": 11.6
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 66,
+        "missing": 61,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 61,
+            "pct": 92.4
+          },
+          {
+            "level": "B vitamins",
+            "count": 5,
+            "pct": 7.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 89,
+        "missing": 73,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 73,
+            "pct": 82
+          },
+          {
+            "level": "B vitamins",
+            "count": 16,
+            "pct": 18
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 77,
+        "missing": 66,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 66,
+            "pct": 85.7
+          },
+          {
+            "level": "B vitamins",
+            "count": 11,
+            "pct": 14.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 101,
+        "missing": 88,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 88,
+            "pct": 87.1
+          },
+          {
+            "level": "B vitamins",
+            "count": 13,
+            "pct": 12.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 221,
+        "missing": 196,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 196,
+            "pct": 88.7
+          },
+          {
+            "level": "B vitamins",
+            "count": 25,
+            "pct": 11.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 222,
+        "missing": 197,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 197,
+            "pct": 88.7
+          },
+          {
+            "level": "B vitamins",
+            "count": 25,
+            "pct": 11.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 238,
+        "missing": 208,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 208,
+            "pct": 87.4
+          },
+          {
+            "level": "B vitamins",
+            "count": 30,
+            "pct": 12.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 320,
+        "missing": 279,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 279,
+            "pct": 87.2
+          },
+          {
+            "level": "B vitamins",
+            "count": 41,
+            "pct": 12.8
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 157,
+        "missing": 142,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 142,
+            "pct": 90.4
+          },
+          {
+            "level": "B vitamins",
+            "count": 15,
+            "pct": 9.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 149,
+        "missing": 128,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 128,
+            "pct": 85.9
+          },
+          {
+            "level": "B vitamins",
+            "count": 21,
+            "pct": 14.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 129,
+        "missing": 109,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 109,
+            "pct": 84.5
+          },
+          {
+            "level": "B vitamins",
+            "count": 20,
+            "pct": 15.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 227,
+        "missing": 192,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 192,
+            "pct": 84.6
+          },
+          {
+            "level": "B vitamins",
+            "count": 35,
+            "pct": 15.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 130,
+        "missing": 115,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 115,
+            "pct": 88.5
+          },
+          {
+            "level": "B vitamins",
+            "count": 15,
+            "pct": 11.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 162,
+        "missing": 142,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 142,
+            "pct": 87.7
+          },
+          {
+            "level": "B vitamins",
+            "count": 20,
+            "pct": 12.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 186,
+        "missing": 165,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 165,
+            "pct": 88.7
+          },
+          {
+            "level": "B vitamins",
+            "count": 21,
+            "pct": 11.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 194,
+        "missing": 175,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 175,
+            "pct": 90.2
+          },
+          {
+            "level": "B vitamins",
+            "count": 19,
+            "pct": 9.8
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 28,
+        "missing": 25,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 25,
+            "pct": 89.3
+          },
+          {
+            "level": "B vitamins",
+            "count": 3,
+            "pct": 10.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 41,
+        "missing": 31,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 31,
+            "pct": 75.6
+          },
+          {
+            "level": "B vitamins",
+            "count": 10,
+            "pct": 24.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 43,
+        "missing": 35,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 35,
+            "pct": 81.4
+          },
+          {
+            "level": "B vitamins",
+            "count": 8,
+            "pct": 18.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 59,
+        "missing": 51,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 51,
+            "pct": 86.4
+          },
+          {
+            "level": "B vitamins",
+            "count": 8,
+            "pct": 13.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 129,
+        "missing": 117,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 117,
+            "pct": 90.7
+          },
+          {
+            "level": "B vitamins",
+            "count": 12,
+            "pct": 9.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 108,
+        "missing": 97,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 97,
+            "pct": 89.8
+          },
+          {
+            "level": "B vitamins",
+            "count": 11,
+            "pct": 10.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 86,
+        "missing": 74,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 74,
+            "pct": 86
+          },
+          {
+            "level": "B vitamins",
+            "count": 12,
+            "pct": 14
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 168,
+        "missing": 141,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 141,
+            "pct": 83.9
+          },
+          {
+            "level": "B vitamins",
+            "count": 27,
+            "pct": 16.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 38,
+        "missing": 36,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 36,
+            "pct": 94.7
+          },
+          {
+            "level": "B vitamins",
+            "count": 2,
+            "pct": 5.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 48,
+        "missing": 42,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 42,
+            "pct": 87.5
+          },
+          {
+            "level": "B vitamins",
+            "count": 6,
+            "pct": 12.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 34,
+        "missing": 31,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 31,
+            "pct": 91.2
+          },
+          {
+            "level": "B vitamins",
+            "count": 3,
+            "pct": 8.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 42,
+        "missing": 37,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 37,
+            "pct": 88.1
+          },
+          {
+            "level": "B vitamins",
+            "count": 5,
+            "pct": 11.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 92,
+        "missing": 79,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 79,
+            "pct": 85.9
+          },
+          {
+            "level": "B vitamins",
+            "count": 13,
+            "pct": 14.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 114,
+        "missing": 100,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 100,
+            "pct": 87.7
+          },
+          {
+            "level": "B vitamins",
+            "count": 14,
+            "pct": 12.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 152,
+        "missing": 134,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 134,
+            "pct": 88.2
+          },
+          {
+            "level": "B vitamins",
+            "count": 18,
+            "pct": 11.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 152,
+        "missing": 138,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 138,
+            "pct": 90.8
+          },
+          {
+            "level": "B vitamins",
+            "count": 14,
+            "pct": 9.2
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1102 @@
+{
+  "concept_id": "PAY_OUT_OF_POCKET_FULL_OR_COPAY",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3484,
+        "missing": 296,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 2900,
+            "pct": 83.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 296,
+            "pct": 8.5
+          },
+          {
+            "level": "Co-pay",
+            "count": 288,
+            "pct": 8.3
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1512,
+        "missing": 175,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 1216,
+            "pct": 80.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 175,
+            "pct": 11.6
+          },
+          {
+            "level": "Co-pay",
+            "count": 121,
+            "pct": 8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1972,
+        "missing": 121,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 1684,
+            "pct": 85.4
+          },
+          {
+            "level": "Co-pay",
+            "count": 167,
+            "pct": 8.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 121,
+            "pct": 6.1
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1630,
+        "missing": 151,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 1343,
+            "pct": 82.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 151,
+            "pct": 9.3
+          },
+          {
+            "level": "Co-pay",
+            "count": 136,
+            "pct": 8.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1854,
+        "missing": 145,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 1557,
+            "pct": 84
+          },
+          {
+            "level": "Co-pay",
+            "count": 152,
+            "pct": 8.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 145,
+            "pct": 7.8
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 816,
+        "missing": 54,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 684,
+            "pct": 83.8
+          },
+          {
+            "level": "Co-pay",
+            "count": 78,
+            "pct": 9.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 54,
+            "pct": 6.6
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 791,
+        "missing": 81,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 614,
+            "pct": 77.6
+          },
+          {
+            "level": "Co-pay",
+            "count": 96,
+            "pct": 12.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 81,
+            "pct": 10.2
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 923,
+        "missing": 105,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 777,
+            "pct": 84.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 105,
+            "pct": 11.4
+          },
+          {
+            "level": "Co-pay",
+            "count": 41,
+            "pct": 4.4
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 954,
+        "missing": 56,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 825,
+            "pct": 86.5
+          },
+          {
+            "level": "Co-pay",
+            "count": 73,
+            "pct": 7.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 56,
+            "pct": 5.9
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 649,
+        "missing": 86,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 509,
+            "pct": 78.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 86,
+            "pct": 13.3
+          },
+          {
+            "level": "Co-pay",
+            "count": 54,
+            "pct": 8.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 981,
+        "missing": 65,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 834,
+            "pct": 85
+          },
+          {
+            "level": "Co-pay",
+            "count": 82,
+            "pct": 8.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 65,
+            "pct": 6.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 863,
+        "missing": 89,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 707,
+            "pct": 81.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 89,
+            "pct": 10.3
+          },
+          {
+            "level": "Co-pay",
+            "count": 67,
+            "pct": 7.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 991,
+        "missing": 56,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 850,
+            "pct": 85.8
+          },
+          {
+            "level": "Co-pay",
+            "count": 85,
+            "pct": 8.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 56,
+            "pct": 5.7
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 379,
+        "missing": 31,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 314,
+            "pct": 82.8
+          },
+          {
+            "level": "Co-pay",
+            "count": 34,
+            "pct": 9
+          },
+          {
+            "level": "(Missing)",
+            "count": 31,
+            "pct": 8.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 337,
+        "missing": 48,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 250,
+            "pct": 74.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 48,
+            "pct": 14.2
+          },
+          {
+            "level": "Co-pay",
+            "count": 39,
+            "pct": 11.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 423,
+        "missing": 65,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 337,
+            "pct": 79.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 65,
+            "pct": 15.4
+          },
+          {
+            "level": "Co-pay",
+            "count": 21,
+            "pct": 5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 373,
+        "missing": 31,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 315,
+            "pct": 84.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 31,
+            "pct": 8.3
+          },
+          {
+            "level": "Co-pay",
+            "count": 27,
+            "pct": 7.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 437,
+        "missing": 23,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 370,
+            "pct": 84.7
+          },
+          {
+            "level": "Co-pay",
+            "count": 44,
+            "pct": 10.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 23,
+            "pct": 5.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 454,
+        "missing": 33,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 364,
+            "pct": 80.2
+          },
+          {
+            "level": "Co-pay",
+            "count": 57,
+            "pct": 12.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 33,
+            "pct": 7.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 500,
+        "missing": 40,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 440,
+            "pct": 88
+          },
+          {
+            "level": "(Missing)",
+            "count": 40,
+            "pct": 8
+          },
+          {
+            "level": "Co-pay",
+            "count": 20,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 581,
+        "missing": 25,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 510,
+            "pct": 87.8
+          },
+          {
+            "level": "Co-pay",
+            "count": 46,
+            "pct": 7.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 25,
+            "pct": 4.3
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 454,
+        "missing": 36,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 365,
+            "pct": 80.4
+          },
+          {
+            "level": "Co-pay",
+            "count": 53,
+            "pct": 11.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 36,
+            "pct": 7.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 360,
+        "missing": 39,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 282,
+            "pct": 78.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 39,
+            "pct": 10.8
+          },
+          {
+            "level": "Co-pay",
+            "count": 39,
+            "pct": 10.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 332,
+        "missing": 44,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 273,
+            "pct": 82.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 44,
+            "pct": 13.3
+          },
+          {
+            "level": "Co-pay",
+            "count": 15,
+            "pct": 4.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 484,
+        "missing": 32,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 423,
+            "pct": 87.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 32,
+            "pct": 6.6
+          },
+          {
+            "level": "Co-pay",
+            "count": 29,
+            "pct": 6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 362,
+        "missing": 18,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 319,
+            "pct": 88.1
+          },
+          {
+            "level": "Co-pay",
+            "count": 25,
+            "pct": 6.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 18,
+            "pct": 5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 431,
+        "missing": 42,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 332,
+            "pct": 77
+          },
+          {
+            "level": "Co-pay",
+            "count": 57,
+            "pct": 13.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 42,
+            "pct": 9.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 591,
+        "missing": 61,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 504,
+            "pct": 85.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 61,
+            "pct": 10.3
+          },
+          {
+            "level": "Co-pay",
+            "count": 26,
+            "pct": 4.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 470,
+        "missing": 24,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 402,
+            "pct": 85.5
+          },
+          {
+            "level": "Co-pay",
+            "count": 44,
+            "pct": 9.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 24,
+            "pct": 5.1
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 189,
+        "missing": 21,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 148,
+            "pct": 78.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 21,
+            "pct": 11.1
+          },
+          {
+            "level": "Co-pay",
+            "count": 20,
+            "pct": 10.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 130,
+        "missing": 23,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 90,
+            "pct": 69.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 23,
+            "pct": 17.7
+          },
+          {
+            "level": "Co-pay",
+            "count": 17,
+            "pct": 13.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 146,
+        "missing": 26,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 113,
+            "pct": 77.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 26,
+            "pct": 17.8
+          },
+          {
+            "level": "Co-pay",
+            "count": 7,
+            "pct": 4.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 184,
+        "missing": 16,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 158,
+            "pct": 85.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 16,
+            "pct": 8.7
+          },
+          {
+            "level": "Co-pay",
+            "count": 10,
+            "pct": 5.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 265,
+        "missing": 15,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 217,
+            "pct": 81.9
+          },
+          {
+            "level": "Co-pay",
+            "count": 33,
+            "pct": 12.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 15,
+            "pct": 5.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 230,
+        "missing": 16,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 192,
+            "pct": 83.5
+          },
+          {
+            "level": "Co-pay",
+            "count": 22,
+            "pct": 9.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 16,
+            "pct": 7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 186,
+        "missing": 18,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 160,
+            "pct": 86
+          },
+          {
+            "level": "(Missing)",
+            "count": 18,
+            "pct": 9.7
+          },
+          {
+            "level": "Co-pay",
+            "count": 8,
+            "pct": 4.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 300,
+        "missing": 16,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 265,
+            "pct": 88.3
+          },
+          {
+            "level": "Co-pay",
+            "count": 19,
+            "pct": 6.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 16,
+            "pct": 5.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 190,
+        "missing": 10,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 166,
+            "pct": 87.4
+          },
+          {
+            "level": "Co-pay",
+            "count": 14,
+            "pct": 7.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 10,
+            "pct": 5.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 207,
+        "missing": 25,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 160,
+            "pct": 77.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 25,
+            "pct": 12.1
+          },
+          {
+            "level": "Co-pay",
+            "count": 22,
+            "pct": 10.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 277,
+        "missing": 39,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 224,
+            "pct": 80.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 39,
+            "pct": 14.1
+          },
+          {
+            "level": "Co-pay",
+            "count": 14,
+            "pct": 5.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 189,
+        "missing": 15,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 157,
+            "pct": 83.1
+          },
+          {
+            "level": "Co-pay",
+            "count": 17,
+            "pct": 9
+          },
+          {
+            "level": "(Missing)",
+            "count": 15,
+            "pct": 7.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 172,
+        "missing": 8,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 153,
+            "pct": 89
+          },
+          {
+            "level": "Co-pay",
+            "count": 11,
+            "pct": 6.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 8,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 17,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 172,
+            "pct": 76.8
+          },
+          {
+            "level": "Co-pay",
+            "count": 35,
+            "pct": 15.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 17,
+            "pct": 7.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 314,
+        "missing": 22,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 280,
+            "pct": 89.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 22,
+            "pct": 7
+          },
+          {
+            "level": "Co-pay",
+            "count": 12,
+            "pct": 3.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 281,
+        "missing": 9,
+        "n_levels": 3,
+        "mode_level": "Full",
+        "freq": [
+          {
+            "level": "Full",
+            "count": 245,
+            "pct": 87.2
+          },
+          {
+            "level": "Co-pay",
+            "count": 27,
+            "pct": 9.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 9,
+            "pct": 3.2
+          }
+        ]
+      }
+    ]
+  }
+}

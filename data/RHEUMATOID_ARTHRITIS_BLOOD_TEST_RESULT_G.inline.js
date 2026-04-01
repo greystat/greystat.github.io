@@ -1,0 +1,1 @@
+window.__RHEUMATOID_ARTHRITIS_BLOOD_TEST_RESULT_EXAM_G={"concept_id":"RHEUMATOID_ARTHRITIS_BLOOD_TEST_RESULT","exam":"G","n":3467,"missing":3247,"n_levels":4,"mode_level":"(Missing)"};

@@ -1,0 +1,1 @@
+window.__SPIROMETER_POSTURE_EXAM_B={"concept_id":"SPIROMETER_POSTURE","exam":"B","n":4623,"missing":160,"n_levels":3,"mode_level":"1"};

@@ -1,0 +1,1 @@
+window.__TOBACCO_INHALATION_FREQUENCY_EXAM_A={"concept_id":"TOBACCO_INHALATION_FREQUENCY","exam":"A","n":3044,"missing":839,"n_levels":7,"mode_level":"Always"};

@@ -1,0 +1,1 @@
+window.__OTHER_THYROID_PROBLEM_STATUS_EXAM_B={"concept_id":"OTHER_THYROID_PROBLEM_STATUS","exam":"B","n":98,"missing":86,"n_levels":4,"mode_level":"(Missing)"};

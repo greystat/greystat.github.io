@@ -1,0 +1,1 @@
+window.__TOBACCO_SMOKE_EVERY_DAY_EXAM_G={"concept_id":"TOBACCO_SMOKE_EVERY_DAY","exam":"G","n":1964,"missing":1268,"n_levels":3,"mode_level":"(Missing)"};

@@ -1,0 +1,34 @@
+{
+  "concept_id": "SUBJECT_ATTITUDE",
+  "title": "Subject attitude rating",
+  "chips": ["categorical", "3 levels", "F25 · Impedance Cardiography", "Cardiovascular"],
+  "members": [
+    {
+      "concept_id": "SUBJECT_ATTITUDE",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f25",
+      "dataset_stub": "a4f25",
+      "varname": "A25ATTIT",
+      "family": "F25",
+      "form_label": "Type A/B Interviewer Rating Form",
+      "n_labels": "3",
+      "instrument": "F25: Type A/B Interviewer Rating Form",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Friendly"
+    },
+    {
+      "code": "2",
+      "label": "Neutral"
+    },
+    {
+      "code": "3",
+      "label": "Hostile"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__RACE_DISCRIMINATION_GETTING_MEDICAL_CARE_EXAM_D={"concept_id":"RACE_DISCRIMINATION_GETTING_MEDICAL_CARE","exam":"D","n":4085,"missing":54,"n_levels":2,"mode_level":"Yes"};

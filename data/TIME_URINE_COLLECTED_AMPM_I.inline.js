@@ -1,0 +1,1 @@
+window.__TIME_URINE_COLLECTED_AMPM_EXAM_I={"concept_id":"TIME_URINE_COLLECTED_AMPM","exam":"I","n":3356,"missing":30,"n_levels":3,"mode_level":"\"AM\""};

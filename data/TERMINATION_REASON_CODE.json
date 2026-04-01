@@ -1,0 +1,26 @@
+{
+  "concept_id": "TERMINATION_REASON_CODE",
+  "title": "Reasons for exercise test termination (coded)",
+  "chips": ["categorical", "1 levels", "F22 · Graded Exercise Treadmill Test", "Exercise Testing"],
+  "members": [
+    {
+      "concept_id": "TERMINATION_REASON_CODE",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f22",
+      "dataset_stub": "g3f22",
+      "varname": "G22TERM",
+      "family": "F22",
+      "form_label": "Graded Exercise Treadmill Test",
+      "n_labels": "1",
+      "instrument": "F22: Graded Exercise Treadmill Test",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"Fatigue\""
+    }
+  ]
+}

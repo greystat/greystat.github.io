@@ -1,0 +1,1 @@
+window.__OTHER_HEART_PROBLEM_EVER_EXAM_B={"concept_id":"OTHER_HEART_PROBLEM_EVER","exam":"B","n":306,"missing":2,"n_levels":4,"mode_level":"Yes"};

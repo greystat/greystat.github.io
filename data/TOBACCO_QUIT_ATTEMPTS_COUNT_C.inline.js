@@ -1,0 +1,1 @@
+window.__TOBACCO_QUIT_ATTEMPTS_COUNT_EXAM_C={"concept_id":"TOBACCO_QUIT_ATTEMPTS_COUNT","exam":"C","n":2535,"missing":1794,"n_levels":6,"mode_level":"(Missing)"};

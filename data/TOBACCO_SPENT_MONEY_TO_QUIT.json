@@ -1,0 +1,34 @@
+{
+  "concept_id": "TOBACCO_SPENT_MONEY_TO_QUIT",
+  "title": "Ever spent money to quit smoking",
+  "chips": ["categorical", "3 levels"],
+  "members": [
+    {
+      "concept_id": "TOBACCO_SPENT_MONEY_TO_QUIT",
+      "exam": "D",
+      "exam_year": "Y7",
+      "dataset": "d1f9toba",
+      "dataset_stub": "d1f9toba",
+      "varname": "D09SPEND",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "3",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    }
+  ]
+}

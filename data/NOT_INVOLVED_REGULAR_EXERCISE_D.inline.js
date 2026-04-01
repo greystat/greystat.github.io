@@ -1,0 +1,1 @@
+window.__NOT_INVOLVED_REGULAR_EXERCISE_EXAM_D={"concept_id":"NOT_INVOLVED_REGULAR_EXERCISE","exam":"D","n":4085,"missing":54,"n_levels":6,"mode_level":"Mostly agree"};

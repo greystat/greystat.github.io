@@ -1,0 +1,1 @@
+window.__SWEETENED_FRUIT_DRINK_FREQUENCY_EXAM_I={"concept_id":"SWEETENED_FRUIT_DRINK_FREQUENCY","exam":"I","n":3278,"missing":3,"n_levels":11,"mode_level":"Never"};

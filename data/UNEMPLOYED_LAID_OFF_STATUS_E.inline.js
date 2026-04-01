@@ -1,0 +1,1 @@
+window.__UNEMPLOYED_LAID_OFF_STATUS_EXAM_E={"concept_id":"UNEMPLOYED_LAID_OFF_STATUS","exam":"E","n":3949,"missing":24,"n_levels":4,"mode_level":"No"};

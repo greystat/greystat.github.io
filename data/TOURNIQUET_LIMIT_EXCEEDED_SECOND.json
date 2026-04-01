@@ -1,0 +1,108 @@
+{
+  "concept_id": "TOURNIQUET_LIMIT_EXCEEDED_SECOND",
+  "title": "Tourniquet 2-minute limit exceeded at second draw",
+  "chips": ["categorical", "2 levels", "F05 · Phlebotomy", "Specimen Collection"],
+  "members": [
+    {
+      "concept_id": "TOURNIQUET_LIMIT_EXCEEDED_SECOND",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f05",
+      "dataset_stub": "e1f05",
+      "varname": "E05TOUR2",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOURNIQUET_LIMIT_EXCEEDED_SECOND",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f05",
+      "dataset_stub": "g4f05",
+      "varname": "G05TOUR2",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOURNIQUET_LIMIT_EXCEEDED_SECOND",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g4f05",
+      "dataset_stub": "g4f05a",
+      "varname": "G05ATOURN2",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOURNIQUET_LIMIT_EXCEEDED_SECOND",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f05",
+      "dataset_stub": "h3f05",
+      "varname": "H05TOUR2",
+      "family": "F05",
+      "form_label": "Phlebotomy-Delayed OGTT",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy-Delayed OGTT",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOURNIQUET_LIMIT_EXCEEDED_SECOND",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f05a",
+      "dataset_stub": "h3f05a",
+      "varname": "H05ATOURN2",
+      "family": "F05",
+      "form_label": "Phlebotomy-Delayed OGTT",
+      "n_labels": "1",
+      "instrument": "F05: Phlebotomy-Delayed OGTT",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOURNIQUET_LIMIT_EXCEEDED_SECOND",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f05",
+      "dataset_stub": "i1f05",
+      "varname": "I05TOUR2",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOURNIQUET_LIMIT_EXCEEDED_SECOND",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f05a",
+      "dataset_stub": "i1f05a",
+      "varname": "I05ATOURN2",
+      "family": "F05",
+      "form_label": "Phlebotomy",
+      "n_labels": "2",
+      "instrument": "F05: Phlebotomy",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

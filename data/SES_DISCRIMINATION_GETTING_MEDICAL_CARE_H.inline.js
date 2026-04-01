@@ -1,0 +1,1 @@
+window.__SES_DISCRIMINATION_GETTING_MEDICAL_CARE_EXAM_H={"concept_id":"SES_DISCRIMINATION_GETTING_MEDICAL_CARE","exam":"H","n":3474,"missing":5,"n_levels":2,"mode_level":"Yes"};

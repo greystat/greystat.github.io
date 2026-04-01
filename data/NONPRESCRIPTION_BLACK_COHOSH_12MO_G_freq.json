@@ -1,0 +1,742 @@
+{
+  "concept_id": "NONPRESCRIPTION_BLACK_COHOSH_12MO",
+  "exam": "G",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1990,
+        "missing": 1799,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1799,
+            "pct": 90.4
+          },
+          {
+            "level": "1",
+            "count": 103,
+            "pct": 5.2
+          },
+          {
+            "level": "Black cohosh",
+            "count": 88,
+            "pct": 4.4
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 1990,
+        "missing": 1799,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1799,
+            "pct": 90.4
+          },
+          {
+            "level": "1",
+            "count": 103,
+            "pct": 5.2
+          },
+          {
+            "level": "Black cohosh",
+            "count": 88,
+            "pct": 4.4
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 990,
+        "missing": 902,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 902,
+            "pct": 91.1
+          },
+          {
+            "level": "1",
+            "count": 48,
+            "pct": 4.8
+          },
+          {
+            "level": "Black cohosh",
+            "count": 40,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1000,
+        "missing": 897,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 897,
+            "pct": 89.7
+          },
+          {
+            "level": "1",
+            "count": 55,
+            "pct": 5.5
+          },
+          {
+            "level": "Black cohosh",
+            "count": 48,
+            "pct": 4.8
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 430,
+        "missing": 386,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 386,
+            "pct": 89.8
+          },
+          {
+            "level": "1",
+            "count": 30,
+            "pct": 7
+          },
+          {
+            "level": "Black cohosh",
+            "count": 14,
+            "pct": 3.3
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 456,
+        "missing": 420,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 420,
+            "pct": 92.1
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 5
+          },
+          {
+            "level": "Black cohosh",
+            "count": 13,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 499,
+        "missing": 445,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 445,
+            "pct": 89.2
+          },
+          {
+            "level": "1",
+            "count": 35,
+            "pct": 7
+          },
+          {
+            "level": "Black cohosh",
+            "count": 19,
+            "pct": 3.8
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 605,
+        "missing": 548,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 548,
+            "pct": 90.6
+          },
+          {
+            "level": "Black cohosh",
+            "count": 42,
+            "pct": 6.9
+          },
+          {
+            "level": "1",
+            "count": 15,
+            "pct": 2.5
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 990,
+        "missing": 902,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 902,
+            "pct": 91.1
+          },
+          {
+            "level": "1",
+            "count": 48,
+            "pct": 4.8
+          },
+          {
+            "level": "Black cohosh",
+            "count": 40,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1000,
+        "missing": 897,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 897,
+            "pct": 89.7
+          },
+          {
+            "level": "1",
+            "count": 55,
+            "pct": 5.5
+          },
+          {
+            "level": "Black cohosh",
+            "count": 48,
+            "pct": 4.8
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 430,
+        "missing": 386,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 386,
+            "pct": 89.8
+          },
+          {
+            "level": "1",
+            "count": 30,
+            "pct": 7
+          },
+          {
+            "level": "Black cohosh",
+            "count": 14,
+            "pct": 3.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 456,
+        "missing": 420,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 420,
+            "pct": 92.1
+          },
+          {
+            "level": "1",
+            "count": 23,
+            "pct": 5
+          },
+          {
+            "level": "Black cohosh",
+            "count": 13,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 499,
+        "missing": 445,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 445,
+            "pct": 89.2
+          },
+          {
+            "level": "1",
+            "count": 35,
+            "pct": 7
+          },
+          {
+            "level": "Black cohosh",
+            "count": 19,
+            "pct": 3.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 605,
+        "missing": 548,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 548,
+            "pct": 90.6
+          },
+          {
+            "level": "Black cohosh",
+            "count": 42,
+            "pct": 6.9
+          },
+          {
+            "level": "1",
+            "count": 15,
+            "pct": 2.5
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 257,
+        "missing": 231,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 231,
+            "pct": 89.9
+          },
+          {
+            "level": "1",
+            "count": 17,
+            "pct": 6.6
+          },
+          {
+            "level": "Black cohosh",
+            "count": 9,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 232,
+        "missing": 218,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 218,
+            "pct": 94
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 4.3
+          },
+          {
+            "level": "Black cohosh",
+            "count": 4,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 181,
+        "missing": 162,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 162,
+            "pct": 89.5
+          },
+          {
+            "level": "1",
+            "count": 15,
+            "pct": 8.3
+          },
+          {
+            "level": "Black cohosh",
+            "count": 4,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 320,
+        "missing": 291,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 291,
+            "pct": 90.9
+          },
+          {
+            "level": "Black cohosh",
+            "count": 23,
+            "pct": 7.2
+          },
+          {
+            "level": "1",
+            "count": 6,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 173,
+        "missing": 155,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 155,
+            "pct": 89.6
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 7.5
+          },
+          {
+            "level": "Black cohosh",
+            "count": 5,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 224,
+        "missing": 202,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 202,
+            "pct": 90.2
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 5.8
+          },
+          {
+            "level": "Black cohosh",
+            "count": 9,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 318,
+        "missing": 283,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 283,
+            "pct": 89
+          },
+          {
+            "level": "1",
+            "count": 20,
+            "pct": 6.3
+          },
+          {
+            "level": "Black cohosh",
+            "count": 15,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 285,
+        "missing": 257,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 257,
+            "pct": 90.2
+          },
+          {
+            "level": "Black cohosh",
+            "count": 19,
+            "pct": 6.7
+          },
+          {
+            "level": "1",
+            "count": 9,
+            "pct": 3.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 257,
+        "missing": 231,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 231,
+            "pct": 89.9
+          },
+          {
+            "level": "1",
+            "count": 17,
+            "pct": 6.6
+          },
+          {
+            "level": "Black cohosh",
+            "count": 9,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 232,
+        "missing": 218,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 218,
+            "pct": 94
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 4.3
+          },
+          {
+            "level": "Black cohosh",
+            "count": 4,
+            "pct": 1.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 181,
+        "missing": 162,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 162,
+            "pct": 89.5
+          },
+          {
+            "level": "1",
+            "count": 15,
+            "pct": 8.3
+          },
+          {
+            "level": "Black cohosh",
+            "count": 4,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 320,
+        "missing": 291,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 291,
+            "pct": 90.9
+          },
+          {
+            "level": "Black cohosh",
+            "count": 23,
+            "pct": 7.2
+          },
+          {
+            "level": "1",
+            "count": 6,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 173,
+        "missing": 155,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 155,
+            "pct": 89.6
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 7.5
+          },
+          {
+            "level": "Black cohosh",
+            "count": 5,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 202,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 202,
+            "pct": 90.2
+          },
+          {
+            "level": "1",
+            "count": 13,
+            "pct": 5.8
+          },
+          {
+            "level": "Black cohosh",
+            "count": 9,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 318,
+        "missing": 283,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 283,
+            "pct": 89
+          },
+          {
+            "level": "1",
+            "count": 20,
+            "pct": 6.3
+          },
+          {
+            "level": "Black cohosh",
+            "count": 15,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 285,
+        "missing": 257,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 257,
+            "pct": 90.2
+          },
+          {
+            "level": "Black cohosh",
+            "count": 19,
+            "pct": 6.7
+          },
+          {
+            "level": "1",
+            "count": 9,
+            "pct": 3.2
+          }
+        ]
+      }
+    ]
+  }
+}

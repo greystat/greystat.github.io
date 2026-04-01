@@ -1,0 +1,1 @@
+window.__SPOUSE_IN_SCHOOL_NOW_EXAM_A={"concept_id":"SPOUSE_IN_SCHOOL_NOW","exam":"A","n":5114,"missing":11,"n_levels":5,"mode_level":"0"};

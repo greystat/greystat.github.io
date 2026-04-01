@@ -1,0 +1,1 @@
+window.__TYPE_A_CURRENT_ROLE_EXAM_G={"concept_id":"TYPE_A_CURRENT_ROLE","exam":"G","n":3498,"missing":13,"n_levels":6,"mode_level":"\"Working\""};

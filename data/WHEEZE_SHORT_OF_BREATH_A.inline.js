@@ -1,0 +1,1 @@
+window.__WHEEZE_SHORT_OF_BREATH_EXAM_A={"concept_id":"WHEEZE_SHORT_OF_BREATH","exam":"A","n":5114,"missing":21,"n_levels":4,"mode_level":"\"No\""};

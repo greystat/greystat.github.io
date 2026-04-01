@@ -1,0 +1,26 @@
+{
+  "concept_id": "YALTA_INDICATOR",
+  "title": "YALTA indicator",
+  "chips": ["categorical", "1 levels", "F51 · Urine Specimens", "Renal"],
+  "members": [
+    {
+      "concept_id": "YALTA_INDICATOR",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f51",
+      "dataset_stub": "g3f51",
+      "varname": "G51YALTA",
+      "family": "F51",
+      "form_label": "Urine",
+      "n_labels": "1",
+      "instrument": "F51: Urine",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "2",
+      "label": "\"Yes\""
+    }
+  ]
+}

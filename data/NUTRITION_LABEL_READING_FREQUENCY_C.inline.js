@@ -1,0 +1,1 @@
+window.__NUTRITION_LABEL_READING_FREQUENCY_EXAM_C={"concept_id":"NUTRITION_LABEL_READING_FREQUENCY","exam":"C","n":4351,"missing":35,"n_levels":6,"mode_level":"Sometimes"};

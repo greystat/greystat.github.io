@@ -1,0 +1,1 @@
+window.__SELF_EFFICACY_EXERCISE_WITH_OTHERS_DIFFERENT_PACE_EXAM_E={"concept_id":"SELF_EFFICACY_EXERCISE_WITH_OTHERS_DIFFERENT_PACE","exam":"E","n":3949,"missing":46,"n_levels":7,"mode_level":"I know I can"};

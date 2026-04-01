@@ -1,0 +1,1 @@
+window.__OUTPATIENT_VISIT_SATISFACTION_EXAM_F={"concept_id":"OUTPATIENT_VISIT_SATISFACTION","exam":"F","n":3671,"missing":312,"n_levels":6,"mode_level":"Very satisfied"};

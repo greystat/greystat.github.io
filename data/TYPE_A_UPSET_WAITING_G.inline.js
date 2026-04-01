@@ -1,0 +1,1 @@
+window.__TYPE_A_UPSET_WAITING_EXAM_G={"concept_id":"TYPE_A_UPSET_WAITING","exam":"G","n":3498,"missing":18,"n_levels":3,"mode_level":"Very well"};

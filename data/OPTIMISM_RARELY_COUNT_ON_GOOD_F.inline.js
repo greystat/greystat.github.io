@@ -1,0 +1,1 @@
+window.__OPTIMISM_RARELY_COUNT_ON_GOOD_EXAM_F={"concept_id":"OPTIMISM_RARELY_COUNT_ON_GOOD","exam":"F","n":3671,"missing":15,"n_levels":6,"mode_level":"Disagree"};

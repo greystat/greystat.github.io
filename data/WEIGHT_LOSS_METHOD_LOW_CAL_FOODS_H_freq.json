@@ -1,0 +1,877 @@
+{
+  "concept_id": "WEIGHT_LOSS_METHOD_LOW_CAL_FOODS",
+  "exam": "H",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3460,
+        "missing": 2302,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2302,
+            "pct": 66.5
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 1158,
+            "pct": 33.5
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1505,
+        "missing": 1102,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1102,
+            "pct": 73.2
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 403,
+            "pct": 26.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1955,
+        "missing": 1200,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1200,
+            "pct": 61.4
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 755,
+            "pct": 38.6
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1617,
+        "missing": 1093,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1093,
+            "pct": 67.6
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 524,
+            "pct": 32.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1843,
+        "missing": 1209,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1209,
+            "pct": 65.6
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 634,
+            "pct": 34.4
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 816,
+        "missing": 567,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 567,
+            "pct": 69.5
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 249,
+            "pct": 30.5
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 790,
+        "missing": 519,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 519,
+            "pct": 65.7
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 271,
+            "pct": 34.3
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 922,
+        "missing": 607,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 607,
+            "pct": 65.8
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 315,
+            "pct": 34.2
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 932,
+        "missing": 609,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 609,
+            "pct": 65.3
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 323,
+            "pct": 34.7
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 648,
+        "missing": 491,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 491,
+            "pct": 75.8
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 157,
+            "pct": 24.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 969,
+        "missing": 602,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 602,
+            "pct": 62.1
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 367,
+            "pct": 37.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 857,
+        "missing": 611,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 611,
+            "pct": 71.3
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 246,
+            "pct": 28.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 986,
+        "missing": 598,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 598,
+            "pct": 60.6
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 388,
+            "pct": 39.4
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 377,
+        "missing": 285,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 285,
+            "pct": 75.6
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 92,
+            "pct": 24.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 338,
+        "missing": 246,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 246,
+            "pct": 72.8
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 92,
+            "pct": 27.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 423,
+        "missing": 307,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 307,
+            "pct": 72.6
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 116,
+            "pct": 27.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 367,
+        "missing": 264,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 264,
+            "pct": 71.9
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 103,
+            "pct": 28.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 439,
+        "missing": 282,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 282,
+            "pct": 64.2
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 157,
+            "pct": 35.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 452,
+        "missing": 273,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 273,
+            "pct": 60.4
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 179,
+            "pct": 39.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 499,
+        "missing": 300,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 300,
+            "pct": 60.1
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 199,
+            "pct": 39.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 565,
+        "missing": 345,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 345,
+            "pct": 61.1
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 220,
+            "pct": 38.9
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 456,
+        "missing": 324,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 324,
+            "pct": 71.1
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 132,
+            "pct": 28.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 359,
+        "missing": 238,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 238,
+            "pct": 66.3
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 121,
+            "pct": 33.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 331,
+        "missing": 228,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 228,
+            "pct": 68.9
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 103,
+            "pct": 31.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 471,
+        "missing": 303,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 303,
+            "pct": 64.3
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 168,
+            "pct": 35.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 360,
+        "missing": 243,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 243,
+            "pct": 67.5
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 117,
+            "pct": 32.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 431,
+        "missing": 281,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 281,
+            "pct": 65.2
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 150,
+            "pct": 34.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 591,
+        "missing": 379,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 379,
+            "pct": 64.1
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 212,
+            "pct": 35.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 461,
+        "missing": 306,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 306,
+            "pct": 66.4
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 155,
+            "pct": 33.6
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 190,
+        "missing": 153,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 153,
+            "pct": 80.5
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 37,
+            "pct": 19.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 131,
+        "missing": 104,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 104,
+            "pct": 79.4
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 27,
+            "pct": 20.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 146,
+        "missing": 103,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 103,
+            "pct": 70.5
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 43,
+            "pct": 29.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 181,
+        "missing": 131,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 131,
+            "pct": 72.4
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 50,
+            "pct": 27.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 266,
+        "missing": 171,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 171,
+            "pct": 64.3
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 95,
+            "pct": 35.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 228,
+        "missing": 134,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 134,
+            "pct": 58.8
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 94,
+            "pct": 41.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 185,
+        "missing": 125,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 125,
+            "pct": 67.6
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 60,
+            "pct": 32.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 290,
+        "missing": 172,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 172,
+            "pct": 59.3
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 118,
+            "pct": 40.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 187,
+        "missing": 132,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 132,
+            "pct": 70.6
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 55,
+            "pct": 29.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 207,
+        "missing": 142,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 142,
+            "pct": 68.6
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 65,
+            "pct": 31.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 277,
+        "missing": 204,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 204,
+            "pct": 73.6
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 73,
+            "pct": 26.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 186,
+        "missing": 133,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 133,
+            "pct": 71.5
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 53,
+            "pct": 28.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 173,
+        "missing": 111,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 111,
+            "pct": 64.2
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 62,
+            "pct": 35.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 139,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 139,
+            "pct": 62.1
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 85,
+            "pct": 37.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 314,
+        "missing": 175,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 175,
+            "pct": 55.7
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 139,
+            "pct": 44.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 275,
+        "missing": 173,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 173,
+            "pct": 62.9
+          },
+          {
+            "level": "Switched to foods with lower calories",
+            "count": 102,
+            "pct": 37.1
+          }
+        ]
+      }
+    ]
+  }
+}

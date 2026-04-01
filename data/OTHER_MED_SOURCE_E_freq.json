@@ -1,0 +1,992 @@
+{
+  "concept_id": "OTHER_MED_SOURCE",
+  "exam": "E",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1319,
+        "missing": 5,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 985,
+            "pct": 74.7
+          },
+          {
+            "level": "Prescription label",
+            "count": 329,
+            "pct": 24.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 5,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 441,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 325,
+            "pct": 73.7
+          },
+          {
+            "level": "Prescription label",
+            "count": 113,
+            "pct": 25.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 878,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 660,
+            "pct": 75.2
+          },
+          {
+            "level": "Prescription label",
+            "count": 216,
+            "pct": 24.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 585,
+        "missing": 3,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 423,
+            "pct": 72.3
+          },
+          {
+            "level": "Prescription label",
+            "count": 159,
+            "pct": 27.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 734,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 562,
+            "pct": 76.6
+          },
+          {
+            "level": "Prescription label",
+            "count": 170,
+            "pct": 23.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 417,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 314,
+            "pct": 75.3
+          },
+          {
+            "level": "Prescription label",
+            "count": 102,
+            "pct": 24.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 169,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 133,
+            "pct": 78.7
+          },
+          {
+            "level": "Prescription label",
+            "count": 36,
+            "pct": 21.3
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 387,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 254,
+            "pct": 65.6
+          },
+          {
+            "level": "Prescription label",
+            "count": 131,
+            "pct": 33.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 346,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 284,
+            "pct": 82.1
+          },
+          {
+            "level": "Prescription label",
+            "count": 60,
+            "pct": 17.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 180,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 117,
+            "pct": 65
+          },
+          {
+            "level": "Prescription label",
+            "count": 61,
+            "pct": 33.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 405,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 306,
+            "pct": 75.6
+          },
+          {
+            "level": "Prescription label",
+            "count": 98,
+            "pct": 24.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 261,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 208,
+            "pct": 79.7
+          },
+          {
+            "level": "Prescription label",
+            "count": 52,
+            "pct": 19.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 473,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 354,
+            "pct": 74.8
+          },
+          {
+            "level": "Prescription label",
+            "count": 118,
+            "pct": 24.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 146,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 126,
+            "pct": 86.3
+          },
+          {
+            "level": "Prescription label",
+            "count": 20,
+            "pct": 13.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 62,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 54,
+            "pct": 87.1
+          },
+          {
+            "level": "Prescription label",
+            "count": 8,
+            "pct": 12.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 144,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 90,
+            "pct": 62.5
+          },
+          {
+            "level": "Prescription label",
+            "count": 53,
+            "pct": 36.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 89,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 55,
+            "pct": 61.8
+          },
+          {
+            "level": "Prescription label",
+            "count": 32,
+            "pct": 36
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 271,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 188,
+            "pct": 69.4
+          },
+          {
+            "level": "Prescription label",
+            "count": 82,
+            "pct": 30.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 107,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 79,
+            "pct": 73.8
+          },
+          {
+            "level": "Prescription label",
+            "count": 28,
+            "pct": 26.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 243,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 164,
+            "pct": 67.5
+          },
+          {
+            "level": "Prescription label",
+            "count": 78,
+            "pct": 32.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 257,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 229,
+            "pct": 89.1
+          },
+          {
+            "level": "Prescription label",
+            "count": 28,
+            "pct": 10.9
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 219,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 166,
+            "pct": 75.8
+          },
+          {
+            "level": "Prescription label",
+            "count": 52,
+            "pct": 23.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 51,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 35,
+            "pct": 68.6
+          },
+          {
+            "level": "Prescription label",
+            "count": 16,
+            "pct": 31.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 129,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 80,
+            "pct": 62
+          },
+          {
+            "level": "Prescription label",
+            "count": 49,
+            "pct": 38
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 186,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 142,
+            "pct": 76.3
+          },
+          {
+            "level": "Prescription label",
+            "count": 42,
+            "pct": 22.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 198,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 148,
+            "pct": 74.7
+          },
+          {
+            "level": "Prescription label",
+            "count": 50,
+            "pct": 25.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 118,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 98,
+            "pct": 83.1
+          },
+          {
+            "level": "Prescription label",
+            "count": 20,
+            "pct": 16.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 258,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 174,
+            "pct": 67.4
+          },
+          {
+            "level": "Prescription label",
+            "count": 82,
+            "pct": 31.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 160,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 142,
+            "pct": 88.8
+          },
+          {
+            "level": "Prescription label",
+            "count": 18,
+            "pct": 11.2
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 63,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 53,
+            "pct": 84.1
+          },
+          {
+            "level": "Prescription label",
+            "count": 10,
+            "pct": 15.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 20,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 17,
+            "pct": 85
+          },
+          {
+            "level": "Prescription label",
+            "count": 3,
+            "pct": 15
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 50,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Prescription label",
+        "freq": [
+          {
+            "level": "Prescription label",
+            "count": 25,
+            "pct": 50
+          },
+          {
+            "level": "Self-report",
+            "count": 25,
+            "pct": 50
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 47,
+        "missing": 2,
+        "n_levels": 3,
+        "mode_level": "Prescription label",
+        "freq": [
+          {
+            "level": "Prescription label",
+            "count": 23,
+            "pct": 48.9
+          },
+          {
+            "level": "Self-report",
+            "count": 22,
+            "pct": 46.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 4.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 156,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 113,
+            "pct": 72.4
+          },
+          {
+            "level": "Prescription label",
+            "count": 42,
+            "pct": 26.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 31,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 18,
+            "pct": 58.1
+          },
+          {
+            "level": "Prescription label",
+            "count": 13,
+            "pct": 41.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 79,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 55,
+            "pct": 69.6
+          },
+          {
+            "level": "Prescription label",
+            "count": 24,
+            "pct": 30.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 139,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 120,
+            "pct": 86.3
+          },
+          {
+            "level": "Prescription label",
+            "count": 19,
+            "pct": 13.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 83,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 73,
+            "pct": 88
+          },
+          {
+            "level": "Prescription label",
+            "count": 10,
+            "pct": 12
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 42,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 37,
+            "pct": 88.1
+          },
+          {
+            "level": "Prescription label",
+            "count": 5,
+            "pct": 11.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 94,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 65,
+            "pct": 69.1
+          },
+          {
+            "level": "Prescription label",
+            "count": 28,
+            "pct": 29.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 42,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 33,
+            "pct": 78.6
+          },
+          {
+            "level": "Prescription label",
+            "count": 9,
+            "pct": 21.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 115,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 75,
+            "pct": 65.2
+          },
+          {
+            "level": "Prescription label",
+            "count": 40,
+            "pct": 34.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 76,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 61,
+            "pct": 80.3
+          },
+          {
+            "level": "Prescription label",
+            "count": 15,
+            "pct": 19.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 164,
+        "missing": 1,
+        "n_levels": 3,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 109,
+            "pct": 66.5
+          },
+          {
+            "level": "Prescription label",
+            "count": 54,
+            "pct": 32.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 118,
+        "missing": 0,
+        "n_levels": 2,
+        "mode_level": "Self-report",
+        "freq": [
+          {
+            "level": "Self-report",
+            "count": 109,
+            "pct": 92.4
+          },
+          {
+            "level": "Prescription label",
+            "count": 9,
+            "pct": 7.6
+          }
+        ]
+      }
+    ]
+  }
+}

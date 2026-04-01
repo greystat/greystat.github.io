@@ -1,0 +1,877 @@
+{
+  "concept_id": "TEA_ADD_SUGAR_HONEY",
+  "exam": "I",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3278,
+        "missing": 2281,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 2281,
+            "pct": 69.6
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 997,
+            "pct": 30.4
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1405,
+        "missing": 1015,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1015,
+            "pct": 72.2
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 390,
+            "pct": 27.8
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 1873,
+        "missing": 1266,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1266,
+            "pct": 67.6
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 607,
+            "pct": 32.4
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1549,
+        "missing": 913,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 913,
+            "pct": 58.9
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 636,
+            "pct": 41.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1729,
+        "missing": 1368,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1368,
+            "pct": 79.1
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 361,
+            "pct": 20.9
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 722,
+        "missing": 443,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 443,
+            "pct": 61.4
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 279,
+            "pct": 38.6
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 734,
+        "missing": 502,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 502,
+            "pct": 68.4
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 232,
+            "pct": 31.6
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 830,
+        "missing": 626,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 626,
+            "pct": 75.4
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 204,
+            "pct": 24.6
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 992,
+        "missing": 710,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 710,
+            "pct": 71.6
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 282,
+            "pct": 28.4
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 622,
+        "missing": 395,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 395,
+            "pct": 63.5
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 227,
+            "pct": 36.5
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 927,
+        "missing": 518,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 518,
+            "pct": 55.9
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 409,
+            "pct": 44.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 783,
+        "missing": 620,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 620,
+            "pct": 79.2
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 163,
+            "pct": 20.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 946,
+        "missing": 748,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 748,
+            "pct": 79.1
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 198,
+            "pct": 20.9
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 334,
+        "missing": 215,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 215,
+            "pct": 64.4
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 119,
+            "pct": 35.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 318,
+        "missing": 230,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 230,
+            "pct": 72.3
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 88,
+            "pct": 27.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 371,
+        "missing": 289,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 289,
+            "pct": 77.9
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 82,
+            "pct": 22.1
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 382,
+        "missing": 281,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 281,
+            "pct": 73.6
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 101,
+            "pct": 26.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 388,
+        "missing": 228,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 228,
+            "pct": 58.8
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 160,
+            "pct": 41.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 416,
+        "missing": 272,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 272,
+            "pct": 65.4
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 144,
+            "pct": 34.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 459,
+        "missing": 337,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 337,
+            "pct": 73.4
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 122,
+            "pct": 26.6
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 610,
+        "missing": 429,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 429,
+            "pct": 70.3
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 181,
+            "pct": 29.7
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 400,
+        "missing": 235,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 235,
+            "pct": 58.8
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 165,
+            "pct": 41.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 337,
+        "missing": 188,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 188,
+            "pct": 55.8
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 149,
+            "pct": 44.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 288,
+        "missing": 171,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 171,
+            "pct": 59.4
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 117,
+            "pct": 40.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 524,
+        "missing": 319,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 319,
+            "pct": 60.9
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 205,
+            "pct": 39.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 322,
+        "missing": 208,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 208,
+            "pct": 64.6
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 114,
+            "pct": 35.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 397,
+        "missing": 314,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 314,
+            "pct": 79.1
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 83,
+            "pct": 20.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 542,
+        "missing": 455,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 455,
+            "pct": 83.9
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 87,
+            "pct": 16.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 468,
+        "missing": 391,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 391,
+            "pct": 83.5
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 77,
+            "pct": 16.5
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 167,
+        "missing": 105,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 105,
+            "pct": 62.9
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 62,
+            "pct": 37.1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 128,
+        "missing": 81,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 81,
+            "pct": 63.3
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 47,
+            "pct": 36.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 128,
+        "missing": 84,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 84,
+            "pct": 65.6
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 44,
+            "pct": 34.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 199,
+        "missing": 125,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 125,
+            "pct": 62.8
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 74,
+            "pct": 37.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 233,
+        "missing": 130,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 130,
+            "pct": 55.8
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 103,
+            "pct": 44.2
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 209,
+        "missing": 107,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 107,
+            "pct": 51.2
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 102,
+            "pct": 48.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 160,
+        "missing": 87,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 87,
+            "pct": 54.4
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 73,
+            "pct": 45.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 325,
+        "missing": 194,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 194,
+            "pct": 59.7
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 131,
+            "pct": 40.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 167,
+        "missing": 110,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 110,
+            "pct": 65.9
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 57,
+            "pct": 34.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 190,
+        "missing": 149,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 149,
+            "pct": 78.4
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 41,
+            "pct": 21.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 243,
+        "missing": 205,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 205,
+            "pct": 84.4
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 38,
+            "pct": 15.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 183,
+        "missing": 156,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 156,
+            "pct": 85.2
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 27,
+            "pct": 14.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 155,
+        "missing": 98,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 98,
+            "pct": 63.2
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 57,
+            "pct": 36.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 207,
+        "missing": 165,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 165,
+            "pct": 79.7
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 42,
+            "pct": 20.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 299,
+        "missing": 250,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 250,
+            "pct": 83.6
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 49,
+            "pct": 16.4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 285,
+        "missing": 235,
+        "n_levels": 2,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 235,
+            "pct": 82.5
+          },
+          {
+            "level": "Sugar or honey",
+            "count": 50,
+            "pct": 17.5
+          }
+        ]
+      }
+    ]
+  }
+}

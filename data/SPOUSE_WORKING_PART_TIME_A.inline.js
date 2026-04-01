@@ -1,0 +1,1 @@
+window.__SPOUSE_WORKING_PART_TIME_EXAM_A={"concept_id":"SPOUSE_WORKING_PART_TIME","exam":"A","n":5114,"missing":11,"n_levels":5,"mode_level":"0"};

@@ -1,0 +1,1 @@
+window.__RELIGION_DISCRIMINATION_GETTING_HOUSING_EXAM_D={"concept_id":"RELIGION_DISCRIMINATION_GETTING_HOUSING","exam":"D","n":4085,"missing":53,"n_levels":3,"mode_level":"Yes"};

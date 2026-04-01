@@ -1,0 +1,1 @@
+window.__NO_BC_12MO_EXAM_I={"concept_id":"NO_BC_12MO","exam":"I","n":1334,"missing":1156,"n_levels":2,"mode_level":"(Missing)"};

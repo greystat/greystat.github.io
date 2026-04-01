@@ -1,0 +1,56 @@
+{
+  "concept_id": "PARTICIPANT_REFUSAL_GXT",
+  "title": "Participant refusal of graded exercise test",
+  "chips": ["categorical", "2 levels", "F21 · Treadmill Exclusion Criteria", "Exercise Testing"],
+  "members": [
+    {
+      "concept_id": "PARTICIPANT_REFUSAL_GXT",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f21",
+      "dataset_stub": "a4f21",
+      "varname": "A21REFUS",
+      "family": "F21",
+      "form_label": "Graded Exercise Treadmill Rescheduling & Exclusion Criteria Form",
+      "n_labels": "2",
+      "instrument": "F21: Graded Exercise Treadmill Rescheduling & Exclusion Criteria Form",
+      "notes": ""
+    },
+    {
+      "concept_id": "PARTICIPANT_REFUSAL_GXT",
+      "exam": "D",
+      "exam_year": "Y7",
+      "dataset": "d1f21",
+      "dataset_stub": "d1f21",
+      "varname": "D21REFUS",
+      "family": "F21",
+      "form_label": "Graded Exercise Treadmill Rescheduling and Exclusion Criteria Form",
+      "n_labels": "2",
+      "instrument": "F21: Graded Exercise Treadmill Rescheduling and Exclusion Criteria Form",
+      "notes": ""
+    },
+    {
+      "concept_id": "PARTICIPANT_REFUSAL_GXT",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f21",
+      "dataset_stub": "g3f21",
+      "varname": "G21REFUS",
+      "family": "F21",
+      "form_label": "Graded Exercise Treadmill Test Rescheduling and Exclusion Criteria Form",
+      "n_labels": "1",
+      "instrument": "F21: Graded Exercise Treadmill Test Rescheduling and Exclusion Criteria Form",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"No\""
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    }
+  ]
+}

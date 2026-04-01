@@ -1,0 +1,39 @@
+{
+  "concept_id": "UNEMPLOYED_MORE_THAN_2M_SINCE_LAST_EXAM",
+  "title": "Unemployed for more than 2 months since last exam",
+  "chips": ["categorical", "1 levels", "F03 · Sociodemographic Questionnaire", "Sociodemographic"],
+  "members": [
+    {
+      "concept_id": "UNEMPLOYED_MORE_THAN_2M_SINCE_LAST_EXAM",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h4f03",
+      "dataset_stub": "h4f03",
+      "varname": "H03NOWRK",
+      "family": "F03",
+      "form_label": "Sociodemographic Questionnaire",
+      "n_labels": "1",
+      "instrument": "F03: Sociodemographic Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "UNEMPLOYED_MORE_THAN_2M_SINCE_LAST_EXAM",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j2f03",
+      "dataset_stub": "j2f03",
+      "varname": "J03NOWRK",
+      "family": "F03",
+      "form_label": "Sociodemographic Questionnaire",
+      "n_labels": "1",
+      "instrument": "F03: Sociodemographic Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    }
+  ]
+}

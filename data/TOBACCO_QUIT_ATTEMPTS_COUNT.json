@@ -1,0 +1,133 @@
+{
+  "concept_id": "TOBACCO_QUIT_ATTEMPTS_COUNT",
+  "title": "Number of quit attempts ≥48 hours",
+  "chips": ["categorical", "5 levels"],
+  "members": [
+    {
+      "concept_id": "TOBACCO_QUIT_ATTEMPTS_COUNT",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f09tob",
+      "dataset_stub": "c1f09tob",
+      "varname": "C09ATTMP",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOBACCO_QUIT_ATTEMPTS_COUNT",
+      "exam": "D",
+      "exam_year": "Y7",
+      "dataset": "d1f9toba",
+      "dataset_stub": "d1f9toba",
+      "varname": "D09ATTMP",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "5",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOBACCO_QUIT_ATTEMPTS_COUNT",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f09tob",
+      "dataset_stub": "e1f09tob",
+      "varname": "E09ATTMP",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "5",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOBACCO_QUIT_ATTEMPTS_COUNT",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f09tob",
+      "dataset_stub": "f1f09tob",
+      "varname": "F09ATTMP",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "5",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOBACCO_QUIT_ATTEMPTS_COUNT",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f09tob",
+      "dataset_stub": "g3f09tob",
+      "varname": "G09ATTMP",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "1",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOBACCO_QUIT_ATTEMPTS_COUNT",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f09tob",
+      "dataset_stub": "h3f09tob",
+      "varname": "H09ATTMP",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "1",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOBACCO_QUIT_ATTEMPTS_COUNT",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f09tob",
+      "dataset_stub": "i1f09tob",
+      "varname": "I09ATTMP",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "5",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "TOBACCO_QUIT_ATTEMPTS_COUNT",
+      "exam": "J",
+      "exam_year": "Y35",
+      "dataset": "j1f09tob",
+      "dataset_stub": "j1f09tob",
+      "varname": "J09ATTMP",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "1",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"None\""
+    },
+    {
+      "code": "2",
+      "label": "1"
+    },
+    {
+      "code": "3",
+      "label": "2-3"
+    },
+    {
+      "code": "4",
+      "label": "4-5"
+    },
+    {
+      "code": "5",
+      "label": "6 or more"
+    }
+  ]
+}

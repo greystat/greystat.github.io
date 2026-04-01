@@ -1,0 +1,1 @@
+window.__NONPRESCRIPTION_WILD_YAM_12MO_EXAM_G={"concept_id":"NONPRESCRIPTION_WILD_YAM_12MO","exam":"G","n":1990,"missing":1870,"n_levels":3,"mode_level":"(Missing)"};

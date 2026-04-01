@@ -1,0 +1,742 @@
+{
+  "concept_id": "VAGINAL_DRYNESS_3MO",
+  "exam": "G",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 1990,
+        "missing": 1558,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1558,
+            "pct": 78.3
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 349,
+            "pct": 17.5
+          },
+          {
+            "level": "1",
+            "count": 83,
+            "pct": 4.2
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 2",
+        "n": 1990,
+        "missing": 1558,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 1558,
+            "pct": 78.3
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 349,
+            "pct": 17.5
+          },
+          {
+            "level": "1",
+            "count": 83,
+            "pct": 4.2
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 990,
+        "missing": 787,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 787,
+            "pct": 79.5
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 162,
+            "pct": 16.4
+          },
+          {
+            "level": "1",
+            "count": 41,
+            "pct": 4.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1000,
+        "missing": 771,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 771,
+            "pct": 77.1
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 187,
+            "pct": 18.7
+          },
+          {
+            "level": "1",
+            "count": 42,
+            "pct": 4.2
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 430,
+        "missing": 328,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 328,
+            "pct": 76.3
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 82,
+            "pct": 19.1
+          },
+          {
+            "level": "1",
+            "count": 20,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 456,
+        "missing": 356,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 356,
+            "pct": 78.1
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 82,
+            "pct": 18
+          },
+          {
+            "level": "1",
+            "count": 18,
+            "pct": 3.9
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 499,
+        "missing": 392,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 392,
+            "pct": 78.6
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 72,
+            "pct": 14.4
+          },
+          {
+            "level": "1",
+            "count": 35,
+            "pct": 7
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 605,
+        "missing": 482,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 482,
+            "pct": 79.7
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 113,
+            "pct": 18.7
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 1.7
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 990,
+        "missing": 787,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 787,
+            "pct": 79.5
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 162,
+            "pct": 16.4
+          },
+          {
+            "level": "1",
+            "count": 41,
+            "pct": 4.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1000,
+        "missing": 771,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 771,
+            "pct": 77.1
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 187,
+            "pct": 18.7
+          },
+          {
+            "level": "1",
+            "count": 42,
+            "pct": 4.2
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 430,
+        "missing": 328,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 328,
+            "pct": 76.3
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 82,
+            "pct": 19.1
+          },
+          {
+            "level": "1",
+            "count": 20,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 456,
+        "missing": 356,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 356,
+            "pct": 78.1
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 82,
+            "pct": 18
+          },
+          {
+            "level": "1",
+            "count": 18,
+            "pct": 3.9
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 499,
+        "missing": 392,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 392,
+            "pct": 78.6
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 72,
+            "pct": 14.4
+          },
+          {
+            "level": "1",
+            "count": 35,
+            "pct": 7
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 605,
+        "missing": 482,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 482,
+            "pct": 79.7
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 113,
+            "pct": 18.7
+          },
+          {
+            "level": "1",
+            "count": 10,
+            "pct": 1.7
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 257,
+        "missing": 200,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 200,
+            "pct": 77.8
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 46,
+            "pct": 17.9
+          },
+          {
+            "level": "1",
+            "count": 11,
+            "pct": 4.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 232,
+        "missing": 188,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 188,
+            "pct": 81
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 35,
+            "pct": 15.1
+          },
+          {
+            "level": "1",
+            "count": 9,
+            "pct": 3.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 181,
+        "missing": 139,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 139,
+            "pct": 76.8
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 26,
+            "pct": 14.4
+          },
+          {
+            "level": "1",
+            "count": 16,
+            "pct": 8.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 320,
+        "missing": 260,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 260,
+            "pct": 81.2
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 55,
+            "pct": 17.2
+          },
+          {
+            "level": "1",
+            "count": 5,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 173,
+        "missing": 128,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 128,
+            "pct": 74
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 36,
+            "pct": 20.8
+          },
+          {
+            "level": "1",
+            "count": 9,
+            "pct": 5.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 224,
+        "missing": 168,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 168,
+            "pct": 75
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 47,
+            "pct": 21
+          },
+          {
+            "level": "1",
+            "count": 9,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 318,
+        "missing": 253,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 253,
+            "pct": 79.6
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 46,
+            "pct": 14.5
+          },
+          {
+            "level": "1",
+            "count": 19,
+            "pct": 6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 285,
+        "missing": 222,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 222,
+            "pct": 77.9
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 58,
+            "pct": 20.4
+          },
+          {
+            "level": "1",
+            "count": 5,
+            "pct": 1.8
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 257,
+        "missing": 200,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 200,
+            "pct": 77.8
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 46,
+            "pct": 17.9
+          },
+          {
+            "level": "1",
+            "count": 11,
+            "pct": 4.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 232,
+        "missing": 188,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 188,
+            "pct": 81
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 35,
+            "pct": 15.1
+          },
+          {
+            "level": "1",
+            "count": 9,
+            "pct": 3.9
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 181,
+        "missing": 139,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 139,
+            "pct": 76.8
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 26,
+            "pct": 14.4
+          },
+          {
+            "level": "1",
+            "count": 16,
+            "pct": 8.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 320,
+        "missing": 260,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 260,
+            "pct": 81.2
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 55,
+            "pct": 17.2
+          },
+          {
+            "level": "1",
+            "count": 5,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 173,
+        "missing": 128,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 128,
+            "pct": 74
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 36,
+            "pct": 20.8
+          },
+          {
+            "level": "1",
+            "count": 9,
+            "pct": 5.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 168,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 168,
+            "pct": 75
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 47,
+            "pct": 21
+          },
+          {
+            "level": "1",
+            "count": 9,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 318,
+        "missing": 253,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 253,
+            "pct": 79.6
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 46,
+            "pct": 14.5
+          },
+          {
+            "level": "1",
+            "count": 19,
+            "pct": 6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 285,
+        "missing": 222,
+        "n_levels": 3,
+        "mode_level": "(Missing)",
+        "freq": [
+          {
+            "level": "(Missing)",
+            "count": 222,
+            "pct": 77.9
+          },
+          {
+            "level": "Vaginal dryness",
+            "count": 58,
+            "pct": 20.4
+          },
+          {
+            "level": "1",
+            "count": 5,
+            "pct": 1.8
+          }
+        ]
+      }
+    ]
+  }
+}

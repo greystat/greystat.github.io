@@ -1,0 +1,1 @@
+window.__SHORTNESS_OF_BREATH_HURRYING_OR_HILL_EXAM_G={"concept_id":"SHORTNESS_OF_BREATH_HURRYING_OR_HILL","exam":"G","n":3524,"missing":7,"n_levels":3,"mode_level":"\"No\""};

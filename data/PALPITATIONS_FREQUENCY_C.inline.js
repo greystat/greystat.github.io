@@ -1,0 +1,1 @@
+window.__PALPITATIONS_FREQUENCY_EXAM_C={"concept_id":"PALPITATIONS_FREQUENCY","exam":"C","n":4351,"missing":3436,"n_levels":5,"mode_level":"(Missing)"};

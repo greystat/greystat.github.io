@@ -1,0 +1,1 @@
+window.__SF12_PHYSICAL_HEALTH_LIMITED_WORK_EXAM_I={"concept_id":"SF12_PHYSICAL_HEALTH_LIMITED_WORK","exam":"I","n":3296,"missing":4,"n_levels":3,"mode_level":"\"No\""};

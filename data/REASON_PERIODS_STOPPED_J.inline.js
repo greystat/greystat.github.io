@@ -1,0 +1,1 @@
+window.__REASON_PERIODS_STOPPED_EXAM_J={"concept_id":"REASON_PERIODS_STOPPED","exam":"J","n":1421,"missing":964,"n_levels":6,"mode_level":"(Missing)"};

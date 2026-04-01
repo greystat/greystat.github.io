@@ -1,0 +1,1 @@
+window.__NERVOUS_DISORDER_STATUS_EXAM_B={"concept_id":"NERVOUS_DISORDER_STATUS","exam":"B","n":309,"missing":3,"n_levels":4,"mode_level":"Under control"};

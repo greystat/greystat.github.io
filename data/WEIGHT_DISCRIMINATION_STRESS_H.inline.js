@@ -1,0 +1,1 @@
+window.__WEIGHT_DISCRIMINATION_STRESS_EXAM_H={"concept_id":"WEIGHT_DISCRIMINATION_STRESS","exam":"H","n":3474,"missing":2857,"n_levels":6,"mode_level":"(Missing)"};

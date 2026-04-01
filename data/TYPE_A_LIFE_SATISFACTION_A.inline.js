@@ -1,0 +1,1 @@
+window.__TYPE_A_LIFE_SATISFACTION_EXAM_A={"concept_id":"TYPE_A_LIFE_SATISFACTION","exam":"A","n":5114,"missing":35,"n_levels":7,"mode_level":"Somewhat satisfied"};

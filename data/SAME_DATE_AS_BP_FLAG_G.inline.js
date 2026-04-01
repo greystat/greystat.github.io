@@ -1,0 +1,1 @@
+window.__SAME_DATE_AS_BP_FLAG_EXAM_G={"concept_id":"SAME_DATE_AS_BP_FLAG","exam":"G","n":3476,"missing":367,"n_levels":3,"mode_level":"\"Yes\""};

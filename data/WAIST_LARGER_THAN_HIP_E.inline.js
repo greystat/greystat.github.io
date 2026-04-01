@@ -1,0 +1,1 @@
+window.__WAIST_LARGER_THAN_HIP_EXAM_E={"concept_id":"WAIST_LARGER_THAN_HIP","exam":"E","n":3949,"missing":66,"n_levels":3,"mode_level":"No"};

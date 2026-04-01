@@ -1,0 +1,43 @@
+{
+  "concept_id": "OTHER_MED_SOURCE",
+  "title": "Source of other medication name",
+  "chips": ["categorical", "2 levels"],
+  "members": [
+    {
+      "concept_id": "OTHER_MED_SOURCE",
+      "exam": "D",
+      "exam_year": "Y7",
+      "dataset": "d1f9mota",
+      "dataset_stub": "d1f9mota",
+      "varname": "D09OTSOR",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "2",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "OTHER_MED_SOURCE",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f09mot",
+      "dataset_stub": "e1f09mot",
+      "varname": "E09OTSOR",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "2",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Prescription label"
+    },
+    {
+      "code": "2",
+      "label": "Self-report"
+    }
+  ]
+}

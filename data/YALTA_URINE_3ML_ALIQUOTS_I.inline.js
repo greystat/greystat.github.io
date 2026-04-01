@@ -1,0 +1,1 @@
+window.__YALTA_URINE_3ML_ALIQUOTS_EXAM_I={"concept_id":"YALTA_URINE_3ML_ALIQUOTS","exam":"I","n":3356,"missing":25,"n_levels":3,"mode_level":"3 mL urine aliquots, metabolic profile, brown stripe, MEBRL?UMN"};

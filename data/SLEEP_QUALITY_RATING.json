@@ -1,0 +1,55 @@
+{
+  "concept_id": "SLEEP_QUALITY_RATING",
+  "title": "Self-rated sleep quality",
+  "chips": ["categorical", "5 levels", "F67 · Sleep Habits", "Sleep"],
+  "members": [
+    {
+      "concept_id": "SLEEP_QUALITY_RATING",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f67",
+      "dataset_stub": "f1f67",
+      "varname": "F67SLPQ",
+      "family": "F67",
+      "form_label": "Sleep Questionnaire",
+      "n_labels": "5",
+      "instrument": "F67: Sleep Questionnaire",
+      "notes": ""
+    },
+    {
+      "concept_id": "SLEEP_QUALITY_RATING",
+      "exam": "G",
+      "exam_year": "Y20",
+      "dataset": "g3f67",
+      "dataset_stub": "g3f67",
+      "varname": "G67SLPQ",
+      "family": "F67",
+      "form_label": "Sleep Habits",
+      "n_labels": "1",
+      "instrument": "F67: Sleep Habits",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "\"Very good\""
+    },
+    {
+      "code": "2",
+      "label": "Fairly good"
+    },
+    {
+      "code": "3",
+      "label": "Good"
+    },
+    {
+      "code": "4",
+      "label": "Fairly good"
+    },
+    {
+      "code": "5",
+      "label": "Very good"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+window.__SWORN_AT_INSULTED_CHILDHOOD_EXAM_F={"concept_id":"SWORN_AT_INSULTED_CHILDHOOD","exam":"F","n":3671,"missing":17,"n_levels":5,"mode_level":"Rarely or none of the time"};

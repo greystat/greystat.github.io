@@ -1,0 +1,1 @@
+window.__PHYSICALLY_UNATTRACTIVE_EXAM_D={"concept_id":"PHYSICALLY_UNATTRACTIVE","exam":"D","n":4085,"missing":61,"n_levels":6,"mode_level":"Mostly disagree"};

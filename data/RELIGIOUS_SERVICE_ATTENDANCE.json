@@ -1,0 +1,50 @@
+{
+  "concept_id": "RELIGIOUS_SERVICE_ATTENDANCE",
+  "title": "Frequency of attending religious services",
+  "chips": ["categorical", "7 levels", "F14 · Social Support", "Psychosocial"],
+  "members": [
+    {
+      "concept_id": "RELIGIOUS_SERVICE_ATTENDANCE",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f14",
+      "dataset_stub": "b2f14",
+      "varname": "B14ATNCH",
+      "family": "F14",
+      "form_label": "Social Support Questionnaire",
+      "n_labels": "7",
+      "instrument": "F14: Social Support Questionnaire",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Every day"
+    },
+    {
+      "code": "2",
+      "label": "Once a week"
+    },
+    {
+      "code": "3",
+      "label": "More than once a week"
+    },
+    {
+      "code": "4",
+      "label": "Two or three times a month"
+    },
+    {
+      "code": "5",
+      "label": "Once a month"
+    },
+    {
+      "code": "6",
+      "label": "Less than once a month"
+    },
+    {
+      "code": "7",
+      "label": "Never"
+    }
+  ]
+}

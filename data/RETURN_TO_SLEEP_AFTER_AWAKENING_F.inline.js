@@ -1,0 +1,1 @@
+window.__RETURN_TO_SLEEP_AFTER_AWAKENING_EXAM_F={"concept_id":"RETURN_TO_SLEEP_AFTER_AWAKENING","exam":"F","n":3671,"missing":1909,"n_levels":4,"mode_level":"(Missing)"};

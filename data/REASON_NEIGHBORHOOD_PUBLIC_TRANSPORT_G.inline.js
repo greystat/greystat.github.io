@@ -1,0 +1,1 @@
+window.__REASON_NEIGHBORHOOD_PUBLIC_TRANSPORT_EXAM_G={"concept_id":"REASON_NEIGHBORHOOD_PUBLIC_TRANSPORT","exam":"G","n":2989,"missing":1885,"n_levels":3,"mode_level":"(Missing)"};

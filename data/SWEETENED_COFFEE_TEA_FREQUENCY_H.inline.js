@@ -1,0 +1,1 @@
+window.__SWEETENED_COFFEE_TEA_FREQUENCY_EXAM_H={"concept_id":"SWEETENED_COFFEE_TEA_FREQUENCY","exam":"H","n":3475,"missing":4,"n_levels":11,"mode_level":"Never"};

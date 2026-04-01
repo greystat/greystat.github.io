@@ -1,0 +1,1 @@
+window.__TYPE_OF_EMPLOYMENT_EXAM_B={"concept_id":"TYPE_OF_EMPLOYMENT","exam":"B","n":4623,"missing":116,"n_levels":10,"mode_level":"Employee of private company, business, or individual, for wages, salary, or commissions"};

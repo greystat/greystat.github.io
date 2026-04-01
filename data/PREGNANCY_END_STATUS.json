@@ -1,0 +1,128 @@
+{
+  "concept_id": "PREGNANCY_END_STATUS",
+  "title": "Pregnancy outcome status",
+  "chips": ["categorical", "7 levels"],
+  "members": [
+    {
+      "concept_id": "PREGNANCY_END_STATUS",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f9prg2",
+      "dataset_stub": "b2f9prg2",
+      "varname": "B09PGSTA",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "6",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "PREGNANCY_END_STATUS",
+      "exam": "C",
+      "exam_year": "Y5",
+      "dataset": "c1f9prg2",
+      "dataset_stub": "c1f9prg2",
+      "varname": "C09PGSTA",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "6",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "PREGNANCY_END_STATUS",
+      "exam": "D",
+      "exam_year": "Y7",
+      "dataset": "d1f9prg2",
+      "dataset_stub": "d1f9prg2",
+      "varname": "D09PGSTA",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "6",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "PREGNANCY_END_STATUS",
+      "exam": "E",
+      "exam_year": "Y10",
+      "dataset": "e1f9prg2",
+      "dataset_stub": "e1f9prg2",
+      "varname": "E09PGSTA",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "6",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "PREGNANCY_END_STATUS",
+      "exam": "F",
+      "exam_year": "Y15",
+      "dataset": "f1f9prg2",
+      "dataset_stub": "f1f9prg2",
+      "varname": "F09PGSTA",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "7",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "PREGNANCY_END_STATUS",
+      "exam": "H",
+      "exam_year": "Y25",
+      "dataset": "h3f09prg",
+      "dataset_stub": "h3f09prg",
+      "varname": "H09PGSTA",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "1",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "PREGNANCY_END_STATUS",
+      "exam": "I",
+      "exam_year": "Y30",
+      "dataset": "i1f09prg",
+      "dataset_stub": "i1f09prg",
+      "varname": "I09PGSTA",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "1",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "Natural birth"
+    },
+    {
+      "code": "2",
+      "label": "Caesarean section"
+    },
+    {
+      "code": "3",
+      "label": "Miscarriage"
+    },
+    {
+      "code": "4",
+      "label": "Abortion"
+    },
+    {
+      "code": "5",
+      "label": "Tubal or ectopic pregnancy"
+    },
+    {
+      "code": "8",
+      "label": "Not sure"
+    },
+    {
+      "code": "6",
+      "label": "Molar pregnancy"
+    }
+  ]
+}

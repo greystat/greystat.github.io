@@ -1,0 +1,47 @@
+{
+  "concept_id": "RHEUMATIC_HEART_DISEASE_EVER",
+  "title": "History of rheumatic heart disease",
+  "chips": ["categorical", "3 levels"],
+  "members": [
+    {
+      "concept_id": "RHEUMATIC_HEART_DISEASE_EVER",
+      "exam": "A",
+      "exam_year": "Y0",
+      "dataset": "a4f09gen",
+      "dataset_stub": "a4f09gen",
+      "varname": "A09RHD",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "3",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    },
+    {
+      "concept_id": "RHEUMATIC_HEART_DISEASE_EVER",
+      "exam": "B",
+      "exam_year": "Y2",
+      "dataset": "b2f09hrt",
+      "dataset_stub": "b2f09hrt",
+      "varname": "B09RHD",
+      "family": "F09",
+      "form_label": "Follow-up Medical Questions",
+      "n_labels": "3",
+      "instrument": "F09: Follow-up Medical Questions",
+      "notes": ""
+    }
+  ],
+  "dictionary": [
+    {
+      "code": "1",
+      "label": "No"
+    },
+    {
+      "code": "2",
+      "label": "Yes"
+    },
+    {
+      "code": "8",
+      "label": "Don't know"
+    }
+  ]
+}

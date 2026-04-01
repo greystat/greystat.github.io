@@ -1,0 +1,1 @@
+window.__REFERRAL_FOR_TREADMILL_CONCEPT={"concept_id":"REFERRAL_FOR_TREADMILL","title":"Referral for treadmill test","chips":"categorical","members":[{"concept_id":"REFERRAL_FOR_TREADMILL","exam":"D","exam_year":"","dataset":"dflwup1","dataset_stub":"dflwup1","varname":"FY096TMR","family":"FLWUP","form_label":"","n_labels":"","instrument":"FLWUP","notes":""}],"dictionary":{}};

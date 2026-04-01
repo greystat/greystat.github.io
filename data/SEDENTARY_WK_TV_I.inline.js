@@ -1,0 +1,1 @@
+window.__SEDENTARY_WK_TV_EXAM_I={"concept_id":"SEDENTARY_WK_TV","exam":"I","n":3287,"missing":0,"n_levels":9,"mode_level":"5"};

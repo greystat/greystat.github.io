@@ -1,0 +1,1 @@
+window.__SF12_PAIN_INTERFERED_WITH_WORK_EXAM_I={"concept_id":"SF12_PAIN_INTERFERED_WITH_WORK","exam":"I","n":3296,"missing":0,"n_levels":5,"mode_level":"\"Not at all\""};

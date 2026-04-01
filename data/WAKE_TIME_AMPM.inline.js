@@ -1,0 +1,1 @@
+window.__WAKE_TIME_AMPM_CONCEPT={"concept_id":"WAKE_TIME_AMPM","title":"Wake-up time AM/PM indicator","chips":"categorical","members":[{"concept_id":"WAKE_TIME_AMPM","exam":"F","exam_year":"","dataset":"f4scort","dataset_stub":"f3scort","varname":"FLHWKAM","family":"SCORT","form_label":"","n_labels":"","instrument":"SCORT","notes":""}],"dictionary":{}};

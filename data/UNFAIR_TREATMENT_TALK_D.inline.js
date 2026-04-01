@@ -1,0 +1,1 @@
+window.__UNFAIR_TREATMENT_TALK_EXAM_D={"concept_id":"UNFAIR_TREATMENT_TALK","exam":"D","n":4085,"missing":53,"n_levels":3,"mode_level":"Talk to other people about it?"};

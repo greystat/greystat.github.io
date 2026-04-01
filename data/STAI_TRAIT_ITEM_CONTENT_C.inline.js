@@ -1,0 +1,1 @@
+window.__STAI_TRAIT_ITEM_CONTENT_EXAM_C={"concept_id":"STAI_TRAIT_ITEM_CONTENT","exam":"C","n":4351,"missing":53,"n_levels":5,"mode_level":"Often"};

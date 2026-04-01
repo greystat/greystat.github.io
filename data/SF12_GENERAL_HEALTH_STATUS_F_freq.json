@@ -1,0 +1,1692 @@
+{
+  "concept_id": "SF12_GENERAL_HEALTH_STATUS",
+  "exam": "F",
+  "by": {
+    "all": [
+      {
+        "label": "All",
+        "n": 3671,
+        "missing": 22,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 1503,
+            "pct": 40.9
+          },
+          {
+            "level": "Good",
+            "count": 1167,
+            "pct": 31.8
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 631,
+            "pct": 17.2
+          },
+          {
+            "level": "Fair",
+            "count": 316,
+            "pct": 8.6
+          },
+          {
+            "level": "Poor",
+            "count": 32,
+            "pct": 0.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 22,
+            "pct": 0.6
+          }
+        ]
+      }
+    ],
+    "sex": [
+      {
+        "label": "sex: 1",
+        "n": 1619,
+        "missing": 7,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 687,
+            "pct": 42.4
+          },
+          {
+            "level": "Good",
+            "count": 484,
+            "pct": 29.9
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 299,
+            "pct": 18.5
+          },
+          {
+            "level": "Fair",
+            "count": 129,
+            "pct": 8
+          },
+          {
+            "level": "Poor",
+            "count": 13,
+            "pct": 0.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 7,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2",
+        "n": 2052,
+        "missing": 15,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 816,
+            "pct": 39.8
+          },
+          {
+            "level": "Good",
+            "count": 683,
+            "pct": 33.3
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 332,
+            "pct": 16.2
+          },
+          {
+            "level": "Fair",
+            "count": 187,
+            "pct": 9.1
+          },
+          {
+            "level": "Poor",
+            "count": 19,
+            "pct": 0.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 15,
+            "pct": 0.7
+          }
+        ]
+      }
+    ],
+    "race": [
+      {
+        "label": "race: 4",
+        "n": 1730,
+        "missing": 13,
+        "n_levels": 6,
+        "mode_level": "Good",
+        "freq": [
+          {
+            "level": "Good",
+            "count": 669,
+            "pct": 38.7
+          },
+          {
+            "level": "Very good",
+            "count": 618,
+            "pct": 35.7
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 212,
+            "pct": 12.3
+          },
+          {
+            "level": "Fair",
+            "count": 198,
+            "pct": 11.4
+          },
+          {
+            "level": "Poor",
+            "count": 20,
+            "pct": 1.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 13,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 5",
+        "n": 1941,
+        "missing": 9,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 885,
+            "pct": 45.6
+          },
+          {
+            "level": "Good",
+            "count": 498,
+            "pct": 25.7
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 419,
+            "pct": 21.6
+          },
+          {
+            "level": "Fair",
+            "count": 118,
+            "pct": 6.1
+          },
+          {
+            "level": "Poor",
+            "count": 12,
+            "pct": 0.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 9,
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "center": [
+      {
+        "label": "center: 1",
+        "n": 858,
+        "missing": 8,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 337,
+            "pct": 39.3
+          },
+          {
+            "level": "Good",
+            "count": 296,
+            "pct": 34.5
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 137,
+            "pct": 16
+          },
+          {
+            "level": "Fair",
+            "count": 72,
+            "pct": 8.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 8,
+            "pct": 0.9
+          },
+          {
+            "level": "Poor",
+            "count": 8,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "center: 2",
+        "n": 815,
+        "missing": 0,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 342,
+            "pct": 42
+          },
+          {
+            "level": "Good",
+            "count": 235,
+            "pct": 28.8
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 181,
+            "pct": 22.2
+          },
+          {
+            "level": "Fair",
+            "count": 53,
+            "pct": 6.5
+          },
+          {
+            "level": "Poor",
+            "count": 4,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "center: 3",
+        "n": 993,
+        "missing": 3,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 420,
+            "pct": 42.3
+          },
+          {
+            "level": "Good",
+            "count": 319,
+            "pct": 32.1
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 155,
+            "pct": 15.6
+          },
+          {
+            "level": "Fair",
+            "count": 90,
+            "pct": 9.1
+          },
+          {
+            "level": "Poor",
+            "count": 6,
+            "pct": 0.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "center: 4",
+        "n": 1005,
+        "missing": 11,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 404,
+            "pct": 40.2
+          },
+          {
+            "level": "Good",
+            "count": 317,
+            "pct": 31.5
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 158,
+            "pct": 15.7
+          },
+          {
+            "level": "Fair",
+            "count": 101,
+            "pct": 10
+          },
+          {
+            "level": "Poor",
+            "count": 14,
+            "pct": 1.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 11,
+            "pct": 1.1
+          }
+        ]
+      }
+    ],
+    "race_sex": [
+      {
+        "label": "race: 4 · sex: 1",
+        "n": 709,
+        "missing": 2,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 273,
+            "pct": 38.5
+          },
+          {
+            "level": "Good",
+            "count": 237,
+            "pct": 33.4
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 109,
+            "pct": 15.4
+          },
+          {
+            "level": "Fair",
+            "count": 80,
+            "pct": 11.3
+          },
+          {
+            "level": "Poor",
+            "count": 8,
+            "pct": 1.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2",
+        "n": 1021,
+        "missing": 11,
+        "n_levels": 6,
+        "mode_level": "Good",
+        "freq": [
+          {
+            "level": "Good",
+            "count": 432,
+            "pct": 42.3
+          },
+          {
+            "level": "Very good",
+            "count": 345,
+            "pct": 33.8
+          },
+          {
+            "level": "Fair",
+            "count": 118,
+            "pct": 11.6
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 103,
+            "pct": 10.1
+          },
+          {
+            "level": "Poor",
+            "count": 12,
+            "pct": 1.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 11,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1",
+        "n": 910,
+        "missing": 5,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 414,
+            "pct": 45.5
+          },
+          {
+            "level": "Good",
+            "count": 247,
+            "pct": 27.1
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 190,
+            "pct": 20.9
+          },
+          {
+            "level": "Fair",
+            "count": 49,
+            "pct": 5.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 5,
+            "pct": 0.5
+          },
+          {
+            "level": "Poor",
+            "count": 5,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2",
+        "n": 1031,
+        "missing": 4,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 471,
+            "pct": 45.7
+          },
+          {
+            "level": "Good",
+            "count": 251,
+            "pct": 24.3
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 229,
+            "pct": 22.2
+          },
+          {
+            "level": "Fair",
+            "count": 69,
+            "pct": 6.7
+          },
+          {
+            "level": "Poor",
+            "count": 7,
+            "pct": 0.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 0.4
+          }
+        ]
+      }
+    ],
+    "sex_center": [
+      {
+        "label": "sex: 1 · center: 1",
+        "n": 410,
+        "missing": 5,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 167,
+            "pct": 40.7
+          },
+          {
+            "level": "Good",
+            "count": 127,
+            "pct": 31
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 72,
+            "pct": 17.6
+          },
+          {
+            "level": "Fair",
+            "count": 33,
+            "pct": 8
+          },
+          {
+            "level": "Poor",
+            "count": 6,
+            "pct": 1.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 5,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 2",
+        "n": 366,
+        "missing": 0,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 162,
+            "pct": 44.3
+          },
+          {
+            "level": "Good",
+            "count": 100,
+            "pct": 27.3
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 86,
+            "pct": 23.5
+          },
+          {
+            "level": "Fair",
+            "count": 16,
+            "pct": 4.4
+          },
+          {
+            "level": "Poor",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 3",
+        "n": 468,
+        "missing": 1,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 207,
+            "pct": 44.2
+          },
+          {
+            "level": "Good",
+            "count": 150,
+            "pct": 32.1
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 72,
+            "pct": 15.4
+          },
+          {
+            "level": "Fair",
+            "count": 38,
+            "pct": 8.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "sex: 1 · center: 4",
+        "n": 375,
+        "missing": 1,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 151,
+            "pct": 40.3
+          },
+          {
+            "level": "Good",
+            "count": 107,
+            "pct": 28.5
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 69,
+            "pct": 18.4
+          },
+          {
+            "level": "Fair",
+            "count": 42,
+            "pct": 11.2
+          },
+          {
+            "level": "Poor",
+            "count": 5,
+            "pct": 1.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 1",
+        "n": 448,
+        "missing": 3,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 170,
+            "pct": 37.9
+          },
+          {
+            "level": "Good",
+            "count": 169,
+            "pct": 37.7
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 65,
+            "pct": 14.5
+          },
+          {
+            "level": "Fair",
+            "count": 39,
+            "pct": 8.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 0.7
+          },
+          {
+            "level": "Poor",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 2",
+        "n": 449,
+        "missing": 0,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 180,
+            "pct": 40.1
+          },
+          {
+            "level": "Good",
+            "count": 135,
+            "pct": 30.1
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 95,
+            "pct": 21.2
+          },
+          {
+            "level": "Fair",
+            "count": 37,
+            "pct": 8.2
+          },
+          {
+            "level": "Poor",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 3",
+        "n": 525,
+        "missing": 2,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 213,
+            "pct": 40.6
+          },
+          {
+            "level": "Good",
+            "count": 169,
+            "pct": 32.2
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 83,
+            "pct": 15.8
+          },
+          {
+            "level": "Fair",
+            "count": 52,
+            "pct": 9.9
+          },
+          {
+            "level": "Poor",
+            "count": 6,
+            "pct": 1.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "label": "sex: 2 · center: 4",
+        "n": 630,
+        "missing": 10,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 253,
+            "pct": 40.2
+          },
+          {
+            "level": "Good",
+            "count": 210,
+            "pct": 33.3
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 89,
+            "pct": 14.1
+          },
+          {
+            "level": "Fair",
+            "count": 59,
+            "pct": 9.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 10,
+            "pct": 1.6
+          },
+          {
+            "level": "Poor",
+            "count": 9,
+            "pct": 1.4
+          }
+        ]
+      }
+    ],
+    "race_center": [
+      {
+        "label": "race: 4 · center: 1",
+        "n": 478,
+        "missing": 4,
+        "n_levels": 6,
+        "mode_level": "Good",
+        "freq": [
+          {
+            "level": "Good",
+            "count": 193,
+            "pct": 40.4
+          },
+          {
+            "level": "Very good",
+            "count": 160,
+            "pct": 33.5
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 64,
+            "pct": 13.4
+          },
+          {
+            "level": "Fair",
+            "count": 51,
+            "pct": 10.7
+          },
+          {
+            "level": "Poor",
+            "count": 6,
+            "pct": 1.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 2",
+        "n": 370,
+        "missing": 0,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 152,
+            "pct": 41.1
+          },
+          {
+            "level": "Good",
+            "count": 139,
+            "pct": 37.6
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 43,
+            "pct": 11.6
+          },
+          {
+            "level": "Fair",
+            "count": 35,
+            "pct": 9.5
+          },
+          {
+            "level": "Poor",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 3",
+        "n": 355,
+        "missing": 2,
+        "n_levels": 6,
+        "mode_level": "Good",
+        "freq": [
+          {
+            "level": "Good",
+            "count": 139,
+            "pct": 39.2
+          },
+          {
+            "level": "Very good",
+            "count": 121,
+            "pct": 34.1
+          },
+          {
+            "level": "Fair",
+            "count": 46,
+            "pct": 13
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 42,
+            "pct": 11.8
+          },
+          {
+            "level": "Poor",
+            "count": 5,
+            "pct": 1.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · center: 4",
+        "n": 527,
+        "missing": 7,
+        "n_levels": 6,
+        "mode_level": "Good",
+        "freq": [
+          {
+            "level": "Good",
+            "count": 198,
+            "pct": 37.6
+          },
+          {
+            "level": "Very good",
+            "count": 185,
+            "pct": 35.1
+          },
+          {
+            "level": "Fair",
+            "count": 66,
+            "pct": 12.5
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 63,
+            "pct": 12
+          },
+          {
+            "level": "Poor",
+            "count": 8,
+            "pct": 1.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 7,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 1",
+        "n": 380,
+        "missing": 4,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 177,
+            "pct": 46.6
+          },
+          {
+            "level": "Good",
+            "count": 103,
+            "pct": 27.1
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 73,
+            "pct": 19.2
+          },
+          {
+            "level": "Fair",
+            "count": 21,
+            "pct": 5.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 1.1
+          },
+          {
+            "level": "Poor",
+            "count": 2,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 2",
+        "n": 445,
+        "missing": 0,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 190,
+            "pct": 42.7
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 138,
+            "pct": 31
+          },
+          {
+            "level": "Good",
+            "count": 96,
+            "pct": 21.6
+          },
+          {
+            "level": "Fair",
+            "count": 18,
+            "pct": 4
+          },
+          {
+            "level": "Poor",
+            "count": 3,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 3",
+        "n": 638,
+        "missing": 1,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 299,
+            "pct": 46.9
+          },
+          {
+            "level": "Good",
+            "count": 180,
+            "pct": 28.2
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 113,
+            "pct": 17.7
+          },
+          {
+            "level": "Fair",
+            "count": 44,
+            "pct": 6.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.2
+          },
+          {
+            "level": "Poor",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · center: 4",
+        "n": 478,
+        "missing": 4,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 219,
+            "pct": 45.8
+          },
+          {
+            "level": "Good",
+            "count": 119,
+            "pct": 24.9
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 95,
+            "pct": 19.9
+          },
+          {
+            "level": "Fair",
+            "count": 35,
+            "pct": 7.3
+          },
+          {
+            "level": "Poor",
+            "count": 6,
+            "pct": 1.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 4,
+            "pct": 0.8
+          }
+        ]
+      }
+    ],
+    "race_sex_center": [
+      {
+        "label": "race: 4 · sex: 1 · center: 1",
+        "n": 210,
+        "missing": 2,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 77,
+            "pct": 36.7
+          },
+          {
+            "level": "Good",
+            "count": 68,
+            "pct": 32.4
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 35,
+            "pct": 16.7
+          },
+          {
+            "level": "Fair",
+            "count": 24,
+            "pct": 11.4
+          },
+          {
+            "level": "Poor",
+            "count": 4,
+            "pct": 1.9
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 2",
+        "n": 146,
+        "missing": 0,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 68,
+            "pct": 46.6
+          },
+          {
+            "level": "Good",
+            "count": 47,
+            "pct": 32.2
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 20,
+            "pct": 13.7
+          },
+          {
+            "level": "Fair",
+            "count": 10,
+            "pct": 6.8
+          },
+          {
+            "level": "Poor",
+            "count": 1,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 3",
+        "n": 164,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 61,
+            "pct": 37.2
+          },
+          {
+            "level": "Good",
+            "count": 59,
+            "pct": 36
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 22,
+            "pct": 13.4
+          },
+          {
+            "level": "Fair",
+            "count": 22,
+            "pct": 13.4
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 1 · center: 4",
+        "n": 189,
+        "missing": 0,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 67,
+            "pct": 35.4
+          },
+          {
+            "level": "Good",
+            "count": 63,
+            "pct": 33.3
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 32,
+            "pct": 16.9
+          },
+          {
+            "level": "Fair",
+            "count": 24,
+            "pct": 12.7
+          },
+          {
+            "level": "Poor",
+            "count": 3,
+            "pct": 1.6
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 1",
+        "n": 268,
+        "missing": 2,
+        "n_levels": 6,
+        "mode_level": "Good",
+        "freq": [
+          {
+            "level": "Good",
+            "count": 125,
+            "pct": 46.6
+          },
+          {
+            "level": "Very good",
+            "count": 83,
+            "pct": 31
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 29,
+            "pct": 10.8
+          },
+          {
+            "level": "Fair",
+            "count": 27,
+            "pct": 10.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 0.7
+          },
+          {
+            "level": "Poor",
+            "count": 2,
+            "pct": 0.7
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 2",
+        "n": 224,
+        "missing": 0,
+        "n_levels": 4,
+        "mode_level": "Good",
+        "freq": [
+          {
+            "level": "Good",
+            "count": 92,
+            "pct": 41.1
+          },
+          {
+            "level": "Very good",
+            "count": 84,
+            "pct": 37.5
+          },
+          {
+            "level": "Fair",
+            "count": 25,
+            "pct": 11.2
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 23,
+            "pct": 10.3
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 3",
+        "n": 191,
+        "missing": 2,
+        "n_levels": 6,
+        "mode_level": "Good",
+        "freq": [
+          {
+            "level": "Good",
+            "count": 80,
+            "pct": 41.9
+          },
+          {
+            "level": "Very good",
+            "count": 60,
+            "pct": 31.4
+          },
+          {
+            "level": "Fair",
+            "count": 24,
+            "pct": 12.6
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 20,
+            "pct": 10.5
+          },
+          {
+            "level": "Poor",
+            "count": 5,
+            "pct": 2.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 2,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 4 · sex: 2 · center: 4",
+        "n": 338,
+        "missing": 7,
+        "n_levels": 6,
+        "mode_level": "Good",
+        "freq": [
+          {
+            "level": "Good",
+            "count": 135,
+            "pct": 39.9
+          },
+          {
+            "level": "Very good",
+            "count": 118,
+            "pct": 34.9
+          },
+          {
+            "level": "Fair",
+            "count": 42,
+            "pct": 12.4
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 31,
+            "pct": 9.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 7,
+            "pct": 2.1
+          },
+          {
+            "level": "Poor",
+            "count": 5,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 1",
+        "n": 200,
+        "missing": 3,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 90,
+            "pct": 45
+          },
+          {
+            "level": "Good",
+            "count": 59,
+            "pct": 29.5
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 37,
+            "pct": 18.5
+          },
+          {
+            "level": "Fair",
+            "count": 9,
+            "pct": 4.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 1.5
+          },
+          {
+            "level": "Poor",
+            "count": 2,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 2",
+        "n": 220,
+        "missing": 0,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 94,
+            "pct": 42.7
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 66,
+            "pct": 30
+          },
+          {
+            "level": "Good",
+            "count": 53,
+            "pct": 24.1
+          },
+          {
+            "level": "Fair",
+            "count": 6,
+            "pct": 2.7
+          },
+          {
+            "level": "Poor",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 3",
+        "n": 304,
+        "missing": 1,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 146,
+            "pct": 48
+          },
+          {
+            "level": "Good",
+            "count": 91,
+            "pct": 29.9
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 50,
+            "pct": 16.4
+          },
+          {
+            "level": "Fair",
+            "count": 16,
+            "pct": 5.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 1 · center: 4",
+        "n": 186,
+        "missing": 1,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 84,
+            "pct": 45.2
+          },
+          {
+            "level": "Good",
+            "count": 44,
+            "pct": 23.7
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 37,
+            "pct": 19.9
+          },
+          {
+            "level": "Fair",
+            "count": 18,
+            "pct": 9.7
+          },
+          {
+            "level": "Poor",
+            "count": 2,
+            "pct": 1.1
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 180,
+        "missing": 1,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 87,
+            "pct": 48.3
+          },
+          {
+            "level": "Good",
+            "count": 44,
+            "pct": 24.4
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 36,
+            "pct": 20
+          },
+          {
+            "level": "Fair",
+            "count": 12,
+            "pct": 6.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 1,
+            "pct": 0.6
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 225,
+        "missing": 0,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 96,
+            "pct": 42.7
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 72,
+            "pct": 32
+          },
+          {
+            "level": "Good",
+            "count": 43,
+            "pct": 19.1
+          },
+          {
+            "level": "Fair",
+            "count": 12,
+            "pct": 5.3
+          },
+          {
+            "level": "Poor",
+            "count": 2,
+            "pct": 0.9
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 334,
+        "missing": 0,
+        "n_levels": 5,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 153,
+            "pct": 45.8
+          },
+          {
+            "level": "Good",
+            "count": 89,
+            "pct": 26.6
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 63,
+            "pct": 18.9
+          },
+          {
+            "level": "Fair",
+            "count": 28,
+            "pct": 8.4
+          },
+          {
+            "level": "Poor",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 4",
+        "n": 292,
+        "missing": 3,
+        "n_levels": 6,
+        "mode_level": "Very good",
+        "freq": [
+          {
+            "level": "Very good",
+            "count": 135,
+            "pct": 46.2
+          },
+          {
+            "level": "Good",
+            "count": 75,
+            "pct": 25.7
+          },
+          {
+            "level": "\"Excellent\"",
+            "count": 58,
+            "pct": 19.9
+          },
+          {
+            "level": "Fair",
+            "count": 17,
+            "pct": 5.8
+          },
+          {
+            "level": "Poor",
+            "count": 4,
+            "pct": 1.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 3,
+            "pct": 1
+          }
+        ]
+      }
+    ]
+  }
+}

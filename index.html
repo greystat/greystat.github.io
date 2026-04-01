@@ -3,22 +3,20 @@
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
 <link href="assets/style.css" rel="stylesheet"/>
 <style>
-*{box-sizing:border-box}
-body{max-width:1100px;margin:0 auto;padding:24px;background:#0c1017;color:#e2e8f0;
-  font-family:ui-sans-serif,system-ui,-apple-system,sans-serif}
-.dd-header{margin-bottom:28px}.dd-header h1{font-size:26px;margin:0;letter-spacing:-0.02em}
-.dd-header p{color:#7b86a3;font-size:14px;margin:6px 0 0;line-height:1.5}
-.search-box{width:100%;padding:11px 14px;border-radius:10px;border:1px solid #253048;
-  background:#141c2b;color:#e2e8f0;font-size:14px;margin-bottom:18px;outline:none}
-.search-box::placeholder{color:#566280}.search-box:focus{border-color:#5ea3d466}
+body{max-width:1100px;margin:0 auto}
+.site-header{max-width:1100px;margin:0 auto;left:0;right:0}
+.idx-intro{padding:16px 24px 0;margin-bottom:10px}
+.idx-intro h1{font-size:26px;margin:0;letter-spacing:-0.02em}
+.idx-intro p{color:var(--muted);font-size:14px;margin:6px 0 0;line-height:1.5}
+.idx-body{padding:0 24px 24px}
 
 /* Filter rows */
 .filter-row-wrap{display:flex;align-items:flex-start;gap:8px;margin-bottom:8px;flex-wrap:wrap}
-.filter-label{font-size:10px;font-weight:700;color:#566280;text-transform:uppercase;
+.filter-label{font-size:10px;font-weight:700;color:var(--muted);text-transform:uppercase;
   letter-spacing:0.08em;min-width:80px;padding-top:6px;flex-shrink:0}
 .filter-pills{display:flex;gap:5px;flex-wrap:wrap;flex:1}
 
-/* Chip base */
+/* Chip styles — color-coded */
 .fc{display:inline-flex;align-items:center;font-size:12px;font-weight:500;cursor:pointer;
   border:1px solid transparent;transition:all .12s;white-space:nowrap;user-select:none}
 .fc:hover{opacity:.8}
@@ -28,74 +26,103 @@ body{max-width:1100px;margin:0 auto;padding:24px;background:#0c1017;color:#e2e8f
 .fc.source.on{background:#2dd4bf20;border-color:#2dd4bf}
 .fc.group{padding:3px 12px;border-radius:999px;color:#a78bfa;border-color:#a78bfa30}
 .fc.group.on{background:#a78bfa20;border-color:#a78bfa}
+.fc.exam{padding:3px 10px;border-radius:4px;color:#f59e0b;border-color:#f59e0b30;font-weight:700;font-size:11px}
+.fc.exam.on{background:#f59e0b20;border-color:#f59e0b}
 
 /* Instrument dropdown */
 .inst-wrap{position:relative;flex:1;max-width:400px}
 .inst-btn{width:100%;padding:6px 12px;border-radius:6px;border:1px solid #d4a44a30;
-  background:#141c2b;color:#d4a44a;font-size:12px;cursor:pointer;text-align:left;
+  background:var(--bg-surface);color:#d4a44a;font-size:12px;cursor:pointer;text-align:left;
   display:flex;justify-content:space-between;align-items:center}
 .inst-btn:hover{border-color:#d4a44a}
 .inst-btn .arrow{font-size:10px;margin-left:8px}
 .inst-drop{position:absolute;top:100%;left:0;right:0;max-height:280px;overflow-y:auto;
-  background:#1a2538;border:1px solid #253048;border-radius:8px;z-index:100;
+  background:var(--bg-elevated);border:1px solid var(--border);border-radius:8px;z-index:100;
   margin-top:4px;display:none;padding:4px}
 .inst-drop.open{display:block}
-.inst-drop input{width:100%;padding:6px 10px;border:1px solid #253048;border-radius:4px;
-  background:#0c1017;color:#e2e8f0;font-size:12px;margin-bottom:4px;outline:none}
-.inst-drop input::placeholder{color:#566280}
+.inst-drop input{width:100%;padding:6px 10px;border:1px solid var(--border);border-radius:4px;
+  background:var(--bg);color:var(--ink);font-size:12px;margin-bottom:4px;outline:none}
+.inst-drop input::placeholder{color:var(--muted)}
 .inst-item{padding:5px 10px;border-radius:4px;font-size:12px;color:#d4a44a;cursor:pointer;
   display:flex;justify-content:space-between;align-items:center}
-.inst-item:hover{background:#253048}.inst-item.sel{background:#d4a44a18}
-.inst-item .ct{color:#566280;font-size:10px}
-.active-filters{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:10px}
+.inst-item:hover{background:var(--border)}.inst-item.sel{background:#d4a44a18}
+.inst-item .ct{color:var(--muted);font-size:10px}
+
+/* Active filters + controls bar */
+.controls-bar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+.active-filters{display:flex;gap:5px;flex-wrap:wrap;flex:1}
 .af-chip{display:inline-flex;align-items:center;gap:4px;padding:3px 10px;border-radius:999px;
   font-size:11px;font-weight:500;cursor:pointer}
 .af-chip.af-form{color:#d4a44a;border:1px solid #d4a44a55;border-radius:6px}
 .af-chip.af-type{color:#5ea3d4;border:1px solid #5ea3d455}
 .af-chip.af-source{color:#2dd4bf;border:1px solid #2dd4bf55}
 .af-chip.af-group{color:#a78bfa;border:1px solid #a78bfa55}
+.af-chip.af-exam{color:#f59e0b;border:1px solid #f59e0b55;border-radius:4px}
 .af-chip .x{opacity:.6;margin-left:2px}
 .clear-btn{color:#ef4444;cursor:pointer;font-size:11px;border:1px solid #ef444433;
   padding:3px 8px;border-radius:999px;background:none}
-.result-count{font-size:12px;color:#7b86a3;margin:4px 0 10px}
+.sort-ctl{margin-left:auto;display:flex;align-items:center;gap:4px}
+.sort-ctl label{font-size:11px;color:var(--muted)}
+.sort-ctl select{font-size:11px;padding:3px 6px;border-radius:6px;border:1px solid var(--border);
+  background:var(--bg-surface);color:var(--ink);cursor:pointer}
+
+.result-count{font-size:12px;color:var(--muted);margin:4px 0 10px}
 .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px}
-.concept-card{background:#141c2b;border:1px solid #253048;border-radius:12px;
+.concept-card{background:var(--bg-surface);border:1px solid var(--border);border-radius:12px;
   padding:14px 16px;transition:all .15s}
-.concept-card:hover{border-color:#d4a44a44;background:#1a2538}
+.concept-card:hover{border-color:var(--accent);background:var(--bg-elevated)}
 .concept-card h3{margin:0 0 2px;font-size:15px;font-weight:600}
-.concept-card h3 a{color:#e2e8f0;text-decoration:none}
+.concept-card h3 a{color:var(--ink);text-decoration:none}
 .concept-card h3 a:hover{text-decoration:underline}
-.concept-card .cid{font-size:11px;font-family:monospace;color:#566280;margin-bottom:7px}
+.concept-card .cid{font-size:11px;font-family:monospace;color:var(--muted);margin-bottom:7px}
 .concept-card .card-chips{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px}
 .cc{display:inline-flex;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:500;border:1px solid transparent}
 .cc-type{color:#5ea3d4;border-color:#5ea3d433}
 .cc-source{color:#2dd4bf;border-color:#2dd4bf33}
 .cc-form{color:#d4a44a;border-color:#d4a44a33;border-radius:4px}
 .cc-group{color:#a78bfa;border-color:#a78bfa33}
-.cc-unit{color:#566280;border-color:#56628033}
-.cc-levels{color:#566280;border-color:#56628033}
+.cc-unit{color:var(--muted);border-color:var(--border)}
+.cc-levels{color:var(--muted);border-color:var(--border)}
 .exam-dots{display:flex;gap:3px}
 .exam-dot{width:20px;height:20px;border-radius:4px;display:flex;align-items:center;
-  justify-content:center;font-size:10px;font-weight:600;background:#d4a44a18;
-  color:#d4a44a;border:1px solid #d4a44a30}
-.dd-footer{margin-top:36px;text-align:center;font-size:12px;color:#566280}
+  justify-content:center;font-size:10px;font-weight:600;background:var(--accent-muted);
+  color:var(--accent);border:1px solid var(--accent)}
+.dd-footer{margin-top:36px;text-align:center;font-size:12px;color:var(--muted)}
 </style></head><body>
-<div class="dd-header"><h1>CARDIA Data Dictionary</h1>
-<p>Browse harmonized measures across CARDIA exam waves.<br>
-Click any concept to view distributions, stratified summaries, and harmonization details.</p></div>
-<input class="search-box" type="text" id="search" placeholder="Search concepts&hellip;"/>
+<header class="site-header">
+  <a href="index.html" class="site-brand">CARDIA Data Dictionary</a>
+  <input class="site-search" type="text" id="search" placeholder="Search concepts&hellip;"/>
+  <button class="theme-toggle" id="theme-toggle" title="Toggle theme">&#9790;</button>
+</header>
+<div class="idx-intro">
+  <h1>CARDIA Data Dictionary</h1>
+  <p>Browse harmonized measures across CARDIA exam waves.<br>
+  Click any concept to view distributions, stratified summaries, and harmonization details.</p>
+</div>
+<div class="idx-body">
 <div id="filters"></div>
-<div class="active-filters" id="active"></div>
+<div class="controls-bar">
+  <div class="active-filters" id="active"></div>
+  <div class="sort-ctl"><label for="sort-sel">Sort:</label>
+    <select id="sort-sel"><option value="alpha">A &rarr; Z</option><option value="exams">Most exams</option></select>
+  </div>
+</div>
 <div class="result-count" id="count"></div>
 <div class="card-grid" id="grid"></div>
 <div class="dd-footer" id="footer"></div>
+</div>
 <script src="catalog.inline.js"></script>
+<script src="assets/theme.js"></script>
 <script>
 (async function(){
 let cat;
 try{const r=await fetch("catalog.json");if(r.ok)cat=await r.json()}catch(e){}
 if(!cat&&window.__CATALOG)cat=window.__CATALOG;
 if(!cat){document.getElementById("count").textContent="Could not load catalog.json";return}
+
+/* Synonym map — loads once, used in search */
+let SYN={};
+try{const r=await fetch("synonyms.json");if(r.ok)SYN=await r.json()}catch(e){}
 
 /* Known groups from family_reference (whitelist) */
 const KNOWN_GROUPS=new Set(["Administrative","Anthropometry","Brain & Cognitive","Cardiovascular",
@@ -105,6 +132,7 @@ const KNOWN_GROUPS=new Set(["Administrative","Anthropometry","Brain & Cognitive"
   "Specimen Collection","Substance Use"]);
 const TYPES=new Set(["numeric","categorical"]);
 const SOURCES=new Set(["Lab","Imaging"]);
+const EXAM_LETTERS=["A","B","C","D","E","F","G","H","I","J"];
 
 function classify(ch){
   if(TYPES.has(ch))return"type";
@@ -125,18 +153,24 @@ const formCounts={};
 buckets.form.forEach(f=>{formCounts[f]=cat.filter(c=>{const ch=Array.isArray(c.chips)?c.chips:c.chips?[c.chips]:[];return ch.includes(f)}).length});
 
 let aC=[];
+let aExams=[];
+let sortMode="alpha";
 const params=new URLSearchParams(location.search);
 const cp=params.get("chip");
 if(cp&&allC.includes(cp))aC=[cp];
+const qp=params.get("q");
 
 const fE=document.getElementById("filters"),gE=document.getElementById("grid");
 const cE=document.getElementById("count"),sE=document.getElementById("search");
-const actE=document.getElementById("active");
+const actE=document.getElementById("active"),sortSel=document.getElementById("sort-sel");
 document.getElementById("footer").textContent="CARDIA Data Dictionary \u00b7 "+cat.length+" concepts";
+
+if(qp){sE.value=qp}
 
 let instOpen=false;
 
 function toggle(ch){aC=aC.includes(ch)?aC.filter(x=>x!==ch):[...aC,ch];render()}
+function toggleExam(ex){aExams=aExams.includes(ex)?aExams.filter(x=>x!==ex):[...aExams,ex];render()}
 function toggleForm(ch){
   const wasOn=aC.includes(ch);
   aC=aC.filter(x=>classify(x)!=="form");
@@ -200,20 +234,45 @@ function renderFilters(){
     s.className="fc group"+(aC.includes(ch)?" on":"");s.textContent=ch;
     s.onclick=()=>toggle(ch);p4.appendChild(s)});
   r4.appendChild(p4);fE.appendChild(r4);
+
+  /* Row 5: Exam */
+  const r5=document.createElement("div");r5.className="filter-row-wrap";
+  r5.innerHTML="<div class=\"filter-label\">Exam</div>";
+  const p5=document.createElement("div");p5.className="filter-pills";
+  EXAM_LETTERS.forEach(ex=>{const s=document.createElement("span");
+    s.className="fc exam"+(aExams.includes(ex)?" on":"");s.textContent=ex;
+    s.onclick=()=>toggleExam(ex);p5.appendChild(s)});
+  r5.appendChild(p5);fE.appendChild(r5);
 }
 
 function renderActive(){
   actE.innerHTML="";
-  if(!aC.length)return;
+  const allActive=[...aC,...aExams.map(e=>"exam:"+e)];
+  if(!allActive.length)return;
   aC.forEach(ch=>{const s=document.createElement("span");
     const t=classify(ch);s.className="af-chip af-"+t;
     s.innerHTML=ch+"<span class=\"x\">\u2715</span>";
     s.onclick=()=>toggle(ch);actE.appendChild(s)});
+  aExams.forEach(ex=>{const s=document.createElement("span");
+    s.className="af-chip af-exam";
+    s.innerHTML="Exam "+ex+"<span class=\"x\">\u2715</span>";
+    s.onclick=()=>toggleExam(ex);actE.appendChild(s)});
   const cb=document.createElement("button");cb.className="clear-btn";
-  cb.textContent="clear all";cb.onclick=()=>{aC=[];render()};actE.appendChild(cb);
+  cb.textContent="clear all";cb.onclick=()=>{aC=[];aExams=[];render()};actE.appendChild(cb);
 }
 
 function cardChipClass(ch){return"cc cc-"+classify(ch)}
+
+/* Expand search query using synonym map */
+function expandQuery(q){
+  var terms=[q];
+  Object.keys(SYN).forEach(function(k){
+    if(q.includes(k.toLowerCase())){
+      var syns=SYN[k];if(Array.isArray(syns))terms=terms.concat(syns.map(function(s){return s.toLowerCase()}));
+    }
+  });
+  return terms;
+}
 
 /* Featured concepts: all 10 exams, first 20 alphabetically */
 const featured=cat.filter(c=>{
@@ -222,7 +281,16 @@ const featured=cat.filter(c=>{
 }).sort((a,b)=>a.title.localeCompare(b.title)).slice(0,20);
 
 function isFiltering(){
-  return sE.value.trim().length>0||aC.length>0;
+  return sE.value.trim().length>0||aC.length>0||aExams.length>0;
+}
+
+function sortList(list){
+  if(sortMode==="exams") return list.sort((a,b)=>{
+    const ae=Array.isArray(a.exams)?a.exams.length:a.exams?1:0;
+    const be=Array.isArray(b.exams)?b.exams.length:b.exams?1:0;
+    return be-ae||a.title.localeCompare(b.title);
+  });
+  return list.sort((a,b)=>a.title.localeCompare(b.title));
 }
 
 function renderCards(list){
@@ -247,20 +315,34 @@ function renderCards(list){
 }
 
 function render(){
-  const q=sE.value.toLowerCase();
+  const q=sE.value.toLowerCase().trim();
+  const qTerms=q?expandQuery(q):[];
   renderFilters();renderActive();
+  sortMode=sortSel.value;
   if(!isFiltering()){
-    cE.textContent="Showing "+featured.length+" featured concepts (all 10 exams) — search or filter to explore all "+cat.length;
+    cE.textContent="Showing "+featured.length+" featured concepts (all 10 exams) \u2014 search or filter to explore all "+cat.length;
     renderCards(featured);
     return;
   }
   const fl=cat.filter(c=>{
     const chips=Array.isArray(c.chips)?c.chips:c.chips?[c.chips]:[];
-    if(q&&!c.title.toLowerCase().includes(q)&&!c.concept_id.toLowerCase().includes(q))return false;
-    return!aC.length||aC.every(ch=>chips.includes(ch));
+    const exams=Array.isArray(c.exams)?c.exams:c.exams?[c.exams]:[];
+    /* Text search: match title, concept_id, OR chip text */
+    if(qTerms.length){
+      const hay=(c.title+" "+c.concept_id+" "+chips.join(" ")).toLowerCase();
+      if(!qTerms.some(t=>hay.includes(t)))return false;
+    }
+    /* Chip filters */
+    if(aC.length&&!aC.every(ch=>chips.includes(ch)))return false;
+    /* Exam filters — concept must include ALL selected exams */
+    if(aExams.length&&!aExams.every(ex=>exams.includes(ex)))return false;
+    return true;
   });
-  cE.textContent=fl.length+" concept"+(fl.length!==1?"s":"")+
-    (aC.length?" matching "+aC.length+" filter"+(aC.length>1?"s":""):"");
+  sortList(fl);
+  var parts=[fl.length+" concept"+(fl.length!==1?"s":"")];
+  if(aC.length) parts.push("matching "+aC.length+" filter"+(aC.length>1?"s":""));
+  if(aExams.length) parts.push("in exam"+(aExams.length>1?"s ":" ")+aExams.join(", "));
+  cE.textContent=parts.join(" ");
   renderCards(fl);
 }
 
@@ -268,6 +350,8 @@ function render(){
 document.addEventListener("click",()=>{if(instOpen){instOpen=false;
   const d=document.querySelector(".inst-drop");if(d)d.classList.remove("open")}});
 
-sE.addEventListener("input",render);render();
+sE.addEventListener("input",render);
+sortSel.addEventListener("change",render);
+render();
 })();
 </script></body></html>

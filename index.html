@@ -9,9 +9,11 @@
 <style>
 body{max-width:1100px;margin:0 auto}
 .site-header{max-width:1100px;margin:0 auto;left:0;right:0}
-.idx-intro{padding:16px 24px 0;margin-bottom:10px}
+.idx-intro{padding:16px 24px 10px;margin-bottom:10px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+.idx-intro div{flex:1}
 .idx-intro h1{font-size:26px;margin:0;letter-spacing:-0.02em}
 .idx-intro p{color:var(--muted);font-size:14px;margin:6px 0 0;line-height:1.5}
+.idx-intro .logo{flex:0 0 auto;max-height:80px;opacity:0.85;margin-right:40px}
 .idx-body{padding:0 24px 24px}
 
 /* Filter rows */
@@ -107,6 +109,7 @@ body{max-width:1100px;margin:0 auto}
   .site-search{min-width:0;max-width:none;flex:1 1 auto;font-size:14px}
   .idx-intro{padding:12px 14px 0}
   .idx-intro h1{font-size:22px}
+  .idx-intro .logo{max-height:60px}
   .idx-body{padding:0 14px 20px}
   .filter-row-wrap{gap:6px}
   .filter-label{min-width:60px;font-size:9px}
@@ -125,9 +128,12 @@ body{max-width:1100px;margin:0 auto}
   <button class="theme-toggle" id="theme-toggle" title="Toggle theme">&#9790;</button>
 </header>
 <div class="idx-intro">
-  <h1>CARDIA Data Dictionary</h1>
-  <p>Browse harmonized measures across CARDIA exam waves.<br>
-  Click any concept to view distributions, stratified summaries, and harmonization details.</p>
+  <div>
+    <h1>CARDIA Data Dictionary</h1>
+    <p>Browse harmonized measures across CARDIA exam waves.<br>
+    Click any concept to view distributions, stratified summaries, and harmonization details.</p>
+  </div>
+  <img class="logo" src="assets/CARDIA-logo.jpg" alt="CARDIA logo"/>
 </div>
 <div class="idx-body">
 <div id="filters"></div>

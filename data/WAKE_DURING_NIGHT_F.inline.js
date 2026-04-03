@@ -1,1 +1,1 @@
-window.__WAKE_DURING_NIGHT_EXAM_F={"concept_id":"WAKE_DURING_NIGHT","exam":"F","n":3671,"missing":22,"n_levels":4,"mode_level":"\"No\""};
+window.__WAKE_DURING_NIGHT_EXAM_F={"concept_id":"WAKE_DURING_NIGHT","exam":"F","n":3671,"missing":22,"n_levels":4,"mode_level":"No"};

@@ -1,1 +1,1 @@
-window.__JOINT_STIFFNESS_3MO_EXAM_F={"concept_id":"JOINT_STIFFNESS_3MO","exam":"F","n":2051,"missing":944,"n_levels":2,"mode_level":"Stiffness or soreness in joints, neck or shoulders"};
+window.__JOINT_STIFFNESS_3MO_EXAM_F={"concept_id":"JOINT_STIFFNESS_3MO","exam":"F","n":2051,"missing":944,"n_levels":2,"mode_level":"Stiffness or soreness in joints, neck o…"};

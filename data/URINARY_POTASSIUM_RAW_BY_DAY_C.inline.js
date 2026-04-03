@@ -1,1 +1,1 @@
-window.__URINARY_POTASSIUM_RAW_BY_DAY_EXAM_C={"concept_id":"URINARY_POTASSIUM_RAW_BY_DAY","exam":"C","n":1105,"missing":71,"mean":4.5469,"sd":2.1685,"p50":4.305,"p99":10.227};
+window.__URINARY_POTASSIUM_RAW_BY_DAY_EXAM_C={"concept_id":"URINARY_POTASSIUM_RAW_BY_DAY","exam":"C","n":1105,"missing":62,"mean":4.6404,"sd":2.169,"p50":4.34,"p99":10.9754};

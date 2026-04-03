@@ -1,1 +1,1 @@
-window.__TOTAL_CORONARY_LESION_COUNT_EXAM_G={"concept_id":"TOTAL_CORONARY_LESION_COUNT","exam":"G","n":3139,"missing":17,"mean":0.5679,"sd":2.4505,"p50":0,"p99":10};
+window.__TOTAL_CORONARY_LESION_COUNT_EXAM_G={"concept_id":"TOTAL_CORONARY_LESION_COUNT","exam":"G","n":3139,"missing":1,"mean":0.5516,"sd":2.3985,"p50":0,"p99":9.63};

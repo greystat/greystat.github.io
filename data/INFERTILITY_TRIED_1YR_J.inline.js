@@ -1,1 +1,1 @@
-window.__INFERTILITY_TRIED_1YR_EXAM_J={"concept_id":"INFERTILITY_TRIED_1YR","exam":"J","n":1421,"missing":9,"n_levels":3,"mode_level":"\"No\""};
+window.__INFERTILITY_TRIED_1YR_EXAM_J={"concept_id":"INFERTILITY_TRIED_1YR","exam":"J","n":1421,"missing":9,"n_levels":3,"mode_level":"No"};

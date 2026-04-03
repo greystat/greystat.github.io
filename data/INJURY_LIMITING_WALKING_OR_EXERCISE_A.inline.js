@@ -1,1 +1,1 @@
-window.__INJURY_LIMITING_WALKING_OR_EXERCISE_EXAM_A={"concept_id":"INJURY_LIMITING_WALKING_OR_EXERCISE","exam":"A","n":5114,"missing":25,"n_levels":3,"mode_level":"\"No\""};
+window.__INJURY_LIMITING_WALKING_OR_EXERCISE_EXAM_A={"concept_id":"INJURY_LIMITING_WALKING_OR_EXERCISE","exam":"A","n":5114,"missing":25,"n_levels":3,"mode_level":"No"};

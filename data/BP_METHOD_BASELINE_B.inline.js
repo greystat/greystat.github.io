@@ -1,1 +1,1 @@
-window.__BP_METHOD_BASELINE_EXAM_B={"concept_id":"BP_METHOD_BASELINE","exam":"B","n":4623,"missing":265,"n_levels":3,"mode_level":"1"};
+window.__BP_METHOD_BASELINE_EXAM_B={"concept_id":"BP_METHOD_BASELINE","exam":"B","n":4623,"missing":211,"n_levels":3,"mode_level":"1"};

@@ -1,7 +1,7 @@
 {
   "concept_id": "DIABETES_DIAGNOSIS",
-  "title": "Diabetes diagnosis",
-  "chips": ["categorical", "1 levels"],
+  "title": "Doctor-Diagnosed Diabetes Since Last Exam",
+  "chips": ["categorical", "1 levels", "Medical History"],
   "members": [
     {
       "concept_id": "DIABETES_DIAGNOSIS",
@@ -46,7 +46,7 @@
   "dictionary": [
     {
       "code": "1",
-      "label": "\"No\""
+      "label": "No"
     }
   ]
 }

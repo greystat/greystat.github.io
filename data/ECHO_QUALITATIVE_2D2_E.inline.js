@@ -1,1 +1,1 @@
-window.__ECHO_QUALITATIVE_2D2_EXAM_E={"concept_id":"ECHO_QUALITATIVE_2D2","exam":"E","n":3153,"missing":1537,"n_levels":4,"mode_level":"26"};
+window.__ECHO_QUALITATIVE_2D2_EXAM_E={"concept_id":"ECHO_QUALITATIVE_2D2","exam":"E","n":1536,"missing":1536,"n_levels":1,"mode_level":"(Missing)"};

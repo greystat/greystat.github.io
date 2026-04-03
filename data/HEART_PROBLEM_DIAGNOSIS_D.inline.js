@@ -1,1 +1,1 @@
-window.__HEART_PROBLEM_DIAGNOSIS_EXAM_D={"concept_id":"HEART_PROBLEM_DIAGNOSIS","exam":"D","n":5114,"missing":811,"n_levels":3,"mode_level":"1"};
+window.__HEART_PROBLEM_DIAGNOSIS_EXAM_D={"concept_id":"HEART_PROBLEM_DIAGNOSIS","exam":"D","n":5114,"missing":992,"n_levels":3,"mode_level":"1"};

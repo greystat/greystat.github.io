@@ -1,1 +1,1 @@
-window.__F08_DIAB_EXAM_J={"concept_id":"F08_DIAB","exam":"J","n":2776,"missing":40,"n_levels":4,"mode_level":"\"No\""};
+window.__F08_DIAB_EXAM_J={"concept_id":"F08_DIAB","exam":"J","n":2776,"missing":40,"n_levels":4,"mode_level":"No"};

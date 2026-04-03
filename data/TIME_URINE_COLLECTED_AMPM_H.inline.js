@@ -1,1 +1,1 @@
-window.__TIME_URINE_COLLECTED_AMPM_EXAM_H={"concept_id":"TIME_URINE_COLLECTED_AMPM","exam":"H","n":3493,"missing":67,"n_levels":3,"mode_level":"\"AM\""};
+window.__TIME_URINE_COLLECTED_AMPM_EXAM_H={"concept_id":"TIME_URINE_COLLECTED_AMPM","exam":"H","n":3493,"missing":67,"n_levels":3,"mode_level":"AM"};

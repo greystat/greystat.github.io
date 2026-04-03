@@ -1,0 +1,36 @@
+{
+  "concept_id": "SPECKLE_TRACKING_QUALITY",
+  "title": "Speckle Tracking Quality Score and Type",
+  "unit": "score",
+  "chips": ["numeric", "score", "ECHO · Echocardiography", "Cardiovascular", "Lab", "Imaging"],
+  "members": [
+    {
+      "concept_id": "SPECKLE_TRACKING_QUALITY",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i5echo",
+      "dataset_stub": "i5echo",
+      "varname": "ISTQCS",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "score",
+      "units_class": "score",
+      "instrument": "ECHO",
+      "notes": ""
+    },
+    {
+      "concept_id": "SPECKLE_TRACKING_QUALITY",
+      "exam": "I",
+      "exam_year": "",
+      "dataset": "i5echo",
+      "dataset_stub": "i5echo",
+      "varname": "ISTQCT",
+      "family": "ECHO",
+      "form_label": "",
+      "units_std": "",
+      "units_class": "",
+      "instrument": "ECHO",
+      "notes": ""
+    }
+  ]
+}

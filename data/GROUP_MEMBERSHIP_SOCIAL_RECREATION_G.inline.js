@@ -1,1 +1,1 @@
-window.__GROUP_MEMBERSHIP_SOCIAL_RECREATION_EXAM_G={"concept_id":"GROUP_MEMBERSHIP_SOCIAL_RECREATION","exam":"G","n":3474,"missing":20,"n_levels":3,"mode_level":"\"No\""};
+window.__GROUP_MEMBERSHIP_SOCIAL_RECREATION_EXAM_G={"concept_id":"GROUP_MEMBERSHIP_SOCIAL_RECREATION","exam":"G","n":3474,"missing":20,"n_levels":3,"mode_level":"No"};

@@ -6,42 +6,67 @@
       {
         "label": "All",
         "n": 6227,
-        "missing": 6204,
-        "n_levels": 7,
-        "mode_level": "(Missing)",
+        "missing": 571,
+        "n_levels": 12,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 6204,
-            "pct": 99.6
-          },
-          {
             "level": "Milligram",
-            "count": 10,
-            "pct": 0.2
+            "count": 5014,
+            "pct": 80.5
           },
           {
-            "level": "[hp_X]/mL",
-            "count": 7,
-            "pct": 0.1
-          },
-          {
-            "level": "[hp_X]/30mL",
-            "count": 3,
-            "pct": 0
-          },
-          {
-            "level": "[hp_C]/mL",
-            "count": 1,
-            "pct": 0
-          },
-          {
-            "level": "mg/mL",
-            "count": 1,
-            "pct": 0
+            "level": "(Missing)",
+            "count": 571,
+            "pct": 9.2
           },
           {
             "level": "Other",
+            "count": 488,
+            "pct": 7.8
+          },
+          {
+            "level": "Unknown",
+            "count": 67,
+            "pct": 1.1
+          },
+          {
+            "level": "Gram",
+            "count": 38,
+            "pct": 0.6
+          },
+          {
+            "level": "Insulin unit",
+            "count": 23,
+            "pct": 0.4
+          },
+          {
+            "level": "Milliliter",
+            "count": 17,
+            "pct": 0.3
+          },
+          {
+            "level": "999999999999",
+            "count": 4,
+            "pct": 0.1
+          },
+          {
+            "level": "Ounce",
+            "count": 2,
+            "pct": 0
+          },
+          {
+            "level": "999999",
+            "count": 1,
+            "pct": 0
+          },
+          {
+            "level": "9999999",
+            "count": 1,
+            "pct": 0
+          },
+          {
+            "level": "Nanogram",
             "count": 1,
             "pct": 0
           }
@@ -52,32 +77,57 @@
       {
         "label": "sex: 1",
         "n": 2488,
-        "missing": 2482,
-        "n_levels": 5,
-        "mode_level": "(Missing)",
+        "missing": 196,
+        "n_levels": 10,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 2482,
-            "pct": 99.8
-          },
-          {
-            "level": "[hp_X]/30mL",
-            "count": 2,
-            "pct": 0.1
-          },
-          {
             "level": "Milligram",
-            "count": 2,
-            "pct": 0.1
+            "count": 2088,
+            "pct": 83.9
           },
           {
-            "level": "[hp_X]/mL",
+            "level": "(Missing)",
+            "count": 196,
+            "pct": 7.9
+          },
+          {
+            "level": "Other",
+            "count": 137,
+            "pct": 5.5
+          },
+          {
+            "level": "Unknown",
+            "count": 30,
+            "pct": 1.2
+          },
+          {
+            "level": "Gram",
+            "count": 14,
+            "pct": 0.6
+          },
+          {
+            "level": "Insulin unit",
+            "count": 10,
+            "pct": 0.4
+          },
+          {
+            "level": "Milliliter",
+            "count": 10,
+            "pct": 0.4
+          },
+          {
+            "level": "999999",
             "count": 1,
             "pct": 0
           },
           {
-            "level": "Other",
+            "level": "Nanogram",
+            "count": 1,
+            "pct": 0
+          },
+          {
+            "level": "Ounce",
             "count": 1,
             "pct": 0
           }
@@ -86,37 +136,57 @@
       {
         "label": "sex: 2",
         "n": 3739,
-        "missing": 3722,
-        "n_levels": 6,
-        "mode_level": "(Missing)",
+        "missing": 375,
+        "n_levels": 10,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 3722,
-            "pct": 99.5
-          },
-          {
             "level": "Milligram",
-            "count": 8,
+            "count": 2926,
+            "pct": 78.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 375,
+            "pct": 10
+          },
+          {
+            "level": "Other",
+            "count": 351,
+            "pct": 9.4
+          },
+          {
+            "level": "Unknown",
+            "count": 37,
+            "pct": 1
+          },
+          {
+            "level": "Gram",
+            "count": 24,
+            "pct": 0.6
+          },
+          {
+            "level": "Insulin unit",
+            "count": 13,
+            "pct": 0.3
+          },
+          {
+            "level": "Milliliter",
+            "count": 7,
             "pct": 0.2
           },
           {
-            "level": "[hp_X]/mL",
-            "count": 6,
-            "pct": 0.2
+            "level": "999999999999",
+            "count": 4,
+            "pct": 0.1
           },
           {
-            "level": "[hp_C]/mL",
+            "level": "9999999",
             "count": 1,
             "pct": 0
           },
           {
-            "level": "[hp_X]/30mL",
-            "count": 1,
-            "pct": 0
-          },
-          {
-            "level": "mg/mL",
+            "level": "Ounce",
             "count": 1,
             "pct": 0
           }
@@ -127,32 +197,62 @@
       {
         "label": "race: 4",
         "n": 3096,
-        "missing": 3085,
-        "n_levels": 5,
-        "mode_level": "(Missing)",
+        "missing": 263,
+        "n_levels": 11,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 3085,
-            "pct": 99.6
+            "level": "Milligram",
+            "count": 2547,
+            "pct": 82.3
           },
           {
-            "level": "Milligram",
+            "level": "(Missing)",
+            "count": 263,
+            "pct": 8.5
+          },
+          {
+            "level": "Other",
+            "count": 204,
+            "pct": 6.6
+          },
+          {
+            "level": "Unknown",
+            "count": 34,
+            "pct": 1.1
+          },
+          {
+            "level": "Gram",
+            "count": 18,
+            "pct": 0.6
+          },
+          {
+            "level": "Insulin unit",
+            "count": 16,
+            "pct": 0.5
+          },
+          {
+            "level": "Milliliter",
             "count": 6,
             "pct": 0.2
           },
           {
-            "level": "[hp_X]/mL",
-            "count": 3,
+            "level": "999999999999",
+            "count": 4,
             "pct": 0.1
           },
           {
-            "level": "[hp_C]/mL",
+            "level": "Ounce",
+            "count": 2,
+            "pct": 0.1
+          },
+          {
+            "level": "9999999",
             "count": 1,
             "pct": 0
           },
           {
-            "level": "mg/mL",
+            "level": "Nanogram",
             "count": 1,
             "pct": 0
           }
@@ -161,32 +261,47 @@
       {
         "label": "race: 5",
         "n": 3131,
-        "missing": 3119,
-        "n_levels": 5,
-        "mode_level": "(Missing)",
+        "missing": 308,
+        "n_levels": 8,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 3119,
-            "pct": 99.6
-          },
-          {
-            "level": "[hp_X]/mL",
-            "count": 4,
-            "pct": 0.1
-          },
-          {
             "level": "Milligram",
-            "count": 4,
-            "pct": 0.1
+            "count": 2467,
+            "pct": 78.8
           },
           {
-            "level": "[hp_X]/30mL",
-            "count": 3,
-            "pct": 0.1
+            "level": "(Missing)",
+            "count": 308,
+            "pct": 9.8
           },
           {
             "level": "Other",
+            "count": 284,
+            "pct": 9.1
+          },
+          {
+            "level": "Unknown",
+            "count": 33,
+            "pct": 1.1
+          },
+          {
+            "level": "Gram",
+            "count": 20,
+            "pct": 0.6
+          },
+          {
+            "level": "Milliliter",
+            "count": 11,
+            "pct": 0.4
+          },
+          {
+            "level": "Insulin unit",
+            "count": 7,
+            "pct": 0.2
+          },
+          {
+            "level": "999999",
             "count": 1,
             "pct": 0
           }
@@ -197,22 +312,57 @@
       {
         "label": "center: 1",
         "n": 1943,
-        "missing": 1940,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "missing": 116,
+        "n_levels": 10,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 1940,
-            "pct": 99.8
+            "level": "Milligram",
+            "count": 1667,
+            "pct": 85.8
           },
           {
-            "level": "Milligram",
-            "count": 2,
+            "level": "Other",
+            "count": 124,
+            "pct": 6.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 116,
+            "pct": 6
+          },
+          {
+            "level": "Gram",
+            "count": 11,
+            "pct": 0.6
+          },
+          {
+            "level": "Unknown",
+            "count": 10,
+            "pct": 0.5
+          },
+          {
+            "level": "Insulin unit",
+            "count": 8,
+            "pct": 0.4
+          },
+          {
+            "level": "999999999999",
+            "count": 4,
+            "pct": 0.2
+          },
+          {
+            "level": "999999",
+            "count": 1,
             "pct": 0.1
           },
           {
-            "level": "[hp_X]/mL",
+            "level": "9999999",
+            "count": 1,
+            "pct": 0.1
+          },
+          {
+            "level": "Milliliter",
             "count": 1,
             "pct": 0.1
           }
@@ -221,66 +371,91 @@
       {
         "label": "center: 2",
         "n": 1354,
-        "missing": 1348,
-        "n_levels": 4,
-        "mode_level": "(Missing)",
+        "missing": 134,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 1348,
-            "pct": 99.6
-          },
-          {
-            "level": "[hp_X]/mL",
-            "count": 3,
-            "pct": 0.2
-          },
-          {
             "level": "Milligram",
-            "count": 2,
-            "pct": 0.1
+            "count": 1065,
+            "pct": 78.7
           },
           {
-            "level": "[hp_X]/30mL",
-            "count": 1,
-            "pct": 0.1
+            "level": "(Missing)",
+            "count": 134,
+            "pct": 9.9
+          },
+          {
+            "level": "Other",
+            "count": 125,
+            "pct": 9.2
+          },
+          {
+            "level": "Unknown",
+            "count": 12,
+            "pct": 0.9
+          },
+          {
+            "level": "Gram",
+            "count": 9,
+            "pct": 0.7
+          },
+          {
+            "level": "Milliliter",
+            "count": 5,
+            "pct": 0.4
+          },
+          {
+            "level": "Insulin unit",
+            "count": 4,
+            "pct": 0.3
           }
         ]
       },
       {
         "label": "center: 3",
         "n": 1506,
-        "missing": 1494,
-        "n_levels": 6,
-        "mode_level": "(Missing)",
+        "missing": 191,
+        "n_levels": 8,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 1494,
-            "pct": 99.2
-          },
-          {
             "level": "Milligram",
-            "count": 6,
-            "pct": 0.4
+            "count": 1172,
+            "pct": 77.8
           },
           {
-            "level": "[hp_X]/30mL",
+            "level": "(Missing)",
+            "count": 191,
+            "pct": 12.7
+          },
+          {
+            "level": "Other",
+            "count": 111,
+            "pct": 7.4
+          },
+          {
+            "level": "Unknown",
+            "count": 23,
+            "pct": 1.5
+          },
+          {
+            "level": "Gram",
+            "count": 5,
+            "pct": 0.3
+          },
+          {
+            "level": "Milliliter",
             "count": 2,
             "pct": 0.1
           },
           {
-            "level": "[hp_X]/mL",
-            "count": 2,
-            "pct": 0.1
-          },
-          {
-            "level": "mg/mL",
+            "level": "Insulin unit",
             "count": 1,
             "pct": 0.1
           },
           {
-            "level": "Other",
+            "level": "Ounce",
             "count": 1,
             "pct": 0.1
           }
@@ -289,22 +464,52 @@
       {
         "label": "center: 4",
         "n": 1424,
-        "missing": 1422,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "missing": 130,
+        "n_levels": 9,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 1422,
-            "pct": 99.9
+            "level": "Milligram",
+            "count": 1110,
+            "pct": 77.9
           },
           {
-            "level": "[hp_C]/mL",
+            "level": "(Missing)",
+            "count": 130,
+            "pct": 9.1
+          },
+          {
+            "level": "Other",
+            "count": 128,
+            "pct": 9
+          },
+          {
+            "level": "Unknown",
+            "count": 22,
+            "pct": 1.5
+          },
+          {
+            "level": "Gram",
+            "count": 13,
+            "pct": 0.9
+          },
+          {
+            "level": "Insulin unit",
+            "count": 10,
+            "pct": 0.7
+          },
+          {
+            "level": "Milliliter",
+            "count": 9,
+            "pct": 0.6
+          },
+          {
+            "level": "Nanogram",
             "count": 1,
             "pct": 0.1
           },
           {
-            "level": "[hp_X]/mL",
+            "level": "Ounce",
             "count": 1,
             "pct": 0.1
           }
@@ -315,46 +520,111 @@
       {
         "label": "race: 4 · sex: 1",
         "n": 1074,
-        "missing": 1074,
-        "n_levels": 1,
-        "mode_level": "(Missing)",
+        "missing": 84,
+        "n_levels": 9,
+        "mode_level": "Milligram",
         "freq": [
           {
+            "level": "Milligram",
+            "count": 899,
+            "pct": 83.7
+          },
+          {
             "level": "(Missing)",
-            "count": 1074,
-            "pct": 100
+            "count": 84,
+            "pct": 7.8
+          },
+          {
+            "level": "Other",
+            "count": 56,
+            "pct": 5.2
+          },
+          {
+            "level": "Unknown",
+            "count": 17,
+            "pct": 1.6
+          },
+          {
+            "level": "Insulin unit",
+            "count": 6,
+            "pct": 0.6
+          },
+          {
+            "level": "Gram",
+            "count": 5,
+            "pct": 0.5
+          },
+          {
+            "level": "Milliliter",
+            "count": 5,
+            "pct": 0.5
+          },
+          {
+            "level": "Nanogram",
+            "count": 1,
+            "pct": 0.1
+          },
+          {
+            "level": "Ounce",
+            "count": 1,
+            "pct": 0.1
           }
         ]
       },
       {
         "label": "race: 4 · sex: 2",
         "n": 2022,
-        "missing": 2011,
-        "n_levels": 5,
-        "mode_level": "(Missing)",
+        "missing": 179,
+        "n_levels": 10,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 2011,
-            "pct": 99.5
-          },
-          {
             "level": "Milligram",
-            "count": 6,
-            "pct": 0.3
+            "count": 1648,
+            "pct": 81.5
           },
           {
-            "level": "[hp_X]/mL",
-            "count": 3,
-            "pct": 0.1
+            "level": "(Missing)",
+            "count": 179,
+            "pct": 8.9
           },
           {
-            "level": "[hp_C]/mL",
+            "level": "Other",
+            "count": 148,
+            "pct": 7.3
+          },
+          {
+            "level": "Unknown",
+            "count": 17,
+            "pct": 0.8
+          },
+          {
+            "level": "Gram",
+            "count": 13,
+            "pct": 0.6
+          },
+          {
+            "level": "Insulin unit",
+            "count": 10,
+            "pct": 0.5
+          },
+          {
+            "level": "999999999999",
+            "count": 4,
+            "pct": 0.2
+          },
+          {
+            "level": "9999999",
             "count": 1,
             "pct": 0
           },
           {
-            "level": "mg/mL",
+            "level": "Milliliter",
+            "count": 1,
+            "pct": 0
+          },
+          {
+            "level": "Ounce",
             "count": 1,
             "pct": 0
           }
@@ -363,32 +633,47 @@
       {
         "label": "race: 5 · sex: 1",
         "n": 1414,
-        "missing": 1408,
-        "n_levels": 5,
-        "mode_level": "(Missing)",
+        "missing": 112,
+        "n_levels": 8,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 1408,
-            "pct": 99.6
-          },
-          {
-            "level": "[hp_X]/30mL",
-            "count": 2,
-            "pct": 0.1
-          },
-          {
             "level": "Milligram",
-            "count": 2,
-            "pct": 0.1
+            "count": 1189,
+            "pct": 84.1
           },
           {
-            "level": "[hp_X]/mL",
-            "count": 1,
-            "pct": 0.1
+            "level": "(Missing)",
+            "count": 112,
+            "pct": 7.9
           },
           {
             "level": "Other",
+            "count": 81,
+            "pct": 5.7
+          },
+          {
+            "level": "Unknown",
+            "count": 13,
+            "pct": 0.9
+          },
+          {
+            "level": "Gram",
+            "count": 9,
+            "pct": 0.6
+          },
+          {
+            "level": "Milliliter",
+            "count": 5,
+            "pct": 0.4
+          },
+          {
+            "level": "Insulin unit",
+            "count": 4,
+            "pct": 0.3
+          },
+          {
+            "level": "999999",
             "count": 1,
             "pct": 0.1
           }
@@ -397,29 +682,44 @@
       {
         "label": "race: 5 · sex: 2",
         "n": 1717,
-        "missing": 1711,
-        "n_levels": 4,
-        "mode_level": "(Missing)",
+        "missing": 196,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 1711,
-            "pct": 99.7
+            "level": "Milligram",
+            "count": 1278,
+            "pct": 74.4
           },
           {
-            "level": "[hp_X]/mL",
+            "level": "Other",
+            "count": 203,
+            "pct": 11.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 196,
+            "pct": 11.4
+          },
+          {
+            "level": "Unknown",
+            "count": 20,
+            "pct": 1.2
+          },
+          {
+            "level": "Gram",
+            "count": 11,
+            "pct": 0.6
+          },
+          {
+            "level": "Milliliter",
+            "count": 6,
+            "pct": 0.3
+          },
+          {
+            "level": "Insulin unit",
             "count": 3,
             "pct": 0.2
-          },
-          {
-            "level": "Milligram",
-            "count": 2,
-            "pct": 0.1
-          },
-          {
-            "level": "[hp_X]/30mL",
-            "count": 1,
-            "pct": 0.1
           }
         ]
       }
@@ -428,70 +728,125 @@
       {
         "label": "sex: 1 · center: 1",
         "n": 815,
-        "missing": 815,
-        "n_levels": 1,
-        "mode_level": "(Missing)",
+        "missing": 44,
+        "n_levels": 8,
+        "mode_level": "Milligram",
         "freq": [
           {
+            "level": "Milligram",
+            "count": 729,
+            "pct": 89.4
+          },
+          {
             "level": "(Missing)",
-            "count": 815,
-            "pct": 100
+            "count": 44,
+            "pct": 5.4
+          },
+          {
+            "level": "Other",
+            "count": 32,
+            "pct": 3.9
+          },
+          {
+            "level": "Gram",
+            "count": 3,
+            "pct": 0.4
+          },
+          {
+            "level": "Unknown",
+            "count": 3,
+            "pct": 0.4
+          },
+          {
+            "level": "Insulin unit",
+            "count": 2,
+            "pct": 0.2
+          },
+          {
+            "level": "999999",
+            "count": 1,
+            "pct": 0.1
+          },
+          {
+            "level": "Milliliter",
+            "count": 1,
+            "pct": 0.1
           }
         ]
       },
       {
         "label": "sex: 1 · center: 2",
         "n": 481,
-        "missing": 479,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "missing": 49,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 479,
-            "pct": 99.6
-          },
-          {
-            "level": "[hp_X]/30mL",
-            "count": 1,
-            "pct": 0.2
-          },
-          {
             "level": "Milligram",
-            "count": 1,
-            "pct": 0.2
+            "count": 397,
+            "pct": 82.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 49,
+            "pct": 10.2
+          },
+          {
+            "level": "Other",
+            "count": 23,
+            "pct": 4.8
+          },
+          {
+            "level": "Gram",
+            "count": 4,
+            "pct": 0.8
+          },
+          {
+            "level": "Milliliter",
+            "count": 4,
+            "pct": 0.8
+          },
+          {
+            "level": "Insulin unit",
+            "count": 2,
+            "pct": 0.4
+          },
+          {
+            "level": "Unknown",
+            "count": 2,
+            "pct": 0.4
           }
         ]
       },
       {
         "label": "sex: 1 · center: 3",
         "n": 588,
-        "missing": 584,
+        "missing": 62,
         "n_levels": 5,
-        "mode_level": "(Missing)",
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 584,
-            "pct": 99.3
-          },
-          {
-            "level": "[hp_X]/30mL",
-            "count": 1,
-            "pct": 0.2
-          },
-          {
-            "level": "[hp_X]/mL",
-            "count": 1,
-            "pct": 0.2
-          },
-          {
             "level": "Milligram",
-            "count": 1,
-            "pct": 0.2
+            "count": 472,
+            "pct": 80.3
+          },
+          {
+            "level": "(Missing)",
+            "count": 62,
+            "pct": 10.5
           },
           {
             "level": "Other",
+            "count": 38,
+            "pct": 6.5
+          },
+          {
+            "level": "Unknown",
+            "count": 15,
+            "pct": 2.6
+          },
+          {
+            "level": "Gram",
             "count": 1,
             "pct": 0.2
           }
@@ -500,36 +855,101 @@
       {
         "label": "sex: 1 · center: 4",
         "n": 604,
-        "missing": 604,
-        "n_levels": 1,
-        "mode_level": "(Missing)",
+        "missing": 41,
+        "n_levels": 9,
+        "mode_level": "Milligram",
         "freq": [
           {
+            "level": "Milligram",
+            "count": 490,
+            "pct": 81.1
+          },
+          {
+            "level": "Other",
+            "count": 44,
+            "pct": 7.3
+          },
+          {
             "level": "(Missing)",
-            "count": 604,
-            "pct": 100
+            "count": 41,
+            "pct": 6.8
+          },
+          {
+            "level": "Unknown",
+            "count": 10,
+            "pct": 1.7
+          },
+          {
+            "level": "Gram",
+            "count": 6,
+            "pct": 1
+          },
+          {
+            "level": "Insulin unit",
+            "count": 6,
+            "pct": 1
+          },
+          {
+            "level": "Milliliter",
+            "count": 5,
+            "pct": 0.8
+          },
+          {
+            "level": "Nanogram",
+            "count": 1,
+            "pct": 0.2
+          },
+          {
+            "level": "Ounce",
+            "count": 1,
+            "pct": 0.2
           }
         ]
       },
       {
         "label": "sex: 2 · center: 1",
         "n": 1128,
-        "missing": 1125,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "missing": 72,
+        "n_levels": 8,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 1125,
-            "pct": 99.7
-          },
-          {
             "level": "Milligram",
-            "count": 2,
-            "pct": 0.2
+            "count": 938,
+            "pct": 83.2
           },
           {
-            "level": "[hp_X]/mL",
+            "level": "Other",
+            "count": 92,
+            "pct": 8.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 72,
+            "pct": 6.4
+          },
+          {
+            "level": "Gram",
+            "count": 8,
+            "pct": 0.7
+          },
+          {
+            "level": "Unknown",
+            "count": 7,
+            "pct": 0.6
+          },
+          {
+            "level": "Insulin unit",
+            "count": 6,
+            "pct": 0.5
+          },
+          {
+            "level": "999999999999",
+            "count": 4,
+            "pct": 0.4
+          },
+          {
+            "level": "9999999",
             "count": 1,
             "pct": 0.1
           }
@@ -538,22 +958,42 @@
       {
         "label": "sex: 2 · center: 2",
         "n": 873,
-        "missing": 869,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "missing": 85,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 869,
-            "pct": 99.5
-          },
-          {
-            "level": "[hp_X]/mL",
-            "count": 3,
-            "pct": 0.3
-          },
-          {
             "level": "Milligram",
+            "count": 668,
+            "pct": 76.5
+          },
+          {
+            "level": "Other",
+            "count": 102,
+            "pct": 11.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 85,
+            "pct": 9.7
+          },
+          {
+            "level": "Unknown",
+            "count": 10,
+            "pct": 1.1
+          },
+          {
+            "level": "Gram",
+            "count": 5,
+            "pct": 0.6
+          },
+          {
+            "level": "Insulin unit",
+            "count": 2,
+            "pct": 0.2
+          },
+          {
+            "level": "Milliliter",
             "count": 1,
             "pct": 0.1
           }
@@ -562,32 +1002,47 @@
       {
         "label": "sex: 2 · center: 3",
         "n": 918,
-        "missing": 910,
-        "n_levels": 5,
-        "mode_level": "(Missing)",
+        "missing": 129,
+        "n_levels": 8,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 910,
-            "pct": 99.1
-          },
-          {
             "level": "Milligram",
-            "count": 5,
-            "pct": 0.5
+            "count": 700,
+            "pct": 76.3
           },
           {
-            "level": "[hp_X]/30mL",
+            "level": "(Missing)",
+            "count": 129,
+            "pct": 14.1
+          },
+          {
+            "level": "Other",
+            "count": 73,
+            "pct": 8
+          },
+          {
+            "level": "Unknown",
+            "count": 8,
+            "pct": 0.9
+          },
+          {
+            "level": "Gram",
+            "count": 4,
+            "pct": 0.4
+          },
+          {
+            "level": "Milliliter",
+            "count": 2,
+            "pct": 0.2
+          },
+          {
+            "level": "Insulin unit",
             "count": 1,
             "pct": 0.1
           },
           {
-            "level": "[hp_X]/mL",
-            "count": 1,
-            "pct": 0.1
-          },
-          {
-            "level": "mg/mL",
+            "level": "Ounce",
             "count": 1,
             "pct": 0.1
           }
@@ -596,24 +1051,44 @@
       {
         "label": "sex: 2 · center: 4",
         "n": 820,
-        "missing": 818,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "missing": 89,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
           {
+            "level": "Milligram",
+            "count": 620,
+            "pct": 75.6
+          },
+          {
             "level": "(Missing)",
-            "count": 818,
-            "pct": 99.8
+            "count": 89,
+            "pct": 10.9
           },
           {
-            "level": "[hp_C]/mL",
-            "count": 1,
-            "pct": 0.1
+            "level": "Other",
+            "count": 84,
+            "pct": 10.2
           },
           {
-            "level": "[hp_X]/mL",
-            "count": 1,
-            "pct": 0.1
+            "level": "Unknown",
+            "count": 12,
+            "pct": 1.5
+          },
+          {
+            "level": "Gram",
+            "count": 7,
+            "pct": 0.9
+          },
+          {
+            "level": "Insulin unit",
+            "count": 4,
+            "pct": 0.5
+          },
+          {
+            "level": "Milliliter",
+            "count": 4,
+            "pct": 0.5
           }
         ]
       }
@@ -622,22 +1097,52 @@
       {
         "label": "race: 4 · center: 1",
         "n": 1173,
-        "missing": 1171,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "missing": 75,
+        "n_levels": 9,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 1171,
-            "pct": 99.8
+            "level": "Milligram",
+            "count": 1011,
+            "pct": 86.2
           },
           {
-            "level": "[hp_X]/mL",
+            "level": "(Missing)",
+            "count": 75,
+            "pct": 6.4
+          },
+          {
+            "level": "Other",
+            "count": 66,
+            "pct": 5.6
+          },
+          {
+            "level": "Unknown",
+            "count": 6,
+            "pct": 0.5
+          },
+          {
+            "level": "Gram",
+            "count": 5,
+            "pct": 0.4
+          },
+          {
+            "level": "999999999999",
+            "count": 4,
+            "pct": 0.3
+          },
+          {
+            "level": "Insulin unit",
+            "count": 4,
+            "pct": 0.3
+          },
+          {
+            "level": "9999999",
             "count": 1,
             "pct": 0.1
           },
           {
-            "level": "Milligram",
+            "level": "Milliliter",
             "count": 1,
             "pct": 0.1
           }
@@ -646,51 +1151,81 @@
       {
         "label": "race: 4 · center: 2",
         "n": 654,
-        "missing": 652,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "missing": 59,
+        "n_levels": 6,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 652,
-            "pct": 99.7
-          },
-          {
-            "level": "[hp_X]/mL",
-            "count": 1,
-            "pct": 0.2
-          },
-          {
             "level": "Milligram",
-            "count": 1,
-            "pct": 0.2
+            "count": 528,
+            "pct": 80.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 59,
+            "pct": 9
+          },
+          {
+            "level": "Other",
+            "count": 54,
+            "pct": 8.3
+          },
+          {
+            "level": "Gram",
+            "count": 7,
+            "pct": 1.1
+          },
+          {
+            "level": "Insulin unit",
+            "count": 4,
+            "pct": 0.6
+          },
+          {
+            "level": "Unknown",
+            "count": 2,
+            "pct": 0.3
           }
         ]
       },
       {
         "label": "race: 4 · center: 3",
         "n": 502,
-        "missing": 496,
-        "n_levels": 4,
-        "mode_level": "(Missing)",
+        "missing": 56,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 496,
-            "pct": 98.8
-          },
-          {
             "level": "Milligram",
-            "count": 4,
-            "pct": 0.8
+            "count": 405,
+            "pct": 80.7
           },
           {
-            "level": "[hp_X]/mL",
+            "level": "(Missing)",
+            "count": 56,
+            "pct": 11.2
+          },
+          {
+            "level": "Other",
+            "count": 25,
+            "pct": 5
+          },
+          {
+            "level": "Unknown",
+            "count": 13,
+            "pct": 2.6
+          },
+          {
+            "level": "Gram",
             "count": 1,
             "pct": 0.2
           },
           {
-            "level": "mg/mL",
+            "level": "Insulin unit",
+            "count": 1,
+            "pct": 0.2
+          },
+          {
+            "level": "Ounce",
             "count": 1,
             "pct": 0.2
           }
@@ -699,17 +1234,52 @@
       {
         "label": "race: 4 · center: 4",
         "n": 767,
-        "missing": 766,
-        "n_levels": 2,
-        "mode_level": "(Missing)",
+        "missing": 73,
+        "n_levels": 9,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 766,
-            "pct": 99.9
+            "level": "Milligram",
+            "count": 603,
+            "pct": 78.6
           },
           {
-            "level": "[hp_C]/mL",
+            "level": "(Missing)",
+            "count": 73,
+            "pct": 9.5
+          },
+          {
+            "level": "Other",
+            "count": 59,
+            "pct": 7.7
+          },
+          {
+            "level": "Unknown",
+            "count": 13,
+            "pct": 1.7
+          },
+          {
+            "level": "Insulin unit",
+            "count": 7,
+            "pct": 0.9
+          },
+          {
+            "level": "Gram",
+            "count": 5,
+            "pct": 0.7
+          },
+          {
+            "level": "Milliliter",
+            "count": 5,
+            "pct": 0.7
+          },
+          {
+            "level": "Nanogram",
+            "count": 1,
+            "pct": 0.1
+          },
+          {
+            "level": "Ounce",
             "count": 1,
             "pct": 0.1
           }
@@ -718,17 +1288,42 @@
       {
         "label": "race: 5 · center: 1",
         "n": 770,
-        "missing": 769,
-        "n_levels": 2,
-        "mode_level": "(Missing)",
+        "missing": 41,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 769,
-            "pct": 99.9
+            "level": "Milligram",
+            "count": 656,
+            "pct": 85.2
           },
           {
-            "level": "Milligram",
+            "level": "Other",
+            "count": 58,
+            "pct": 7.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 41,
+            "pct": 5.3
+          },
+          {
+            "level": "Gram",
+            "count": 6,
+            "pct": 0.8
+          },
+          {
+            "level": "Insulin unit",
+            "count": 4,
+            "pct": 0.5
+          },
+          {
+            "level": "Unknown",
+            "count": 4,
+            "pct": 0.5
+          },
+          {
+            "level": "999999",
             "count": 1,
             "pct": 0.1
           }
@@ -737,82 +1332,122 @@
       {
         "label": "race: 5 · center: 2",
         "n": 700,
-        "missing": 696,
-        "n_levels": 4,
-        "mode_level": "(Missing)",
+        "missing": 75,
+        "n_levels": 6,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 696,
-            "pct": 99.4
+            "level": "Milligram",
+            "count": 537,
+            "pct": 76.7
           },
           {
-            "level": "[hp_X]/mL",
+            "level": "(Missing)",
+            "count": 75,
+            "pct": 10.7
+          },
+          {
+            "level": "Other",
+            "count": 71,
+            "pct": 10.1
+          },
+          {
+            "level": "Unknown",
+            "count": 10,
+            "pct": 1.4
+          },
+          {
+            "level": "Milliliter",
+            "count": 5,
+            "pct": 0.7
+          },
+          {
+            "level": "Gram",
             "count": 2,
             "pct": 0.3
-          },
-          {
-            "level": "[hp_X]/30mL",
-            "count": 1,
-            "pct": 0.1
-          },
-          {
-            "level": "Milligram",
-            "count": 1,
-            "pct": 0.1
           }
         ]
       },
       {
         "label": "race: 5 · center: 3",
         "n": 1004,
-        "missing": 998,
-        "n_levels": 5,
-        "mode_level": "(Missing)",
+        "missing": 135,
+        "n_levels": 6,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 998,
-            "pct": 99.4
-          },
-          {
-            "level": "[hp_X]/30mL",
-            "count": 2,
-            "pct": 0.2
-          },
-          {
             "level": "Milligram",
-            "count": 2,
-            "pct": 0.2
+            "count": 767,
+            "pct": 76.4
           },
           {
-            "level": "[hp_X]/mL",
-            "count": 1,
-            "pct": 0.1
+            "level": "(Missing)",
+            "count": 135,
+            "pct": 13.4
           },
           {
             "level": "Other",
-            "count": 1,
-            "pct": 0.1
+            "count": 86,
+            "pct": 8.6
+          },
+          {
+            "level": "Unknown",
+            "count": 10,
+            "pct": 1
+          },
+          {
+            "level": "Gram",
+            "count": 4,
+            "pct": 0.4
+          },
+          {
+            "level": "Milliliter",
+            "count": 2,
+            "pct": 0.2
           }
         ]
       },
       {
         "label": "race: 5 · center: 4",
         "n": 657,
-        "missing": 656,
-        "n_levels": 2,
-        "mode_level": "(Missing)",
+        "missing": 57,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 656,
-            "pct": 99.8
+            "level": "Milligram",
+            "count": 507,
+            "pct": 77.2
           },
           {
-            "level": "[hp_X]/mL",
-            "count": 1,
-            "pct": 0.2
+            "level": "Other",
+            "count": 69,
+            "pct": 10.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 57,
+            "pct": 8.7
+          },
+          {
+            "level": "Unknown",
+            "count": 9,
+            "pct": 1.4
+          },
+          {
+            "level": "Gram",
+            "count": 8,
+            "pct": 1.2
+          },
+          {
+            "level": "Milliliter",
+            "count": 4,
+            "pct": 0.6
+          },
+          {
+            "level": "Insulin unit",
+            "count": 3,
+            "pct": 0.5
           }
         ]
       }
@@ -821,78 +1456,208 @@
       {
         "label": "race: 4 · sex: 1 · center: 1",
         "n": 410,
-        "missing": 410,
-        "n_levels": 1,
-        "mode_level": "(Missing)",
+        "missing": 22,
+        "n_levels": 6,
+        "mode_level": "Milligram",
         "freq": [
           {
+            "level": "Milligram",
+            "count": 367,
+            "pct": 89.5
+          },
+          {
             "level": "(Missing)",
-            "count": 410,
-            "pct": 100
+            "count": 22,
+            "pct": 5.4
+          },
+          {
+            "level": "Other",
+            "count": 17,
+            "pct": 4.1
+          },
+          {
+            "level": "Unknown",
+            "count": 2,
+            "pct": 0.5
+          },
+          {
+            "level": "Gram",
+            "count": 1,
+            "pct": 0.2
+          },
+          {
+            "level": "Milliliter",
+            "count": 1,
+            "pct": 0.2
           }
         ]
       },
       {
         "label": "race: 4 · sex: 1 · center: 2",
         "n": 161,
-        "missing": 161,
-        "n_levels": 1,
-        "mode_level": "(Missing)",
+        "missing": 15,
+        "n_levels": 5,
+        "mode_level": "Milligram",
         "freq": [
           {
+            "level": "Milligram",
+            "count": 136,
+            "pct": 84.5
+          },
+          {
             "level": "(Missing)",
-            "count": 161,
-            "pct": 100
+            "count": 15,
+            "pct": 9.3
+          },
+          {
+            "level": "Other",
+            "count": 6,
+            "pct": 3.7
+          },
+          {
+            "level": "Gram",
+            "count": 2,
+            "pct": 1.2
+          },
+          {
+            "level": "Insulin unit",
+            "count": 2,
+            "pct": 1.2
           }
         ]
       },
       {
         "label": "race: 4 · sex: 1 · center: 3",
         "n": 188,
-        "missing": 188,
-        "n_levels": 1,
-        "mode_level": "(Missing)",
+        "missing": 18,
+        "n_levels": 5,
+        "mode_level": "Milligram",
         "freq": [
           {
+            "level": "Milligram",
+            "count": 155,
+            "pct": 82.4
+          },
+          {
             "level": "(Missing)",
-            "count": 188,
-            "pct": 100
+            "count": 18,
+            "pct": 9.6
+          },
+          {
+            "level": "Unknown",
+            "count": 9,
+            "pct": 4.8
+          },
+          {
+            "level": "Other",
+            "count": 5,
+            "pct": 2.7
+          },
+          {
+            "level": "Gram",
+            "count": 1,
+            "pct": 0.5
           }
         ]
       },
       {
         "label": "race: 4 · sex: 1 · center: 4",
         "n": 315,
-        "missing": 315,
-        "n_levels": 1,
-        "mode_level": "(Missing)",
+        "missing": 29,
+        "n_levels": 9,
+        "mode_level": "Milligram",
         "freq": [
           {
+            "level": "Milligram",
+            "count": 241,
+            "pct": 76.5
+          },
+          {
             "level": "(Missing)",
-            "count": 315,
-            "pct": 100
+            "count": 29,
+            "pct": 9.2
+          },
+          {
+            "level": "Other",
+            "count": 28,
+            "pct": 8.9
+          },
+          {
+            "level": "Unknown",
+            "count": 6,
+            "pct": 1.9
+          },
+          {
+            "level": "Insulin unit",
+            "count": 4,
+            "pct": 1.3
+          },
+          {
+            "level": "Milliliter",
+            "count": 4,
+            "pct": 1.3
+          },
+          {
+            "level": "Gram",
+            "count": 1,
+            "pct": 0.3
+          },
+          {
+            "level": "Nanogram",
+            "count": 1,
+            "pct": 0.3
+          },
+          {
+            "level": "Ounce",
+            "count": 1,
+            "pct": 0.3
           }
         ]
       },
       {
         "label": "race: 4 · sex: 2 · center: 1",
         "n": 763,
-        "missing": 761,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "missing": 53,
+        "n_levels": 8,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 761,
-            "pct": 99.7
-          },
-          {
-            "level": "[hp_X]/mL",
-            "count": 1,
-            "pct": 0.1
-          },
-          {
             "level": "Milligram",
+            "count": 644,
+            "pct": 84.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 53,
+            "pct": 6.9
+          },
+          {
+            "level": "Other",
+            "count": 49,
+            "pct": 6.4
+          },
+          {
+            "level": "999999999999",
+            "count": 4,
+            "pct": 0.5
+          },
+          {
+            "level": "Gram",
+            "count": 4,
+            "pct": 0.5
+          },
+          {
+            "level": "Insulin unit",
+            "count": 4,
+            "pct": 0.5
+          },
+          {
+            "level": "Unknown",
+            "count": 4,
+            "pct": 0.5
+          },
+          {
+            "level": "9999999",
             "count": 1,
             "pct": 0.1
           }
@@ -901,51 +1666,76 @@
       {
         "label": "race: 4 · sex: 2 · center: 2",
         "n": 493,
-        "missing": 491,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "missing": 44,
+        "n_levels": 6,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 491,
-            "pct": 99.6
-          },
-          {
-            "level": "[hp_X]/mL",
-            "count": 1,
-            "pct": 0.2
-          },
-          {
             "level": "Milligram",
-            "count": 1,
-            "pct": 0.2
+            "count": 392,
+            "pct": 79.5
+          },
+          {
+            "level": "Other",
+            "count": 48,
+            "pct": 9.7
+          },
+          {
+            "level": "(Missing)",
+            "count": 44,
+            "pct": 8.9
+          },
+          {
+            "level": "Gram",
+            "count": 5,
+            "pct": 1
+          },
+          {
+            "level": "Insulin unit",
+            "count": 2,
+            "pct": 0.4
+          },
+          {
+            "level": "Unknown",
+            "count": 2,
+            "pct": 0.4
           }
         ]
       },
       {
         "label": "race: 4 · sex: 2 · center: 3",
         "n": 314,
-        "missing": 308,
-        "n_levels": 4,
-        "mode_level": "(Missing)",
+        "missing": 38,
+        "n_levels": 6,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 308,
-            "pct": 98.1
+            "level": "Milligram",
+            "count": 250,
+            "pct": 79.6
           },
           {
-            "level": "Milligram",
+            "level": "(Missing)",
+            "count": 38,
+            "pct": 12.1
+          },
+          {
+            "level": "Other",
+            "count": 20,
+            "pct": 6.4
+          },
+          {
+            "level": "Unknown",
             "count": 4,
             "pct": 1.3
           },
           {
-            "level": "[hp_X]/mL",
+            "level": "Insulin unit",
             "count": 1,
             "pct": 0.3
           },
           {
-            "level": "mg/mL",
+            "level": "Ounce",
             "count": 1,
             "pct": 0.3
           }
@@ -954,17 +1744,42 @@
       {
         "label": "race: 4 · sex: 2 · center: 4",
         "n": 452,
-        "missing": 451,
-        "n_levels": 2,
-        "mode_level": "(Missing)",
+        "missing": 44,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 451,
-            "pct": 99.8
+            "level": "Milligram",
+            "count": 362,
+            "pct": 80.1
           },
           {
-            "level": "[hp_C]/mL",
+            "level": "(Missing)",
+            "count": 44,
+            "pct": 9.7
+          },
+          {
+            "level": "Other",
+            "count": 31,
+            "pct": 6.9
+          },
+          {
+            "level": "Unknown",
+            "count": 7,
+            "pct": 1.5
+          },
+          {
+            "level": "Gram",
+            "count": 4,
+            "pct": 0.9
+          },
+          {
+            "level": "Insulin unit",
+            "count": 3,
+            "pct": 0.7
+          },
+          {
+            "level": "Milliliter",
             "count": 1,
             "pct": 0.2
           }
@@ -973,165 +1788,310 @@
       {
         "label": "race: 5 · sex: 1 · center: 1",
         "n": 405,
-        "missing": 405,
-        "n_levels": 1,
-        "mode_level": "(Missing)",
+        "missing": 22,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
           {
+            "level": "Milligram",
+            "count": 362,
+            "pct": 89.4
+          },
+          {
             "level": "(Missing)",
-            "count": 405,
-            "pct": 100
+            "count": 22,
+            "pct": 5.4
+          },
+          {
+            "level": "Other",
+            "count": 15,
+            "pct": 3.7
+          },
+          {
+            "level": "Gram",
+            "count": 2,
+            "pct": 0.5
+          },
+          {
+            "level": "Insulin unit",
+            "count": 2,
+            "pct": 0.5
+          },
+          {
+            "level": "999999",
+            "count": 1,
+            "pct": 0.2
+          },
+          {
+            "level": "Unknown",
+            "count": 1,
+            "pct": 0.2
           }
         ]
       },
       {
         "label": "race: 5 · sex: 1 · center: 2",
         "n": 320,
-        "missing": 318,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "missing": 34,
+        "n_levels": 6,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 318,
-            "pct": 99.4
-          },
-          {
-            "level": "[hp_X]/30mL",
-            "count": 1,
-            "pct": 0.3
-          },
-          {
             "level": "Milligram",
-            "count": 1,
-            "pct": 0.3
+            "count": 261,
+            "pct": 81.6
+          },
+          {
+            "level": "(Missing)",
+            "count": 34,
+            "pct": 10.6
+          },
+          {
+            "level": "Other",
+            "count": 17,
+            "pct": 5.3
+          },
+          {
+            "level": "Milliliter",
+            "count": 4,
+            "pct": 1.2
+          },
+          {
+            "level": "Gram",
+            "count": 2,
+            "pct": 0.6
+          },
+          {
+            "level": "Unknown",
+            "count": 2,
+            "pct": 0.6
           }
         ]
       },
       {
         "label": "race: 5 · sex: 1 · center: 3",
         "n": 400,
-        "missing": 396,
-        "n_levels": 5,
-        "mode_level": "(Missing)",
+        "missing": 44,
+        "n_levels": 4,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 396,
-            "pct": 99
-          },
-          {
-            "level": "[hp_X]/30mL",
-            "count": 1,
-            "pct": 0.2
-          },
-          {
-            "level": "[hp_X]/mL",
-            "count": 1,
-            "pct": 0.2
-          },
-          {
             "level": "Milligram",
-            "count": 1,
-            "pct": 0.2
+            "count": 317,
+            "pct": 79.2
+          },
+          {
+            "level": "(Missing)",
+            "count": 44,
+            "pct": 11
           },
           {
             "level": "Other",
-            "count": 1,
-            "pct": 0.2
+            "count": 33,
+            "pct": 8.2
+          },
+          {
+            "level": "Unknown",
+            "count": 6,
+            "pct": 1.5
           }
         ]
       },
       {
         "label": "race: 5 · sex: 1 · center: 4",
         "n": 289,
-        "missing": 289,
-        "n_levels": 1,
-        "mode_level": "(Missing)",
+        "missing": 12,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
-          {
-            "level": "(Missing)",
-            "count": 289,
-            "pct": 100
-          }
-        ]
-      },
-      {
-        "label": "race: 5 · sex: 2 · center: 1",
-        "n": 365,
-        "missing": 364,
-        "n_levels": 2,
-        "mode_level": "(Missing)",
-        "freq": [
-          {
-            "level": "(Missing)",
-            "count": 364,
-            "pct": 99.7
-          },
           {
             "level": "Milligram",
+            "count": 249,
+            "pct": 86.2
+          },
+          {
+            "level": "Other",
+            "count": 16,
+            "pct": 5.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 12,
+            "pct": 4.2
+          },
+          {
+            "level": "Gram",
+            "count": 5,
+            "pct": 1.7
+          },
+          {
+            "level": "Unknown",
+            "count": 4,
+            "pct": 1.4
+          },
+          {
+            "level": "Insulin unit",
+            "count": 2,
+            "pct": 0.7
+          },
+          {
+            "level": "Milliliter",
             "count": 1,
             "pct": 0.3
           }
         ]
       },
       {
-        "label": "race: 5 · sex: 2 · center: 2",
-        "n": 380,
-        "missing": 378,
-        "n_levels": 2,
-        "mode_level": "(Missing)",
+        "label": "race: 5 · sex: 2 · center: 1",
+        "n": 365,
+        "missing": 19,
+        "n_levels": 6,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 378,
-            "pct": 99.5
+            "level": "Milligram",
+            "count": 294,
+            "pct": 80.5
           },
           {
-            "level": "[hp_X]/mL",
+            "level": "Other",
+            "count": 43,
+            "pct": 11.8
+          },
+          {
+            "level": "(Missing)",
+            "count": 19,
+            "pct": 5.2
+          },
+          {
+            "level": "Gram",
+            "count": 4,
+            "pct": 1.1
+          },
+          {
+            "level": "Unknown",
+            "count": 3,
+            "pct": 0.8
+          },
+          {
+            "level": "Insulin unit",
             "count": 2,
             "pct": 0.5
           }
         ]
       },
       {
-        "label": "race: 5 · sex: 2 · center: 3",
-        "n": 604,
-        "missing": 602,
-        "n_levels": 3,
-        "mode_level": "(Missing)",
+        "label": "race: 5 · sex: 2 · center: 2",
+        "n": 380,
+        "missing": 41,
+        "n_levels": 5,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 602,
-            "pct": 99.7
+            "level": "Milligram",
+            "count": 276,
+            "pct": 72.6
           },
           {
-            "level": "[hp_X]/30mL",
-            "count": 1,
-            "pct": 0.2
+            "level": "Other",
+            "count": 54,
+            "pct": 14.2
           },
+          {
+            "level": "(Missing)",
+            "count": 41,
+            "pct": 10.8
+          },
+          {
+            "level": "Unknown",
+            "count": 8,
+            "pct": 2.1
+          },
+          {
+            "level": "Milliliter",
+            "count": 1,
+            "pct": 0.3
+          }
+        ]
+      },
+      {
+        "label": "race: 5 · sex: 2 · center: 3",
+        "n": 604,
+        "missing": 91,
+        "n_levels": 6,
+        "mode_level": "Milligram",
+        "freq": [
           {
             "level": "Milligram",
-            "count": 1,
-            "pct": 0.2
+            "count": 450,
+            "pct": 74.5
+          },
+          {
+            "level": "(Missing)",
+            "count": 91,
+            "pct": 15.1
+          },
+          {
+            "level": "Other",
+            "count": 53,
+            "pct": 8.8
+          },
+          {
+            "level": "Gram",
+            "count": 4,
+            "pct": 0.7
+          },
+          {
+            "level": "Unknown",
+            "count": 4,
+            "pct": 0.7
+          },
+          {
+            "level": "Milliliter",
+            "count": 2,
+            "pct": 0.3
           }
         ]
       },
       {
         "label": "race: 5 · sex: 2 · center: 4",
         "n": 368,
-        "missing": 367,
-        "n_levels": 2,
-        "mode_level": "(Missing)",
+        "missing": 45,
+        "n_levels": 7,
+        "mode_level": "Milligram",
         "freq": [
           {
-            "level": "(Missing)",
-            "count": 367,
-            "pct": 99.7
+            "level": "Milligram",
+            "count": 258,
+            "pct": 70.1
           },
           {
-            "level": "[hp_X]/mL",
+            "level": "Other",
+            "count": 53,
+            "pct": 14.4
+          },
+          {
+            "level": "(Missing)",
+            "count": 45,
+            "pct": 12.2
+          },
+          {
+            "level": "Unknown",
+            "count": 5,
+            "pct": 1.4
+          },
+          {
+            "level": "Gram",
+            "count": 3,
+            "pct": 0.8
+          },
+          {
+            "level": "Milliliter",
+            "count": 3,
+            "pct": 0.8
+          },
+          {
+            "level": "Insulin unit",
             "count": 1,
             "pct": 0.3
           }

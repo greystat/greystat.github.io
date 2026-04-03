@@ -1,1 +1,1 @@
-window.__HOT_FLASHES_3MO_EXAM_F={"concept_id":"HOT_FLASHES_3MO","exam":"F","n":2051,"missing":18,"n_levels":4,"mode_level":"\"No\""};
+window.__HOT_FLASHES_3MO_EXAM_F={"concept_id":"HOT_FLASHES_3MO","exam":"F","n":2051,"missing":18,"n_levels":4,"mode_level":"No"};

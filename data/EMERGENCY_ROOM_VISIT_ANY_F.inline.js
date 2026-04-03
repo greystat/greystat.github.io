@@ -1,1 +1,1 @@
-window.__EMERGENCY_ROOM_VISIT_ANY_EXAM_F={"concept_id":"EMERGENCY_ROOM_VISIT_ANY","exam":"F","n":3671,"missing":313,"n_levels":3,"mode_level":"\"No\""};
+window.__EMERGENCY_ROOM_VISIT_ANY_EXAM_F={"concept_id":"EMERGENCY_ROOM_VISIT_ANY","exam":"F","n":3671,"missing":313,"n_levels":3,"mode_level":"No"};

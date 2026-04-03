@@ -1,1 +1,1 @@
-window.__TYPE_A_FAIR_OPPORTUNITY_EXAM_B={"concept_id":"TYPE_A_FAIR_OPPORTUNITY","exam":"B","n":4623,"missing":47,"n_levels":3,"mode_level":"\"Have had fair opportunity\""};
+window.__TYPE_A_FAIR_OPPORTUNITY_EXAM_B={"concept_id":"TYPE_A_FAIR_OPPORTUNITY","exam":"B","n":4623,"missing":47,"n_levels":3,"mode_level":"Have had fair opportunity"};

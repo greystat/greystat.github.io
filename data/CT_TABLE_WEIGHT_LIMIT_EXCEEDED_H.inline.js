@@ -1,1 +1,1 @@
-window.__CT_TABLE_WEIGHT_LIMIT_EXCEEDED_EXAM_H={"concept_id":"CT_TABLE_WEIGHT_LIMIT_EXCEEDED","exam":"H","n":3416,"missing":25,"n_levels":3,"mode_level":"\"No\""};
+window.__CT_TABLE_WEIGHT_LIMIT_EXCEEDED_EXAM_H={"concept_id":"CT_TABLE_WEIGHT_LIMIT_EXCEEDED","exam":"H","n":3416,"missing":25,"n_levels":3,"mode_level":"No"};

@@ -9,7 +9,7 @@ const C=await loadJ("data/"+SLUG+".json","__"+SLUG+"_CONCEPT");
 const chips=document.querySelector(".chips");
 (C.chips||[]).forEach(t=>{const a=document.createElement("a");a.className="chip";a.textContent=t;a.href="index.html?chip="+encodeURIComponent(t);chips.appendChild(a)});
 const mtb=document.querySelector("#members-table tbody");
-(C.members||[]).forEach(m=>{const tr=document.createElement("tr");tr.innerHTML=`<td>${m.exam||""}</td><td>${m.dataset||m.dataset_stub||""}</td><td>${m.varname||""}</td><td>${m.instrument||""}</td><td>${m.n_labels||""}</td>`;mtb.appendChild(tr)});
+(C.members||[]).forEach(m=>{const tr=document.createElement("tr");tr.innerHTML=`<td>${m.exam||""}</td><td>${m.dataset||m.dataset_stub||""}</td><td>${m.varname||""}</td><td>${m.instrument||""}</td><td>${m.notes||""}</td>`;mtb.appendChild(tr)});
 const TC={},BC={};
 async function load(el){if(!TC[el])TC[el]=await loadJ(`data/${SLUG}_${el}.json`,`__${SLUG}_EXAM_${el}`)||{};if(!BC[el]){const w=await loadJ(`data/${SLUG}_${el}_freq.json`,`__${SLUG}_${el}_FREQ`);BC[el]=(w&&w.by)?w.by:{}}}
 function tiles(el){const t=TC[el]||{};document.querySelector("#t-n").textContent=fmtInt(t.n);document.querySelector("#t-miss").textContent=fmtInt(t.missing);document.querySelector("#t-levels").textContent=fmtInt(t.n_levels);document.querySelector("#t-mode").textContent=t.mode_level||"—"}

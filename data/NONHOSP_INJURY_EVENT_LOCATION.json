@@ -1,7 +1,7 @@
 {
   "concept_id": "NONHOSP_INJURY_EVENT_LOCATION",
-  "title": "Location where serious non-hospital injury occurred",
-  "chips": ["categorical", "8 levels", "F31 · Interim Health Contact", "Administrative"],
+  "title": "Location Where Serious Non-Hospital Injury Occurred",
+  "chips": ["categorical", "8 levels", "F31 · Interim Health Contact", "Medical History"],
   "members": [
     {
       "concept_id": "NONHOSP_INJURY_EVENT_LOCATION",
@@ -20,11 +20,11 @@
   "dictionary": [
     {
       "code": "1",
-      "label": "At home [inside home]"
+      "label": "At home"
     },
     {
       "code": "2",
-      "label": "At home [adjacent premises]"
+      "label": "At home"
     },
     {
       "code": "3",

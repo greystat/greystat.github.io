@@ -1,1 +1,1 @@
-window.__HOSPITALIZED_SINCE_LAST_EXAM_EXAM_C={"concept_id":"HOSPITALIZED_SINCE_LAST_EXAM","exam":"C","n":4351,"missing":16,"n_levels":3,"mode_level":"\"No\""};
+window.__HOSPITALIZED_SINCE_LAST_EXAM_EXAM_C={"concept_id":"HOSPITALIZED_SINCE_LAST_EXAM","exam":"C","n":4351,"missing":16,"n_levels":3,"mode_level":"No"};

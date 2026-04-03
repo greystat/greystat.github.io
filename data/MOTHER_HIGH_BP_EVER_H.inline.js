@@ -1,1 +1,1 @@
-window.__MOTHER_HIGH_BP_EVER_EXAM_H={"concept_id":"MOTHER_HIGH_BP_EVER","exam":"H","n":3488,"missing":1297,"n_levels":4,"mode_level":"(Missing)"};
+window.__MOTHER_HIGH_BP_EVER_EXAM_H={"concept_id":"MOTHER_HIGH_BP_EVER","exam":"H","n":3488,"missing":2205,"n_levels":4,"mode_level":"(Missing)"};

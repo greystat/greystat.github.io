@@ -1,1 +1,1 @@
-window.__CHRONIC_BURDEN_JOB_DIFFICULTY_EXAM_H={"concept_id":"CHRONIC_BURDEN_JOB_DIFFICULTY","exam":"H","n":3475,"missing":0,"n_levels":4,"mode_level":"\"No\""};
+window.__CHRONIC_BURDEN_JOB_DIFFICULTY_EXAM_H={"concept_id":"CHRONIC_BURDEN_JOB_DIFFICULTY","exam":"H","n":3475,"missing":0,"n_levels":4,"mode_level":"No"};

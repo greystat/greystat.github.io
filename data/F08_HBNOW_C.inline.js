@@ -1,1 +1,1 @@
-window.__F08_HBNOW_EXAM_C={"concept_id":"F08_HBNOW","exam":"C","n":4351,"missing":3,"n_levels":3,"mode_level":"\"No\""};
+window.__F08_HBNOW_EXAM_C={"concept_id":"F08_HBNOW","exam":"C","n":4351,"missing":3,"n_levels":3,"mode_level":"No"};

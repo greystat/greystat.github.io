@@ -1,1 +1,1 @@
-window.__CBD_EVER_USED_EXAM_J={"concept_id":"CBD_EVER_USED","exam":"J","n":2389,"missing":23,"n_levels":3,"mode_level":"\"No\""};
+window.__CBD_EVER_USED_EXAM_J={"concept_id":"CBD_EVER_USED","exam":"J","n":2389,"missing":23,"n_levels":3,"mode_level":"No"};

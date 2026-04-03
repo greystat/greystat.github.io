@@ -1,1 +1,1 @@
-window.__PULMONARY_FUNCTION_OR_EMBOLUS_HISTORY_EXAM_G={"concept_id":"PULMONARY_FUNCTION_OR_EMBOLUS_HISTORY","exam":"G","n":2986,"missing":5,"n_levels":3,"mode_level":"\"No\""};
+window.__PULMONARY_FUNCTION_OR_EMBOLUS_HISTORY_EXAM_G={"concept_id":"PULMONARY_FUNCTION_OR_EMBOLUS_HISTORY","exam":"G","n":2986,"missing":5,"n_levels":3,"mode_level":"No"};

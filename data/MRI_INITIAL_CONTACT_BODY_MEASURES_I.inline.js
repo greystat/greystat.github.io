@@ -1,1 +1,1 @@
-window.__MRI_INITIAL_CONTACT_BODY_MEASURES_EXAM_I={"concept_id":"MRI_INITIAL_CONTACT_BODY_MEASURES","exam":"I","n":464,"missing":11,"mean":40.1258,"sd":4.4178,"p50":40,"p99":50};
+window.__MRI_INITIAL_CONTACT_BODY_MEASURES_EXAM_I={"concept_id":"MRI_INITIAL_CONTACT_BODY_MEASURES","exam":"I","n":464,"missing":10,"mean":67.0132,"sd":3.859,"p50":67,"p99":76};

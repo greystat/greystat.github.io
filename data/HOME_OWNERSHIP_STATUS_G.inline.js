@@ -1,1 +1,1 @@
-window.__HOME_OWNERSHIP_STATUS_EXAM_G={"concept_id":"HOME_OWNERSHIP_STATUS","exam":"G","n":3537,"missing":4,"n_levels":5,"mode_level":"Owned or being bought by you (or someone in the household)?"};
+window.__HOME_OWNERSHIP_STATUS_EXAM_G={"concept_id":"HOME_OWNERSHIP_STATUS","exam":"G","n":3537,"missing":4,"n_levels":5,"mode_level":"Owned or being bought by you (or someon…"};

@@ -1,1 +1,1 @@
-window.__WEIGHT_LB_EXAM_G={"concept_id":"WEIGHT_LB","exam":"G","n":6670,"missing":39,"mean":187.5306,"sd":45.5894,"p50":183,"p99":319.55};
+window.__WEIGHT_LB_EXAM_G={"concept_id":"WEIGHT_LB","exam":"G","n":3547,"missing":11,"mean":188.8488,"sd":47.5236,"p50":183.5,"p99":329.65};

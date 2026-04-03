@@ -1,1 +1,1 @@
-window.__GAME_SCORE_EXAM_B={"concept_id":"GAME_SCORE","exam":"B","n":4623,"missing":4490,"mean":2.0301,"sd":2.5612,"p50":1,"p99":11};
+window.__GAME_SCORE_EXAM_B={"concept_id":"GAME_SCORE","exam":"B","n":4623,"missing":193,"mean":62.2343,"sd":79.5791,"p50":34,"p99":371};

@@ -1,1 +1,1 @@
-window.__F08_HIV_EXAM_F={"concept_id":"F08_HIV","exam":"F","n":3671,"missing":3,"n_levels":4,"mode_level":"\"No\""};
+window.__F08_HIV_EXAM_F={"concept_id":"F08_HIV","exam":"F","n":3671,"missing":3,"n_levels":4,"mode_level":"No"};

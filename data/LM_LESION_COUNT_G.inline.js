@@ -1,1 +1,1 @@
-window.__LM_LESION_COUNT_EXAM_G={"concept_id":"LM_LESION_COUNT","exam":"G","n":3139,"missing":17,"mean":0.0218,"sd":0.1882,"p50":0,"p99":1};
+window.__LM_LESION_COUNT_EXAM_G={"concept_id":"LM_LESION_COUNT","exam":"G","n":3139,"missing":1,"mean":0.0204,"sd":0.1584,"p50":0,"p99":1};

@@ -1,1 +1,1 @@
-window.__RUN_JOG_PAST_YEAR_EXAM_G={"concept_id":"RUN_JOG_PAST_YEAR","exam":"G","n":3528,"missing":2,"n_levels":3,"mode_level":"\"No\""};
+window.__RUN_JOG_PAST_YEAR_EXAM_G={"concept_id":"RUN_JOG_PAST_YEAR","exam":"G","n":3528,"missing":2,"n_levels":3,"mode_level":"No"};

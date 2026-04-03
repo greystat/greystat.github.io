@@ -1,1 +1,1 @@
-window.__FINGER_TIP_SCAR_SORES_HISTORY_EXAM_G={"concept_id":"FINGER_TIP_SCAR_SORES_HISTORY","exam":"G","n":3467,"missing":5,"n_levels":3,"mode_level":"\"No\""};
+window.__FINGER_TIP_SCAR_SORES_HISTORY_EXAM_G={"concept_id":"FINGER_TIP_SCAR_SORES_HISTORY","exam":"G","n":3467,"missing":5,"n_levels":3,"mode_level":"No"};

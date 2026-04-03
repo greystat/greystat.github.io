@@ -1,1 +1,1 @@
-window.__CESD_ITEM_HAD_CRYING_SPELLS_EXAM_I={"concept_id":"CESD_ITEM_HAD_CRYING_SPELLS","exam":"I","n":3301,"missing":7,"n_levels":5,"mode_level":"\"Rarely or none of the time\""};
+window.__CESD_ITEM_HAD_CRYING_SPELLS_EXAM_I={"concept_id":"CESD_ITEM_HAD_CRYING_SPELLS","exam":"I","n":3301,"missing":7,"n_levels":5,"mode_level":"Rarely or none of the time"};

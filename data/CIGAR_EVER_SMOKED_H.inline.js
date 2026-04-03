@@ -1,1 +1,1 @@
-window.__CIGAR_EVER_SMOKED_EXAM_H={"concept_id":"CIGAR_EVER_SMOKED","exam":"H","n":3492,"missing":1463,"n_levels":3,"mode_level":"\"No\""};
+window.__CIGAR_EVER_SMOKED_EXAM_H={"concept_id":"CIGAR_EVER_SMOKED","exam":"H","n":3492,"missing":1463,"n_levels":3,"mode_level":"No"};

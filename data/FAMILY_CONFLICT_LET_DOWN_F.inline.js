@@ -1,1 +1,1 @@
-window.__FAMILY_CONFLICT_LET_DOWN_EXAM_F={"concept_id":"FAMILY_CONFLICT_LET_DOWN","exam":"F","n":3671,"missing":20,"n_levels":5,"mode_level":"\"Not at all\""};
+window.__FAMILY_CONFLICT_LET_DOWN_EXAM_F={"concept_id":"FAMILY_CONFLICT_LET_DOWN","exam":"F","n":3671,"missing":20,"n_levels":5,"mode_level":"Not at all"};

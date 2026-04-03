@@ -1,1 +1,1 @@
-window.__TYPE_A_AMBITION_SATISFACTION_EXAM_G={"concept_id":"TYPE_A_AMBITION_SATISFACTION","exam":"G","n":3498,"missing":26,"n_levels":3,"mode_level":"\"Satisfied most of ambitions\""};
+window.__TYPE_A_AMBITION_SATISFACTION_EXAM_G={"concept_id":"TYPE_A_AMBITION_SATISFACTION","exam":"G","n":3498,"missing":26,"n_levels":3,"mode_level":"Satisfied most of ambitions"};

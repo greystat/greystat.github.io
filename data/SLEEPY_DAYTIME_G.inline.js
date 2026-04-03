@@ -1,1 +1,1 @@
-window.__SLEEPY_DAYTIME_EXAM_G={"concept_id":"SLEEPY_DAYTIME","exam":"G","n":3501,"missing":7,"n_levels":4,"mode_level":"\"No\""};
+window.__SLEEPY_DAYTIME_EXAM_G={"concept_id":"SLEEPY_DAYTIME","exam":"G","n":3501,"missing":7,"n_levels":4,"mode_level":"No"};

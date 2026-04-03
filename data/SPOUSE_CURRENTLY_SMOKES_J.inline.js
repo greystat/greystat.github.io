@@ -1,1 +1,1 @@
-window.__SPOUSE_CURRENTLY_SMOKES_EXAM_J={"concept_id":"SPOUSE_CURRENTLY_SMOKES","exam":"J","n":2116,"missing":2,"n_levels":4,"mode_level":"\"No\""};
+window.__SPOUSE_CURRENTLY_SMOKES_EXAM_J={"concept_id":"SPOUSE_CURRENTLY_SMOKES","exam":"J","n":2116,"missing":2,"n_levels":4,"mode_level":"No"};

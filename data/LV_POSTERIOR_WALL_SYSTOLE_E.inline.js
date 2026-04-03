@@ -1,1 +1,1 @@
-window.__LV_POSTERIOR_WALL_SYSTOLE_EXAM_E={"concept_id":"LV_POSTERIOR_WALL_SYSTOLE","exam":"E","n":3153,"missing":233,"mean":0.0647,"sd":0.0392,"p50":0.06,"p99":0.19};
+window.__LV_POSTERIOR_WALL_SYSTOLE_EXAM_E={"concept_id":"LV_POSTERIOR_WALL_SYSTOLE","exam":"E","n":1536,"missing":41,"mean":1.3487,"sd":0.2005,"p50":1.33,"p99":1.8906};

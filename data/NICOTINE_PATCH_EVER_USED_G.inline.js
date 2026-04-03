@@ -1,1 +1,1 @@
-window.__NICOTINE_PATCH_EVER_USED_EXAM_G={"concept_id":"NICOTINE_PATCH_EVER_USED","exam":"G","n":3547,"missing":1488,"n_levels":3,"mode_level":"\"No\""};
+window.__NICOTINE_PATCH_EVER_USED_EXAM_G={"concept_id":"NICOTINE_PATCH_EVER_USED","exam":"G","n":3547,"missing":1488,"n_levels":3,"mode_level":"No"};

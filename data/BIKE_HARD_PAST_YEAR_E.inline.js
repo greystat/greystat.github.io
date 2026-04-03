@@ -1,1 +1,1 @@
-window.__BIKE_HARD_PAST_YEAR_EXAM_E={"concept_id":"BIKE_HARD_PAST_YEAR","exam":"E","n":3949,"missing":41,"n_levels":3,"mode_level":"\"No\""};
+window.__BIKE_HARD_PAST_YEAR_EXAM_E={"concept_id":"BIKE_HARD_PAST_YEAR","exam":"E","n":3949,"missing":41,"n_levels":3,"mode_level":"No"};

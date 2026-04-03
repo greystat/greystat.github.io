@@ -1,1 +1,1 @@
-window.__CARDIA_URINE_1ML_ALIQUOT_EXAM_H={"concept_id":"CARDIA_URINE_1ML_ALIQUOT","exam":"H","n":3493,"missing":53,"n_levels":3,"mode_level":"1 mL urine aliquot, albumin and creatinine, grey, CSCL?UMN"};
+window.__CARDIA_URINE_1ML_ALIQUOT_EXAM_H={"concept_id":"CARDIA_URINE_1ML_ALIQUOT","exam":"H","n":3493,"missing":53,"n_levels":3,"mode_level":"1 mL urine aliquot, albumin and creatin…"};

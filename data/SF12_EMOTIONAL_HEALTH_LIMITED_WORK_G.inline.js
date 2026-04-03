@@ -1,1 +1,1 @@
-window.__SF12_EMOTIONAL_HEALTH_LIMITED_WORK_EXAM_G={"concept_id":"SF12_EMOTIONAL_HEALTH_LIMITED_WORK","exam":"G","n":3504,"missing":9,"n_levels":3,"mode_level":"\"No\""};
+window.__SF12_EMOTIONAL_HEALTH_LIMITED_WORK_EXAM_G={"concept_id":"SF12_EMOTIONAL_HEALTH_LIMITED_WORK","exam":"G","n":3504,"missing":9,"n_levels":3,"mode_level":"No"};

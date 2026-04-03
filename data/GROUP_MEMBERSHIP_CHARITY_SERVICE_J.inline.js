@@ -1,1 +1,1 @@
-window.__GROUP_MEMBERSHIP_CHARITY_SERVICE_EXAM_J={"concept_id":"GROUP_MEMBERSHIP_CHARITY_SERVICE","exam":"J","n":2497,"missing":46,"n_levels":3,"mode_level":"\"No\""};
+window.__GROUP_MEMBERSHIP_CHARITY_SERVICE_EXAM_J={"concept_id":"GROUP_MEMBERSHIP_CHARITY_SERVICE","exam":"J","n":2497,"missing":46,"n_levels":3,"mode_level":"No"};

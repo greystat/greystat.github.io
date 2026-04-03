@@ -1,1 +1,1 @@
-window.__HEAVY_INTENSITY_SCORE_EXAM_F={"concept_id":"HEAVY_INTENSITY_SCORE","exam":"F","n":7342,"missing":55,"mean":291.0626,"sd":282.7773,"p50":216,"p99":1212};
+window.__HEAVY_INTENSITY_SCORE_EXAM_F={"concept_id":"HEAVY_INTENSITY_SCORE","exam":"F","n":3671,"missing":17,"mean":212.7783,"sd":219.6725,"p50":148,"p99":972};

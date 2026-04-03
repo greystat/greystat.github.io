@@ -1,1 +1,1 @@
-window.__SPOUSE_CURRENTLY_SMOKES_EXAM_D={"concept_id":"SPOUSE_CURRENTLY_SMOKES","exam":"D","n":4085,"missing":14,"n_levels":4,"mode_level":"\"No\""};
+window.__SPOUSE_CURRENTLY_SMOKES_EXAM_D={"concept_id":"SPOUSE_CURRENTLY_SMOKES","exam":"D","n":4085,"missing":14,"n_levels":4,"mode_level":"No"};

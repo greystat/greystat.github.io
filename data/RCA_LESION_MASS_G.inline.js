@@ -1,1 +1,1 @@
-window.__RCA_LESION_MASS_EXAM_G={"concept_id":"RCA_LESION_MASS","exam":"G","n":3139,"missing":17,"mean":1.8099,"sd":25.4927,"p50":0,"p99":23.5241};
+window.__RCA_LESION_MASS_EXAM_G={"concept_id":"RCA_LESION_MASS","exam":"G","n":3139,"missing":1,"mean":2.6612,"sd":74.612,"p50":0,"p99":26.3811};

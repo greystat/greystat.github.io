@@ -1,1 +1,1 @@
-window.__FOOD_SECURITY_EXAM_I={"concept_id":"FOOD_SECURITY","exam":"I","n":3335,"missing":5,"n_levels":5,"mode_level":"We have enough food to eat and the kinds of food we want"};
+window.__FOOD_SECURITY_EXAM_I={"concept_id":"FOOD_SECURITY","exam":"I","n":3335,"missing":5,"n_levels":5,"mode_level":"We have enough food to eat and the kind…"};

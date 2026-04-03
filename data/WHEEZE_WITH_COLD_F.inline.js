@@ -1,1 +1,1 @@
-window.__WHEEZE_WITH_COLD_EXAM_F={"concept_id":"WHEEZE_WITH_COLD","exam":"F","n":3671,"missing":10,"n_levels":3,"mode_level":"\"No\""};
+window.__WHEEZE_WITH_COLD_EXAM_F={"concept_id":"WHEEZE_WITH_COLD","exam":"F","n":3671,"missing":10,"n_levels":3,"mode_level":"No"};

@@ -1,1 +1,1 @@
-window.__VIGOROUS_DANCE_MONTHS_EXAM_F={"concept_id":"VIGOROUS_DANCE_MONTHS","exam":"F","n":7342,"missing":4935,"mean":7.5875,"sd":4.1797,"p50":8,"p99":12};
+window.__VIGOROUS_DANCE_MONTHS_EXAM_F={"concept_id":"VIGOROUS_DANCE_MONTHS","exam":"F","n":3671,"missing":2708,"mean":5.6147,"sd":4.1545,"p50":4,"p99":12};

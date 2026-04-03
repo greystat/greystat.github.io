@@ -1,1 +1,1 @@
-window.__GROUP_MEMBERSHIP_CHILDREN_EXAM_F={"concept_id":"GROUP_MEMBERSHIP_CHILDREN","exam":"F","n":3671,"missing":24,"n_levels":3,"mode_level":"\"No\""};
+window.__GROUP_MEMBERSHIP_CHILDREN_EXAM_F={"concept_id":"GROUP_MEMBERSHIP_CHILDREN","exam":"F","n":3671,"missing":24,"n_levels":3,"mode_level":"No"};

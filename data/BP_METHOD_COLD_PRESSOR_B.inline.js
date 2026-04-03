@@ -1,1 +1,1 @@
-window.__BP_METHOD_COLD_PRESSOR_EXAM_B={"concept_id":"BP_METHOD_COLD_PRESSOR","exam":"B","n":4623,"missing":304,"n_levels":3,"mode_level":"1"};
+window.__BP_METHOD_COLD_PRESSOR_EXAM_B={"concept_id":"BP_METHOD_COLD_PRESSOR","exam":"B","n":4623,"missing":209,"n_levels":3,"mode_level":"1"};

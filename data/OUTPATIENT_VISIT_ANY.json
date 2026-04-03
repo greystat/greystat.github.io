@@ -1,7 +1,7 @@
 {
   "concept_id": "OUTPATIENT_VISIT_ANY",
-  "title": "Visited doctor, clinic, or ER as outpatient since last exam",
-  "chips": ["categorical", "2 levels", "F31 · Interim Health Contact", "Administrative"],
+  "title": "Visited Doctor, Clinic, or ER as Outpatient Since Last Exam",
+  "chips": ["categorical", "2 levels", "F31 · Interim Health Contact", "Medical History"],
   "members": [
     {
       "concept_id": "OUTPATIENT_VISIT_ANY",
@@ -46,7 +46,7 @@
   "dictionary": [
     {
       "code": "1",
-      "label": "\"No\""
+      "label": "No"
     },
     {
       "code": "2",

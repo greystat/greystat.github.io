@@ -1,1 +1,1 @@
-window.__F08_GOUT_EXAM_G={"concept_id":"F08_GOUT","exam":"G","n":3548,"missing":5,"n_levels":4,"mode_level":"\"No\""};
+window.__F08_GOUT_EXAM_G={"concept_id":"F08_GOUT","exam":"G","n":3548,"missing":5,"n_levels":4,"mode_level":"No"};

@@ -1,1 +1,1 @@
-window.__DXA_BREAST_IMPLANTS_EXAM_G={"concept_id":"DXA_BREAST_IMPLANTS","exam":"G","n":2866,"missing":1044,"n_levels":3,"mode_level":"\"No\""};
+window.__DXA_BREAST_IMPLANTS_EXAM_G={"concept_id":"DXA_BREAST_IMPLANTS","exam":"G","n":2866,"missing":1044,"n_levels":3,"mode_level":"No"};

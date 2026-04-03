@@ -1,7 +1,7 @@
 {
   "concept_id": "CARDIA_QC_PARTICIPANT_YN",
-  "title": "Participant is CARDIA quality control (yes/no)",
-  "chips": ["categorical", "2 levels", "F51 · Urine Specimens", "Renal"],
+  "title": "Participant Is CARDIA Quality Control",
+  "chips": ["categorical", "2 levels", "F51 · Urine Specimens", "Specimen Collection"],
   "members": [
     {
       "concept_id": "CARDIA_QC_PARTICIPANT_YN",
@@ -59,7 +59,7 @@
   "dictionary": [
     {
       "code": "1",
-      "label": "\"No\""
+      "label": "No"
     },
     {
       "code": "2",

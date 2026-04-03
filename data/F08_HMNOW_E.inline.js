@@ -1,1 +1,1 @@
-window.__F08_HMNOW_EXAM_E={"concept_id":"F08_HMNOW","exam":"E","n":3949,"missing":1765,"n_levels":4,"mode_level":"\"No\""};
+window.__F08_HMNOW_EXAM_E={"concept_id":"F08_HMNOW","exam":"E","n":3949,"missing":1765,"n_levels":4,"mode_level":"No"};

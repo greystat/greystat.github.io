@@ -1,1 +1,1 @@
-window.__MRI_INITIAL_CONTACT_PARTICIPATION_WILLINGNESS_EXAM_I={"concept_id":"MRI_INITIAL_CONTACT_PARTICIPATION_WILLINGNESS","exam":"I","n":464,"missing":464,"n_levels":0,"mode_level":"(Missing)"};
+window.__MRI_INITIAL_CONTACT_PARTICIPATION_WILLINGNESS_EXAM_I={"concept_id":"MRI_INITIAL_CONTACT_PARTICIPATION_WILLINGNESS","exam":"I","n":464,"missing":0,"n_levels":2,"mode_level":"Yes. When is a good time to call you ba…"};

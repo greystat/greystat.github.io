@@ -1,1 +1,1 @@
-window.__HEIGHT_PROTOCOL_MODIFIED_EXAM_G={"concept_id":"HEIGHT_PROTOCOL_MODIFIED","exam":"G","n":3547,"missing":31,"n_levels":3,"mode_level":"\"No\""};
+window.__HEIGHT_PROTOCOL_MODIFIED_EXAM_G={"concept_id":"HEIGHT_PROTOCOL_MODIFIED","exam":"G","n":3547,"missing":31,"n_levels":3,"mode_level":"No"};

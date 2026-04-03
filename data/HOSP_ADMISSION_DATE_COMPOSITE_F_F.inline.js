@@ -1,1 +1,1 @@
-window.__HOSP_ADMISSION_DATE_COMPOSITE_F_EXAM_F={"concept_id":"HOSP_ADMISSION_DATE_COMPOSITE_F","exam":"F","n":3671,"missing":3670,"mean":2000,"sd":"NA","p50":2000,"p99":2000};
+window.__HOSP_ADMISSION_DATE_COMPOSITE_F_EXAM_F={"concept_id":"HOSP_ADMISSION_DATE_COMPOSITE_F","exam":"F","n":3671,"missing":3283,"mean":1998.4897,"sd":1.9589,"p50":1999,"p99":2001};

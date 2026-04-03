@@ -1,1 +1,1 @@
-window.__LEFT_ATRIAL_AREA_2D_EXAM_I={"concept_id":"LEFT_ATRIAL_AREA_2D","exam":"I","n":3184,"missing":236,"mean":17.9496,"sd":3.6338,"p50":17.744,"p99":27.7045};
+window.__LEFT_ATRIAL_AREA_2D_EXAM_I={"concept_id":"LEFT_ATRIAL_AREA_2D","exam":"I","n":3184,"missing":59,"mean":17.6833,"sd":3.7414,"p50":17.406,"p99":28.0506};

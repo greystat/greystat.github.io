@@ -1,1 +1,1 @@
-window.__LV_POSTERIOR_WALL_DIASTOLE_EXAM_I={"concept_id":"LV_POSTERIOR_WALL_DIASTOLE","exam":"I","n":3184,"missing":68,"mean":0.9441,"sd":0.1703,"p50":0.926,"p99":1.4608};
+window.__LV_POSTERIOR_WALL_DIASTOLE_EXAM_I={"concept_id":"LV_POSTERIOR_WALL_DIASTOLE","exam":"I","n":3184,"missing":452,"mean":0.9517,"sd":0.1655,"p50":0.929,"p99":1.469};

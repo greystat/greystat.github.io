@@ -1,1 +1,1 @@
-window.__GROUP_MEMBERSHIP_OTHER_INDICATOR_EXAM_H={"concept_id":"GROUP_MEMBERSHIP_OTHER_INDICATOR","exam":"H","n":3473,"missing":21,"n_levels":3,"mode_level":"\"No\""};
+window.__GROUP_MEMBERSHIP_OTHER_INDICATOR_EXAM_H={"concept_id":"GROUP_MEMBERSHIP_OTHER_INDICATOR","exam":"H","n":3473,"missing":21,"n_levels":3,"mode_level":"No"};

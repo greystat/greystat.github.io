@@ -1,1 +1,1 @@
-window.__CURRENTLY_TAKING_INSULIN_OR_ORAL_DRUGS_EXAM_H={"concept_id":"CURRENTLY_TAKING_INSULIN_OR_ORAL_DRUGS","exam":"H","n":3503,"missing":3309,"n_levels":3,"mode_level":"(Missing)"};
+window.__CURRENTLY_TAKING_INSULIN_OR_ORAL_DRUGS_EXAM_H={"concept_id":"CURRENTLY_TAKING_INSULIN_OR_ORAL_DRUGS","exam":"H","n":3487,"missing":3293,"n_levels":3,"mode_level":"(Missing)"};

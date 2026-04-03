@@ -1,1 +1,1 @@
-window.__F08_OTMED_EXAM_F={"concept_id":"F08_OTMED","exam":"F","n":3671,"missing":1,"n_levels":4,"mode_level":"\"No\""};
+window.__F08_OTMED_EXAM_F={"concept_id":"F08_OTMED","exam":"F","n":3671,"missing":1,"n_levels":4,"mode_level":"No"};

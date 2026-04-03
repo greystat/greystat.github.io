@@ -1,1 +1,1 @@
-window.__RACKET_MONTHS_EXAM_F={"concept_id":"RACKET_MONTHS","exam":"F","n":7342,"missing":6151,"mean":5.8547,"sd":3.9028,"p50":5,"p99":12};
+window.__RACKET_MONTHS_EXAM_F={"concept_id":"RACKET_MONTHS","exam":"F","n":3671,"missing":3302,"mean":4.4959,"sd":3.9101,"p50":3,"p99":12};

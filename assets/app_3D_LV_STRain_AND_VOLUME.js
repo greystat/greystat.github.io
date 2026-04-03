@@ -1,5 +1,5 @@
 
-const SLUG="3D_LV_STRain_AND_VOLUME";
+const SLUG="3D_LV_STRAIN_AND_VOLUME";
 function fmtNum(x,d=1){return(x==null||Number.isNaN(x))?"—":Number(x).toFixed(d)}
 function fmtInt(x){return(x==null||Number.isNaN(x))?"—":String(Math.round(x))}
 async function loadJ(p,g){if(location.protocol==="file:"&&window[g])return window[g];try{const r=await fetch(p);if(!r.ok)throw 0;return await r.json()}catch(e){return window[g]||{}}}

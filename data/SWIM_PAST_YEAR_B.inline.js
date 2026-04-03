@@ -1,1 +1,1 @@
-window.__SWIM_PAST_YEAR_EXAM_B={"concept_id":"SWIM_PAST_YEAR","exam":"B","n":4623,"missing":67,"n_levels":3,"mode_level":"\"No\""};
+window.__SWIM_PAST_YEAR_EXAM_B={"concept_id":"SWIM_PAST_YEAR","exam":"B","n":4623,"missing":67,"n_levels":3,"mode_level":"No"};

@@ -1,1 +1,1 @@
-window.__NEIGHBORHOOD_PUBLIC_TRANSIT_USED_PAST_YEAR_EXAM_G={"concept_id":"NEIGHBORHOOD_PUBLIC_TRANSIT_USED_PAST_YEAR","exam":"G","n":2989,"missing":882,"n_levels":3,"mode_level":"\"No\""};
+window.__NEIGHBORHOOD_PUBLIC_TRANSIT_USED_PAST_YEAR_EXAM_G={"concept_id":"NEIGHBORHOOD_PUBLIC_TRANSIT_USED_PAST_YEAR","exam":"G","n":2989,"missing":882,"n_levels":3,"mode_level":"No"};

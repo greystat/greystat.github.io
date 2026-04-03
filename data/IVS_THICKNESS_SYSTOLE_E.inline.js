@@ -1,1 +1,1 @@
-window.__IVS_THICKNESS_SYSTOLE_EXAM_E={"concept_id":"IVS_THICKNESS_SYSTOLE","exam":"E","n":3153,"missing":309,"mean":0.0551,"sd":0.0339,"p50":0.05,"p99":0.16};
+window.__IVS_THICKNESS_SYSTOLE_EXAM_E={"concept_id":"IVS_THICKNESS_SYSTOLE","exam":"E","n":1536,"missing":41,"mean":1.2386,"sd":0.1927,"p50":1.22,"p99":1.7206};

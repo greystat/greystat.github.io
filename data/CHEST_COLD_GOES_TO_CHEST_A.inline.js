@@ -1,1 +1,1 @@
-window.__CHEST_COLD_GOES_TO_CHEST_EXAM_A={"concept_id":"CHEST_COLD_GOES_TO_CHEST","exam":"A","n":5114,"missing":10,"n_levels":4,"mode_level":"\"No\""};
+window.__CHEST_COLD_GOES_TO_CHEST_EXAM_A={"concept_id":"CHEST_COLD_GOES_TO_CHEST","exam":"A","n":5114,"missing":10,"n_levels":4,"mode_level":"No"};

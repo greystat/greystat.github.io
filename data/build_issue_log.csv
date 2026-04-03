@@ -4,149 +4,478 @@ DEIDENT_SUBJECT_ID,NA,NA,NA,NA,NA,SUBJECT_ID mapped as measure,admin_filtered_id
 F08_ID,NA,NA,NA,NA,NA,SUBJECT_ID mapped as measure,admin_filtered_id_concept
 MED_ADHERENCE_SUBJECT_ID,NA,NA,NA,NA,NA,SUBJECT_ID mapped as measure,admin_filtered_id_concept
 SUBJECT_ID,NA,NA,NA,NA,NA,SUBJECT_ID mapped as measure,admin_filtered_id_concept
-3D_QUALITY_SCORE,I,i5echo,I3DQCT,3184,3184,"B, , T",non_numeric_coerced
+ABP_EXAM_DATE,NA,NA,NA,NA,NA,Family labeled Audiology but content is ABP/cardiovascular — likely misclustered. Admin exam date; set publish=false per guidelines.,enrichment_unpublished
+ACTIVITY_MONITOR_SERIAL_ID,NA,NA,NA,NA,NA,"Device serial number; functions as an equipment identifier. Set to publish=false as it is an instrument identifier rather than a clinical or behavioral measurement. Reviewer 2 argued for publish=true on the basis of device-level QC utility, but serial numbers are equipment metadata not suitable for general public-facing publication.",enrichment_unpublished
+ALPHACODE,NA,NA,NA,NA,NA,Administrative form code; not clinically meaningful for public users. Limited source descriptions.,enrichment_unpublished
+AMU_END_DATE,NA,NA,NA,NA,NA,Published as false because it is a form/session administration date. Limited source descriptions. Family labeled Audiology but content is ABP/AMU monitoring; potential misclustering.,enrichment_unpublished
+AMU_OBS_DATE,NA,NA,NA,NA,NA,Published as false because it is an observation date/administrative timestamp. Limited source descriptions. Family labeled Audiology but content is ABP/AMU monitoring; potential misclustering.,enrichment_unpublished
+AMU_START_DATE,NA,NA,NA,NA,NA,Published as false because it is a form/session administration date. Limited source descriptions. Family labeled Audiology but content is ABP/AMU monitoring; potential misclustering.,enrichment_unpublished
+ANALYSIS_DATE_HEART,NA,NA,NA,NA,NA,Administrative date variable; not a clinical measurement. Marked publish=false.,enrichment_unpublished
+ANGIOGRAM_EXAM_DATE,NA,NA,NA,NA,NA,Admin date variable; not recommended for public display.,enrichment_unpublished
+APPOINTMENT_DATE_FOR_URINE_RETURN,NA,NA,NA,NA,NA,Administrative scheduling date; marked publish=false.,enrichment_unpublished
+ASPIRIN_BRAND_CODE,NA,NA,NA,NA,NA,Internal medication coding variable used for data linkage; not intended for direct public use. Instance type is single (one code per record).,enrichment_unpublished
+ASPIRIN_EXAM_DATE,NA,NA,NA,NA,NA,Admin date variable; not recommended for public display. Concept shares variable name E09EXDAT with ANGIOGRAM_EXAM_DATE at Exam E — these may represent the same underlying variable and should be reviewed for deduplication.,enrichment_unpublished
+ASPIRIN_INTERVIEWER_ID,NA,NA,NA,NA,NA,Staff identifier; not recommended for public display.,enrichment_unpublished
+BIRTHDATE,NA,NA,NA,NA,NA,Birthdate is a quasi-identifier; publishing may raise privacy concerns. Marked false. Two descriptions reference different verification points (last exam vs. exam 2) — may reflect updates across data releases.,enrichment_unpublished
+BIRTH_CONTROL_EXAM_DATE,NA,NA,NA,NA,NA,Misclustering/mapping conflict: B09ST_DT is described in raw data as 'DATE LAST STOPPED BCP'S' but is listed here as an exam date variable. The same variable (B09ST_DT and F09ST_DT) appears in BIRTH_CONTROL_STOP_DATE. It is likely that B09ST_DT and F09ST_DT belong to BIRTH_CONTROL_STOP_DATE and should not be in this concept. Recommend verifying whether this concept actually covers only G09CEXDAT (and possibly F09CEXDT) as exam dates.,enrichment_unpublished
+BIRTH_CONTROL_INTERVIEWER_ID,NA,NA,NA,NA,NA,,enrichment_unpublished
+BIRTH_CONTROL_MED_CODE,NA,NA,NA,NA,NA,Internal medication classification coding variable. Not intended for direct public use.,enrichment_unpublished
+BIRTH_CONTROL_STOP_DATE_ALT,NA,NA,NA,NA,NA,Source description is only the variable name 'f09stpdate' with no additional context. Available at Exam F only. Relationship to BIRTH_CONTROL_STOP_DATE and BIRTH_CONTROL_STOP_DATE_COMPONENTS is unclear; potential duplicate or derived variable. Not published due to insufficient documentation.,enrichment_unpublished
+BP_MACHINE_ID,NA,NA,NA,NA,NA,Equipment identifier — not published per identifier suppression policy.,enrichment_unpublished
+BP_SAME_DATE_F91,NA,NA,NA,NA,NA,Administrative linkage flag; not a clinical or behavioral measurement. Publish set to false.,enrichment_unpublished
+CALTRAC_ID,NA,NA,NA,NA,NA,Device identifier — not published.,enrichment_unpublished
+CENTER_Y0,NA,NA,NA,NA,NA,Center identifier; publish false as it is an administrative/identifier variable.,enrichment_unpublished
+COOK_MEDLEY_CIGMI,NA,NA,NA,NA,NA,"Descriptions are single-character fragments providing no usable content. Variable purpose is ambiguous – could be a derived predictor, a behavioral flag, or an administrative variable. Cannot confirm variable_type with confidence; classified as process_admin pending clarification. Not suitable for publication without further documentation.",enrichment_unpublished
+COOK_MEDLEY_ITEM_GRAB_SCORE,NA,NA,NA,NA,NA,"This concept shares variable names (A13SCORE, C13SCORE) with COOK_MEDLEY_TOTAL_SCORE – both map to the same underlying variables and represent a misclustering. This concept should be suppressed in favor of COOK_MEDLEY_TOTAL_SCORE, which carries the more accurate label. The concept_id name ('GRAB_SCORE') appears to be a data entry error. The Exam A source description specifies 'first 50 questions'; the Exam C description says only 'Cook Medley Score' without this qualifier, suggesting possible scope change between exams or a labeling inconsistency.",enrichment_unpublished
+CORE_QC_ID,NA,NA,NA,NA,NA,Identifier variable; set to publish=false.,enrichment_unpublished
+CREATININE_ASSAY_DATE,NA,NA,NA,NA,NA,Specimen processing/administrative date – not a clinical measurement. Recommend publish=false.,enrichment_unpublished
+CREATININE_ASSAY_STATUS,NA,NA,NA,NA,NA,"Value labels not provided; status codes unknown. Suppressed for consistency with other creatinine administrative fields (assay date, collect date, received date). A more interpretable data quality flag (CREATININE_FLAG_QNS) is published separately.",enrichment_unpublished
+CREATININE_COLLECT_DATE,NA,NA,NA,NA,NA,Specimen collection date – administrative metadata. Recommend publish=false.,enrichment_unpublished
+CREATININE_RECEIVED_DATE,NA,NA,NA,NA,NA,Specimen receipt date – administrative metadata. Recommend publish=false.,enrichment_unpublished
+CT_SCAN_DATE,NA,NA,NA,NA,NA,Classified as form administration date; published false per guidelines. Family labeled 'Sleep Questionnaire' but content is CT scan completion — likely misclustered.,enrichment_unpublished
+CT_SCAN_EXAM_DATE,NA,NA,NA,NA,NA,Administrative date variable; not recommended for publication.,enrichment_unpublished
+CT_TECHNOLOGIST_ID,NA,NA,NA,NA,NA,Staff identifier; published false per guidelines. Family labeled 'Sleep Questionnaire' but content is CT scan completion — likely misclustered.,enrichment_unpublished
+DATA_ENTRY_DATE,NA,NA,NA,NA,NA,Administrative metadata; not a participant measurement. Description in source reads 'DATA ENTRY DATA' — possible typo for 'DATE'.,enrichment_unpublished
+DATE_DELAYED_OGTT,NA,NA,NA,NA,NA,Exam/visit date variable; set to publish=false.,enrichment_unpublished
+DATE_OF_ECHO_EXAM,NA,NA,NA,NA,NA,Form/exam administration date; recommend publish=false per guidelines.,enrichment_unpublished
+DATE_OF_EXAM,NA,NA,NA,NA,NA,Form administration date; not published per guidelines. Varnames include G02CEXDAT alongside G02EXDAT for Exam G.,enrichment_unpublished
+DATE_OF_EXAM_FORM5,NA,NA,NA,NA,NA,Exam/visit date variable; set to publish=false.,enrichment_unpublished
+ECHO_ALERT_DATE,NA,NA,NA,NA,NA,Administrative date field related to echo alert workflow; not a clinical measurement. Marked publish=false.,enrichment_unpublished
+ECHO_ALERT_FLAG,NA,NA,NA,NA,NA,"IECHOIND appears in both ECHO_ALERT_FLAG and ECHO_REFERRAL_STATUS — definite duplicate variable assignment requiring curation review. Exam H variable (HECHOALERT) is described as 'ECHO ALERT ISSUED AT INITIAL READING'; Exam I variable (IECHOIND) is described as 'Referral status' and belongs to ECHO_REFERRAL_STATUS. The alert flag is a reading workflow/administrative indicator, not a clinical finding.",enrichment_unpublished
+ECHO_ALERT_REASON,NA,NA,NA,NA,NA,,enrichment_unpublished
+ECHO_EXAM_DATE,NA,NA,NA,NA,NA,Exam/form administration date; marked publish=false per guidelines.,enrichment_unpublished
+ECHO_READER_MAIN,NA,NA,NA,NA,NA,Staff identifier; marked publish=false per guidelines.,enrichment_unpublished
+ECHO_READ_DATE,NA,NA,NA,NA,NA,"Administrative date field; marked publish=false. EREADDT appears in both ECHO_READ_DATE (exams C,E,H,I) and ECHO_READ_DATE_SIMPLE (exam E only) — ECHO_READ_DATE_SIMPLE is a duplicate subset of this concept. Recommend removing ECHO_READ_DATE_SIMPLE and consolidating under this concept.",enrichment_unpublished
+ECHO_READ_DATE_SIMPLE,NA,NA,NA,NA,NA,"EREADDT is already included in ECHO_READ_DATE (which covers exams C,E,H,I). This concept is a duplicate subset — EREADDT for exam E only. Recommend removing this concept and relying on ECHO_READ_DATE.",enrichment_unpublished
+EXAM10_PHASE1_ANCILLARY_DATE,NA,NA,NA,NA,NA,Exam/visit date; marked false per publish guidelines.,enrichment_unpublished
+EXAM10_PHASE1_CORE_DATE,NA,NA,NA,NA,NA,Exam/visit date; marked false per publish guidelines.,enrichment_unpublished
+EXAM10_PHASE2_ANCILLARY_DATE,NA,NA,NA,NA,NA,Exam/visit date; marked false per publish guidelines.,enrichment_unpublished
+EXAM10_PHASE2_CORE_DATE,NA,NA,NA,NA,NA,Exam/visit date; marked false per publish guidelines.,enrichment_unpublished
+EXAM1_DATE,NA,NA,NA,NA,NA,Exam date is administrative metadata; marked false per publish guidelines.,enrichment_unpublished
+EXAM2_DATE,NA,NA,NA,NA,NA,Exam/visit date; marked false per publish guidelines.,enrichment_unpublished
+EXAM2_DATE_ALT,NA,NA,NA,NA,NA,Administrative scheduling or pending date associated with exam 2 tracking. Note: variable name is X3DATE (not X2DATE as expected for an exam 2 variable) — this may indicate a data entry issue or that this variable was stored in the exam 3 dataset while referring to exam 2 scheduling. Possible overlap with EXAM2_DATE; review variable assignment and varname discrepancy.,enrichment_unpublished
+EXAM3_DATE,NA,NA,NA,NA,NA,Exam/visit date; marked false per publish guidelines.,enrichment_unpublished
+EXAM4_DATE,NA,NA,NA,NA,NA,Exam/visit date; marked false per publish guidelines.,enrichment_unpublished
+EXAM4_DATE_ALT,NA,NA,NA,NA,NA,"Administrative scheduling or pending date associated with exam 4 tracking. Variable name is X4DATE, which is consistent with exam 4 (unlike the exam 2 analogue EXAM2_DATE_ALT which uses X3DATE). Possible overlap with EXAM4_DATE; review variable assignment.",enrichment_unpublished
+EXAM5_DATE,NA,NA,NA,NA,NA,Form admin date — not published per guidelines.,enrichment_unpublished
+EXAM5_DATE_ALT,NA,NA,NA,NA,NA,Scheduling/administrative date — not published per guidelines. Limited source descriptions.,enrichment_unpublished
+EXAM6_DATE,NA,NA,NA,NA,NA,Form admin date — not published per guidelines.,enrichment_unpublished
+EXAM7_DATE,NA,NA,NA,NA,NA,Form admin date — not published per guidelines.,enrichment_unpublished
+EXAM7_DATE_ALT,NA,NA,NA,NA,NA,Scheduling/administrative date — not published per guidelines. Limited source descriptions.,enrichment_unpublished
+EXAM7_TARGET_DATE,NA,NA,NA,NA,NA,Scheduling/administrative date — not published per guidelines. Duplicate of EXAM7_TARGET_DATE_INT — both map to X7EXPDT with identical descriptions. Limited source descriptions.,enrichment_unpublished
+EXAM7_TARGET_DATE_INT,NA,NA,NA,NA,NA,Scheduling/administrative date — not published per guidelines. Duplicate of EXAM7_TARGET_DATE — both map to X7EXPDT with identical descriptions. Limited source descriptions.,enrichment_unpublished
+EXAM7_WINDOW,NA,NA,NA,NA,NA,Duplicate of EXAM7_WINDOW_CODE_INT — both map to X7WINDOW with identical descriptions. Limited source descriptions.,enrichment_unpublished
+EXAM7_WINDOW_CODE_INT,NA,NA,NA,NA,NA,Duplicate of EXAM7_WINDOW — both map to X7WINDOW with identical descriptions. Limited source descriptions.,enrichment_unpublished
+EXAM8_DATE,NA,NA,NA,NA,NA,Form admin date — not published per guidelines.,enrichment_unpublished
+EXAM9_DATE,NA,NA,NA,NA,NA,Form admin date — not published per guidelines.,enrichment_unpublished
+EXAM_CENTER_ID,NA,NA,NA,NA,NA,Refers to Year 0 examining center but appears in Exams G and H only. Likely a linkage/administrative variable carried forward from baseline.,enrichment_unpublished
+EXAM_DATE,NA,NA,NA,NA,NA,"Current label says 'Carotid ultrasound exam date' but source description says 'EXAM DATE - FORM 49', which is the Self-Efficacy for Eating Behavioral Scale. Label appears to be a mislabeling error — flagged for review.",enrichment_unpublished
+EXAM_DATE_F56,NA,NA,NA,NA,NA,Value labels (Strongly agree to Strongly disagree) appear to be incorrectly associated with this date variable — likely a metadata error. Flagged for review.,enrichment_unpublished
+EXAM_DATE_F57,NA,NA,NA,NA,NA,Form admin date; not published per guidelines.,enrichment_unpublished
+EXAM_DATE_F58,NA,NA,NA,NA,NA,Form admin date; not published per guidelines.,enrichment_unpublished
+EXAM_DATE_F59,NA,NA,NA,NA,NA,Form administration date; not published per guidelines.,enrichment_unpublished
+EXAM_DATE_F62,NA,NA,NA,NA,NA,,enrichment_unpublished
+EXAM_DATE_F88,NA,NA,NA,NA,NA,Form administration date; classified as process_admin and not published per publish guidelines.,enrichment_unpublished
+EXAM_DATE_F91,NA,NA,NA,NA,NA,"Administrative exam date; per publish guidelines, form admin dates are publish=false. Note: Exam H and I describe this as a Beverages Questionnaire date; Exam J describes it under the Sedentary Behavior Questionnaire — minor form-label inconsistency across exams.",enrichment_unpublished
+EXAM_DATE_FORM12,NA,NA,NA,NA,NA,Administrative exam date variable; not a clinical measurement.,enrichment_unpublished
+EXAM_DATE_FORM17,NA,NA,NA,NA,NA,Exam/form administration date – flagged as process_admin per publish guidelines.,enrichment_unpublished
+EXAM_DATE_FORM18,NA,NA,NA,NA,NA,Exam/form administration date — excluded from public publish per guidelines.,enrichment_unpublished
+EXAM_DATE_FORM18R,NA,NA,NA,NA,NA,Exam/form administration date — excluded from public publish per guidelines.,enrichment_unpublished
+EXAM_DATE_FORM20,NA,NA,NA,NA,NA,Form administration date; suppressed from public display per publish guidelines.,enrichment_unpublished
+EXAM_DATE_FORM22,NA,NA,NA,NA,NA,Administrative exam date; excluded from public display per publish guidelines.,enrichment_unpublished
+EXAM_DATE_FORM3,NA,NA,NA,NA,NA,Form administration date; set publish=false per guidelines for form admin dates/times.,enrichment_unpublished
+EXAM_DATE_FORM46,NA,NA,NA,NA,NA,Form administration date — publish set to false per guidelines.,enrichment_unpublished
+EXAM_DATE_FORM48,NA,NA,NA,NA,NA,Form administration date; excluded from public display per publish guidelines.,enrichment_unpublished
+EXAM_DATE_FORM51,NA,NA,NA,NA,NA,Form administration date; excluded from public publish per guidelines.,enrichment_unpublished
+EXAM_DATE_FORM55,NA,NA,NA,NA,NA,Form administration date; not a clinical measurement. Excluded from public display per publish guidelines.,enrichment_unpublished
+EXAM_DATE_FORM63,NA,NA,NA,NA,NA,Form administration date; excluded from public display per publish guidelines.,enrichment_unpublished
+EXAM_DATE_FORM65,NA,NA,NA,NA,NA,Form administration date; not a clinical measurement. Publish set to false.,enrichment_unpublished
+EXAM_DATE_FORM68,NA,NA,NA,NA,NA,Form administration date; excluded from public display per publish guidelines.,enrichment_unpublished
+EXAM_DATE_FORM73,NA,NA,NA,NA,NA,Form administration date; excluded from public publish per guidelines.,enrichment_unpublished
+EXAM_DATE_FORM80,NA,NA,NA,NA,NA,Form administration date; set to false per publish guidelines.,enrichment_unpublished
+FASTING_GLUCOSE_ASSAY_DATE_Y25_VISIT1,NA,NA,NA,NA,NA,Administrative specimen tracking date; not a clinical measurement value. Published false.,enrichment_unpublished
+FASTING_GLUCOSE_ASSAY_DATE_Y30_VISIT1,NA,NA,NA,NA,NA,Administrative specimen tracking date; not a clinical measurement value. Published false.,enrichment_unpublished
+FASTING_GLUCOSE_ASSAY_STATUS_Y25_VISIT1,NA,NA,NA,NA,NA,Protocol/QC tracking variable. No value labels provided in source data to confirm what status codes mean. Publish false — insufficient information to interpret codes without a codebook; analysts should reference original data documentation.,enrichment_unpublished
+FASTING_GLUCOSE_ASSAY_STATUS_Y30_VISIT1,NA,NA,NA,NA,NA,Protocol/QC tracking variable. No value labels provided in source data to confirm what status codes mean. Publish false — insufficient information to interpret codes without a codebook; analysts should reference original data documentation.,enrichment_unpublished
+FASTING_GLUCOSE_ASSAY_TYPE_Y25_VISIT1,NA,NA,NA,NA,NA,Lab method classification variable with no value labels provided in source data. Publish false — codes are uninterpretable without a codebook. Analysts should reference original data documentation.,enrichment_unpublished
+FASTING_GLUCOSE_ASSAY_TYPE_Y30_VISIT1,NA,NA,NA,NA,NA,Lab method classification variable with no value labels provided in source data. Publish false — codes are uninterpretable without a codebook. Analysts should reference original data documentation.,enrichment_unpublished
+FASTING_GLUCOSE_COLLECT_DATE_Y25_VISIT1,NA,NA,NA,NA,NA,Administrative specimen tracking date. Published false.,enrichment_unpublished
+FASTING_GLUCOSE_COLLECT_DATE_Y30_VISIT1,NA,NA,NA,NA,NA,Administrative specimen tracking date. Published false.,enrichment_unpublished
+FASTING_GLUCOSE_DELAYED_ASSAY_DATE_Y25,NA,NA,NA,NA,NA,Administrative specimen tracking date. Published false.,enrichment_unpublished
+FASTING_GLUCOSE_DELAYED_ASSAY_DATE_Y30,NA,NA,NA,NA,NA,Administrative specimen tracking date. Published false.,enrichment_unpublished
+FASTING_GLUCOSE_DELAYED_ASSAY_STATUS_Y25,NA,NA,NA,NA,NA,Protocol/QC tracking variable for delayed specimen. No value labels provided in source data. Publish false — codes are uninterpretable without a codebook.,enrichment_unpublished
+FASTING_GLUCOSE_DELAYED_ASSAY_STATUS_Y30,NA,NA,NA,NA,NA,Protocol/QC tracking variable for delayed specimen. No value labels provided in source data. Publish false — codes are uninterpretable without a codebook.,enrichment_unpublished
+FASTING_GLUCOSE_DELAYED_ASSAY_TYPE_Y25,NA,NA,NA,NA,NA,Lab method classification variable for delayed specimen with no value labels provided in source data. Publish false — codes are uninterpretable without a codebook.,enrichment_unpublished
+FASTING_GLUCOSE_DELAYED_ASSAY_TYPE_Y30,NA,NA,NA,NA,NA,Lab method classification variable for delayed specimen with no value labels provided in source data. Publish false — codes are uninterpretable without a codebook.,enrichment_unpublished
+FASTING_GLUCOSE_DELAYED_COLLECT_DATE_Y25,NA,NA,NA,NA,NA,Administrative specimen tracking date. Published false.,enrichment_unpublished
+FASTING_GLUCOSE_DELAYED_COLLECT_DATE_Y30,NA,NA,NA,NA,NA,Administrative specimen tracking date. Published false.,enrichment_unpublished
+FASTING_GLUCOSE_DELAYED_RECEIVED_DATE_Y25,NA,NA,NA,NA,NA,Administrative specimen tracking date. Published false.,enrichment_unpublished
+FASTING_GLUCOSE_DELAYED_RECEIVED_DATE_Y30,NA,NA,NA,NA,NA,Administrative specimen tracking date. Published false.,enrichment_unpublished
+FASTING_GLUCOSE_RECEIVED_DATE_Y25_VISIT1,NA,NA,NA,NA,NA,Administrative specimen tracking date. Published false.,enrichment_unpublished
+FASTING_GLUCOSE_RECEIVED_DATE_Y30_VISIT1,NA,NA,NA,NA,NA,Administrative specimen tracking date. Published false.,enrichment_unpublished
+FASTING_INSULIN_ASSAY_DATE_H,NA,NA,NA,NA,NA,Administrative lab process date; publish false.,enrichment_unpublished
+FASTING_INSULIN_ASSAY_DATE_I,NA,NA,NA,NA,NA,Administrative lab process date; publish false.,enrichment_unpublished
+FASTING_INSULIN_COLLECT_DATE_H,NA,NA,NA,NA,NA,Administrative specimen collection date; publish false.,enrichment_unpublished
+FASTING_INSULIN_COLLECT_DATE_I,NA,NA,NA,NA,NA,Administrative specimen collection date; publish false.,enrichment_unpublished
+FASTING_INSULIN_RECEIVED_DATE_H,NA,NA,NA,NA,NA,Administrative lab receipt date; publish false.,enrichment_unpublished
+FASTING_INSULIN_RECEIVED_DATE_I,NA,NA,NA,NA,NA,Administrative lab receipt date; publish false.,enrichment_unpublished
+FIELD_CENTER_RADIOLOGIST_ID,NA,NA,NA,NA,NA,Staff/personnel identifier — not recommended for public release.,enrichment_unpublished
+FORM10_EXAM_DATE,NA,NA,NA,NA,NA,Form administration date; not published per guidelines for process/admin variables.,enrichment_unpublished
+FORM10_INTERVIEWER_ID,NA,NA,NA,NA,NA,Staff identifier; not published per guidelines.,enrichment_unpublished
+FORM11_BP_SAME_DATE,NA,NA,NA,NA,NA,Limited source descriptions; descriptions contain only fragmented characters. This is a data collection process variable.,enrichment_unpublished
+FORM11_EXAM_DATE,NA,NA,NA,NA,NA,Exam/form administration date; not a clinical measurement.,enrichment_unpublished
+FORM11_INTERVIEWER_ID,NA,NA,NA,NA,NA,Staff identifier; not for public release.,enrichment_unpublished
+FORM14B_EXAM_DATE,NA,NA,NA,NA,NA,Administrative date variable; excluded from public display per publish guidelines. Could be considered for data linkage use cases if policy changes.,enrichment_unpublished
+FORM14B_INTERVIEWER_ID,NA,NA,NA,NA,NA,Staff identifier; excluded from public display per publish guidelines. Source descriptions are single characters only. Limited source descriptions.,enrichment_unpublished
+FORM21_EXAM_DATE,NA,NA,NA,NA,NA,Administrative exam date; publish set to false per guidelines.,enrichment_unpublished
+FORM29_EXAM_DATE,NA,NA,NA,NA,NA,Form administration date; not a clinical or survey measurement. Excluded from public display.,enrichment_unpublished
+FORM36_INTERVIEWER_ID,NA,NA,NA,NA,NA,,enrichment_unpublished
+FORM38_EXAM_DATE,NA,NA,NA,NA,NA,Form administration date; excluded from public display per publish guidelines.,enrichment_unpublished
+FORM38_INTERVIEWER_ID,NA,NA,NA,NA,NA,Staff identifier; excluded from public display per publish guidelines.,enrichment_unpublished
+FORM44_EXAM_DATE,NA,NA,NA,NA,NA,Form administration date; excluded from public display per publish guidelines.,enrichment_unpublished
+FORM50_EXAM_DATE,NA,NA,NA,NA,NA,Form administration date; published false per guidelines.,enrichment_unpublished
+FORM67_EXAM_DATE,NA,NA,NA,NA,NA,Form administration date; excluded from public-facing dictionary per publish guidelines. Domain set to Administrative as this is a process/scheduling variable rather than a sleep measurement.,enrichment_unpublished
+FORM78_EXAM_DATE,NA,NA,NA,NA,NA,Administrative form date; not published per guidelines.,enrichment_unpublished
+FORM78_INTERVIEWER_ID,NA,NA,NA,NA,NA,Staff identifier; not published per guidelines.,enrichment_unpublished
+FORM81_EXAM_DATE,NA,NA,NA,NA,NA,Form administration date; not published per guidelines.,enrichment_unpublished
+FORM81_INTERVIEWER_ID,NA,NA,NA,NA,NA,Staff identifier; not published per guidelines.,enrichment_unpublished
+FORM83_EXAM_DATE,NA,NA,NA,NA,NA,Administrative form date; not a clinical measurement or participant response. Marked publish=false per guidelines.,enrichment_unpublished
+FORM85_EXAM_DATE,NA,NA,NA,NA,NA,Form administration date; set to publish=false per guidelines excluding exam dates and form admin metadata.,enrichment_unpublished
+FORM85_TECHNICIAN_ID,NA,NA,NA,NA,NA,Staff identifier; set to publish=false per guidelines excluding staff/technician IDs.,enrichment_unpublished
+FORM_COMPLETION_DATE,NA,NA,NA,NA,NA,Administrative form completion date; excluded from public display per publish guidelines.,enrichment_unpublished
+FORM_EXAM_DATE,NA,NA,NA,NA,NA,Form administration date — not published. Single exam (E) only.,enrichment_unpublished
+GENERAL_MED_CLASS_CODES_4,NA,NA,NA,NA,NA,Multiple variables per exam (positions 1–4) are collapsed into this concept. Internal coding artifact assigned by study staff; requires codebook to interpret. Not useful as a standalone published variable.,enrichment_unpublished
+GENERAL_MED_CODE,NA,NA,NA,NA,NA,Multiple varnames per exam reflect primary and secondary medication codes. Internal coding artifact; requires codebook to interpret and is not useful as a standalone published variable.,enrichment_unpublished
+GENERAL_MED_EXAM_DATE,NA,NA,NA,NA,NA,Admin/form date; not published per guidelines.,enrichment_unpublished
+GENERAL_MED_INTERVIEWER_ID,NA,NA,NA,NA,NA,Staff identifier; not published per guidelines.,enrichment_unpublished
+GLUCOSE_RECEIVE_DATE_Y20,NA,NA,NA,NA,NA,Specimen handling/administrative date; not a clinical measurement value. Source description is very brief ('RECEIVE DATE').,enrichment_unpublished
+HBA1C_ASSAY_DATE,NA,NA,NA,NA,NA,"Assay date is a lab process/administrative date, not a clinical measurement. Publish set to FALSE.",enrichment_unpublished
+HBA1C_COLLECT_DATE,NA,NA,NA,NA,NA,Specimen collection date is an administrative/process date. Publish set to FALSE.,enrichment_unpublished
+HBA1C_RECEIVED_DATE,NA,NA,NA,NA,NA,Specimen receipt date is an administrative/process date. Publish set to FALSE.,enrichment_unpublished
+HEART_MED_EXAM_DATE,NA,NA,NA,NA,NA,"CRITICAL MISLABELING: The concept_id and original label reference 'Exam Date for Heart Medication Form', but the source variable B09HTTUS is described as 'TOTAL DURATION, HEART MED USE, MONTHS' with units in months — this is not a date variable. Label and description corrected to reflect actual content. Additionally, varname B09HTTUS appears to be shared with the concept HEART_MED_TOTAL_MONTHS_USE, making this a likely duplicate. Suppressed (publish:false) pending resolution of the duplicate and mislabeling issues.",enrichment_unpublished
+HOSPITALIZATION_MONTH_A,NA,NA,NA,NA,NA,Duplicate of HOSP_DATE_MONTH_A — FY048PMA appears in both concepts. Recommend suppressing this single-exam concept in favor of the multi-exam HOSP_DATE_MONTH_A. Limited source descriptions.,enrichment_unpublished
+HOSPITALIZATION_MONTH_B,NA,NA,NA,NA,NA,Duplicate of HOSP_DATE_MONTH_B — FY048PMB appears in both concepts. Recommend suppressing this single-exam concept in favor of the multi-exam HOSP_DATE_MONTH_B. Limited source descriptions.,enrichment_unpublished
+HOSPITALIZATION_YEAR_A,NA,NA,NA,NA,NA,Duplicate of HOSP_DATE_YEAR_A — FY048PYA appears in both concepts. Recommend suppressing this single-exam concept in favor of the multi-exam HOSP_DATE_YEAR_A. Limited source descriptions.,enrichment_unpublished
+HOSPITALIZATION_YEAR_B,NA,NA,NA,NA,NA,Duplicate of HOSP_DATE_YEAR_B — FY048PYB appears in both concepts. Recommend suppressing this single-exam concept in favor of the multi-exam HOSP_DATE_YEAR_B. Limited source descriptions.,enrichment_unpublished
+IGF1_MEASURE_DATE,NA,NA,NA,NA,NA,Administrative date variable; not published per guidelines. Limited source descriptions.,enrichment_unpublished
+IL6_DATA_TRANSMIT_DATE,NA,NA,NA,NA,NA,Administrative data transmission date — not a clinical measurement; excluded from public display.,enrichment_unpublished
+IL6_MEASURE_DATE,NA,NA,NA,NA,NA,Administrative date variable; not published per guidelines. Limited source descriptions.,enrichment_unpublished
+IL6_SAMPLE_RECEIVE_DATE,NA,NA,NA,NA,NA,Administrative specimen handling date — excluded from public display. May be useful internally for assessing sample processing timelines.,enrichment_unpublished
+INSULIN_RECEIVE_DATE_G,NA,NA,NA,NA,NA,Administrative lab receipt date; publish false. Source description is minimal ('RECEIVE DATE').,enrichment_unpublished
+INTERVIEWER_ID,NA,NA,NA,NA,NA,Staff identifier; not published per guidelines.,enrichment_unpublished
+INTERVIEWER_ID_F56,NA,NA,NA,NA,NA,Staff identifier; not suitable for public data dictionary. Collected at exams G and I.,enrichment_unpublished
+INTERVIEWER_ID_F62,NA,NA,NA,NA,NA,Staff/interviewer identifier; not a subject-level measurement. Only available at Exam G.,enrichment_unpublished
+INTERVIEWER_ID_F91,NA,NA,NA,NA,NA,Staff identifier; publish set to false per identifier guidelines.,enrichment_unpublished
+INTERVIEWER_ID_FORM12,NA,NA,NA,NA,NA,Staff identifier; should not be published.,enrichment_unpublished
+INTERVIEWER_ID_FORM18,NA,NA,NA,NA,NA,Staff identifier — excluded from public publish per guidelines.,enrichment_unpublished
+INTERVIEWER_ID_FORM20,NA,NA,NA,NA,NA,Staff identifier; suppressed from public display per publish guidelines.,enrichment_unpublished
+INTERVIEWER_ID_FORM3,NA,NA,NA,NA,NA,"Duplicate of INTERVIEWER_ID — both concepts map to the same variable names (G03IVID, H03IVID, I03IVID, J03IVID). Recommend merging.",enrichment_unpublished
+INTERVIEWER_ID_FORM46,NA,NA,NA,NA,NA,Staff identifier — publish set to false per guidelines.,enrichment_unpublished
+INTERVIEWER_ID_FORM7,NA,NA,NA,NA,NA,Staff identifier; publish set to false per guidelines.,enrichment_unpublished
+INTERVIEW_START_TIME,NA,NA,NA,NA,NA,Form administration metadata. Companion variable INTERVIEW_START_TIME_AM_PM records AM/PM designation.,enrichment_unpublished
+LAB_COMMENTS,NA,NA,NA,NA,NA,"The variable type is listed as integer, suggesting this may be a coded rather than free-text comments field. Limited source descriptions. Available only at Exams H and I.",enrichment_unpublished
+LAST_EXAM_DATE,NA,NA,NA,NA,NA,"This is an administrative reference date used to anchor recall questions, not a participant-reported outcome.",enrichment_unpublished
+LAST_MEDICAL_HISTORY_UPDATE_DATE,NA,NA,NA,NA,NA,Administrative form metadata date. Exam J only.,enrichment_unpublished
+LV_STROKE_VOLUME_MMODE,NA,NA,NA,NA,NA,"This concept shares identical varnames (HLSV, ILSV) with LV_STROKE_VOLUME, which also covers 3D and early exam variables for the same underlying construct. This concept is a duplicate subset. Recommend suppressing and consolidating under LV_STROKE_VOLUME.",enrichment_unpublished
+MACHINE_ID,NA,NA,NA,NA,NA,Equipment identifier; not published per guidelines.,enrichment_unpublished
+MED_ADHERENCE_EXAM_DATE,NA,NA,NA,NA,NA,"Form administration date; excluded from public dictionary. Note: varname E09EXDAT also appears as the source variable for MRI_EXAM_DATE at Exam E — these two concept_ids appear to share the same underlying variable, suggesting a possible misclustering or data dictionary error that should be investigated.",enrichment_unpublished
+MICRO_RECEIVED_DATE,NA,NA,NA,NA,NA,Limited source descriptions. Process/administrative date; not a clinical measurement.,enrichment_unpublished
+MRI_ACQUISITION_FORM_COMPLETION_DATE,NA,NA,NA,NA,NA,Form administration date — not recommended for public release.,enrichment_unpublished
+MRI_EXAM_DATE,NA,NA,NA,NA,NA,Form administration date; excluded from public dictionary. CRITICAL: Varname E09EXDAT is identical to the varname used for MED_ADHERENCE_EXAM_DATE at Exam E. A single variable cannot simultaneously be an MRI form date and a medication adherence form date — this is a likely misclustering or data dictionary error that must be resolved before these concepts can be finalized.,enrichment_unpublished
+MRI_INITIAL_CONTACT_STAFF_AND_VISIT,NA,NA,NA,NA,NA,Contains staff/personnel identifiers and administrative visit codes — not recommended for public release.,enrichment_unpublished
+MRI_QC_ALERT_REPORTING_COMMENTS,NA,NA,NA,NA,NA,Internal QC/administrative communications. Variable type listed as integer but described as a comments field; likely text. Note: I92MRQCCOM also appears in MRQC_COMMENTS — potential duplicate variable inclusion across concepts.,enrichment_unpublished
+MRI_QC_DATES,NA,NA,NA,NA,NA,Composite of multiple administrative date fields grouped into one concept. Publish set to false as these are process/logistics dates.,enrichment_unpublished
+MRI_SCAN_DATE,NA,NA,NA,NA,NA,Administrative exam date. Publish set to false.,enrichment_unpublished
+MRI_SCREENING_FORM_COMPLETION_DATE,NA,NA,NA,NA,NA,Administrative form date. Publish set to false.,enrichment_unpublished
+MRI_SEQUENCE_ACCEPTED_COMMENTS,NA,NA,NA,NA,NA,Internal QC workflow comments. Variable type listed as integer but described as comments fields; likely text. Grouping covers multiple sequence-specific comment variables.,enrichment_unpublished
+MRI_SEQUENCE_DELIVERED_COMMENTS,NA,NA,NA,NA,NA,Internal QC workflow comments about delivery to PPC. Variable type listed as integer but described as comments fields; likely text. Grouping covers multiple sequence-specific comment variables.,enrichment_unpublished
+MRI_TRANSMISSION_DATE_TO_MRQC,NA,NA,NA,NA,NA,Administrative logistics date. Publish set to false.,enrichment_unpublished
+MRQC_TECHNOLOGIST_ID,NA,NA,NA,NA,NA,Staff/personnel identifier. Publish set to false.,enrichment_unpublished
+NAME_CODE,NA,NA,NA,NA,NA,Participant name-derived identifier; should not be published. Limited source descriptions.,enrichment_unpublished
+NUMBER_PEOPLE_LIVE_HOUSEHOLD,NA,NA,NA,NA,NA,"Exact duplicate of NUM_PEOPLE_IN_HOUSEHOLD: shares identical varnames G03NPEPL and J03NPEPL, identical descriptions, and identical construct. NUM_PEOPLE_IN_HOUSEHOLD spans all 10 exams and supersedes this concept. Should not be published.",enrichment_unpublished
+OC_MOC_ABSTRACTION_DATE,NA,NA,NA,NA,NA,Administrative date variable; not published.,enrichment_unpublished
+OC_MOC_ABSTRACTOR_ID,NA,NA,NA,NA,NA,Staff identifier; not published.,enrichment_unpublished
+OC_MOC_EXAM_DATE,NA,NA,NA,NA,NA,"Administrative date variable; not published. IMPORTANT: E09EXDAT also appears as the source variable for OTHER_MED_EXAM_DATE — the same raw variable appears to be mapped to two different concepts, which is a likely misclustering or data dictionary error that should be investigated.",enrichment_unpublished
+OGTT_ASSAY_DATE_Y25,NA,NA,NA,NA,NA,Specimen handling/administrative date; not a clinical measurement value.,enrichment_unpublished
+OGTT_ASSAY_DATE_Y30,NA,NA,NA,NA,NA,Specimen handling/administrative date; not a clinical measurement value.,enrichment_unpublished
+OGTT_ASSAY_STATUS_Y25,NA,NA,NA,NA,NA,No value labels provided; status codes unknown without a codebook. Publish false — consistent with treatment of other assay status variables in this family. Analysts should reference original data documentation.,enrichment_unpublished
+OGTT_ASSAY_STATUS_Y30,NA,NA,NA,NA,NA,No value labels provided; status codes unknown without a codebook. Publish false — consistent with treatment of other assay status variables in this family. Analysts should reference original data documentation.,enrichment_unpublished
+OGTT_ASSAY_TYPE_Y25,NA,NA,NA,NA,NA,No value labels provided; assay type codes unknown without a codebook. Publish false — consistent with treatment of other assay type variables in this family. Analysts should reference original data documentation.,enrichment_unpublished
+OGTT_ASSAY_TYPE_Y30,NA,NA,NA,NA,NA,No value labels provided; assay type codes unknown without a codebook. Publish false — consistent with treatment of other assay type variables in this family. Analysts should reference original data documentation.,enrichment_unpublished
+OGTT_COLLECT_DATE_Y25,NA,NA,NA,NA,NA,Specimen handling/administrative date; not a clinical measurement value.,enrichment_unpublished
+OGTT_COLLECT_DATE_Y30,NA,NA,NA,NA,NA,Specimen handling/administrative date; not a clinical measurement value.,enrichment_unpublished
+OGTT_QC_ID,NA,NA,NA,NA,NA,Identifier variable; set to publish=false.,enrichment_unpublished
+OGTT_RECEIVED_DATE_Y25,NA,NA,NA,NA,NA,Specimen handling/administrative date; not a clinical measurement value.,enrichment_unpublished
+OGTT_RECEIVED_DATE_Y30,NA,NA,NA,NA,NA,Specimen handling/administrative date; not a clinical measurement value.,enrichment_unpublished
+OVARIAN_SURGERY_EXAM_DATE,NA,NA,NA,NA,NA,Form descriptions for exam G reference aspirin form (Form 09-MED-ASP) rather than ovarian surgery form — possible documentation error in source metadata.,enrichment_unpublished
+OVARIAN_SURGERY_INTERVIEWER_ID,NA,NA,NA,NA,NA,Exam G description references aspirin form (Form 09-MED-ASP) rather than ovarian surgery form — possible documentation error in source metadata.,enrichment_unpublished
+PARTICIPANT_QC_ID,NA,NA,NA,NA,NA,Identifier variable; excluded from public publish per guidelines. Available at Exam E only.,enrichment_unpublished
+PHLEBOTOMIST_ID,NA,NA,NA,NA,NA,Staff identifier variable; set to publish=false.,enrichment_unpublished
+PRECIPITATION_DATE,NA,NA,NA,NA,NA,Administrative lab processing date; not a clinical measurement. Limited source descriptions. Available only at Exams A and B.,enrichment_unpublished
+PRF_HBA1C_QC_ID,NA,NA,NA,NA,NA,Identifier variable; set to publish=false. Source descriptions are unintelligible character strings. Limited source descriptions.,enrichment_unpublished
+QUALITY_CONTROL_ID,NA,NA,NA,NA,NA,"Value labels (1=First collection, 2=Second collection, 3=Third collection, 9=No aliquot sent) indicate this variable encodes QC collection selection rather than functioning as a simple numeric ID. The variable name and Q17 reference overlap with QUALITY_CONTROL_PARTICIPANT (C39QC); these appear to be related but distinct — one identifies which collection was QC, the other whether the participant was a QC subject.",enrichment_unpublished
+RANDOM_ZERO_MACHINE_ID,NA,NA,NA,NA,NA,Equipment identifier; not published per guidelines.,enrichment_unpublished
+RAVLT_INTERVIEWER_ID,NA,NA,NA,NA,NA,Staff identifier; excluded from public publish per guidelines.,enrichment_unpublished
+RESP_ILLNESS_PHLEGM_COUNT,NA,NA,NA,NA,NA,EXACT DUPLICATE of RESP_ILLNESS_PHLEGM_EPISODES: both map to the same variable A12NOILL with identical description '# OF ILLNESSES W/ PHLEGM FOR 1+ WKS'. One of these two concept IDs must be suppressed or merged. Do not publish until resolved.,enrichment_unpublished
+RESP_ILLNESS_PHLEGM_EPISODES,NA,NA,NA,NA,NA,EXACT DUPLICATE of RESP_ILLNESS_PHLEGM_COUNT: both map to the same variable A12NOILL with identical description '# OF ILLNESSES W/ PHLEGM FOR 1+ WKS'. One of these two concept IDs must be suppressed or merged. Do not publish until resolved.,enrichment_unpublished
+REVIEWER_ID,NA,NA,NA,NA,NA,Staff identifier; not suitable for public release.,enrichment_unpublished
+SONOGRAPHER_ID,NA,NA,NA,NA,NA,Staff identifier; not suitable for public release.,enrichment_unpublished
+SUBSTUDY_APPOINTMENT_DATE,NA,NA,NA,NA,NA,Administrative scheduling date — not published. Single exam (E) only.,enrichment_unpublished
+TAPE_NUMBER,NA,NA,NA,NA,NA,Administrative recording metadata; not clinically meaningful for public users.,enrichment_unpublished
+TB_EXAM_DATE,NA,NA,NA,NA,NA,Limited source descriptions.,enrichment_unpublished
+TB_INTERVIEWER_ID,NA,NA,NA,NA,NA,,enrichment_unpublished
+TECHNICIAN_ID,NA,NA,NA,NA,NA,"Current label in source data reads 'DXA technician ID' but variable descriptions and form context (Form 40, Echocardiography Technician Worksheet) consistently identify this as an echocardiography technician identifier; the DXA label appears to be a copy-paste error from another form. Staff identifier; should not be published.",enrichment_unpublished
+TECHNICIAN_ID_1,NA,NA,NA,NA,NA,Staff identifier; suppressed from public display per publish guidelines. Available at Exam G only.,enrichment_unpublished
+TECHNICIAN_ID_2,NA,NA,NA,NA,NA,Staff identifier; suppressed from public display per publish guidelines. Available at Exam G only.,enrichment_unpublished
+TECHNICIAN_ID_FORM21,NA,NA,NA,NA,NA,Staff identifier variable; publish set to false per guidelines.,enrichment_unpublished
+TECH_ID_URINE_COLLECTION,NA,NA,NA,NA,NA,Staff identifier; excluded from public publish per guidelines.,enrichment_unpublished
+TECH_ID_URINE_PROCESSING,NA,NA,NA,NA,NA,Staff identifier; excluded from public publish per guidelines.,enrichment_unpublished
+TOBACCO_EXAM_DATE,NA,NA,NA,NA,NA,"Variable A09CO is mapped to both TOBACCO_EXAM_DATE and TOBACCO_CO_CURRENT_BRAND — this is a data mapping error; A09CO's description ('1985 FTC CARBON MONOXIDE OF CURRENT BRD') clearly identifies it as the CO yield variable, not an exam date. The exam date for tobacco at Exam A may be missing from the dataset or the mapping for this concept at Exam A is incorrect.",enrichment_unpublished
+TOBACCO_INTERVIEWER_ID,NA,NA,NA,NA,NA,,enrichment_unpublished
+TRANSMISSION_DATE,NA,NA,NA,NA,NA,Administrative transmission metadata; not published per guidelines. Limited source descriptions.,enrichment_unpublished
+TYPE_A_EXAM_DATE_FORM16,NA,NA,NA,NA,NA,Source descriptions appear corrupted (single letters only). Classified as process/admin date; not published per guidelines.,enrichment_unpublished
+TYPE_A_INTERVIEWER_ID,NA,NA,NA,NA,NA,Source descriptions appear corrupted (single letters only). Staff identifier; not published per guidelines.,enrichment_unpublished
+URINARY_ALBUMIN_ASSAY_DATE,NA,NA,NA,NA,NA,Administrative/process date; not a clinical measurement.,enrichment_unpublished
+URINARY_CREATININE_ASSAY_DATE,NA,NA,NA,NA,NA,Administrative/process date; not a clinical measurement.,enrichment_unpublished
+URINARY_CREATININE_COLLECT_DATE,NA,NA,NA,NA,NA,Administrative/process date; not a clinical measurement.,enrichment_unpublished
+URINARY_CREATININE_RECEIVED_DATE,NA,NA,NA,NA,NA,Administrative/process date; not a clinical measurement.,enrichment_unpublished
+URINE_PROCESSING_DATE,NA,NA,NA,NA,NA,Limited source descriptions. Date/time administrative variable; marked false per publish guidelines. Family assigned to Social & Neighborhood but content is Specimen Collection; likely misclustered.,enrichment_unpublished
+URINE_PROCESSING_TIME,NA,NA,NA,NA,NA,Limited source descriptions. Date/time administrative variable; marked false per publish guidelines. Family assigned to Social & Neighborhood but content is Specimen Collection; likely misclustered.,enrichment_unpublished
+VCR_START_TIME,NA,NA,NA,NA,NA,Administrative recording metadata; not clinically meaningful for public users.,enrichment_unpublished
+VITASTAT_MACHINE_ID,NA,NA,NA,NA,NA,Equipment identifier — not published per identifier suppression policy.,enrichment_unpublished
+WALL_MOTION_READ_DATE,NA,NA,NA,NA,NA,Cross-exam conflict: Exam C (varname WMDTREAD) description references reading of wall motion data; Exam H (varname HECHORDDT) description references reading of main measures only. These may represent different read dates for different data types. Consider whether this concept should be split. Administrative date metadata; not published.,enrichment_unpublished
+WEIGHT_GE_450LB_FLAG,NA,NA,NA,NA,NA,"Both Exam H and Exam I source descriptions reference 'Exam 7' weight ≥450 lbs — Exam I description likely contains a copy/paste error since Exam I would logically compare against Exam 8. This flag appears to be a protocol routing variable used to handle extreme weights, not a substantive clinical finding. Publish set to false.",enrichment_unpublished
+YALTA_QC_ID,NA,NA,NA,NA,NA,Identifier variable; set to publish=false.,enrichment_unpublished
+ABP_MACHINE_ID,NA,NA,NA,NA,NA,Family labeled Audiology but content is ABP/cardiovascular — likely misclustered. Equipment identifier suppressed from public view. 'identifier' and 'protocol_component' corrected to 'process_admin' and 'single' per schema standards.,enrichment_unpublished
+AMPM_EXAM_TIME,NA,NA,NA,NA,NA,"Duplicate of EXAM_AMPM and TIME_OF_DAY_EXAM; varnames H02AMPM, I02AMPM, J02AMPM appear identically in both AMPM_EXAM_TIME and EXAM_AMPM – these concepts are misclustered and share the same underlying variables. Recommend merging or clarifying which varnames belong to which concept before publication.",enrichment_unpublished
+ANALYSIS_TIME_HEART,NA,NA,NA,NA,NA,Administrative time variable; not a clinical measurement. Marked publish=false.,enrichment_unpublished
+ASTHMA_MED_CLASS_CODES,NA,NA,NA,NA,NA,Internal medication classification coding variable. Multiple code positions (1–4) per medication per exam stored as separate variables. Not intended for direct public use.,enrichment_unpublished
+ASTHMA_MED_EXAM_DATE,NA,NA,NA,NA,NA,"Source variable descriptions reference 'MEDICATION FORM, QUESTION NUMBER' (D09MDQNO, E09MDQNO) rather than an exam date — these variables appear to capture a form or question number, not a date. The concept label 'Exam Date for Asthma Medication Form' is likely incorrect. The underlying variables should be reviewed; this may represent a misclustered or mislabeled concept.",enrichment_unpublished
+BIA_DATA_IN_COMPUTER,NA,NA,NA,NA,NA,Process/data entry tracking variable; not a clinical measurement. Misclustered in family F53.,enrichment_unpublished
+BIRTH_CONTROL_MED_CLASS_CODES,NA,NA,NA,NA,NA,"Internal medication classification coding variable. Three code positions (1 of 3, 2 of 3, 3 of 3) are collapsed into one concept. Not intended for direct public use.",enrichment_unpublished
+BIRTH_CONTROL_SAME_DATE_BP,NA,NA,NA,NA,NA,,enrichment_unpublished
+BLOOD_PRESSURE_SAME_DATE_FLAG,NA,NA,NA,NA,NA,Process/administrative flag linking blood pressure and lung exam dates. Only value label is 2=Yes; No response not labeled.,enrichment_unpublished
+BP_SAME_DATE_AS_F56,NA,NA,NA,NA,NA,Only one value label provided (2=Yes); no label for other responses. Single exam (G) only. Not published; this is a data collection logistics flag rather than a clinical or survey measure.,enrichment_unpublished
+BP_SAME_DATE_FLAG,NA,NA,NA,NA,NA,Only one value label present (2 = Yes). Appears to be a form linkage/administrative flag rather than a clinical or survey variable. Only available at Exam G.,enrichment_unpublished
+CENTER_YEAR0,NA,NA,NA,NA,NA,Administrative grouping variable; not a clinical measurement. Publish set to false as it is a site identifier rather than a clinical or survey response variable.,enrichment_unpublished
+CHEST_COLD_OFF_WORK,NA,NA,NA,NA,NA,"CHEST_COLD_OFF_WORK and CHEST_COLD_OFF_WORK_3YRS are exact duplicates: identical variable name (A12CHILL), identical description, identical value labels, identical exam coverage. One should be suppressed. Recommend keeping CHEST_COLD_OFF_WORK_3YRS (more descriptive concept_id) and unpublishing this one.",enrichment_unpublished
+CHOLESTEROL_ANALYSIS_DATE,NA,NA,NA,NA,NA,Administrative lab processing date; not a clinical measurement. Limited source descriptions.,enrichment_unpublished
+CHOL_LOWERING_MED_EXAM_DATE,NA,NA,NA,NA,NA,"Source description reads 'MEDICATION FORM, QUESTION NUMBER' — this does not appear to be an exam date despite the concept label. Possible mislabeling in the concept roster. The variable appears to be an administrative form tracking field. Concept label and concept_id name are likely incorrect.",enrichment_unpublished
+CHOL_LOWERING_MED_NUMBER,NA,NA,NA,NA,NA,Administrative sequencing variable with no direct analytic value. Instance_type corrected to 'single'.,enrichment_unpublished
+CONSENT_SIGNED,NA,NA,NA,NA,NA,Administrative process variable — not published. No value labels provided. Single exam (E) only.,enrichment_unpublished
+COOK_MEDLEY_HELP_COMPLETION,NA,NA,NA,NA,NA,Descriptions are single-character fragments providing no usable content. This is a form administration flag; not a clinical measurement.,enrichment_unpublished
+COOK_MEDLEY_ITEM_GOSIP_GROUP,NA,NA,NA,NA,NA,"Duplicate of COOK_MEDLEY_ITEM_GOSIP – identical variable names (A13GOSIP, C13GOSIP), label, and descriptions. Recommend suppressing this concept and retaining COOK_MEDLEY_ITEM_GOSIP.",enrichment_unpublished
+COOK_MEDLEY_ITEM_GRAB_ALL,NA,NA,NA,NA,NA,"Duplicate of COOK_MEDLEY_ITEM_GRAB – identical variable names (A13GRAB, C13GRAB) and descriptions. Recommend suppressing this concept and retaining COOK_MEDLEY_ITEM_GRAB.",enrichment_unpublished
+COOK_MEDLEY_ITEM_GUARD_FRIENDLY,NA,NA,NA,NA,NA,"Duplicate of COOK_MEDLEY_ITEM_GUARD – identical variable names (A13GUARD, C13GUARD) and descriptions. Recommend suppressing this concept and retaining COOK_MEDLEY_ITEM_GUARD.",enrichment_unpublished
+COOK_MEDLEY_ITEM_HELPO_INCONVENIENCE,NA,NA,NA,NA,NA,"Duplicate of COOK_MEDLEY_ITEM_HELPO – identical variable names (A13HELPO, C13HELPO) and descriptions. Recommend suppressing this concept and retaining COOK_MEDLEY_ITEM_HELPO.",enrichment_unpublished
+COOK_MEDLEY_ITEM_IDEA_ENVY,NA,NA,NA,NA,NA,"Duplicate of COOK_MEDLEY_ITEM_IDEA – identical variable names (A13IDEA, C13IDEA) and descriptions. Recommend suppressing this concept and retaining COOK_MEDLEY_ITEM_IDEA.",enrichment_unpublished
+COOK_MEDLEY_ITEM_SYMPA_RELATIVES,NA,NA,NA,NA,NA,"Duplicate of COOK_MEDLEY_ITEM_SYMPA – identical variable names (A13SYMPA, C13SYMPA), label, and descriptions. Recommend suppressing this concept and retaining COOK_MEDLEY_ITEM_SYMPA.",enrichment_unpublished
+COOK_MEDLEY_ITEM_TAKE_ORDERS,NA,NA,NA,NA,NA,"Duplicate of COOK_MEDLEY_ITEM_TAKE – identical variable names (A13TAKE, C13TAKE) and descriptions. Recommend suppressing this concept and retaining COOK_MEDLEY_ITEM_TAKE.",enrichment_unpublished
+CORE_INDICATOR,NA,NA,NA,NA,NA,Limited source descriptions. Available at Exam G only. Relationship to CARDIA_QC_PARTICIPANT_YN and CORE_QC_PARTICIPANT_YN_EARLY is unclear; may be redundant.,enrichment_unpublished
+COUGH_HELP_SCREEN,NA,NA,NA,NA,NA,"Administrative screen header variable, not a clinical measurement.",enrichment_unpublished
+CT_NAME_CODE,NA,NA,NA,NA,NA,Likely an identifier or data entry field. Limited source descriptions. Published as false per identifier rules. Family labeled 'Sleep Questionnaire' but content is CT scan completion — likely misclustered.,enrichment_unpublished
+CT_SCAN_PERMISSION,NA,NA,NA,NA,NA,"Consent/permission tracking variable for a clinical procedure, functioning as administrative protocol documentation. Available at Exam E only.",enrichment_unpublished
+CT_STUDY_ID,NA,NA,NA,NA,NA,Identifier variable; published false per guidelines. Family labeled 'Sleep Questionnaire' but content is CT scan completion — likely misclustered.,enrichment_unpublished
+CURRENTLY_ATTENDING_SCHOOL_YN,NA,NA,NA,NA,NA,"Shares identical variable names (H03SCNOW, I03SCNOW, J03SCNOW) with CURRENTLY_ATTENDING_SCHOOL. Only one value label is present (1=No), which is incomplete and suggests this is either a duplicate concept entry or a derived indicator flag. Recommend consolidation with CURRENTLY_ATTENDING_SCHOOL and suppression of this concept.",enrichment_unpublished
+DATA_ENTRY_ID,NA,NA,NA,NA,NA,Administrative identifier; not suitable for public release.,enrichment_unpublished
+DATE_30_DAYS_PRIOR,NA,NA,NA,NA,NA,Administrative reference date used to bound the 30-day recall period. Not a direct survey response or clinical measurement; publish set to false.,enrichment_unpublished
+DATE_BLOOD_DRAWN,NA,NA,NA,NA,NA,Exam date/administrative date variable; set to publish=false.,enrichment_unpublished
+ECHO_PROTOCOL_DEVIATIONS,NA,NA,NA,NA,NA,Limited source descriptions.,enrichment_unpublished
+ECHO_STUDY_ID,NA,NA,NA,NA,NA,Study identifier; marked publish=false per guidelines. Limited source descriptions.,enrichment_unpublished
+EVER_ATTEND_TRADE_SCHOOL,NA,NA,NA,NA,NA,Shares identical variable names and descriptions with EVER_ATTEND_TECHNICAL_SCHOOL. Appears to be a duplicate concept. Set publish=false pending consolidation.,enrichment_unpublished
+EXAM2_STATUS,NA,NA,NA,NA,NA,Confirmed duplicate of EXAM2_STATUS_CODE — both map to the same source variable (X2STATUS) with identical descriptions. One of these two concepts should be suppressed. Marked publish=false pending consolidation review.,enrichment_unpublished
+EXAM2_TARGET_DATE,NA,NA,NA,NA,NA,Confirmed duplicate of EXAM2_TARGET_DATE_CODED — both map to the same source variable (X2EXPDT) with identical descriptions. One of these two concepts should be suppressed. Administrative scheduling date; marked false per publish guidelines.,enrichment_unpublished
+EXAM2_TARGET_DATE_CODED,NA,NA,NA,NA,NA,Confirmed duplicate of EXAM2_TARGET_DATE — both map to the same source variable (X2EXPDT) with identical descriptions. One of these two concepts should be suppressed. Administrative scheduling date; marked false per publish guidelines.,enrichment_unpublished
+EXAM2_WINDOW,NA,NA,NA,NA,NA,Confirmed duplicate of EXAM2_WINDOW_CODE — both map to the same source variable (X2WINDOW) with identical descriptions. One of these two concepts should be suppressed. Marked publish=false pending consolidation review.,enrichment_unpublished
+EXAM3_STATUS,NA,NA,NA,NA,NA,Confirmed duplicate of EXAM3_STATUS_CODE — both map to the same source variable (X3STATUS) with identical descriptions. One of these two concepts should be suppressed. Marked publish=false pending consolidation review.,enrichment_unpublished
+EXAM3_TARGET_DATE,NA,NA,NA,NA,NA,Confirmed duplicate of EXAM3_TARGET_DATE_CODED — both map to the same source variable (X3EXPDT) with identical descriptions. One of these two concepts should be suppressed. Administrative scheduling date; marked false per publish guidelines.,enrichment_unpublished
+EXAM3_TARGET_DATE_CODED,NA,NA,NA,NA,NA,Confirmed duplicate of EXAM3_TARGET_DATE — both map to the same source variable (X3EXPDT) with identical descriptions. One of these two concepts should be suppressed. Administrative scheduling date; marked false per publish guidelines.,enrichment_unpublished
+EXAM3_WINDOW,NA,NA,NA,NA,NA,Confirmed duplicate of EXAM3_WINDOW_CODE — both map to the same source variable (X3WINDOW) with identical descriptions. One of these two concepts should be suppressed. Marked publish=false pending consolidation review.,enrichment_unpublished
+EXAM4_STATUS,NA,NA,NA,NA,NA,Confirmed duplicate of EXAM4_STATUS_CODE — both map to the same source variable (X4STATUS) with identical descriptions. One of these two concepts should be suppressed. Marked publish=false pending consolidation review. Note: exam 4 uses codes E or H (not A as in exams 2–3).,enrichment_unpublished
+EXAM4_TARGET_DATE,NA,NA,NA,NA,NA,Confirmed duplicate of EXAM4_TARGET_DATE_CODED — both map to the same source variable (X4EXPDT) with identical descriptions. One of these two concepts should be suppressed. Administrative scheduling date; marked false per publish guidelines.,enrichment_unpublished
+EXAM4_TARGET_DATE_CODED,NA,NA,NA,NA,NA,Confirmed duplicate of EXAM4_TARGET_DATE — both map to the same source variable (X4EXPDT) with identical descriptions. One of these two concepts should be suppressed. Administrative scheduling date; marked false per publish guidelines.,enrichment_unpublished
+EXAM4_WEIGHT_AVAILABLE,NA,NA,NA,NA,NA,Protocol/data availability flag used to determine questionnaire routing. Not a clinical measurement; publish set to false.,enrichment_unpublished
+EXAM4_WINDOW,NA,NA,NA,NA,NA,Duplicate of EXAM4_WINDOW_CODE — both map to X4WINDOW with identical descriptions. Limited source descriptions.,enrichment_unpublished
+EXAM4_WINDOW_CODE,NA,NA,NA,NA,NA,Duplicate of EXAM4_WINDOW — both map to X4WINDOW with identical descriptions. Limited source descriptions.,enrichment_unpublished
+EXAM5_TARGET_DATE,NA,NA,NA,NA,NA,Scheduling/administrative date — not published per guidelines. Limited source descriptions.,enrichment_unpublished
+EXAM5_WINDOW,NA,NA,NA,NA,NA,Duplicate of EXAM5_WINDOW_CODE — both map to X5WINDOW with identical descriptions. Limited source descriptions.,enrichment_unpublished
+EXAM5_WINDOW_CODE,NA,NA,NA,NA,NA,Duplicate of EXAM5_WINDOW — both map to X5WINDOW with identical descriptions. Limited source descriptions.,enrichment_unpublished
+EXAM7_WEIGHT_AVAILABLE,NA,NA,NA,NA,NA,Protocol/data availability flag used to determine questionnaire routing. Only value label is '1=No'. Publish set to false.,enrichment_unpublished
+EXAM8_WEIGHT_AVAILABLE,NA,NA,NA,NA,NA,Protocol/data availability flag used to determine questionnaire routing. Only value label is '1=No'. Publish set to false.,enrichment_unpublished
+EXAM_AMPM,NA,NA,NA,NA,NA,"Varnames H02AMPM, I02AMPM, J02AMPM appear identically in both EXAM_AMPM and AMPM_EXAM_TIME – these two concepts are misclustered and share the same underlying variables. EXAM_AMPM additionally includes early varnames (AM_PM_1, AM_PM_2) and G02CAMPM. Resolution of this duplication is needed before publication. TIME_OF_DAY_EXAM is a related but distinct variable (actual time value vs. AM/PM indicator).",enrichment_unpublished
+EXAM_AM_PM,NA,NA,NA,NA,NA,"AM/PM is a coarse categorical version of time-of-day; EXAM_TIME_COMPLETION captures the same information with higher precision. Only one value label provided (AM). Set to publish=false as redundant with EXAM_TIME_COMPLETION; if that variable is published, this one adds little incremental value.",enrichment_unpublished
+EXAM_DATE_FORM7,NA,NA,NA,NA,NA,Form administration date; publish set to false per guidelines.,enrichment_unpublished
+F08_EXDAT,NA,NA,NA,NA,NA,Form administration date; not published per guidelines.,enrichment_unpublished
+FIRST_NAME_INITIALS,NA,NA,NA,NA,NA,Participant identifier field; publish=false per guidelines.,enrichment_unpublished
+FORM11_HELP_WITH_FORM,NA,NA,NA,NA,NA,Process/administrative variable capturing data collection conditions. Limited source descriptions; descriptions contain only fragmented characters. May be useful for interpreting data quality of accompanying family history variables.,enrichment_unpublished
+FORM14B_SAME_DATE_AS_BP,NA,NA,NA,NA,NA,Administrative/data quality variable. Source descriptions are single characters only. Limited source descriptions. Only one value label present (2=Yes); no No label documented.,enrichment_unpublished
+FORM14_HELP_NEEDED,NA,NA,NA,NA,NA,Source descriptions are single characters only; no additional detail available. Limited source descriptions. Administrative/data quality variable; not recommended for public display.,enrichment_unpublished
+FORM31_EXAM_DATE,NA,NA,NA,NA,NA,"Form administration date. Varnames include F65EXDAT in addition to the expected E31EXDAT, F31EXDAT, and J31EXDAT; the F65EXDAT variable may represent a different form or data entry variant and warrants investigation.",enrichment_unpublished
+FORM36_SAME_DATE_BP_TAKEN,NA,NA,NA,NA,NA,Only one response code documented (2 = 'Yes'); no 'No' code present. Available at only 2 exams (Years 20 and 25). This appears to be a data collection protocol tracking variable with limited research utility.,enrichment_unpublished
+FORM38_BP_SAME_DATE_FLAG,NA,NA,NA,NA,NA,Only one value label present (code 2 = Yes); no code for No or missing. Process/administrative flag; not a clinical measurement.,enrichment_unpublished
+FORM_COMMENTS_INDICATOR,NA,NA,NA,NA,NA,Form administration metadata — not published.,enrichment_unpublished
+FORM_HELP_COMPLETION,NA,NA,NA,NA,NA,Limited source descriptions – variable descriptions are single characters only. Form administration metadata; not a clinical measurement.,enrichment_unpublished
+FORM_VERSION,NA,NA,NA,NA,NA,Administrative metadata; not a participant measurement.,enrichment_unpublished
+GENERAL_MED_SAME_DATE_BP,NA,NA,NA,NA,NA,Process/administrative variable linking form dates; not a clinical measurement.,enrichment_unpublished
+HBA1C_COMMENTS,NA,NA,NA,NA,NA,Free-text comment field likely containing data quality or processing notes. Publish set to FALSE.,enrichment_unpublished
+HBP_MED_CLASS_CODES,NA,NA,NA,NA,NA,Internal coding artifact assigned by study staff. Requires codebook to interpret; not useful as a standalone published variable. Variable spans multiple columns (codes 1–4) per medication.,enrichment_unpublished
+HBP_MED_EXAM_DATE,NA,NA,NA,NA,NA,"Mislabeled: the label says 'Exam date' but source descriptions say 'MEDICATION FORM, QUESTION NUMBER'. Varnames D09MDQNO and E09MDQNO are shared with HORMONE_MED_EXAM_DATE — possible duplicate or misclustering.",enrichment_unpublished
+HBP_MED_NUMBER,NA,NA,NA,NA,NA,Internal sequence number for linking medication records within the form. Not a clinically meaningful standalone variable.,enrichment_unpublished
+HBP_MED_SOURCE,NA,NA,NA,NA,NA,Data provenance/quality variable indicating how the medication name was obtained. For internal use; not appropriate for public publication.,enrichment_unpublished
+HEART_MED_CLASS_CODES,NA,NA,NA,NA,NA,Internal coding artifact assigned by study staff. Requires codebook to interpret; not useful as a standalone published variable. Available at Exam B only.,enrichment_unpublished
+HEART_MED_NUMBER,NA,NA,NA,NA,NA,Internal sequence number for linking medication records within the form. Not a clinically meaningful standalone variable. Available at Exam B only.,enrichment_unpublished
+HELP_FILLING_FORM10,NA,NA,NA,NA,NA,"Source descriptions are fragmented single characters providing no usable content. This is a process/administration variable capturing data collection quality, not a substantive survey response. Not published per guidelines for process_admin variables.",enrichment_unpublished
+HORMONE_MED_CLASS_CODES,NA,NA,NA,NA,NA,Internal coding artifact assigned by study staff. Requires codebook to interpret; not useful as a standalone published variable.,enrichment_unpublished
+HORMONE_MED_EXAM_DATE,NA,NA,NA,NA,NA,"Mislabeled: the label says 'Exam date' but source descriptions say 'MEDICATION FORM, QUESTION NUMBER'. Varnames D09MDQNO and E09MDQNO are shared with HBP_MED_EXAM_DATE — possible duplicate or misclustering.",enrichment_unpublished
+HOSPITALIZATION_PRA,NA,NA,NA,NA,NA,Source description is only the variable name 'FY048PRA' — no substantive content available. Purpose unclear; may be a data entry artifact. Recommend suppressing until clarified.,enrichment_unpublished
+HOSPITALIZATION_REASON_A,NA,NA,NA,NA,NA,Duplicate of HOSP_REASON_A — FY048RA appears in both concepts. Recommend suppressing this single-exam concept in favor of the multi-exam HOSP_REASON_A. Limited source descriptions.,enrichment_unpublished
+HOSPITALIZATION_REASON_B,NA,NA,NA,NA,NA,Duplicate of HOSP_REASON_B — FY048RB appears in both concepts. Recommend suppressing this single-exam concept in favor of the multi-exam HOSP_REASON_B. Limited source descriptions.,enrichment_unpublished
+HOSPITALIZATION_REASON_C,NA,NA,NA,NA,NA,Duplicate of HOSP_REASON_C — FY048RC appears in both concepts. Recommend suppressing this single-exam concept in favor of the multi-exam HOSP_REASON_C. Limited source descriptions.,enrichment_unpublished
+HOSPITALIZATION_REASON_D,NA,NA,NA,NA,NA,Duplicate of HOSP_REASON_D — FY048RD appears in both concepts. Recommend suppressing this single-exam concept in favor of the multi-exam HOSP_REASON_D. Limited source descriptions.,enrichment_unpublished
+HOSP_ADMISSION_DAY,NA,NA,NA,NA,NA,"Day component of admission date; superseded by the composite date variable HOSP_ADMISSION_DATE_COMPOSITE_E which combines day, month, and year. Recommend suppressing in favor of the composite date variable to avoid redundancy.",enrichment_unpublished
+HOSP_ADMISSION_MONTH,NA,NA,NA,NA,NA,"Month component of admission date; superseded by composite date variables (HOSP_ADMISSION_DATE_COMPOSITE_E, HOSP_ADMISSION_DATE_COMPOSITE_F) which combine day, month, and year. Recommend suppressing in favor of composite date variables to avoid redundancy.",enrichment_unpublished
+HOSP_ADMISSION_YEAR,NA,NA,NA,NA,NA,"Year component of admission date; superseded by composite date variables (HOSP_ADMISSION_DATE_COMPOSITE_E, HOSP_ADMISSION_DATE_COMPOSITE_F). Recommend suppressing in favor of composite date variables to avoid redundancy.",enrichment_unpublished
+HOSP_CARE_DAY,NA,NA,NA,NA,NA,Day component of care date; superseded by the composite date variable HOSP_CARE_DATE_COMPOSITE_D. Recommend suppressing in favor of composite date variable to avoid redundancy.,enrichment_unpublished
+HOSP_CASE_NUMBER,NA,NA,NA,NA,NA,Identifier variable — not suitable for public publish. Up to 9 instances (J31HCSNUM1–J31HCSNUM9).,enrichment_unpublished
+HOSP_CITY,NA,NA,NA,NA,NA,"Contains geographic identifiers that may identify facilities or participant locations; suppressed from public view. Up to 9 instances. Consistent with suppression of other facility/location identifier variables (HOSP_HOSPITAL_NAME, HOSP_STREET_ADDRESS, HOSP_ZIP).",enrichment_unpublished
+HOSP_HOSPITAL_NAME,NA,NA,NA,NA,NA,Contains facility identifiers that may be sensitive; not suitable for public publish. Up to 9 instances.,enrichment_unpublished
+HOSP_SATISFACTION_J,NA,NA,NA,NA,NA,"Variable J31HSSATM appears in both this concept and HOSPITALIZATION_SATISFACTION — this is a duplicate concept assignment for the same underlying variable. HOSPITALIZATION_SATISFACTION spans Exams E, F, and J and subsumes this concept entirely. Suppressed in favor of HOSPITALIZATION_SATISFACTION as the canonical concept.",enrichment_unpublished
+HOSP_STATE,NA,NA,NA,NA,NA,Contains geographic identifiers; may warrant restricted access. Up to 9 instances.,enrichment_unpublished
+HOSP_STREET_ADDRESS,NA,NA,NA,NA,NA,Contains facility address identifiers that may be sensitive; not suitable for public publish. Up to 9 instances. Description for hospitalization 3 missing from source.,enrichment_unpublished
+HOSP_WEIGHT_LOSS_SURGERY_LOCATION,NA,NA,NA,NA,NA,"String variable containing free-text or facility/geographic information about where the weight loss procedure was performed — may contain identifying facility names or locations. Likely duplicate with WEIGHT_LOSS_SURGERY_LOCATION in the family roster, which uses the same underlying variable (J31WLSLOCM) — verify and suppress one. Suppressed pending deduplication review.",enrichment_unpublished
+HOSP_ZIP,NA,NA,NA,NA,NA,Contains geographic identifiers that may be identifying; not suitable for public publish. Up to 9 instances.,enrichment_unpublished
+IGF1_COMMENT,NA,NA,NA,NA,NA,Free-text comment field; typically suppressed from public data dictionary but may contain clinically relevant quality notes. Limited source descriptions.,enrichment_unpublished
+IL6_COMMENT,NA,NA,NA,NA,NA,Free-text comment field; typically suppressed from public data dictionary but may contain clinically relevant quality notes. Limited source descriptions.,enrichment_unpublished
+IL6_MEASUREMENT_COMMENT,NA,NA,NA,NA,NA,Free-text comment field associated with the IL-6 assay. May contain data quality flags or analyst notes relevant to internal review. Excluded from public display as it is metadata rather than a clinical measurement.,enrichment_unpublished
+INJURY_EVENT_SEQUENCE_NUMBER,NA,NA,NA,NA,NA,Administrative record identifier. Exam C only. Limited source descriptions.,enrichment_unpublished
+INTERVIEW_START_TIME_AM_PM,NA,NA,NA,NA,NA,Form administration metadata. Only 'AM' (code 1) value label provided; 'PM' presumably uses code 2.,enrichment_unpublished
+INTERVIEW_TAPED_INDICATOR,NA,NA,NA,NA,NA,Form administration metadata. Only 'No' (code 1) value label provided. Companion variable INTERVIEW_TAPED_REASON_TEXT captures reason if not taped.,enrichment_unpublished
+INTERVIEW_TAPED_REASON_TEXT,NA,NA,NA,NA,NA,Form administration metadata; not a clinical or behavioral measure.,enrichment_unpublished
+JH_NEEDS_HELP,NA,NA,NA,NA,NA,Variable descriptions contain only single characters and are uninformative; label used as primary source. Value labels not provided in source. This is an administration flag; data quality implications for item responses should be evaluated by analysts.,enrichment_unpublished
+LAST_NAME_INITIALS,NA,NA,NA,NA,NA,Direct participant identifier; should not be published.,enrichment_unpublished
+MISSING_BOTTLES_APPOINTMENT_DATE,NA,NA,NA,NA,NA,Administrative scheduling date; marked publish=false. Type listed as encoded but contains a date value — possible type mismatch.,enrichment_unpublished
+MRI_CONSENT_DATE,NA,NA,NA,NA,NA,"Form administration/consent date — not recommended for public release. Units listed as 'years' in source metadata, which may be an error; verify with study documentation.",enrichment_unpublished
+MRI_QC_AGREEMENT_WITH_SITE,NA,NA,NA,NA,NA,Internal QC workflow field. Only value label provided is '1 = No'; 'Yes' category appears to be unlabeled or missing from the source data.,enrichment_unpublished
+MRI_QC_REVIEW_STATUS,NA,NA,NA,NA,NA,Internal workflow/process variable. Only value label provided is '1 = No'; 'Yes' category appears to be unlabeled or missing from the source data.,enrichment_unpublished
+MRI_SCHEDULING,NA,NA,NA,NA,NA,Administrative scheduling data. Publish set to false.,enrichment_unpublished
+MRI_SEQUENCE_ACCEPTED_STATUS,NA,NA,NA,NA,NA,Internal QC tracking variable. Only value label provided is '1 = No'; 'Yes' category appears unlabeled. Grouping covers multiple sequence-specific acceptance variables.,enrichment_unpublished
+MRI_SEQUENCE_DELIVERED_STATUS,NA,NA,NA,NA,NA,Internal QC tracking of delivery to PPC. Only value label provided is '1 = No'; 'Yes' category appears unlabeled. Grouping covers multiple sequence-specific delivery variables.,enrichment_unpublished
+MRI_SEQUENCE_RECEIVED_COMMENTS,NA,NA,NA,NA,NA,Internal QC workflow comments about receipt at reading center. Variable type listed as integer but described as comments fields; likely text. Value label '1 = No' is unexpected for a comments variable — may be a data entry artifact. Grouping covers multiple sequence-specific comment variables.,enrichment_unpublished
+MRI_SEQUENCE_RECEIVED_STATUS,NA,NA,NA,NA,NA,Internal QC tracking of receipt at reading center. Only value label provided is '1 = No'; 'Yes' category appears unlabeled. Grouping covers multiple sequence-specific receipt variables.,enrichment_unpublished
+OTHER_MED_CLASS_CODES,NA,NA,NA,NA,NA,Internal coding artifact assigned by study staff. Requires codebook to interpret; not useful as a standalone published variable. Multiple variables per exam (positions 1–4) collapsed into this concept.,enrichment_unpublished
+OTHER_MED_EXAM_DATE,NA,NA,NA,NA,NA,"Administrative variable; not published. CRITICAL MISCLUSTERING: Source variable D09MDQNO is described as 'MEDICATION FORM, QUESTION NUMBER' — this is a form question number tracking variable, not an exam date, and does not belong in this concept. E09EXDAT ('EXAM DATE - FORM 9 (MED-OTHER)') is a legitimate exam date. These two variables likely do not belong in the same concept and should be investigated for separate classification or removal of D09MDQNO from this concept.",enrichment_unpublished
+OTHER_MED_NUMBER,NA,NA,NA,NA,NA,"Internal sequence number for linking medication records within the form. Not a clinically meaningful standalone variable. Consistent with other medication number variables (HBP_MED_NUMBER, HEART_MED_NUMBER) which are also suppressed.",enrichment_unpublished
+OVARIAN_SURGERY_SAME_DATE_BP,NA,NA,NA,NA,NA,Exam descriptions reference both aspirin and ovarian surgery forms inconsistently — possible documentation error.,enrichment_unpublished
+PARTICIPANT_QC_STATUS,NA,NA,NA,NA,NA,Data quality / QC metadata — not published. Single exam (E) only.,enrichment_unpublished
+PROBLEMATIC_CASE_FLAG,NA,NA,NA,NA,NA,Data quality exclusion flag; moved to audit_note rather than description per guidelines. Marked publish=false as it is an internal data quality indicator.,enrichment_unpublished
+PROCEDURE_CASE_NUMBER,NA,NA,NA,NA,NA,Administrative identifier. Nine variable slots but descriptions only document procedures 1–5. Exam J only.,enrichment_unpublished
+PROCEDURE_CITY,NA,NA,NA,NA,NA,Geographic identifier for procedure facility. Nine variable slots but descriptions only document procedures 1–5. Marked publish=false as geographic location data. Exam J only.,enrichment_unpublished
+PROCEDURE_FACILITY_NAME,NA,NA,NA,NA,NA,Contains identifying facility names; publish set to false as this is a location identifier field. Up to 9 procedure slots available (varnames 1-9) but descriptions only document procedures 1-5.,enrichment_unpublished
+PROCEDURE_FACILITY_STREET,NA,NA,NA,NA,NA,Contains identifying address information; publish set to false. Up to 9 procedure slots available (varnames 1-9) but descriptions only document procedures 1-5.,enrichment_unpublished
+PROCEDURE_ZIP,NA,NA,NA,NA,NA,Contains geographic identifiers that could contribute to re-identification; publish set to false. Up to 9 procedure slots available (varnames 1-9) but descriptions only document procedures 1-5.,enrichment_unpublished
+QUESTION_NUMBER,NA,NA,NA,NA,NA,Administrative form navigation variable; not a substantive measurement. Limited source descriptions.,enrichment_unpublished
+RAISING_CHILDREN_FULL_TIME_YN,NA,NA,NA,NA,NA,"Exact duplicate of RAISING_CHILDREN_FULL_TIME: identical varnames, descriptions, and value labels. RAISING_CHILDREN_FULL_TIME has the more informative label and should be retained. This concept should not be published.",enrichment_unpublished
+RENALD_SHIPMENT_ID,NA,NA,NA,NA,NA,Administrative/logistics variable; limited source descriptions.,enrichment_unpublished
+RENALD_SUBSTUDY_LAB_ID,NA,NA,NA,NA,NA,Limited source descriptions. Functions as a tracking/linkage identifier; published false.,enrichment_unpublished
+RESPONSE_DATE,NA,NA,NA,NA,NA,Administrative date variable. Number of varnames (24) substantially exceeds stated n_exams (5); may span many follow-up intervals not fully reflected in exam count.,enrichment_unpublished
+RESTING_ECG_TIME_AMPM,NA,NA,NA,NA,NA,"AM/PM time-of-day indicator; classified as process_admin. Only value label provided is '1=AM', suggesting PM may be absent or uncoded. Available at Exam G only. A related variable TIME_OF_ECG (SAS time) exists in this family.",enrichment_unpublished
+SAME_DATE_AS_BP_FLAG,NA,NA,NA,NA,NA,Only one value label provided (2=Yes); coding for 'No' not documented. Limited source descriptions.,enrichment_unpublished
+SAME_DATE_BP_TAKEN,NA,NA,NA,NA,NA,"Exact duplicate of SAME_DATE_BP_TAKEN_YN: identical varnames (G03SDATE, H03SDATE), descriptions, and value labels. This concept should not be published. The label 'Anthropometry and BP measured on same date' adds 'anthropometry' which is not explicitly stated in the source description ('SAME DATE BLOOD PRESSURE TAKEN?') and may be an unsupported inference. Only value label 2=Yes is present; value 1 label is absent from source data.",enrichment_unpublished
+SAME_DATE_PB_TAKEN,NA,NA,NA,NA,NA,Administrative/process variable; only one value label documented (2=Yes). Not a clinical measurement.,enrichment_unpublished
+SCAN1_SCAN2_PAIR_GENERIC,NA,NA,NA,NA,NA,"This concept bundles a very large and heterogeneous collection of variables (>130 varnames) including clinical scores, QC measures, technical parameters, and administrative dates/times. Recommend decomposing into individual concepts. Marked publish=false pending decomposition. Source descriptions are highly variable and only partially listed.",enrichment_unpublished
+SERIOUS_HEALTH_PROBLEMS_SELF_OR_CLOSE_F,NA,NA,NA,NA,NA,"Variable F64SELF is assigned to both this concept and CHRONIC_BURDEN_SELF_HEALTH — confirmed duplicate assignment error. This concept groups two structurally distinct variables (F64SELF: serious health problems with yourself, Q1; F64HLTH: serious health problems with someone close, Q2) under one concept_id, which is a data structure artifact from Exam F where these items were combined before being split in later exams (G/H/I) into partner, parents, children, and others sub-categories. Recommend suppressing from publication and resolving the duplicate variable assignment and concept structure before publishing.",enrichment_unpublished
+SEX_INDICATOR_FEMALE_OR_MTF,NA,NA,NA,NA,NA,Administrative/computational flag used for module routing or scoring eligibility; not a directly reported participant response. Variable description contains a typographical error ('CHNAGE' for 'CHANGE'). Limited source descriptions. 'derived_score' would imply a multi-item scale score; 'derived_value' is more appropriate for a binary indicator. Not suitable for publication as a standalone end-user variable.,enrichment_unpublished
+SPECIMEN_RECEIVED_DATE,NA,NA,NA,NA,NA,"Administrative lab processing date. Variable names differ across exams (AL1RECDT/BL1RECDT at Exams A–B vs GL1LIPDT/HL1LIPDT/IL1LIPDT at Exams G–I), suggesting a naming convention change; descriptions are consistent across exams.",enrichment_unpublished
+SUBSTUDY_APPOINTMENT_MADE,NA,NA,NA,NA,NA,Pure administrative scheduling variable with no substantive analytical value. Marked publish=false for consistency with SUBSTUDY_APPOINTMENT_DATE and SUBSTUDY_APPOINTMENT_TIME. Single exam (E) only.,enrichment_unpublished
+SUBSTUDY_APPOINTMENT_TIME,NA,NA,NA,NA,NA,Administrative scheduling time — not published. Single exam (E) only.,enrichment_unpublished
+SUBSTUDY_ID,NA,NA,NA,NA,NA,Substudy identifier — not published. Single exam (E) only.,enrichment_unpublished
+TB_SAME_DATE_BP,NA,NA,NA,NA,NA,Only value label coded is '2=Yes'; administrative linkage variable.,enrichment_unpublished
+TECHNICIAN_ID_PROCESSING,NA,NA,NA,NA,NA,Staff identifier variable; set to publish=false.,enrichment_unpublished
+TEXT_GRAPEFRUIT_PRITIKIN,NA,NA,NA,NA,NA,"No source descriptions provided. The varnames 'grapefruit, Pritikin' appear to be example text entries rather than formal variable names, suggesting these may be verbatim values from a free-text specify field. Insufficient documentation to publish.",enrichment_unpublished
+TEXT_OVER_EATERS_ANONYMOUS,NA,NA,NA,NA,NA,"No source descriptions provided. The varname 'Overeaters Anonymous' is clearly an example text entry rather than a formal variable name, suggesting this may be a verbatim entry from a free-text specify field. Insufficient documentation to publish.",enrichment_unpublished
+THAWED_SAMPLE_FLAG,NA,NA,NA,NA,NA,Indicates whether a thawed (potentially compromised) sample was received by the lab. Relevant to data quality interpretation of lipid values. Available only at Exam F. Coded value: 1 = thawed.,enrichment_unpublished
+TIME_OF_DAY_EXAM,NA,NA,NA,NA,NA,"Form administration time; not published per guidelines. Units listed as 'days' in source metadata is clearly an error given AM/PM value labels (1=AM, 2=PM). Note: TIME_OF_DAY_EXAM (integer type, all 10 exams) may record actual clock time in some waves, while AMPM_EXAM_TIME and EXAM_AMPM capture only the categorical AM/PM indicator – these are related but potentially distinct variables, not exact duplicates.",enrichment_unpublished
+TOBACCO_SAME_DATE_BP_TOB,NA,NA,NA,NA,NA,Process/administrative variable; not a clinical or behavioral measure. Suppress from public dictionary.,enrichment_unpublished
+TRAVEL_DISTANCE_50MI,NA,NA,NA,NA,NA,"Source descriptions appear corrupted (single characters: D, I, D, space, P); label and value labels (1=No) used to infer content. Available only at Exam J. The inferred label cannot be verified from source data; publication suppressed pending source verification.",enrichment_unpublished
+TRIGLYCERIDES_ANALYSIS_DATE,NA,NA,NA,NA,NA,Administrative lab processing date; not a clinical measurement. Limited source descriptions. Available only at Exams A and B.,enrichment_unpublished
+TYPE_A_FORM_HELP_REQUIRED,NA,NA,NA,NA,NA,Source descriptions appear corrupted (single letters only). Classified as process/admin; not published per guidelines.,enrichment_unpublished
+TYPE_A_MISC_I,NA,NA,NA,NA,NA,Variable name is a single letter 'I'; source description is a single letter 'I'. Content cannot be determined. Recommend investigation before publishing.,enrichment_unpublished
+TYPE_A_SAME_DATE_BP_TAKEN,NA,NA,NA,NA,NA,Source descriptions appear corrupted (single letters only). Only one value label provided (2 = 'Yes'). Administrative linkage variable; not published per guidelines.,enrichment_unpublished
+UNEMPLOYED_MORE_THAN_2M_SINCE_LAST_EXAM,NA,NA,NA,NA,NA,"Duplicate of UNEMPLOYED_LOOKING_FOR_WORK_PAST_2Y for exams H and J: shares identical varnames H03NOWRK and J03NOWRK with that concept, and descriptions are identical. UNEMPLOYED_LOOKING_FOR_WORK_PAST_2Y spans all 10 exams and supersedes this concept. Should not be published.",enrichment_unpublished
+URINARY_CREATININE_ASSAY_STATUS,NA,NA,NA,NA,NA,No value labels provided; interpretation of status codes requires codebook review. Process/QC variable with no documented code values — not suitable for publication until values are clarified.,enrichment_unpublished
+URINARY_CREATININE_ASSAY_TYPE,NA,NA,NA,NA,NA,No value labels provided; interpretation of type codes requires codebook review. Process/methodological metadata variable — not suitable for publication until code values are documented.,enrichment_unpublished
+WAIST_HIP_VALUES_CHANGED,NA,NA,NA,NA,NA,"No value labels provided in data dictionary. Indicates post-collection data editing of waist/hip values. Available only at early exams (A, B, C).",enrichment_unpublished
+WALL_MOTION_READER,NA,NA,NA,NA,NA,Cross-exam conflict: Exam C varname WMREADNO description references reader for main measures only; Exam H varname HECHOANAL description references wall motion reader specifically. These may represent different reader roles and could be misclustered. Reader/analyst identifiers are process administrative metadata; not published.,enrichment_unpublished
+WEIGHT_LOSS_SURGERY_LOCATION,NA,NA,NA,NA,NA,"String field with free-text responses capturing where the weight loss procedure was performed. Likely duplicate with HOSP_WEIGHT_LOSS_SURGERY_LOCATION, which uses the same underlying variable (J31WLSLOCM) — one of these concepts should be suppressed. Free-text location field may contain identifying facility names or addresses; suppressed pending deduplication review.",enrichment_unpublished
+WEIGHT_PROTOCOL_REASON,NA,NA,NA,NA,NA,Only one coded value is present in the data dictionary: weight exceeding the device measuring range (greater than 450 pounds or 204.3 kg). Available only at exams G and I.,enrichment_unpublished
+WEIGHT_REASON_OTHER_TEXT,NA,NA,NA,NA,NA,Free-text field capturing protocol exception reasons not covered by predefined categories. Available only at exams G and I.,enrichment_unpublished
+YALTA_INDICATOR,NA,NA,NA,NA,NA,"Only value label is '2 = Yes'; purpose is administrative substudy flagging. Single exam (G) only. instance_type changed from protocol_component to single — this is a simple flag variable, not a component of a multi-part protocol.",enrichment_unpublished
+YALTA_QC_LABEL,NA,NA,NA,NA,NA,Limited documentation. This appears to be an administrative label identifier; publishing set to false as it functions like a specimen identifier. Only value label is '2 = Yes'.,enrichment_unpublished
+YALTA_QC_PARTICIPANT_YN,NA,NA,NA,NA,NA,"YALTA_QC_PARTICIPANT_YN_EARLY shares the exact same varnames (F51YQC, G51YQC) for exams F and G, and both concepts cover those same exams. YALTA_QC_PARTICIPANT_YN additionally covers exams H and I. This is a serious misclustering issue: the F and G observations appear duplicated across two concept_ids. One concept should cover all four exams (F,G,H,I) or the early-wave split should be justified by different value labels or question wording. Until this is resolved, publishing both is problematic. Recommend consolidating into a single concept or clarifying the intended split.",enrichment_unpublished
+YALTA_QC_PARTICIPANT_YN_EARLY,NA,NA,NA,NA,NA,"Shares the exact same varnames (F51YQC, G51YQC) as YALTA_QC_PARTICIPANT_YN for exams F and G. These two concepts appear to duplicate the same underlying variables. YALTA_QC_PARTICIPANT_YN already covers exams F, G, H, and I. This early-wave concept is redundant and should not be published until the duplication is resolved. Recommend consolidating into YALTA_QC_PARTICIPANT_YN.",enrichment_unpublished
+YALTA_URINE_ALIQUOT_3ML_YN_EARLY,NA,NA,NA,NA,NA,"Two varnames listed (G51Y03ML, G51YCTB1) for a single exam (G). G51YCTB1 shares a base name with H51YCTB1 and I51YCTB1, which are the varnames for YALTA_URINE_3ML_ALIQUOTS, suggesting G51YCTB1 may belong in that concept rather than here. Only value label is '0 = Empty'. Recommend resolving the varname overlap and potential misclustering before publishing.",enrichment_unpublished
+YEAR7_ATTENDANCE,NA,NA,NA,NA,NA,Administrative attendance indicator; not a clinical or behavioral measurement. Likely duplicate of ATTENDED_YEAR7_EXAM in the same family — both capture year 7 exam attendance with the same variable name (F18RYR7) and should be reconciled.,enrichment_unpublished
 ABP_END_TEST_TIME,C,c1f42a,C42AETM,316,307,"08:02:00, 10:06:00, 14:53:00, 12:25:00, 14:11:00",non_numeric_coerced
 ABP_FIRST_OFFICE_RUN_TIME,C,c1f42a,C42ATMHM,316,316,"08:21:00, 10:29:00, 10:32:00, 11:41:00, 13:57:00",non_numeric_coerced
 ABP_OBS_TIME,C,c1f42,C42_TIME,25934,25934,"08:21:00, 08:22:00, 08:24:00, 08:32:00, 08:37:00",non_numeric_coerced
-ADJUSTED_AGATSTON_SCORE_AVG,F,f3ebct,FR3ADJSC,3671,1074,"21227, 30345, 40575, 10549, 30540",Short_ID_map_fail
 ALERT_OTHER_ALERT_FINDINGS_SPECIFY,H,h4f40,H40OTALERX,NA,NA,,varname_not_found_anywhere
 ALERT_OTHER_ALERT_FINDINGS_SPECIFY,I,i1f40,I40OTALERX,3186,3186,", INTRA-CARDIAC SHUNT PFO VS. ASD?, LOW EF/POOR OVERALL FUNCTION, #9 LOW EF, LOW EF",non_numeric_coerced
-ALERT_PRIOR_Y10_ECHO,H,h4f40,H40Y10ALERT,3470,3465,", N/A, NA, N/A
-, N/C",non_numeric_coerced
-ALERT_PRIOR_Y10_ECHO,I,i1f40,I40Y10ALERT,3186,3182,", NA, N/A",non_numeric_coerced
-ALERT_PRIOR_Y25_ECHO,I,i1f40,I40Y25ALERT,3186,3172,", 1,2,6",non_numeric_coerced
-ALPHACODE,G,g3f77,G77APCODE,3252,3252,"CECCS, CESAC, XEXXH, XESHA, MEHUH",non_numeric_coerced
 AMU_TIME_FROM_AMU,C,c1f42b,C42BAMUT,25399,25399,"08:21:00, 08:22:00, 08:24:00, 08:32:00, 08:37:00",non_numeric_coerced
 AMU_TIME_FROM_DIARY,C,c1f42b,C42BDIAT,25399,15880,"08:32:00, 08:37:00, 08:52:00, 09:12:00, 09:32:00",non_numeric_coerced
-ANY_CAC_INDICATOR,H,h4ebct,Y25cac,NA,NA,,varname_not_found_anywhere
 APICAL_VIEW_QUALITY_TYPE,H,h10echo,HAPICALQCT,3474,3474,", B, T",non_numeric_coerced
 APICAL_VIEW_QUALITY_TYPE,I,i5echo,IAPICALQCT,3184,3184,"B, , T",non_numeric_coerced
-BIRTHDATE,B,b4ref,BIRTHDT,NA,NA,,varname_not_found_anywhere
-BIRTHDATE,C,c2ref,BIRTHDT,NA,NA,,varname_not_found_anywhere
-BIRTHDATE,D,d3ref,BIRTHDT,NA,NA,,varname_not_found_anywhere
-BIRTHDATE,E,e3ref,BIRTHDT,NA,NA,,varname_not_found_anywhere
-BIRTHDATE,F,f3ref,BIRTHDT,NA,NA,,varname_not_found_anywhere
-BIRTH_CONTROL_STOP_DATE_ALT,F,f1f09bcp,f09stpdate,NA,NA,,varname_not_found_anywhere
 BLOOD_DRAW_TIME,E,e1f53,E53DRWTM,3949,230,"15:15:00, 13:45:00, 13:21:00, 13:25:00, 14:50:00",non_numeric_coerced
 BLOOD_FREEZE_TIME,E,e1f53,E53FRZTM,3949,230,"15:30:00, 14:05:00, 14:03:00, 13:40:00, 15:07:00",non_numeric_coerced
 BLOOD_SPIN_TIME,E,e1f53,E53SPNTM,3949,230,"15:17:00, 13:50:00, 13:25:00, 13:27:00, 14:52:00",non_numeric_coerced
 CALTRAC_START_TIME,E,e1f53,E53CALTM,3949,233,"14:30:00, 14:00:00, 14:15:00, 16:06:00, 13:50:00",non_numeric_coerced
-COLLECTION_BEGIN_TIME_BY_COLLECTION,C,c1f39,C39BTIM3,1105,1050,"23:50:00, 04:30:00, 23:45:00, 00:30:00, 00:00:00",non_numeric_coerced
-COLLECTION_END_TIME_BY_COLLECTION,C,c1f39,C39ETIM3,1105,1049,"23:50:00, 04:00:00, 22:00:00, 00:00:00, 23:00:00",non_numeric_coerced
-CORE_QC_ID,F,f1f05,F05CQCID,NA,NA,,varname_not_found_anywhere
+COLLECTION_BEGIN_TIME_BY_COLLECTION,"C,C","c1f39,c1f39","C39BTIM2,C39BTIM3",3,2,"kept first varname per exam, dropped C39BTIM2,C39BTIM3",within_exam_dedup
+COLLECTION_BEGIN_TIME_BY_COLLECTION,C,c1f39,C39BTIM1,1105,1066,"23:30:00, 03:00:00, 22:00:00, 00:00:00, 19:00:00",non_numeric_coerced
+COLLECTION_END_TIME_BY_COLLECTION,"C,C","c1f39,c1f39","C39ETIM2,C39ETIM3",3,2,"kept first varname per exam, dropped C39ETIM2,C39ETIM3",within_exam_dedup
+COLLECTION_END_TIME_BY_COLLECTION,C,c1f39,C39ETIM1,1105,1066,"23:30:00, 04:15:00, 22:00:00, 01:00:00, 04:00:00",non_numeric_coerced
 COVID19_DAYS_TO_RECOVER,J,j1f31,J31CVD19DY,NA,NA,,varname_not_found_anywhere
 COVID19_FIRST_TEST_DATE,J,j1f31,J31CVD19TDT,NA,NA,,varname_not_found_anywhere
 COVID19_TEST_COUNT,J,j1f31,J31CVD19TSTNU,NA,NA,,varname_not_found_anywhere
-CREATININE_ASSAY_STATUS,H,h3chem,HL7CSTA,3478,3478,F,non_numeric_coerced
-CREATININE_ASSAY_STATUS,I,i2chem,IL7CSTA,3310,3310,"F, C",non_numeric_coerced
 CREATININE_ASSAY_TYPE,H,h3chem,HL7CTYP,3478,3478,N,non_numeric_coerced
 CREATININE_ASSAY_TYPE,I,i2chem,IL7CTYP,3310,3310,N,non_numeric_coerced
-DATE_DELAYED_OGTT,G,g4f05,G05AEXDAT,NA,NA,,varname_not_found_anywhere
-DATE_LAST_NONWATER_DELAYED,G,g4f05,G05ADTEAT,NA,NA,,varname_not_found_anywhere
-DENTIST_VISIT_COUNT,J,j1f31,J31DENTXM,NA,NA,,varname_not_found_anywhere
 DOPPLER_QUALITY_TYPE,H,h10echo,HDPLRQCT,3474,3474,", B, T",non_numeric_coerced
 DOPPLER_QUALITY_TYPE,I,i5echo,IDPLRQCT,3184,3184,", T, B",non_numeric_coerced
-ECHO_ALERT_FLAG,I,i5echo,IECHOIND,3184,3184,"CARDIA NonReferring Criteria, CARDIA Referring Criteria, CARDIA Alert Criteria, CARDIA Referral Criteria",non_numeric_coerced
-ECHO_ALERT_REASON,H,h10echo,HERSNALERT,3474,3474,", Severe LV dysfunction, Dyskinetic left ventricular apex, Severe LV dysfunction; Moderate to possibly severe mitral regurgitation, Moderate to severe mitral regurgitation with new onset shortness of breath",non_numeric_coerced
-ECHO_ALERT_REASON,I,i5echo,IERSNALERT,3184,3184,", EF<35%, A.Fib with frequent PVCs, EF 29%, cannot r/o thrombus, severe LV dysfunction EF 36%, dilated CM with EF <20%",non_numeric_coerced
 ECHO_COMMENTS,H,h10echo,HECHOCM,3474,3474,", Left atrium size is mildly enlarged, Left ventricular size is enlarged (6.7 cm as measured on 2D), Left ventricular systolic function is severely depressed; Left ventricular size is moderately to severely enlarged; Moderate aortic regurgitation; Severe ST segment depression is noted, Left Atrial size is mildly enlarged; Left Ventricular function is difficult to assess but appears grossly normal",non_numeric_coerced
 ECHO_COMMENTS,I,i5echo,IECHOCM,3184,3184,", Interventricular septum is enlarged; Left ventricular posterior wall is enlarged; Moderate aortic regurgitation; Clinical follow-up is recommended., Left atrial size is enlarged; Increased TR systolic velocity consistent with elevated RV systolic pressure of 45.8mmHg; Clinical follow-up is recommended., Increased TR systolic velocity consistent with elevated RV systolic pressure of 49.2mmHg; Clinical follow-up is recommended., Interventricular septum is enlarged; Left ventricular posterior wall is enlarged; Moderate mitral regurgitation; Clinical follow-up is recommended.",non_numeric_coerced
 ECHO_REFERRAL_STATUS,H,h10echo,HECHOIND,3474,3474,"CARDIA.DoesNotRequireClinicalFollowUp, CARDIA.RequiresClinicalFollowUp, N/A",non_numeric_coerced
 ECHO_REFERRAL_STATUS,I,i5echo,IECHOIND,3184,3184,"CARDIA NonReferring Criteria, CARDIA Referring Criteria, CARDIA Alert Criteria, CARDIA Referral Criteria",non_numeric_coerced
 EMERGENCY_ROOM_VISIT_COUNT,J,j1f31,J31EMNUMM,NA,NA,,varname_not_found_anywhere
-EXAM7_TARGET_DATE,G,g6ref,X7EXPDT,5114,5114,"E, I, R, i, J",non_numeric_coerced
-EXAM7_TARGET_DATE_INT,G,g6ref,X7EXPDT,5114,5114,"E, I, R, i, J",non_numeric_coerced
-EXAM_DATE_F56,I,i1f56,I56EXDAT,3270,992,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-EXAM_DATE_FORM20,I,i1f20,I20EXDAT,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-EXAM_DATE_FORM48,I,i1f48,I48EXDAT,3260,992,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-EXAM_DATE_FORM68,I,i1f68,I68EXDAT,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 EXAM_TIME_COMPLETION,G,g3f80,G80TIME,3496,3399,"09:10:00, 02:21:00, 09:30:00, 02:37:00, 01:30:00",non_numeric_coerced
-F08_BPHAG,I,i1f08,I08BPHAG,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
-F08_STOAG,J,j1f08,J08STOAG,2776,2,TRUE,non_numeric_coerced
-F08_VASAG,I,i1f08,I08VASAG,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
 FACTOR_VII_ANTIGEN_PERCENT,D,d1hemo,DLEF7ANT,NA,NA,,varname_not_found_anywhere
-FASTING_GLUCOSE_ASSAY_STATUS_Y25_VISIT1,H,h3glu,HL7GLUSTA,3479,3479,"F, ",non_numeric_coerced
-FASTING_GLUCOSE_ASSAY_STATUS_Y30_VISIT1,I,i3glu,IL7GLUSTA,3312,3312,"F, C, ",non_numeric_coerced
-FASTING_GLUCOSE_ASSAY_TYPE_Y25_VISIT1,H,h3glu,HL7GLUTYP,3479,3479,"N, ",non_numeric_coerced
-FASTING_GLUCOSE_ASSAY_TYPE_Y30_VISIT1,I,i3glu,IL7GLUTYP,3312,3312,"N, ",non_numeric_coerced
-FASTING_GLUCOSE_DELAYED_ASSAY_STATUS_Y25,H,h3glu,HL7GLUDSTA,3479,3479,", F",non_numeric_coerced
-FASTING_GLUCOSE_DELAYED_ASSAY_STATUS_Y30,I,i3glu,IL7GLUDSTA,3312,3312,", F",non_numeric_coerced
-FASTING_GLUCOSE_DELAYED_ASSAY_TYPE_Y25,H,h3glu,HL7GLUDTYP,3479,3479,", N",non_numeric_coerced
-FASTING_GLUCOSE_DELAYED_ASSAY_TYPE_Y30,I,i3glu,IL7GLUDTYP,3312,3312,", N",non_numeric_coerced
 FASTING_INSULIN_ASSAY_STATUS_H,H,h4ins,HL7INSSTA,3478,3478,"F, C",non_numeric_coerced
 FASTING_INSULIN_ASSAY_STATUS_I,I,i3ins,IL7INSSTA,3301,3301,"F, C",non_numeric_coerced
 FASTING_INSULIN_ASSAY_TYPE_H,H,h4ins,HL7INSTYP,3478,3478,"N, S, C",non_numeric_coerced
 FASTING_INSULIN_ASSAY_TYPE_I,I,i3ins,IL7INSTYP,3301,3301,N,non_numeric_coerced
-FAST_MINUTES,J,j1f05,J05FSTMIN,NA,NA,,varname_not_found_anywhere
-FAT_TYPE_COOKING_NUMERIC_CODES,G,g3f48,G48FATNG,3142,3119,,non_numeric_coerced
-FORM10_INTERVIEWER_ID,J,j1f10,J10IVID,NA,NA,,varname_not_found_anywhere
-FORM44_EXAM_DATE,I,i1f44,I44EXDAT,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-GENERAL_MED_CODE,H,h4f09med,H09MDCDP,6729,4,,non_numeric_coerced
-GENERAL_MED_CODE,I,i1f09med,I09MDCDP2,7992,636,,non_numeric_coerced
-GENERAL_MED_INTERVIEWER_ID,G,g3f09med,G09MIVID,195,NA,Found in 'g3f09ova' instead,varname_fallback_to_alt_dataset
-GENERAL_MED_NUMBER,J,j1f09med,J09MDNUM,NA,NA,,varname_not_found_anywhere
 HBA1C_ASSAY_STATUS,H,h3hba1c,H0YHBSTA,3395,3395,"F, C",non_numeric_coerced
 HBA1C_ASSAY_STATUS,I,i3hba1c,I0YHBSTA,1327,1327,F,non_numeric_coerced
 HBA1C_ASSAY_TYPE,H,h3hba1c,H0YHBTYP,3395,3395,"N, C",non_numeric_coerced
 HBA1C_ASSAY_TYPE,I,i3hba1c,I0YHBTYP,1327,1327,N,non_numeric_coerced
 HEIGHT_MAX_DEVICE_CM,I,i1f20,I20HTMAX,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-HEIGHT_STANDING_CM,I,i1f20,I20HGT,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-HIP_GIRTH1_CM,I,i1f20,I20HIP1,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-HIP_GIRTH2_CM,I,i1f20,I20HIP2,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-HIP_GIRTH_MEAN_CM,I,i1f20,I20HIP,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 HIP_REASON_OTHER_TEXT,I,i1f20,I20POTXT,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 HIP_REASON_OTHER_TEXT,I,i1f20,I20POTXT,2336,2336,", CLOTHES, THICK JEANS, THICK PANTS, SOB UPON STANDING, PPT COULD NOT STAND AGAIN",non_numeric_coerced
-HOSPITALIZATION1_DIAGNOSIS_CODE1,G,g3f83,G83H1CD1,184,177,", H1, P3, V2, XC",non_numeric_coerced
-HOSPITALIZATION1_DIAGNOSIS_CODE2,G,g3f83,G83H1CD2,184,176,", EL, M4, L2, M7",non_numeric_coerced
-HOSPITALIZATION1_DIAGNOSIS_CODE3,G,g3f83,G83H1CD3,184,181,,non_numeric_coerced
-HOSPITALIZATION2_DIAGNOSIS_CODE1,G,g3f83,G83H2CD1,184,183,", E7, X9, M8",non_numeric_coerced
-HOSPITALIZATION2_DIAGNOSIS_CODE2,G,g3f83,G83H2CD2,184,183,", M4",non_numeric_coerced
 HOSPITALIZATION2_DIAGNOSIS_CODE3,G,g3f83,G83H2CD3,184,184,,non_numeric_coerced
 HOSPITALIZATION3_DIAGNOSIS_CODE1,G,g3f83,G83H3CD1,184,184,", X6",non_numeric_coerced
 HOSPITALIZATION3_DIAGNOSIS_CODE2,G,g3f83,G83H3CD2,184,184,,non_numeric_coerced
 HOSPITALIZATION3_DIAGNOSIS_CODE3,G,g3f83,G83H3CD3,184,184,,non_numeric_coerced
-HOSPITALIZATION_MONTH_A,B,bflwupt1,FY048PMA,NA,NA,,varname_not_found_anywhere
-HOSPITALIZATION_MONTH_B,B,bflwupt1,FY048PMB,NA,NA,,varname_not_found_anywhere
-HOSPITALIZATION_YEAR_B,B,bflwupt1,FY048PYB,NA,NA,,varname_not_found_anywhere
+HOSP_ADMISSION_DATE_J,"J,J,J,J,J,J,J,J","j1f31,j1f31,j1f31,j1f31,j1f31,j1f31,j1f31,j1f31","J31HDT2,J31HDT3,J31HDT4,J31HDT5,J31HDT6,J31HDT7,J31HDT8,J31HDT9",9,8,"kept first varname per exam, dropped J31HDT2,J31HDT3,J31HDT4,J31HDT5,J31HDT6,J31HDT7,J31HDT8,J31HDT9",within_exam_dedup
 HOSP_ADMISSION_DATE_J,J,j1f31,J31HDT1,NA,NA,,varname_not_found_anywhere
-HOSP_ADMISSION_DATE_J,J,j1f31,J31HDT2,NA,NA,,varname_not_found_anywhere
-HOSP_ADMISSION_DATE_J,J,j1f31,J31HDT3,NA,NA,,varname_not_found_anywhere
-HOSP_ADMISSION_DATE_J,J,j1f31,J31HDT4,NA,NA,,varname_not_found_anywhere
-HOSP_ADMISSION_DATE_J,J,j1f31,J31HDT5,NA,NA,,varname_not_found_anywhere
-HOSP_ADMISSION_DATE_J,J,j1f31,J31HDT6,NA,NA,,varname_not_found_anywhere
-HOSP_ADMISSION_DATE_J,J,j1f31,J31HDT7,NA,NA,,varname_not_found_anywhere
-HOSP_ADMISSION_DATE_J,J,j1f31,J31HDT8,NA,NA,,varname_not_found_anywhere
-HOSP_ADMISSION_DATE_J,J,j1f31,J31HDT9,NA,NA,,varname_not_found_anywhere
-HOSP_CARE_DATE_COMPOSITE_D,D,d1f31a,D31DTCA2,NA,NA,,varname_not_found_anywhere
-HOSP_CARE_DATE_COMPOSITE_D,D,d1f31a,D31DTCA3,NA,NA,,varname_not_found_anywhere
-HOSP_CARE_DATE_COMPOSITE_D,D,d1f31a,D31DTCA4,NA,NA,,varname_not_found_anywhere
-HOSP_CARE_DATE_COMPOSITE_D,D,d1f31a,D31DTCA5,NA,NA,,varname_not_found_anywhere
-HOSP_CARE_DATE_COMPOSITE_D,D,d1f31a,D31DTCA6,NA,NA,,varname_not_found_anywhere
 HOSP_COUNT_SINCE_LAST_UPDATE,J,j1f31,J31NTIMESM,NA,NA,,varname_not_found_anywhere
 HOSP_DATE_DAY,D,dflwupt1,FYPDAY,NA,NA,,varname_not_found_anywhere
+HOSP_DATE_DAY_A,B,bflwupt1,FY048PDA,4,1,"kept first varname per exam, dropped FY048PDA",within_exam_dedup
 HOSP_DATE_DAY_A,A,aflwupt1,FY012PDA,NA,NA,,varname_not_found_anywhere
 HOSP_DATE_DAY_A,B,bflwupt1,FY036PDA,NA,NA,,varname_not_found_anywhere
-HOSP_DATE_DAY_A,B,bflwupt1,FY048PDA,NA,NA,,varname_not_found_anywhere
 HOSP_DATE_DAY_A,C,cflwupt1,FY072PDA,NA,NA,,varname_not_found_anywhere
 HOSP_DATE_MONTH,D,dflwupt1,FYPMONTH,NA,NA,,varname_not_found_anywhere
+HOSP_DATE_MONTH_A,B,bflwupt1,FY048PMA,4,1,"kept first varname per exam, dropped FY048PMA",within_exam_dedup
 HOSP_DATE_MONTH_A,A,aflwupt1,FY012PMA,NA,NA,,varname_not_found_anywhere
 HOSP_DATE_MONTH_A,B,bflwupt1,FY036PMA,NA,NA,,varname_not_found_anywhere
-HOSP_DATE_MONTH_A,B,bflwupt1,FY048PMA,NA,NA,,varname_not_found_anywhere
 HOSP_DATE_MONTH_A,C,cflwupt1,FY072PMA,NA,NA,,varname_not_found_anywhere
-HOSP_EVENT_DATE_COMPOSITE_D,D,d1f31a,D31DTEV2,NA,NA,,varname_not_found_anywhere
-HOSP_EVENT_DATE_COMPOSITE_D,D,d1f31a,D31DTEV3,NA,NA,,varname_not_found_anywhere
-HOSP_EVENT_DATE_COMPOSITE_D,D,d1f31a,D31DTEV4,NA,NA,,varname_not_found_anywhere
-HOSP_EVENT_DATE_COMPOSITE_D,D,d1f31a,D31DTEV5,NA,NA,,varname_not_found_anywhere
-HOSP_EVENT_DATE_COMPOSITE_D,D,d1f31a,D31DTEV6,NA,NA,,varname_not_found_anywhere
+HOSP_NIGHTS_PER_STAY,"J,J,J,J,J,J,J,J","j1f31,j1f31,j1f31,j1f31,j1f31,j1f31,j1f31,j1f31","J31NUMN2,J31NUMN3,J31NUMN4,J31NUMN5,J31NUMN6,J31NUMN7,J31NUMN8,J31NUMN9",9,8,"kept first varname per exam, dropped J31NUMN2,J31NUMN3,J31NUMN4,J31NUMN5,J31NUMN6,J31NUMN7,J31NUMN8,J31NUMN9",within_exam_dedup
 HOSP_NIGHTS_PER_STAY,J,j1f31,J31NUMN1,NA,NA,,varname_not_found_anywhere
-HOSP_NIGHTS_PER_STAY,J,j1f31,J31NUMN2,NA,NA,,varname_not_found_anywhere
-HOSP_NIGHTS_PER_STAY,J,j1f31,J31NUMN3,NA,NA,,varname_not_found_anywhere
-HOSP_NIGHTS_PER_STAY,J,j1f31,J31NUMN4,NA,NA,,varname_not_found_anywhere
-HOSP_NIGHTS_PER_STAY,J,j1f31,J31NUMN5,NA,NA,,varname_not_found_anywhere
-HOSP_NIGHTS_PER_STAY,J,j1f31,J31NUMN6,NA,NA,,varname_not_found_anywhere
-HOSP_NIGHTS_PER_STAY,J,j1f31,J31NUMN7,NA,NA,,varname_not_found_anywhere
-HOSP_NIGHTS_PER_STAY,J,j1f31,J31NUMN8,NA,NA,,varname_not_found_anywhere
-HOSP_NIGHTS_PER_STAY,J,j1f31,J31NUMN9,NA,NA,,varname_not_found_anywhere
 IMAGE_COMPONENT_3D_LEFT_HEART_REASON_NO_IMAGE,I,i1f40,I403DLHRS,3186,3186,", NOT DONE DUE TO NONCOMPLIANCE, AFIB - IRREGULAR HEART RATE, POOR VISABILITY, TDS",non_numeric_coerced
 IMAGE_COMPONENT_3D_RIGHT_HEART_REASON_NO_IMAGE,I,i1f40,I403DRHRS,3186,3186,", NOT DONE DUE TO NONCOMPLIANCE, AFIB - IRREGULAR HEART RATE, POOR VISABILITY, TDS",non_numeric_coerced
 IMAGE_COMPONENT_APICAL4_2D_RIGHTHEART_OBTAINED,I,i1f40,I40APICAL2DRS,3186,3186,", UA, TDS, ATTEMPTED, ATTEMPTED- OFF-AXIS VIEW OBTAINED",non_numeric_coerced
@@ -180,104 +509,38 @@ IMAGE_COMPONENT_TAPSE_REASON_NO_IMAGE,I,i1f40,I40AP4TAPSERS,3186,3186,", DID NOT
 IMAGE_COMPONENT_TDI_REASON_NO_IMAGE,H,h4f40,H40TDIRS,NA,NA,,varname_not_found_anywhere
 IMAGE_COMPONENT_TV_COLOR_REASON_NO_IMAGE,I,i1f40,I40AP4TVCRS,3186,3186,", TDS, POORLY VISUALIZED, NO VISUALIZATION, ATTEMPTED",non_numeric_coerced
 IMAGE_COMPONENT_TV_CW_DOPPLER_REASON_NO_IMAGE,I,i1f40,I40AP4TVWRS,3186,3186,", TDS, POORLY VISUALIZED, NO VISUALIZATION, NO VISUALIZATION OF TRICUSPID VALVE WAVEFORM",non_numeric_coerced
-INJURY_EVENT_NATURE_OF_INJURY_CODE,C,c1f31b,C31BCOD3,NA,NA,,varname_not_found_anywhere
-INTERVIEWER_ID,G,g3f83,G83IVID,NA,NA,,varname_not_found_anywhere
-INTERVIEWER_ID,I,i1f44,I44IVID,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-INTERVIEWER_ID,I,i1f48,I48IVID,3260,992,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-INTERVIEWER_ID,I,i1f68,I68IVID,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
-INTERVIEWER_ID,J,j2f03,J03IVID,NA,NA,,varname_not_found_anywhere
-INTERVIEWER_ID_F56,I,i1f56,I56IVID,3270,992,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-INTERVIEWER_ID_FORM20,I,i1f20,I20IVID,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-INTERVIEWER_ID_FORM3,J,j2f03,J03IVID,NA,NA,,varname_not_found_anywhere
-INTERVIEW_START_TIME,G,g3f48,G48START,3142,3142,"09:43:00, 10:45:00, 11:55:00, 12:10:00, 09:30:00",non_numeric_coerced
-LAB_COMMENTS,H,h3lip,HL1COMNT,3482,3482,", TRIGLYCERIDE EXCEEDS 400 MG/DL - LDL AND VLDL ARE NOT RELIABLE.",non_numeric_coerced
-LAB_COMMENTS,I,i2lip,IL1COMNT,3320,3320,", TRIGLYCERIDE EXCEEDS 400 MG/DL - LDL AND VLDL ARE NOT RELIABLE., ANALYSIS PERFORMED BY ULTRACENTRIFUGATION",non_numeric_coerced
-LAST_MEDICAL_HISTORY_UPDATE_DATE,J,j1f31,J31LEDAT,NA,NA,,varname_not_found_anywhere
-LAST_PERIOD_DATE_COMBINED,I,i1f68,I68MPDAT,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
-LAST_PERIOD_MONTH,I,i1f68,I68MPMO,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
-LAST_PERIOD_YEAR,I,i1f68,I68MPYR,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
-MAX_HOT_FLASHES_PER_DAY,I,i1f68,I68HFAVG,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 MMODE_QUALITY_TYPE,H,h10echo,HMMODEQCT,3474,3474,", B, T",non_numeric_coerced
 MMODE_QUALITY_TYPE,I,i5echo,IMMODEQCT,3184,3184,"B, T, ",non_numeric_coerced
-MOTHER_CAUSE_OF_DEATH_OTHER,H,h4f11,H11MDOTH,3488,3472,"ANARYSYM, , MULTIPLE SCLEROSIS, INTESTINAL INFECTION-DUE TO HER SEVERE MS, IMMUNE DYSFUNCTION",non_numeric_coerced
 MRI_3DT1_NOT_OBTAINED_REASON,H,h3f92v2,H923DT1RESN,NA,NA,,varname_not_found_anywhere
 MRI_3DT1_NOT_OBTAINED_REASON,I,i1f92b,I923DT1RESN,663,663,", MODERATE MOVEMENT, WILL RE-RUN, SECOND TI LOOKS BETTER, MILD TO MODERATE MOVEMENT, RERAN, MAJOR MOVEMENT, WILL RE-RUN, MODERATE MOVEMENT, WILL RE-RUN",non_numeric_coerced
 MRI_3DT2_NOT_OBTAINED_REASON,H,h3f92v2,H923DT2RESN,NA,NA,,varname_not_found_anywhere
 MRI_3DT2_NOT_OBTAINED_REASON,I,i1f92b,I923DT2RESN,663,663,", MOTION, SIGNIFICANT MOVEMENT, WILL RE-RUN IF TIME, MINOR MOVEMENT, SOME MOVEMENT, WILL NOT RE-RUN",non_numeric_coerced
 MRI_3D_FLAIR_NOT_OBTAINED_REASON,H,h3f92v2,H923DFLRESN,NA,NA,,varname_not_found_anywhere
 MRI_3D_FLAIR_NOT_OBTAINED_REASON,I,i1f92b,I923DFLRESN,663,663,", HEAD WRAP OF NOSE INTO BACK OF HEAD, MOTION, HEAD WRAP, SLIGHT HEAD WRAP OF NOSE INTO [ILLEGIBLE WORD]",non_numeric_coerced
-MRI_ADDITIONAL_SEQUENCES_COMMENTS,H,h3f92v2,H92ADCOM,NA,NA,,varname_not_found_anywhere
 MRI_ASL_CALIBRATION_NOT_OBTAINED_REASON,H,h3f92v2,H92ASLCARESN,NA,NA,,varname_not_found_anywhere
 MRI_ASL_CALIBRATION_NOT_OBTAINED_REASON,I,i1f92b,I92ASLCARESN,663,663,", UNABLE TO COMPLETE SCAN DUE TO TIME RESTRICTIONS, NA, CAN'T GET PULSE THROUGH NAIL POLISH, NOT PART OF THIS STUDY",non_numeric_coerced
 MRI_ASL_NOT_OBTAINED_REASON,H,h3f92v2,H92ASLRESN,NA,NA,,varname_not_found_anywhere
 MRI_ASL_NOT_OBTAINED_REASON,I,i1f92b,I92ASLRESN,663,663,", UNABLE TO COMPLETE SCAN DUE TO TIME RESTRICTIONS, ""                    "", A LITTLE MOVEMENT, PT WANTED OUT",non_numeric_coerced
-MRI_BOLD_BREATH_HOLD_NOT_OBTAINED_REASON,H,h3f92v2,H92BREATHRESN,NA,NA,,varname_not_found_anywhere
-MRI_BOLD_BREATH_HOLD_NOT_OBTAINED_REASON,I,i1f92b,I92BREATHRESN,663,660,", UNABLE TO COMPLETE SCAN DUE TO TIME RESTRICTIONS, FORGOT TO TURN MUSIC  OFF, MINOR MOVEMENT, MODERATE MOVEMENT",non_numeric_coerced
 MRI_BOLD_RESTING_NOT_OBTAINED_REASON,H,h3f92v2,H92BOLDRESTRESN,NA,NA,,varname_not_found_anywhere
 MRI_BOLD_RESTING_NOT_OBTAINED_REASON,I,i1f92b,I92BOLDRESTRESN,663,663,", UNABLE TO COMPLETE SCAN DUE TO TIME RESTRICTIONS, SOME MINOR MOVEMENT, SHOULD BE OKAY, MILD  MOVEMENT, MILD MOVEMENT",non_numeric_coerced
-MRI_BREATH_HOLD_COMPLIANT_NOT_OBTAINED_REASON,H,h3f92v2,H92BREATHCOMPRESN,NA,NA,,varname_not_found_anywhere
-MRI_BREATH_HOLD_COMPLIANT_NOT_OBTAINED_REASON,I,i1f92b,I92BREATHCOMPRESN,663,644,", N/A, 1 FELL ASLEEP, ATTEMPTED TO  HOLD BREATH EACH TIME BUTCOULD ....COMPLETE ENTIRE BREATH HOLD, ""                    """,non_numeric_coerced
 MRI_CLINICAL_ALERT_DESCRIPTION,H,h3f92v2,H92ALTDESC,NA,NA,,varname_not_found_anywhere
-MRI_CLINICAL_READ_RESULTS,I,i1f92a,I92MRIRD,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_CLINICAL_READ_RESULTS,I,i1f92a,I92RESULTS,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_CLINICAL_READ_RESULTS,I,i1f92a,I92FOLL,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_CLINICAL_READ_RESULTS,I,i1f92a,I92FOLL,464,464,", LETTER SENT BY PI, N/A, NONE AVAILABLE TO CARDIA TECH 835",non_numeric_coerced
 MRI_DTI_NOT_OBTAINED_REASON,H,h3f92v2,H92DTI1RESN,NA,NA,,varname_not_found_anywhere
 MRI_DTI_NOT_OBTAINED_REASON,I,i1f92b,I92DTI1RESN,663,663,", SECOND RUN DTI LOOKS GOOD, MAY HAVE LOST SUPERIOR ASPECT OF CORTEX, SEVERE MOVEMENT. NO TIME TO RE-RUN, A FEW DROPPED DUE TO MOVEMENT",non_numeric_coerced
 MRI_DTI_REPEAT_NOT_OBTAINED_REASON,H,h3f92v2,H92DTI2RESN,NA,NA,,varname_not_found_anywhere
 MRI_DTI_REPEAT_NOT_OBTAINED_REASON,I,i1f92b,I92DTI2RESN,663,663,", MAY HAVE LOST SUPERIOR ASPECT OF CORTEX, PARTIALLY COMPLETED, A FEW DROPPED DUE TO MOVEMENT, MOTION - SNORING-WOULD NOT STAY AWAKE",non_numeric_coerced
-MRI_INITIAL_CONTACT_BODY_MEASURES,I,i1f92a,I92HEIGHT,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_BODY_MEASURES,I,i1f92a,I92WEIGHT,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_BODY_MEASURES,I,i1f92a,I92BMI,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_BODY_MEASURES,I,i1f92a,I92WSTCIR,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_STAFF_AND_VISIT,I,i1f92a,I92IVID,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_STAFF_AND_VISIT,I,i1f92a,I92STFID,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_STAFF_AND_VISIT,I,i1f92a,I92VSTCD,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_STAFF_AND_VISIT,I,i1f92a,I92VSTCD,464,464,Y30,non_numeric_coerced
 MRI_NOT_TRANSMITTED_REASON,I,i1f92b,I92NOTRSP,663,663,,non_numeric_coerced
-MRI_QC_ALERT_REPORTING_COMMENTS,I,i1f92c,I92MRQCCOM,663,663,", NON-SPECIFIC WHITE MATTER DISEASE (MILD WML)., NORMAL BRAIN MRI SCAN, NON-SPECIFIC WHITE MATTER DISEASE, RIGHT FRONTAL PARAFALCINE MASS, LIKELY MENINGIOMA, NO MASS EFFECT. MILDLY INCREASED FROM YR 25, MRI WITH CONTRAST IN RECOMMENDED WITH 6-2 MONTHS FOR FURTHER EVALUATION",non_numeric_coerced
-MRI_SCREENING_FORM_COMPLETION_DATE,I,i1f92a,I92EXAMDT,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_SEQUENCE_ACCEPTED_COMMENTS,I,i1f92c,I92BSWIX,663,663,", NOT ACQUIRED, PATIENT MOVED, NOT COMPLETED BY SITE, MODERATE MOTION",non_numeric_coerced
-MRI_SEQUENCE_DELIVERED_COMMENTS,I,i1f92c,I92CSWIX,663,663,", NOT ACQUIRED, PATIENT MOVED, NOT COMPLETED BY SITE, NO TIME (ANXIETY AND CLAUSTROPHOBIA DELAYED SCAN)",non_numeric_coerced
 MRI_SITE_COMMENTS,H,h3f92v2,H92SITCOM,NA,NA,,varname_not_found_anywhere
 MRI_SITE_COMMENTS,I,i1f92b,I92SITCOM,663,663,", PATIENT HAD TO GO TO RESTROOM.  HAD TO RUN ANOTHER LOCALIZER, T1 & DTIS.  INCLUDED FIRST & SECOND LOCALIZERS, SECOND T1, T2S, AND SECOND DTI PAIR IN UPLOAD, ABNORMALITY IN FALX, SUPERIOR TO CORPUS COLLOSUM. FEW HIGH SIGNAL T1 SPOTS ON LEFT SUP FRONTAL GYRUS, TROUBLE STAYING AWAKE, 3.BREATH HOLD COMPLIANT - 4  3.OTHER - SWI",non_numeric_coerced
-MRI_STUDY_COMPLETENESS,I,i1f92b,I92FAILSP,663,663,,non_numeric_coerced
-MRI_SWI_NOT_OBTAINED_REASON,I,i1f92b,I92SWIRESN,663,661,", UNABLE TO COMPLETE SCAN DUE TO TIME RESTRICTIONS, MOVED - FELL ASLEEP, SWI, UNABLE TO COMPLETE SWI",non_numeric_coerced
+MRQC_COMMENTS,"I,I","i1f92c,i1f92c","I92MRICOM2,I92MRQCCOM",4,2,"kept first varname per exam, dropped I92MRICOM2,I92MRQCCOM",within_exam_dedup
 MRQC_COMMENTS,H,h3f92v2,H92MRQCCOM,NA,NA,,varname_not_found_anywhere
-MRQC_COMMENTS,I,i1f92c,I92MRQCCOM,663,663,", NON-SPECIFIC WHITE MATTER DISEASE (MILD WML)., NORMAL BRAIN MRI SCAN, NON-SPECIFIC WHITE MATTER DISEASE, RIGHT FRONTAL PARAFALCINE MASS, LIKELY MENINGIOMA, NO MASS EFFECT. MILDLY INCREASED FROM YR 25, MRI WITH CONTRAST IN RECOMMENDED WITH 6-2 MONTHS FOR FURTHER EVALUATION",non_numeric_coerced
-NAME_CODE,I,i1f92a,I92NMCD,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-NAME_CODE,H,h4f40,H40NMCD,3470,3470,"CECCS, CESAC, XESHA, MEHUH, CMCCH",non_numeric_coerced
-NAME_CODE,I,i1f40,I40NMCD,3186,3186,"CECCS, AEUCM, CESAC, MEHUH, CMCCH",non_numeric_coerced
-NAME_CODE,I,i1f92a,I92NMCD,464,464,"MEHUH, XMEUE, MEEEU, MEMHE, MMCFS",non_numeric_coerced
-NUMBER_OF_FRAMES,H,h4f40,H40NFRAME,3470,1531,,non_numeric_coerced
-NUMBER_OF_FRAMES,I,i1f40,I40NFRAME,3186,3,,non_numeric_coerced
-OGTT_ASSAY_STATUS_Y25,H,h3glu,HL7GLU2HSTA,3479,3479,"F, , C",non_numeric_coerced
-OGTT_ASSAY_STATUS_Y30,I,i3glu,IL7GLU2HSTA,3312,3312,", F",non_numeric_coerced
-OGTT_ASSAY_TYPE_Y25,H,h3glu,HL7GLU2HTYP,3479,3479,"N, , C, F",non_numeric_coerced
-OGTT_ASSAY_TYPE_Y30,I,i3glu,IL7GLU2HTYP,3312,3312,", N",non_numeric_coerced
-OUTPATIENT_VISIT_COUNT,J,j1f31,J31OUTPXM,NA,NA,,varname_not_found_anywhere
-OVARIAN_SURGERY_MONTH,G,g3f09ova,G09OSMO1,NA,NA,,varname_not_found_anywhere
-OVARIAN_SURGERY_MONTH,G,g3f09ova,G09OSMO2,NA,NA,,varname_not_found_anywhere
-OVARIAN_SURGERY_MONTH,G,g3f09ova,G09OSMO3,NA,NA,,varname_not_found_anywhere
-PARTICIPANT_QC_ID,E,e1f51,E51QCID,NA,NA,,varname_not_found_anywhere
-PEAK_INFLATION_LEVEL_STD,G,g3f02,G02CPIL,NA,NA,,varname_not_found_anywhere
-PEAK_INFLATION_LEVEL_STD,J,j1f02,J02PILEV,2125,2,TRUE,non_numeric_coerced
-PHLEBOTOMIST_ID,G,g4f05,G05APHLID,NA,NA,,varname_not_found_anywhere
+MRQC_COMMENTS,I,i1f92c,I92BMRICOM,663,663,", REASON FOR EDC DELAY: FORM 92C NEEDED REVISION AND FORM HAS BEEN REVISED BY THE CC AND DATA ENTRY COMPLETED., PARTICIPANT WAS UNABLE TO COMPLETE MRI STUDY.  PATIENT MOTION ON STRUCTURAL SEQUENCES.  POOR IMAGE QUALITY.  MA ACCEPTABLE FOR ANALYSIS., NON-SPECIFIC WHITE MATTER DISEASE; POSSIBLE 2-3 INFERIORLY/ MEDIALLY DIRECTED ANEURYSM ARISING FROM HE RIGHT SUPRACLINOID INTERNAL CAROTID ARTERY NEAR THE ORIGIN OF THE RIGHT PCOM, RECOMMEND FUTHER EV, NORMAL BRAIN MRI",non_numeric_coerced
 PLASMA_LPA_MGDL,C,c1lpa,CL6LPA,NA,NA,,varname_not_found_anywhere
 PLAX_QUALITY_TYPE,H,h10echo,HPLXQCT,3474,3474,", B, T",non_numeric_coerced
 PLAX_QUALITY_TYPE,I,i5echo,IPLXQCT,3184,3184,"B, , T",non_numeric_coerced
+PROCEDURE_DATE,"J,J,J,J,J,J,J,J","j1f31,j1f31,j1f31,j1f31,j1f31,j1f31,j1f31,j1f31","J31PDT2,J31PDT3,J31PDT4,J31PDT5,J31PDT6,J31PDT7,J31PDT8,J31PDT9",9,8,"kept first varname per exam, dropped J31PDT2,J31PDT3,J31PDT4,J31PDT5,J31PDT6,J31PDT7,J31PDT8,J31PDT9",within_exam_dedup
 PROCEDURE_DATE,J,j1f31,J31PDT1,NA,NA,,varname_not_found_anywhere
-PROCEDURE_DATE,J,j1f31,J31PDT2,NA,NA,,varname_not_found_anywhere
-PROCEDURE_DATE,J,j1f31,J31PDT3,NA,NA,,varname_not_found_anywhere
-PROCEDURE_DATE,J,j1f31,J31PDT4,NA,NA,,varname_not_found_anywhere
-PROCEDURE_DATE,J,j1f31,J31PDT5,NA,NA,,varname_not_found_anywhere
-PROCEDURE_DATE,J,j1f31,J31PDT6,NA,NA,,varname_not_found_anywhere
-PROCEDURE_DATE,J,j1f31,J31PDT7,NA,NA,,varname_not_found_anywhere
-PROCEDURE_DATE,J,j1f31,J31PDT8,NA,NA,,varname_not_found_anywhere
-PROCEDURE_DATE,J,j1f31,J31PDT9,NA,NA,,varname_not_found_anywhere
-PROCESSING_TIME_BY_COLLECTION,C,c1f39,C39PTIM3,1105,905,"15:10:00, 14:35:00, 15:04:00, 15:15:00, 15:42:00",non_numeric_coerced
-PULSE_OBLITERATION_PRESSURE,G,g3f02,G02CPOP,NA,NA,,varname_not_found_anywhere
-PULSE_OBLITERATION_PRESSURE,J,j1f02,J02POPRES,2125,2,TRUE,non_numeric_coerced
+PROCESSING_TIME_BY_COLLECTION,"C,C","c1f39,c1f39","C39PTIM2,C39PTIM3",3,2,"kept first varname per exam, dropped C39PTIM2,C39PTIM3",within_exam_dedup
+PROCESSING_TIME_BY_COLLECTION,C,c1f39,C39PTIM1,1105,783,"15:10:00, 14:35:00, 15:04:00, 16:30:00, 14:45:00",non_numeric_coerced
 REVIEW_PRIOR_Y25_FORM40_REASON_NO_REVIEW,I,i1f40,I40CSREVX,3186,3186,", DONE AT ANOTHER SITE.  NOT VIEWABLE IN MPLS., PPT FROM MINNESOTA, ALABAMA PPT, PARTICIPANT SEEN AT OTHER SITE",non_numeric_coerced
 SAMPLE1_TIME_CLOCK,F,f4scort,FLHS1TM,811,810,"06:00:00, 05:00:00, 06:30:00, 05:30:00, 06:15:00",non_numeric_coerced
 SAMPLE2_TIME_CLOCK,F,f4scort,FLHS2TM,811,808,"06:45:00, 05:45:00, 07:15:00, 06:56:00, 06:48:00",non_numeric_coerced
@@ -287,12 +550,7 @@ SAMPLE5_TIME_CLOCK,F,f4scort,FLHS5TM,811,804,"18:05:00, 17:10:00, 18:03:00, 18:3
 SAMPLE6_TIME_CLOCK,F,f4scort,FLHS6TM,811,792,"22:43:00, 00:05:00, 21:55:00, 23:00:00, 22:00:00",non_numeric_coerced
 SAX_QUALITY_TYPE,H,h10echo,HSAXQCT,3474,3474,", B, T",non_numeric_coerced
 SAX_QUALITY_TYPE,I,i5echo,ISAXQCT,3184,3184,"B, , T",non_numeric_coerced
-SF12_MCS12_SCORE,F,f2f65,F65MCS12,NA,NA,,varname_not_found_anywhere
-SF12_PCS12_SCORE,F,f2f65,F65PCS12,NA,NA,,varname_not_found_anywhere
-SPECKLE_TRACKING_QUALITY,I,i5echo,ISTQCT,3184,3184,"B, , T",non_numeric_coerced
 STRESS_EVENT_START_TIME,F,f1mood,FHL13IIIBT,814,724,"09:20:00, 07:30:00, 16:55:00, 14:15:00, 12:30:00",non_numeric_coerced
-TECHNICIAN_COMMENT,H,h4f40,H40TECCOMX,NA,NA,,varname_not_found_anywhere
-TECHNICIAN_COMMENT,I,i1f40,I40TECCOMX,3186,3185,"HX OF SMALL MVP. IMAGES WERE A LITLTE SUBPAR, S IT WAS HARD TO TELL. COULD ONLY SEE IT A LITTLE BIT IN 2CH, PPT NONCOMPLIANCE IN BREATHING AND POSITIIONING, SMOKER. MACHINE HAD TROUBLE ACQUIRING 3D. FRAMES 47, 48, 49 -> VALSALVA, , VERY POOR PARASTERNAL IMAGING VERY OBLIQUE. NO FLOW REVERSAL IN ASC. AORTA",non_numeric_coerced
 TIME_FALL_ASLEEP,F,f1mood,FHL041T,814,810,"23:50:00, 00:15:00, 22:20:00, 22:15:00, 23:30:00",non_numeric_coerced
 TIME_LAST_ATE,A,a4f05,A05TMEAT,5114,5098,"20:00:00, 21:30:00, 21:00:00, 20:30:00, 18:30:00",non_numeric_coerced
 TIME_LAST_ATE,B,b2f05,B05TMEAT,4623,4583,"20:00:00, 21:00:00, 19:00:00, 22:10:00, 20:25:00",non_numeric_coerced
@@ -305,12 +563,12 @@ TIME_LAST_ATE,H,h3f05,H05TMEAT,3487,3483,"19:30:00, 19:00:00, 21:00:00, 20:10:00
 TIME_LAST_ATE,I,i1f05,I05TMEAT,3355,3353,"07:00:00, 20:00:00, 21:00:00, 23:00:00, 18:45:00",non_numeric_coerced
 TIME_LAST_ATE,J,j1f05,J05TMEAT,2118,2113,"20:30:00, 19:00:00, 17:00:00, 11:00:00, 16:00:00",non_numeric_coerced
 TIME_LAST_CAFFEINE,E,e1f53,E53CAFTM,3949,137,"08:30:00, 22:00:00, 15:00:00, 07:30:00, 14:30:00",non_numeric_coerced
+TIME_LAST_SMOKED,E,e1f53,E53CIGTM,11,1,"kept F02, dropped F53",cross_family_dedup
 TIME_LAST_SMOKED,A,a4f02,A02TMSMK,NA,NA,,varname_not_found_anywhere
 TIME_LAST_SMOKED,B,b3f02,B02TMSMK,NA,NA,,varname_not_found_anywhere
 TIME_LAST_SMOKED,C,c1f02,C02TMSMK,4351,1443,"19:30:00, 09:20:00, 10:00:00, 23:30:00, 20:00:00",non_numeric_coerced
 TIME_LAST_SMOKED,D,d1f02,D02TMSMK,4085,1105,"21:00:00, 08:25:00, 22:00:00, 08:15:00, 07:30:00",non_numeric_coerced
 TIME_LAST_SMOKED,E,e1f02,E02TMSMK,3949,1042,"09:45:00, 09:30:00, 07:30:00, 08:00:00, 06:30:00",non_numeric_coerced
-TIME_LAST_SMOKED,E,e1f53,E53CIGTM,3949,76,"01:00:00, 12:25:00, 12:30:00, 14:00:00, 22:15:00",non_numeric_coerced
 TIME_LAST_SMOKED,F,f1f02,F02TMSMK,3671,828,"22:00:00, 08:50:00, 20:30:00, 06:30:00, 07:00:00",non_numeric_coerced
 TIME_LAST_SMOKED,G,g3f02,G02TMSMK,3547,636,"07:15:00, 08:00:00, 06:45:00, 06:00:00, 06:30:00",non_numeric_coerced
 TIME_LAST_SMOKED,H,h3f02v2,H02TMSMK,3496,3496,"12:00:02, 07:30:00, 10:30:00, 09:30:00, 06:45:00",non_numeric_coerced
@@ -335,56 +593,27 @@ TIME_URINE_COLLECTED_CLOCK,F,f1f51,F51CTIM,3671,3320,"09:30:00, 11:35:00, 10:58:
 TIME_URINE_COLLECTED_CLOCK,G,g3f51,G51CDTIM,3537,3434,"07:34:00, 08:30:00, 09:00:00, 11:00:00, 08:10:00",non_numeric_coerced
 TIME_URINE_COLLECTED_CLOCK,J,j1f51,J51CDTIM,2115,2092,"10:33:00, 08:40:00, 08:29:00, 11:25:00, 10:40:00",non_numeric_coerced
 TIME_WAKE_UP_SALIVA1,F,f1mood,FHL042T,814,811,"05:57:00, 04:58:00, 06:00:00, 06:30:00, 05:58:00",non_numeric_coerced
-TOTAL_CAC_AGATSTON_ADJUDICATED,H,h4ebct,Y25cactot,NA,NA,,varname_not_found_anywhere
-UNADJUSTED_AGATSTON_SCORE_AVG,F,f3ebct,FR3UASCR,3671,1074,"21227, 30345, 40575, 10549, 30540",Short_ID_map_fail
 URINE_COLLECTION_END_TIME,E,e1f53,E53URETM,3949,230,"11:30:00, 14:00:00, 13:50:00, 14:15:00, 16:05:00",non_numeric_coerced
 URINE_COLLECTION_START_TIME,E,e1f53,E53URBTM,3949,235,"14:30:00, 14:00:00, 14:15:00, 16:00:00, 13:50:00",non_numeric_coerced
 URINE_FLUSH_ACTUAL_START_TIME,F,f1mood,FHL17A1T,814,806,"17:58:00, 17:20:00, 19:10:00, 19:25:00, 17:45:00",non_numeric_coerced
 URINE_FLUSH_ACTUAL_STOP_TIME,F,f1mood,FHL17B1T,814,808,"06:00:00, 05:40:00, 06:13:00, 05:00:00, 06:45:00",non_numeric_coerced
 URINE_FLUSH_PLANNED_START_TIME,F,f1mood,FHL15V1T,814,810,"19:00:00, 18:00:00, 19:15:00, 17:30:00, 21:00:00",non_numeric_coerced
 URINE_FLUSH_PLANNED_STOP_TIME,F,f1mood,FHL15V2T,814,810,"07:00:00, 06:00:00, 07:15:00, 05:30:00, 09:00:00",non_numeric_coerced
-URINE_PROCESSING_TIME,E,e1f53,E53URPTM,3949,232,"15:05:00, 14:30:00, 14:05:00, 14:45:00, 14:35:00",non_numeric_coerced
-URINE_RETURN_TIME_BY_COLLECTION,C,c1f39,C39RTIM3,1105,790,"10:25:00, 09:30:00, 14:55:00, 10:55:00, 12:30:00",non_numeric_coerced
+URINE_RETURN_TIME_BY_COLLECTION,"C,C","c1f39,c1f39","C39RTIM2,C39RTIM3",3,2,"kept first varname per exam, dropped C39RTIM2,C39RTIM3",within_exam_dedup
+URINE_RETURN_TIME_BY_COLLECTION,C,c1f39,C39RTIM1,1105,792,"10:25:00, 09:30:00, 14:55:00, 10:55:00, 12:30:00",non_numeric_coerced
 URINE_SAMPLE_SLEEP_TIME_PREV_NIGHT,F,f1mood,FHL183T,814,793,"23:20:00, 00:00:00, 23:10:00, 23:05:00, 22:15:00",non_numeric_coerced
 URINE_SAMPLE_WAKE_TIME,F,f1mood,FHL182T,814,793,"06:00:00, 05:30:00, 06:10:00, 05:00:00, 05:20:00",non_numeric_coerced
 USUAL_WAKE_TIME,F,f1mood,FHL12IIT,814,805,"06:30:00, 06:08:00, 05:50:00, 06:00:00, 07:30:00",non_numeric_coerced
-VCR_START_TIME,G,g3f77,G77VCTST,3252,3230,"00:29:04, 01:14:10, 01:48:14, 00:25:30, 00:11:04",non_numeric_coerced
 VIGOROUS_EXERCISE_START_TIME,F,f1mood,FHL124AT,814,145,"10:30:00, 19:30:00, 18:00:00, 20:00:00, 17:40:00",non_numeric_coerced
-WAIST_GIRTH1_CM,I,i1f20,I20WST1,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-WAIST_GIRTH2_CM,I,i1f20,I20WST2,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-WAIST_GIRTH_MEAN_CM,I,i1f20,I20WST,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 WAKE_TIME_CLOCK,F,f4scort,FLHWKTM,811,810,"05:57:00, 04:58:00, 06:00:00, 06:30:00, 05:58:00",non_numeric_coerced
-WEIGHT_DISCRIMINATION_SUMMARY_SCORE,I,i1f44,I44WTSUM,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-WEIGHT_LB,I,i1f20,I20WGT,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-YALTA_QC_ID,F,f1f05,F05YQCID,NA,NA,,varname_not_found_anywhere
-AGE_DISCRIMINATION_AT_HOME,I,i1f44,I44AGEHOM,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_AT_HOME_FREQUENCY,I,i1f44,I44AGEHOMF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_AT_SCHOOL,I,i1f44,I44AGESCH,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_AT_SCHOOL_FREQUENCY,I,i1f44,I44AGESCHF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_AT_WORK,I,i1f44,I44AGEWRK,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_AT_WORK_FREQUENCY,I,i1f44,I44AGEWRKF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_GETTING_HOUSING,I,i1f44,I44AGEHOU,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_GETTING_HOUSING_FREQUENCY,I,i1f44,I44AGEHOUF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_GETTING_JOB,I,i1f44,I44AGEJOB,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_GETTING_JOB_FREQUENCY,I,i1f44,I44AGEJOBF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_GETTING_MEDICAL_CARE,I,i1f44,I44AGEMED,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_GETTING_MEDICAL_CARE_FREQUENCY,I,i1f44,I44AGEMEDF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_IN_PUBLIC,I,i1f44,I44AGEPUB,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_IN_PUBLIC_FREQUENCY,I,i1f44,I44AGEPUBF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-AGE_DISCRIMINATION_STRESS,I,i1f44,I44AGESTR,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-ANY_BLOOD_COLLECTED_FIRST_DRAW_DELAYED,G,g4f05,G05ABLDDW,NA,NA,,varname_not_found_anywhere
-ANY_BLOOD_COLLECTED_SECOND_DRAW_DELAYED,G,g4f05,G05ABLDOZ,NA,NA,,varname_not_found_anywhere
-ARM_USED_FOR_BP,G,g3f02,G02CARMT,NA,NA,,varname_not_found_anywhere
 ARTERIAL_COMPLIANCE_SUBSTUDY_COMMENTS,E,e1f40,E40ACOMX,NA,NA,,varname_not_found_anywhere
 ATRIAL_FIBRILLATION_HOSPITALIZATION,J,j1f31,J31IRRHOSM,NA,NA,,varname_not_found_anywhere
 ATRIAL_FIBRILLATION_OR_IRREGULAR_HEARTBEAT,J,j1f31,J31IRRM,NA,NA,,varname_not_found_anywhere
 ATRIAL_FIBRILLATION_PROCEDURE,J,j1f31,J31AFIBM,NA,NA,,varname_not_found_anywhere
 AUSCULTATION_DIASTOLIC_MURMUR_DURATION,C,c1f41au,C41ADDUR,NA,NA,,varname_not_found_anywhere
-BLEEDING_DISORDERS,G,g4f05,G05AHEMO,NA,NA,,varname_not_found_anywhere
 BLOOD_CLOT_ANY,J,j1f31,J31BDCTM,NA,NA,,varname_not_found_anywhere
 BLOOD_CLOT_LEG,J,j1f31,J31BCLEGM,NA,NA,,varname_not_found_anywhere
 BLOOD_CLOT_LUNG,J,j1f31,J31BLUNGM,NA,NA,,varname_not_found_anywhere
-COLD_SWEATS_3MO,I,i1f68,I68CSWET,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 CONTINUOUS_WAVE_DOPPLER_COMMENTS,E,e1f40,E40DOPX,NA,NA,,varname_not_found_anywhere
 COVID19_EVER_DIAGNOSED_PROVIDER,J,j1f31,J31CVD19PRO,NA,NA,,varname_not_found_anywhere
 COVID19_EVER_HAD,J,j1f31,J31CVD19,NA,NA,,varname_not_found_anywhere
@@ -398,19 +627,19 @@ COVID19_TEST_REASON_CONTACT,J,j1f31,J31CVD19SOM,NA,NA,,varname_not_found_anywher
 COVID19_TEST_REASON_DOCTOR,J,j1f31,J31CVD19DR,NA,NA,,varname_not_found_anywhere
 COVID19_TEST_REASON_SYMPTOMS,J,j1f31,J31CVD19SYM,NA,NA,,varname_not_found_anywhere
 COVID19_TEST_REASON_WORRIED,J,j1f31,J31CVD19WOR,NA,NA,,varname_not_found_anywhere
-CUFF_SIZE,G,g3f02,G02CCUFF,NA,NA,,varname_not_found_anywhere
-CURRENTLY_TAKING_INSULIN_OR_ORAL_DRUGS,G,g4f05,G05AINSUL,NA,NA,,varname_not_found_anywhere
-DENTIST_VISIT_ANY,J,j1f31,J31DENTM,NA,NA,,varname_not_found_anywhere
-DEPRESSED_3MO,I,i1f68,I68BLUE,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
-DIABETES_DIAGNOSED,G,g4f05,G05ADIAB,NA,NA,,varname_not_found_anywhere
+DISTANCE_MOVED_FROM_CLINIC,"A,A,B,B,B,B,C,D,D,D,D,E,E,E,E,E,E,E,E","aflwup1,aflwup1,bflwup1,bflwup1,bflwup1,bflwup1,cflwup1a,dflwup1,dflwup1,dflwup1,dflwup1,eflwup1,eflwup1,eflwup1,eflwup1,eflwup1,eflwup1,eflwup1,eflwup1","FM012DIS,FM018DIS,FM036DIS,FM042DIS,FM048DIS,FM054DIS,FM078DIS,FM096DIS,FM102DIS,FM108DIS,FM114DIS,FM132DIS,FM138DIS,FM144DIS,FM150DIS,FM156DIS,FM162DIS,FM168DIS,FM174DIS",24,19,"kept first varname per exam, dropped FM012DIS,FM018DIS,FM036DIS,FM042DIS,FM048DIS,FM054DIS,FM078DIS,FM096DIS,FM102DIS,FM108DIS,FM114DIS,FM132DIS,FM138DIS,FM144DIS,FM150DIS,FM156DIS,FM162DIS,FM168DIS,FM174DIS",within_exam_dedup
+DOCTOR_CLINIC_VISIT_PAST_YEAR,"B,D","bflwup1,dflwup1","FY048DOC,FY108DOC",5,2,"kept first varname per exam, dropped FY048DOC,FY108DOC",within_exam_dedup
+ECHO_QUALITATIVE_2D1,E,e1echy10,EQ2D1,2,1,"kept first varname per exam, dropped EQ2D1",within_exam_dedup
+ECHO_QUALITATIVE_2D2,E,e1echy10,EQ2D2,2,1,"kept first varname per exam, dropped EQ2D2",within_exam_dedup
+ECHO_QUALITY_SCORES_1_5,"E,E,E,E,E,E,E,E,E","e1echy05,e1echy05,e1echy05,e1echy05,e1echy10,e1echy10,e1echy10,e1echy10,e1echy10","EQS2,EQS3,EQS4,EQS5,EQS1,EQS2,EQS3,EQS4,EQS5",10,9,"kept first varname per exam, dropped EQS2,EQS3,EQS4,EQS5,EQS1,EQS2,EQS3,EQS4,EQS5",within_exam_dedup
 EMERGENCY_ROOM_SATISFACTION,J,j1f31,J31EMSATM,NA,NA,,varname_not_found_anywhere
 EMERGENCY_ROOM_VISIT_ANY,J,j1f31,J31EMERGM,NA,NA,,varname_not_found_anywhere
-EXAM_AMPM,B,b3f02,AM_PM_1,NA,NA,,varname_not_found_anywhere
-EXAM_AMPM,B,b3f02,AM_PM_2,NA,NA,,varname_not_found_anywhere
-EXAM_AMPM,G,g3f02,G02CAMPM,NA,NA,,varname_not_found_anywhere
+EPOCH_DURATION,F,f2hrv,FRSDURN2,2,1,"kept first varname per exam, dropped FRSDURN2",within_exam_dedup
+EXPECTED_TIME_SECOND_DRAW_AMPM,"H,I","h3f05a,i1f05a","H05AEXPTMX,I05AEXPTMX",5,2,"kept first varname per exam, dropped H05AEXPTMX,I05AEXPTMX",within_exam_dedup
 EXPECTED_TIME_SECOND_DRAW_AMPM,G,g4f05,G05AEXPTMX,NA,NA,,varname_not_found_anywhere
 F08_ABPAP,H,h3f08,H08ABPAP,3485,NA,Found in 'h3f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_ABPAP,I,i1f08,I08ABPAP,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
+F08_ASMA,J,j1f08short,J08ASMA,11,1,"kept first varname per exam, dropped J08ASMA",within_exam_dedup
 F08_BCNOW,H,h3f08,H08BCNOW,3485,NA,Found in 'h3f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_BCNOW,I,i1f08,I08BCNOW,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_BPH,I,i1f08,I08BPH,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
@@ -419,14 +648,19 @@ F08_BRSFD,H,h3f08,H08BRSFD,3485,NA,Found in 'h3f08__dup2' instead,varname_fallba
 F08_BRSFD,I,i1f08,I08BRSFD,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_BRTHC,H,h3f08,H08BRTHC,3485,NA,Found in 'h3f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_BRTHC,I,i1f08,I08BRTHC,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
+F08_CHNOW,J,j1f08short,J08CHNOW,9,1,"kept first varname per exam, dropped J08CHNOW",within_exam_dedup
+F08_DEPMD,J,j1f08short,J08DEPMD,6,1,"kept first varname per exam, dropped J08DEPMD",within_exam_dedup
 F08_DNTKW,H,h3f08,H08DNTKW,3485,NA,Found in 'h3f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_DNTKW,I,i1f08,I08DNTKW,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_ENDOM,H,h3f08,H08ENDOM,3485,NA,Found in 'h3f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_ENDOM,I,i1f08,I08ENDOM,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_FIBRD,H,h3f08,H08FIBRD,3485,NA,Found in 'h3f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_FIBRD,I,i1f08,I08FIBRD,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
+F08_HBNOW,J,j1f08short,J08HBNOW,9,1,"kept first varname per exam, dropped J08HBNOW",within_exam_dedup
+F08_HMNOW,J,j1f08short,J08HMNOW,9,1,"kept first varname per exam, dropped J08HMNOW",within_exam_dedup
 F08_HMNOW,H,h3f08,H08HMNOW,3485,NA,Found in 'h3f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_HMNOW,I,i1f08,I08HMNOW,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
+F08_HRTCON,J,j1f08short,J08HRTCON,5,1,"kept first varname per exam, dropped J08HRTCON",within_exam_dedup
 F08_HYSCR,H,h3f08,H08HYSCR,3485,NA,Found in 'h3f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_HYSCR,I,i1f08,I08HYSCR,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_HYSTR,H,h3f08,H08HYSTR,3485,NA,Found in 'h3f08__dup2' instead,varname_fallback_to_alt_dataset
@@ -448,8 +682,18 @@ F08_PROLP,I,i1f08,I08PROLP,3356,NA,Found in 'i1f08__dup2' instead,varname_fallba
 F08_TUBAL,H,h3f08,H08TUBAL,3485,NA,Found in 'h3f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_TUBAL,I,i1f08,I08TUBAL,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
 F08_VASEC,I,i1f08,I08VASEC,3356,NA,Found in 'i1f08__dup2' instead,varname_fallback_to_alt_dataset
-FAST_AT_LEAST_8H,G,g4f05,G05AFST8H,NA,NA,,varname_not_found_anywhere
+FAMILY_DEMENTIA_HISTORY,I,i1f98,I98DEMFM65,2,1,"kept first varname per exam, dropped I98DEMFM65",within_exam_dedup
+FAST_AT_LEAST_8H,"G,H,I","g4f05,h3f05a,i1f05a","G05AFST8H,H05AFST8H,I05AFST8H",7,3,"kept first varname per exam, dropped G05AFST8H,H05AFST8H,I05AFST8H",within_exam_dedup
 FAST_FOOD_FREQUENCY_CATEGORY,I,i1f48,I48FFFRQ,3260,992,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
+FATHER_ANGINA_EVER,H,h4f11,H11FANGI2,3,1,"kept first varname per exam, dropped H11FANGI2",within_exam_dedup
+FATHER_ASTHMA_EVER,H,h4f11,H11FASTH2,2,1,"kept first varname per exam, dropped H11FASTH2",within_exam_dedup
+FATHER_CANCER_EVER,H,h4f11,H11FCANC2,2,1,"kept first varname per exam, dropped H11FCANC2",within_exam_dedup
+FATHER_DIABETES_EVER,H,h4f11,H11FDIAB2,5,1,"kept first varname per exam, dropped H11FDIAB2",within_exam_dedup
+FATHER_HEART_ATTACK_EVER,H,h4f11,H11FATCK2,5,1,"kept first varname per exam, dropped H11FATCK2",within_exam_dedup
+FATHER_HEART_FAILURE_EVER,H,h4f11,H11FHRTF2,2,1,"kept first varname per exam, dropped H11FHRTF2",within_exam_dedup
+FATHER_HIGH_BP_EVER,H,h4f11,H11FHBP2,5,1,"kept first varname per exam, dropped H11FHBP2",within_exam_dedup
+FATHER_KIDNEY_FAILURE_EVER,H,h4f11,H11FKID2,2,1,"kept first varname per exam, dropped H11FKID2",within_exam_dedup
+FATHER_STROKE_EVER,H,h4f11,H11FSTRK2,5,1,"kept first varname per exam, dropped H11FSTRK2",within_exam_dedup
 FLOW_RATE_HEAVY_DAYS_12MO,I,i1f68,I68NMFLW,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 FORGETFULNESS_3MO,I,i1f68,I68FRGET,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 FORM_SEX,E,e1f53,E53SEX,NA,NA,,varname_not_found_anywhere
@@ -468,87 +712,81 @@ GENDER_DISCRIMINATION_GETTING_JOB,I,i1f44,I44GNJOB,3283,997,"20229, 21227, 30345
 GENDER_DISCRIMINATION_GETTING_MEDICAL_CARE,I,i1f44,I44GNMED,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 GENDER_DISCRIMINATION_IN_PUBLIC,I,i1f44,I44GNPUB,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 GENDER_DISCRIMINATION_STRESS,I,i1f44,I44GNSTR,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
+GENERAL_MED_DOSE_UNIT,"G,G,H,H,I,I,J,J,J,J","g3f09med,g3f09med,h4f09med,h4f09med,i1f09med,i1f09med,j1f09med,j1f09med,j1f09med,j1f09med","G09DOSEU2,G09DOSEU3,H09DOSEU2,H09DOSEU3,I09DOSEU2,I09DOSEU3,J09DOSEU2,J09DOSEU3,J09DOSEU4,J09DOSEU5",14,10,"kept first varname per exam, dropped G09DOSEU2,G09DOSEU3,H09DOSEU2,H09DOSEU3,I09DOSEU2,I09DOSEU3,J09DOSEU2,J09DOSEU3,J09DOSEU4,J09DOSEU5",within_exam_dedup
 GIRTH_PROTOCOL_MODIFIED,I,i1f20,I20GRMOD,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 GIRTH_PROTOCOL_REASON,I,i1f20,I20GRRESN,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-GLUCOSE_DRINK_COMPLETED,G,g4f05,G05ACOMPG,NA,NA,,varname_not_found_anywhere
+GLUCOSE_DRINK_COMPLETED,"G,H,I","g4f05,h3f05a,i1f05a","G05ACOMPG,H05ACOMPG,I05ACOMPG",7,3,"kept first varname per exam, dropped G05ACOMPG,H05ACOMPG,I05ACOMPG",within_exam_dedup
+GLUCOSE_DRINK_END_AMPM,"H,I","h3f05a,i1f05a","H05AGLENDX,I05AGLENDX",5,2,"kept first varname per exam, dropped H05AGLENDX,I05AGLENDX",within_exam_dedup
 GLUCOSE_DRINK_END_AMPM,G,g4f05,G05AGLENDX,NA,NA,,varname_not_found_anywhere
 HEADACHES_3MO,I,i1f68,I68HDACH,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
+HEAD_NECK_INJURY_MECHANISM,"I,I,I","i1f98,i1f98,i1f98","I98LFTINJFALL,I98LFTINJFT,I98LFTINJEXP",4,3,"kept first varname per exam, dropped I98LFTINJFALL,I98LFTINJFT,I98LFTINJEXP",within_exam_dedup
+HEART_ATTACK,D,dflwup1,FY108HAK,2,1,"kept first varname per exam, dropped FY108HAK",within_exam_dedup
+HEART_ATTACK_CAUSE_RESPONSES,"C,C,C,C","c1f35,c1f35,c1f35,c1f35","C35RESP2,C35RESP3,C35RESP4,C35RESP5",5,4,"kept first varname per exam, dropped C35RESP2,C35RESP3,C35RESP4,C35RESP5",within_exam_dedup
+HEART_PROBLEM_DIAGNOSIS,D,dflwup1,FY108HRT,2,1,"kept first varname per exam, dropped FY108HRT",within_exam_dedup
 HEIGHT_PROTOCOL_MODIFIED,I,i1f20,I20HTMOD,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 HEIGHT_PROTOCOL_REASON,I,i1f20,I20HTRESN,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
+HIGH_BLOOD_PRESSURE_DIAGNOSIS,D,dflwup1,FY108HBP,2,1,"kept first varname per exam, dropped FY108HBP",within_exam_dedup
+HIGH_CHOLESTEROL_DIAGNOSIS,G,g3f83,G83HBC,3,1,"kept FLWUP, dropped F83",cross_family_dedup
+HIGH_CHOLESTEROL_DIAGNOSIS,D,dflwup1,FY108HCH,2,1,"kept first varname per exam, dropped FY108HCH",within_exam_dedup
 HIP_PROTOCOL_MODIFIED,I,i1f20,I20HPMOD,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 HIP_PROTOCOL_REASON,I,i1f20,I20HPRESN,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-HOSP3_CODE3,D,dflwup1,FY1083C3,NA,NA,,varname_not_found_anywhere
+HOME_EXERCISE_PAST_YEAR,F,f1f18r,F18RL1HM,11,1,"kept first varname per exam, dropped F18RL1HM",within_exam_dedup
+HOME_MAINTENANCE_PAST_YEAR,F,f1f18r,F18RM1MN,11,1,"kept first varname per exam, dropped F18RM1MN",within_exam_dedup
+HOME_SHOVELING_HEAVY_HOME_PAST_YEAR,F,f1f18r,F18RG1SH,11,1,"kept first varname per exam, dropped F18RG1SH",within_exam_dedup
+HOSP3_CODE3,D,dflwup1,FY1083C3,2,1,"kept first varname per exam, dropped FY1083C3",within_exam_dedup
 HOSPITALIZATION_SATISFACTION,J,j1f31,J31HSSATM,NA,NA,,varname_not_found_anywhere
+HOSPITALIZED_OVERNIGHT_PAST_YEAR,"B,D","bflwup1,dflwup1","FY048PT,FY108PT",6,2,"kept first varname per exam, dropped FY048PT,FY108PT",within_exam_dedup
 HOSPITALIZED_SINCE_LAST_EXAM,J,j1f31,J31HOSM,NA,NA,,varname_not_found_anywhere
 HOSP_ANGIOGRAM_OR_CATH_OUTPATIENT,J,j1f31,J31OUTANGIM,NA,NA,,varname_not_found_anywhere
-HOSP_CARE_YEAR,D,d1f31a,D31CA3YR,NA,NA,,varname_not_found_anywhere
-HOSP_CARE_YEAR,D,d1f31a,D31CA4YR,NA,NA,,varname_not_found_anywhere
-HOSP_CARE_YEAR,D,d1f31a,D31CA5YR,NA,NA,,varname_not_found_anywhere
-HOSP_CARE_YEAR,D,d1f31a,D31CA6YR,NA,NA,,varname_not_found_anywhere
+HOSP_CARE_YEAR,"D,D,D,D,D","d1f31a,d1f31a,d1f31a,d1f31a,d1f31a","D31CA2YR,D31CA3YR,D31CA4YR,D31CA5YR,D31CA6YR",6,5,"kept first varname per exam, dropped D31CA2YR,D31CA3YR,D31CA4YR,D31CA5YR,D31CA6YR",within_exam_dedup
 HOSP_COVID19_HAD,J,j1f31,J31CVD19,NA,NA,,varname_not_found_anywhere
-HOSP_EVENT_YEAR,D,d1f31a,D31EV3YR,NA,NA,,varname_not_found_anywhere
-HOSP_EVENT_YEAR,D,d1f31a,D31EV4YR,NA,NA,,varname_not_found_anywhere
-HOSP_EVENT_YEAR,D,d1f31a,D31EV5YR,NA,NA,,varname_not_found_anywhere
-HOSP_EVENT_YEAR,D,d1f31a,D31EV6YR,NA,NA,,varname_not_found_anywhere
+HOSP_EVENT_YEAR,"D,D,D,D,D","d1f31a,d1f31a,d1f31a,d1f31a,d1f31a","D31EV2YR,D31EV3YR,D31EV4YR,D31EV5YR,D31EV6YR",6,5,"kept first varname per exam, dropped D31EV2YR,D31EV3YR,D31EV4YR,D31EV5YR,D31EV6YR",within_exam_dedup
 HOSP_KIDNEY_TRANSPLANT_SINCE_UPDATE,J,j1f31,J31KIDNDM,NA,NA,,varname_not_found_anywhere
 HOSP_OPEN_BLOCKED_ARTERY_PROCEDURE,J,j1f31,J31OUTARTEM,NA,NA,,varname_not_found_anywhere
+HOSP_OUTCOME,"J,J,J,J,J,J,J,J","j1f31,j1f31,j1f31,j1f31,j1f31,j1f31,j1f31,j1f31","J31OUTCOM2,J31OUTCOM3,J31OUTCOM4,J31OUTCOM5,J31OUTCOM6,J31OUTCOM7,J31OUTCOM8,J31OUTCOM9",9,8,"kept first varname per exam, dropped J31OUTCOM2,J31OUTCOM3,J31OUTCOM4,J31OUTCOM5,J31OUTCOM6,J31OUTCOM7,J31OUTCOM8,J31OUTCOM9",within_exam_dedup
 HOSP_OUTCOME,J,j1f31,J31OUTCOM1,NA,NA,,varname_not_found_anywhere
-HOSP_OUTCOME,J,j1f31,J31OUTCOM2,NA,NA,,varname_not_found_anywhere
-HOSP_OUTCOME,J,j1f31,J31OUTCOM3,NA,NA,,varname_not_found_anywhere
-HOSP_OUTCOME,J,j1f31,J31OUTCOM4,NA,NA,,varname_not_found_anywhere
-HOSP_OUTCOME,J,j1f31,J31OUTCOM5,NA,NA,,varname_not_found_anywhere
-HOSP_OUTCOME,J,j1f31,J31OUTCOM6,NA,NA,,varname_not_found_anywhere
-HOSP_OUTCOME,J,j1f31,J31OUTCOM7,NA,NA,,varname_not_found_anywhere
-HOSP_OUTCOME,J,j1f31,J31OUTCOM8,NA,NA,,varname_not_found_anywhere
-HOSP_OUTCOME,J,j1f31,J31OUTCOM9,NA,NA,,varname_not_found_anywhere
 HOSP_OVERNIGHT_SLEEP_TEST_SINCE_EXAM,J,j1f31,J31SLPTESTM,NA,NA,,varname_not_found_anywhere
 HOSP_RECORD_PERMISSION_HOSP,J,j1f31,J31PERMH,NA,NA,,varname_not_found_anywhere
 HOSP_RECORD_PERMISSION_PROCEDURES,J,j1f31,J31PERMP,NA,NA,,varname_not_found_anywhere
 HOSP_SAME_DAY_SURGERY_SINCE_UPDATE,J,j1f31,J31SMDAYM,NA,NA,,varname_not_found_anywhere
-HOSP_SATISFACTION_J,J,j1f31,J31HSSATM,NA,NA,,varname_not_found_anywhere
 HOSP_WEIGHT_LOSS_SURGERY_OUTPATIENT_STATUS,J,j1f31,J31WLSOUTPM,NA,NA,,varname_not_found_anywhere
 HOSP_WEIGHT_LOSS_SURGERY_SINCE_UPDATE,J,j1f31,J31SURGWLM,NA,NA,,varname_not_found_anywhere
 HOT_FLASHES_3MO,I,i1f68,I68HOTFL,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 HOT_FLASHES_BOTHER,I,i1f68,I68HFBOT,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 HOT_FLASHES_LIMIT_ACTIVITIES,I,i1f68,I68LIMIT,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 HOT_FLASHES_SINCE_40,I,i1f68,I68HOTFL40,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
-ILL_PAST_24H,G,g4f05,G05AILL,NA,NA,,varname_not_found_anywhere
+ILL_PAST_24H,"G,H,I","g4f05,h3f05a,i1f05a","G05AILL,H05AILL,I05AILL",10,3,"kept first varname per exam, dropped G05AILL,H05AILL,I05AILL",within_exam_dedup
 IMAGE_COMPONENT_OTHER_SPECIFY,H,h4f40,H40OTIMGX,NA,NA,,varname_not_found_anywhere
+INJURY_EVENT_YEAR,"C,C,C,C,C","c1f31ac,c1f31ac,c1f31ac,c1f31ac,c1f31ac","YR2,YR3,YR4,YR5,YR6",6,5,"kept first varname per exam, dropped YR2,YR3,YR4,YR5,YR6",within_exam_dedup
 INSOMNIA_3MO,I,i1f68,I68INSOM,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 IRRITABILITY_3MO,I,i1f68,I68IRRIT,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 JOINT_STIFFNESS_3MO,I,i1f68,I68JOINT,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 KIDNEY_TRANSPLANT,J,j1f31,J31KIDNDM,NA,NA,,varname_not_found_anywhere
+MAJOR_ILLNESS_INJURY_PAST_YEAR,B,bflwup1,FY048INJ,4,1,"kept first varname per exam, dropped FY048INJ",within_exam_dedup
 MAX_DAYS_BETWEEN_PERIODS_12MO,I,i1f68,I68NDMAX,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 MENOPAUSE_STATUS_12MO,I,i1f68,I68MNPSE,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 MENSTRUAL_CYCLES_REGULAR_12MO,I,i1f68,I68MNREG,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 MIN_DAYS_BETWEEN_PERIODS_12MO,I,i1f68,I68NDMIN,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
+MODE_OF_RESPONSE,"A,A,B,B,B,B,C,D,D,D,D,E,E,E,E,E,E,E,E","aflwup1,aflwup1,bflwup1,bflwup1,bflwup1,bflwup1,cflwup1a,dflwup1,dflwup1,dflwup1,dflwup1,eflwup1,eflwup1,eflwup1,eflwup1,eflwup1,eflwup1,eflwup1,eflwup1","FM012MOD,FM018MOD,FM036MOD,FM042MOD,FM048MOD,FM054MOD,FM078MOD,FM096MOD,FM102MOD,FM108MOD,FM114MOD,FM132MOD,FM138MOD,FM144MOD,FM150MOD,FM156MOD,FM162MOD,FM168MOD,FM174MOD",24,19,"kept first varname per exam, dropped FM012MOD,FM018MOD,FM036MOD,FM042MOD,FM048MOD,FM054MOD,FM078MOD,FM096MOD,FM102MOD,FM108MOD,FM114MOD,FM132MOD,FM138MOD,FM144MOD,FM150MOD,FM156MOD,FM162MOD,FM168MOD,FM174MOD",within_exam_dedup
 MOOD_CHANGES_3MO,I,i1f68,I68MOOD,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
+MOTHER_ANGINA_EVER,H,h4f11,H11MANGI2,3,1,"kept first varname per exam, dropped H11MANGI2",within_exam_dedup
+MOTHER_ASTHMA_EVER,H,h4f11,H11MASTH2,2,1,"kept first varname per exam, dropped H11MASTH2",within_exam_dedup
+MOTHER_CANCER_EVER,H,h4f11,H11MCANC2,2,1,"kept first varname per exam, dropped H11MCANC2",within_exam_dedup
+MOTHER_DIABETES_EVER,H,h4f11,H11MDIAB2,5,1,"kept first varname per exam, dropped H11MDIAB2",within_exam_dedup
+MOTHER_HEART_FAILURE_EVER,H,h4f11,H11MHRTF2,2,1,"kept first varname per exam, dropped H11MHRTF2",within_exam_dedup
+MOTHER_HIGH_BP_EVER,H,h4f11,H11MHBP2,5,1,"kept first varname per exam, dropped H11MHBP2",within_exam_dedup
+MOTHER_KIDNEY_FAILURE_EVER,H,h4f11,H11MKID2,2,1,"kept first varname per exam, dropped H11MKID2",within_exam_dedup
+MOTHER_STROKE_EVER,H,h4f11,H11MSTRK2,5,1,"kept first varname per exam, dropped H11MSTRK2",within_exam_dedup
+MRI_ANY_PARTICIPANT_ISSUES_DETAIL,"I,I,I,I,I","i1f92b,i1f92b,i1f92b,i1f92b,i1f92b","I92ACLAU,I92AMOVE,I92APAIN,I92AOT,I92AOTSP",6,5,"kept first varname per exam, dropped I92ACLAU,I92AMOVE,I92APAIN,I92AOT,I92AOTSP",within_exam_dedup
 MRI_CONSENT_SIGNED,I,i1f92a,I92CONS,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
+MRI_INITIAL_CONTACT_PARTICIPATION_WILLINGNESS,"I,I","i1f92a,i1f92a","I92PPTNO,I92OTTM",3,2,"kept first varname per exam, dropped I92PPTNO,I92OTTM",within_exam_dedup
 MRI_INITIAL_CONTACT_PARTICIPATION_WILLINGNESS,I,i1f92a,I92PPT,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_PARTICIPATION_WILLINGNESS,I,i1f92a,I92PPTNO,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_PARTICIPATION_WILLINGNESS,I,i1f92a,I92OTTM,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
+MRI_INITIAL_CONTACT_REFUSAL_REASONS,"I,I,I,I,I,I","i1f92a,i1f92a,i1f92a,i1f92a,i1f92a,i1f92a","I92FEAR,I92HEALTH,I92NOTINT,I92TRANSP,I92OTX,I92OTHER",7,6,"kept first varname per exam, dropped I92FEAR,I92HEALTH,I92NOTINT,I92TRANSP,I92OTX,I92OTHER",within_exam_dedup
 MRI_INITIAL_CONTACT_REFUSAL_REASONS,I,i1f92a,I92BUSY,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_REFUSAL_REASONS,I,i1f92a,I92FEAR,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_REFUSAL_REASONS,I,i1f92a,I92HEALTH,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_REFUSAL_REASONS,I,i1f92a,I92NOTINT,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_REFUSAL_REASONS,I,i1f92a,I92TRANSP,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_REFUSAL_REASONS,I,i1f92a,I92OTX,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_REFUSAL_REASONS,I,i1f92a,I92OTHER,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
+MRI_INITIAL_CONTACT_SAFETY_SCREEN,"I,I,I,I,I,I,I,I,I,I,I","i1f92a,i1f92a,i1f92a,i1f92a,i1f92a,i1f92a,i1f92a,i1f92a,i1f92a,i1f92a,i1f92a","I92CAI,I92CLAUS,I92DEV,I92EAR,I92FLAT,I92METAL,I92NEURO,I92PACE,I92STENT,I92STENTSP,I92TAT",12,11,"kept first varname per exam, dropped I92CAI,I92CLAUS,I92DEV,I92EAR,I92FLAT,I92METAL,I92NEURO,I92PACE,I92STENT,I92STENTSP,I92TAT",within_exam_dedup
 MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92BRACES,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92CAI,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92CLAUS,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92DEV,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92EAR,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92FLAT,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92METAL,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92NEURO,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92PACE,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92STENT,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92STENTSP,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_SAFETY_SCREEN,I,i1f92a,I92TAT,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
+MRI_INITIAL_CONTACT_Y25_HISTORY,"I,I","i1f92a,i1f92a","I92Y25L3V,I92Y25LEVSP",3,2,"kept first varname per exam, dropped I92Y25L3V,I92Y25LEVSP",within_exam_dedup
 MRI_INITIAL_CONTACT_Y25_HISTORY,I,i1f92a,I92Y25PPT,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_Y25_HISTORY,I,i1f92a,I92Y25L3V,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
-MRI_INITIAL_CONTACT_Y25_HISTORY,I,i1f92a,I92Y25LEVSP,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
 MRI_PREGNANCY_TEST_COMPLETED,I,i1f92a,I92PREG,663,199,"30540, 30384, 41595, 11328, 30416",Short_ID_map_fail
 NEIGHBORHOOD_CLOSE_KNIT,I,i1f56,I56CLOSE,3270,992,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 NEIGHBORHOOD_CONFLICT,I,i1f56,I56CNFLT,3270,992,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
@@ -566,19 +804,25 @@ NONPRESCRIPTION_ST_JOHNS_WORT_12MO,I,i1f68,I68SJWRT,1880,546,"20229, 10600, 4057
 NONPRESCRIPTION_THERAPY_FOR_HOT_FLASHES,I,i1f68,I68HFNPT,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 NONPRESCRIPTION_VITAMIN_B_12MO,I,i1f68,I68BVIT,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 NONPRESCRIPTION_WILD_YAM_12MO,I,i1f68,I68WDYAM,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
+NONSTRENUOUS_LEISURE_SPORTS_PAST_YEAR,F,f1f18r,F18RI1LS,11,1,"kept first varname per exam, dropped F18RI1LS",within_exam_dedup
 NO_BC_12MO,I,i1f68,I68YNOBC,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 NO_LISTED_SYMPTOMS_3MO,I,i1f68,I68NOSYM,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 NO_MEASUREMENT_TAKEN,I,i1f20,I20NOMEAS,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-OGTT_CONSENT,G,g4f05,G05AOGTT,NA,NA,,varname_not_found_anywhere
+NUMBER_OF_ALIQUOTS_BY_COLLECTION,"C,C","c1f39,c1f39","C39ALIQ2,C39ALIQ3",3,2,"kept first varname per exam, dropped C39ALIQ2,C39ALIQ3",within_exam_dedup
+NUMBER_OF_BOTTLES_USED_BY_COLLECTION,"C,C","c1f39,c1f39","C39USED2,C39USED3",3,2,"kept first varname per exam, dropped C39USED2,C39USED3",within_exam_dedup
+OGTT_CONSENT,"G,H","g4f05,h3f05a","G05AOGTT,H05AOGTT",5,2,"kept first varname per exam, dropped G05AOGTT,H05AOGTT",within_exam_dedup
 OUTPATIENT_ARTERY_PROCEDURE,J,j1f31,J31OUTARTEM,NA,NA,,varname_not_found_anywhere
 OUTPATIENT_CORONARY_ANGIOGRAM,J,j1f31,J31OUTANGIM,NA,NA,,varname_not_found_anywhere
 OUTPATIENT_VISIT_ANY,J,j1f31,J31OUTNOERM,NA,NA,,varname_not_found_anywhere
+OVARIAN_SURGERY_REASON,"G,G,H,H","g3f09ova,g3f09ova,h3f09ova,h3f09ova","G09OSRSN2,G09OSRSN3,H09OSRSN2,H09OSRSN3",7,4,"kept first varname per exam, dropped G09OSRSN2,G09OSRSN3,H09OSRSN2,H09OSRSN3",within_exam_dedup
+OVARIAN_SURGERY_REMOVED_WHAT,"G,G,H,H","g3f09ova,g3f09ova,h3f09ova,h3f09ova","G09REMVD2,G09REMVD3,H09REMVD2,H09REMVD3",7,4,"kept first varname per exam, dropped G09REMVD2,G09REMVD3,H09REMVD2,H09REMVD3",within_exam_dedup
 OVERNIGHT_SLEEP_TEST,J,j1f31,J31SLPTESTM,NA,NA,,varname_not_found_anywhere
 PALPITATIONS_ASSOCIATED_LIGHTHEADED,C,c1f41rs,C41ROCCR,NA,NA,,varname_not_found_anywhere
+PALPITATIONS_PAST_YEAR,C,c1f41rs,C41RPALP,2,1,"kept first varname per exam, dropped C41RPALP",within_exam_dedup
 PERIODS_CHANGED_12MO,I,i1f68,I68PDCHG,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
+PERMISSION_TO_OBTAIN_RECORDS,J,j1f31,J31PERMP,4,1,"kept first varname per exam, dropped J31PERMP",within_exam_dedup
 PERMISSION_TO_OBTAIN_RECORDS,J,j1f31,J31PERMH,NA,NA,,varname_not_found_anywhere
-PERMISSION_TO_OBTAIN_RECORDS,J,j1f31,J31PERMP,NA,NA,,varname_not_found_anywhere
-PREGNANT,G,g4f05,G05APREG,NA,NA,,varname_not_found_anywhere
+PREGNANT,"G,H,I","g4f05,h3f05a,i1f05a","G05APREG,H05APREG,I05APREG",7,3,"kept first varname per exam, dropped G05APREG,H05APREG,I05APREG",within_exam_dedup
 PRESCRIBED_FEMALE_HORMONES_HOT_FLASHES,I,i1f68,I68HFFH,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 PRESCRIBED_HORMONES_FOR_HOT_FLASHES,I,i1f68,I68HORMN,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 PRESCRIBED_NONHORMONAL_MED_FOR_HOT_FLASHES,I,i1f68,I68HFNHM,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
@@ -598,8 +842,29 @@ RACE_DISCRIMINATION_GETTING_JOB,I,i1f44,I44RCJOB,3283,997,"20229, 21227, 30345, 
 RACE_DISCRIMINATION_GETTING_MEDICAL_CARE,I,i1f44,I44RCMED,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 RACE_DISCRIMINATION_IN_PUBLIC,I,i1f44,I44RCPUB,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 RACE_DISCRIMINATION_STRESS,I,i1f44,I44RCSTR,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
+RACKET_VIGOROUS_PAST_YEAR,F,f1f18r,F18RB1RA,11,1,"kept first varname per exam, dropped F18RB1RA",within_exam_dedup
+RAVLT_BELL_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87BELL2,H87BELL3,H87BELL4,H87BELL5,H87BELL6,H87BELL7",7,6,"kept first varname per exam, dropped H87BELL2,H87BELL3,H87BELL4,H87BELL5,H87BELL6,H87BELL7",within_exam_dedup
+RAVLT_COFFEE_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87COFFEE2,H87COFFEE3,H87COFFEE4,H87COFFEE5,H87COFFEE6,H87COFFEE7",7,6,"kept first varname per exam, dropped H87COFFEE2,H87COFFEE3,H87COFFEE4,H87COFFEE5,H87COFFEE6,H87COFFEE7",within_exam_dedup
+RAVLT_COLOR_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87COLOR2,H87COLOR3,H87COLOR4,H87COLOR5,H87COLOR6,H87COLOR7",7,6,"kept first varname per exam, dropped H87COLOR2,H87COLOR3,H87COLOR4,H87COLOR5,H87COLOR6,H87COLOR7",within_exam_dedup
+RAVLT_CURTAIN_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87CURTAIN2,H87CURTAIN3,H87CURTAIN4,H87CURTAIN5,H87CURTAIN6,H87CURTAIN7",7,6,"kept first varname per exam, dropped H87CURTAIN2,H87CURTAIN3,H87CURTAIN4,H87CURTAIN5,H87CURTAIN6,H87CURTAIN7",within_exam_dedup
+RAVLT_DRUM_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87DRUM2,H87DRUM3,H87DRUM4,H87DRUM5,H87DRUM6,H87DRUM7",7,6,"kept first varname per exam, dropped H87DRUM2,H87DRUM3,H87DRUM4,H87DRUM5,H87DRUM6,H87DRUM7",within_exam_dedup
+RAVLT_FARMER_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87FARMER2,H87FARMER3,H87FARMER4,H87FARMER5,H87FARMER6,H87FARMER7",7,6,"kept first varname per exam, dropped H87FARMER2,H87FARMER3,H87FARMER4,H87FARMER5,H87FARMER6,H87FARMER7",within_exam_dedup
+RAVLT_GARDEN_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87GARDEN2,H87GARDEN3,H87GARDEN4,H87GARDEN5,H87GARDEN6,H87GARDEN7",7,6,"kept first varname per exam, dropped H87GARDEN2,H87GARDEN3,H87GARDEN4,H87GARDEN5,H87GARDEN6,H87GARDEN7",within_exam_dedup
+RAVLT_HAT_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87HAT2,H87HAT3,H87HAT4,H87HAT5,H87HAT6,H87HAT7",7,6,"kept first varname per exam, dropped H87HAT2,H87HAT3,H87HAT4,H87HAT5,H87HAT6,H87HAT7",within_exam_dedup
+RAVLT_HOUSE_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87HOUSE2,H87HOUSE3,H87HOUSE4,H87HOUSE5,H87HOUSE6,H87HOUSE7",7,6,"kept first varname per exam, dropped H87HOUSE2,H87HOUSE3,H87HOUSE4,H87HOUSE5,H87HOUSE6,H87HOUSE7",within_exam_dedup
+RAVLT_MOON_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87MOON2,H87MOON3,H87MOON4,H87MOON5,H87MOON6,H87MOON7",7,6,"kept first varname per exam, dropped H87MOON2,H87MOON3,H87MOON4,H87MOON5,H87MOON6,H87MOON7",within_exam_dedup
+RAVLT_NOSE_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87NOSE2,H87NOSE3,H87NOSE4,H87NOSE5,H87NOSE6,H87NOSE7",7,6,"kept first varname per exam, dropped H87NOSE2,H87NOSE3,H87NOSE4,H87NOSE5,H87NOSE6,H87NOSE7",within_exam_dedup
+RAVLT_PARENT_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87PARENT2,H87PARENT3,H87PARENT4,H87PARENT5,H87PARENT6,H87PARENT7",7,6,"kept first varname per exam, dropped H87PARENT2,H87PARENT3,H87PARENT4,H87PARENT5,H87PARENT6,H87PARENT7",within_exam_dedup
+RAVLT_RIVER_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87RIVER2,H87RIVER3,H87RIVER4,H87RIVER5,H87RIVER6,H87RIVER7",7,6,"kept first varname per exam, dropped H87RIVER2,H87RIVER3,H87RIVER4,H87RIVER5,H87RIVER6,H87RIVER7",within_exam_dedup
+RAVLT_SCHOOL_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87SCHOOL2,H87SCHOOL3,H87SCHOOL4,H87SCHOOL5,H87SCHOOL6,H87SCHOOL7",7,6,"kept first varname per exam, dropped H87SCHOOL2,H87SCHOOL3,H87SCHOOL4,H87SCHOOL5,H87SCHOOL6,H87SCHOOL7",within_exam_dedup
+RAVLT_TRIAL6_COMPLETION_TIME,H,h3f87,H87COMPTM,2,1,"kept first varname per exam, dropped H87COMPTM",within_exam_dedup
+RAVLT_TRIAL_GIVEN_FLAGS,"H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87","H87TRIAL2,H87TRIAL3,H87TRIAL4,H87TRIAL5,H87TRIAL6",6,5,"kept first varname per exam, dropped H87TRIAL2,H87TRIAL3,H87TRIAL4,H87TRIAL5,H87TRIAL6",within_exam_dedup
+RAVLT_TURKEY_RECALL,"H,H,H,H,H,H","h3f87,h3f87,h3f87,h3f87,h3f87,h3f87","H87TURKEY2,H87TURKEY3,H87TURKEY4,H87TURKEY5,H87TURKEY6,H87TURKEY7",7,6,"kept first varname per exam, dropped H87TURKEY2,H87TURKEY3,H87TURKEY4,H87TURKEY5,H87TURKEY6,H87TURKEY7",within_exam_dedup
 REASON_PERIODS_STOPPED,I,i1f68,I68STOP,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
+REDUCED_FAT,G,g3f48,G48FAT,4,1,"kept first varname per exam, dropped G48FAT",within_exam_dedup
 RESTAURANT_EATING_FREQUENCY_CATEGORY,I,i1f48,I48RCFRQ,3260,992,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
+RESTRICT_CARBS_MEDICAL,"H,I","h3f05a,i1f05a","H05ARESTC,I05ARESTC",4,2,"kept first varname per exam, dropped H05ARESTC,I05ARESTC",within_exam_dedup
+RUN_JOG_PAST_YEAR,F,f1f18r,F18RA1RU,11,1,"kept first varname per exam, dropped F18RA1RU",within_exam_dedup
 SAME_DAY_SURGERY_ADMISSION,J,j1f31,J31SMDAYM,NA,NA,,varname_not_found_anywhere
 SEISMOCARDIOGRAM_SUBSTUDY_COMMENTS,E,e1f40,E40SEISX,NA,NA,,varname_not_found_anywhere
 SES_DISCRIMINATED_AT_HOME,I,i1f44,I44SHOMF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
@@ -617,7 +882,7 @@ SES_DISCRIMINATION_GETTING_JOB,I,i1f44,I44SEJOB,3283,997,"20229, 21227, 30345, 1
 SES_DISCRIMINATION_GETTING_MEDICAL_CARE,I,i1f44,I44SEMED,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 SES_DISCRIMINATION_IN_PUBLIC,I,i1f44,I44SEPUB,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 SES_DISCRIMINATION_STRESS,I,i1f44,I44SESTR,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-SEX,A,a4f09gen,SEX,5114,NA,Found in 'g6ref' instead,varname_fallback_to_alt_dataset
+SEX,"A,I","a4f09gen,i1f40","SEX,I40SEX",7,2,"kept REF, dropped F09,F40",cross_family_dedup
 SEX,B,b4ref,SEX,5114,NA,Found in 'g6ref' instead,varname_fallback_to_alt_dataset
 SEX,C,c2ref,SEX,5114,NA,Found in 'g6ref' instead,varname_fallback_to_alt_dataset
 SEX,D,d3ref,SEX,5114,NA,Found in 'g6ref' instead,varname_fallback_to_alt_dataset
@@ -638,22 +903,49 @@ SEX_DISCRIMINATION_GETTING_MEDICAL_CARE_FREQUENCY,I,i1f44,I44SEXMEDF,3283,997,"2
 SEX_DISCRIMINATION_IN_PUBLIC,I,i1f44,I44SEXPUB,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 SEX_DISCRIMINATION_IN_PUBLIC_FREQUENCY,I,i1f44,I44SEXPUBF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 SEX_DISCRIMINATION_STRESS,I,i1f44,I44SEXSTR,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
+SF12_EMOTIONAL_HEALTH_LIMITED_ACCOMPLISHMENT,F,f2f65,F65EMLES,6,1,"kept first varname per exam, dropped F65EMLES",within_exam_dedup
+SF12_EMOTIONAL_HEALTH_LIMITED_WORK,F,f2f65,F65EMLTD,6,1,"kept first varname per exam, dropped F65EMLTD",within_exam_dedup
+SF12_GENERAL_HEALTH_STATUS,F,f2f65,F65HELTH,6,1,"kept first varname per exam, dropped F65HELTH",within_exam_dedup
+SF12_MODERATE_ACTIVITY_LIMITATION,F,f2f65,F65MODA,6,1,"kept first varname per exam, dropped F65MODA",within_exam_dedup
+SF12_PAIN_INTERFERED_WITH_WORK,F,f2f65,F65PAIN,6,1,"kept first varname per exam, dropped F65PAIN",within_exam_dedup
+SF12_PHYSICAL_HEALTH_LIMITED_ACCOMPLISHMENT,F,f2f65,F65PHLES,6,1,"kept first varname per exam, dropped F65PHLES",within_exam_dedup
+SF12_PHYSICAL_HEALTH_LIMITED_WORK,F,f2f65,F65PHLTD,6,1,"kept first varname per exam, dropped F65PHLTD",within_exam_dedup
+SF12_STAIRS_CLIMBING_LIMITATION,F,f2f65,F65CLIMB,6,1,"kept first varname per exam, dropped F65CLIMB",within_exam_dedup
+SPIROMETER_ACCEPTABILITY_CODES,"A,A,A,A,A","a4f12,a4f12,a4f12,a4f12,a4f12","A12T2ACC,A12T3ACC,A12T4ACC,A12T5ACC,A12T6ACC",6,5,"kept first varname per exam, dropped A12T2ACC,A12T3ACC,A12T4ACC,A12T5ACC,A12T6ACC",within_exam_dedup
+SPIROMETER_AST_EXTRAP_VOLUME_FLAGS,"B,B,B,B,B,C,C,C,C,E,E,E,E,E,E,E","b2f12pf,b2f12pf,b2f12pf,b2f12pf,b2f12pf,c1f12pf,c1f12pf,c1f12pf,c1f12pf,e1f12pf,e1f12pf,e1f12pf,e1f12pf,e1f12pf,e1f12pf,e1f12pf","B12AST_2,B12AST_3,B12AST_4,B12AST_5,B12AST_6,C12AST_2,C12AST_3,C12AST_4,C12AST_5,E12AST_2,E12AST_3,E12AST_4,E12AST_5,E12AST_6,E12AST_7,E12AST_8",19,16,"kept first varname per exam, dropped B12AST_2,B12AST_3,B12AST_4,B12AST_5,B12AST_6,C12AST_2,C12AST_3,C12AST_4,C12AST_5,E12AST_2,E12AST_3,E12AST_4,E12AST_5,E12AST_6,E12AST_7,E12AST_8",within_exam_dedup
+SPIROMETER_MAX_CURVE_TRIAL_INDEX,E,e1f12pf8,E128RTR,5,1,"kept first varname per exam, dropped E128RTR",within_exam_dedup
+SPIROMETER_MAX_FEV1_TRIAL_INDEX,E,e1f12pf8,E128E1TR,5,1,"kept first varname per exam, dropped E128E1TR",within_exam_dedup
+SPIROMETER_MAX_FEV3_TRIAL_INDEX,E,e1f12pf8,E128E3TR,5,1,"kept first varname per exam, dropped E128E3TR",within_exam_dedup
+SPIROMETER_MAX_FVC_TRIAL_INDEX,E,e1f12pf8,E128VCTR,5,1,"kept first varname per exam, dropped E128VCTR",within_exam_dedup
 SPIROMETER_RACE_CODE,B,b2f12,B12RACE,NA,NA,,varname_not_found_anywhere
 SPIROMETER_RACE_CODE,E,e1f12pf,E12RACE,NA,NA,,varname_not_found_anywhere
 SPIROMETER_SEX,B,b2f12,B12SEX,NA,NA,,varname_not_found_anywhere
 SPIROMETER_SEX,E,e1f12pf,E12SEX,NA,NA,,varname_not_found_anywhere
+STRENUOUS_SPORTS_PAST_YEAR,F,f1f18r,F18RH1HS,11,1,"kept first varname per exam, dropped F18RH1HS",within_exam_dedup
+STROKE_OR_TIA,D,dflwup1,FY108TIA,2,1,"kept first varname per exam, dropped FY108TIA",within_exam_dedup
+SWIM_PAST_YEAR,F,f1f18r,F18RD1SW,11,1,"kept first varname per exam, dropped F18RD1SW",within_exam_dedup
+TB_IN_LUNGS_OR_OTHER_PARTS,G,g3f09tb,G09TBOTH2,4,1,"kept first varname per exam, dropped G09TBOTH2",within_exam_dedup
 TB_IN_LUNGS_OR_OTHER_PARTS,G,g3f09tb,G09TBOTH1,NA,NA,,varname_not_found_anywhere
-TB_IN_LUNGS_OR_OTHER_PARTS,G,g3f09tb,G09TBOTH2,NA,NA,,varname_not_found_anywhere
-THAWED_SAMPLE_FLAG,F,f1lip,FL1THAW,3671,NA,Found in 'f1micro' instead,varname_fallback_to_alt_dataset
 TIME_LAST_NONWATER_DELAYED_AMPM,G,g4f05,G05ATMEATX,NA,NA,,varname_not_found_anywhere
+TIME_SECOND_BLOOD_COLLECTION_AMPM,"H,I","h3f05a,i1f05a","H05ATMBL2X,I05ATMBL2X",5,2,"kept first varname per exam, dropped H05ATMBL2X,I05ATMBL2X",within_exam_dedup
 TIME_SECOND_BLOOD_COLLECTION_AMPM,G,g4f05,G05ATMBL2X,NA,NA,,varname_not_found_anywhere
+TIME_SPECIMEN_FROZEN_FIRST_AMPM,"H,I","h3f05a,i1f05a","H05ATMFRZX,I05ATMFRZX",5,2,"kept first varname per exam, dropped H05ATMFRZX,I05ATMFRZX",within_exam_dedup
 TIME_SPECIMEN_FROZEN_FIRST_AMPM,G,g4f05,G05ATMFRZX,NA,NA,,varname_not_found_anywhere
+TIME_SPECIMEN_FROZEN_SECOND_AMPM,"H,I","h3f05a,i1f05a","H05ATMFR2X,I05ATMFR2X",5,2,"kept first varname per exam, dropped H05ATMFR2X,I05ATMFR2X",within_exam_dedup
 TIME_SPECIMEN_FROZEN_SECOND_AMPM,G,g4f05,G05ATMFR2X,NA,NA,,varname_not_found_anywhere
+TIME_SPECIMEN_SPUN_FIRST_AMPM,"H,I","h3f05a,i1f05a","H05ATMSPNX,I05ATMSPNX",5,2,"kept first varname per exam, dropped H05ATMSPNX,I05ATMSPNX",within_exam_dedup
+TIME_SPECIMEN_SPUN_SECOND_AMPM,"H,I","h3f05a,i1f05a","H05ATMSP2X,I05ATMSP2X",4,2,"kept first varname per exam, dropped H05ATMSP2X,I05ATMSP2X",within_exam_dedup
+TOBACCO_OLD_BRAND_FILTERED,"A,A,A","a4f09tob,a4f09tob,a4f09tob","A09XFIL2,A09XFIL3,A09XFIL4",4,3,"kept first varname per exam, dropped A09XFIL2,A09XFIL3,A09XFIL4",within_exam_dedup
+TOBACCO_OLD_BRAND_MENTHOL,"A,A,A","a4f09tob,a4f09tob,a4f09tob","A09XMEN2,A09XMEN3,A09XMEN4",4,3,"kept first varname per exam, dropped A09XMEN2,A09XMEN3,A09XMEN4",within_exam_dedup
+TOBACCO_OLD_BRAND_PACK_TYPE,"A,A,A","a4f09tob,a4f09tob,a4f09tob","A09XPAC2,A09XPAC3,A09XPAC4",4,3,"kept first varname per exam, dropped A09XPAC2,A09XPAC3,A09XPAC4",within_exam_dedup
+TOBACCO_OLD_BRAND_SIZE,"A,A,A","a4f09tob,a4f09tob,a4f09tob","A09XSIZ2,A09XSIZ3,A09XSIZ4",4,3,"kept first varname per exam, dropped A09XSIZ2,A09XSIZ3,A09XSIZ4",within_exam_dedup
+TOBACCO_QUIT_METHODS,"C,C,C","c1f09tob,c1f09tob,c1f09tob","C09CUTDN,C09HELP,C09OTHER",4,3,"kept first varname per exam, dropped C09CUTDN,C09HELP,C09OTHER",within_exam_dedup
+TOBACCO_QUIT_REASONS,"C,C,C,C,C,C","c1f09tob,c1f09tob,c1f09tob,c1f09tob,c1f09tob,c1f09tob","C09CONCE,C09PREGN,C09FAMIL,C09TIRED,C09EXPEN,C09WORK",7,6,"kept first varname per exam, dropped C09CONCE,C09PREGN,C09FAMIL,C09TIRED,C09EXPEN,C09WORK",within_exam_dedup
 TOBACCO_SMOKELESS_CURRENT,C,c1f09tob,C09SNUFF,NA,NA,,varname_not_found_anywhere
 TOBACCO_SMOKELESS_FREQUENCY,C,c1f09tob,C09OFTEN,NA,NA,,varname_not_found_anywhere
-TOURNIQUET_LIMIT_EXCEEDED_FIRST,G,g4f05,G05ATOURN,NA,NA,,varname_not_found_anywhere
-TOURNIQUET_LIMIT_EXCEEDED_SECOND,G,g4f05,G05ATOURN2,NA,NA,,varname_not_found_anywhere
-TYPE_A_MISC_I,B,b2f16,I,NA,NA,,varname_not_found_anywhere
+TOURNIQUET_LIMIT_EXCEEDED_FIRST,"G,H,I","g4f05,h3f05a,i1f05a","G05ATOURN,H05ATOURN,I05ATOURN",10,3,"kept first varname per exam, dropped G05ATOURN,H05ATOURN,I05ATOURN",within_exam_dedup
+TOURNIQUET_LIMIT_EXCEEDED_SECOND,"G,H,I","g4f05,h3f05a,i1f05a","G05ATOURN2,H05ATOURN2,I05ATOURN2",7,3,"kept first varname per exam, dropped G05ATOURN2,H05ATOURN2,I05ATOURN2",within_exam_dedup
+TYPE_A_CURRENT_ROLE,"A,A,A,A","a4f16,a4f16,a4f16,a4f16","A16HOME,A16STDNT,A16UNEMP,A16OTHER",7,4,"kept first varname per exam, dropped A16HOME,A16STDNT,A16UNEMP,A16OTHER",within_exam_dedup
 URINARY_LEAKAGE_3MO,I,i1f68,I68LEAK,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 USED_BC_12MO_ACNE,I,i1f68,I68YACNE,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 USED_BC_12MO_BIRTH_CONTROL,I,i1f68,I68YBC,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
@@ -663,8 +955,11 @@ USED_BC_12MO_PAINFUL_OVULATION,I,i1f68,I68YPAIN,1880,546,"20229, 10600, 40575, 3
 USED_BC_12MO_REGULATE_PERIOD,I,i1f68,I68YRGPD,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 USED_BC_12MO_VAGINAL_BLEEDING,I,i1f68,I68YVAGB,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
 VAGINAL_DRYNESS_3MO,I,i1f68,I68VDRY,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
+VIGOROUS_DANCE_CLASS_PAST_YEAR,F,f1f18r,F18RE1DN,11,1,"kept first varname per exam, dropped F18RE1DN",within_exam_dedup
+VIGOROUS_JOB_LIFT_CARRY_DIG_PAST_YEAR,F,f1f18r,F18RF1LF,11,1,"kept first varname per exam, dropped F18RF1LF",within_exam_dedup
 VISIT_DOCTOR_FOR_HOT_FLASHES,I,i1f68,I68DRVST,1880,546,"20229, 10600, 40575, 30953, 30540",Short_ID_map_fail
-VOMIT_AFTER_GLUC_DRINK,G,g4f05,G05AVOMIT,NA,NA,,varname_not_found_anywhere
+VOMIT_AFTER_GLUC_DRINK,"G,H,I","g4f05,h3f05a,i1f05a","G05AVOMIT,H05AVOMIT,I05AVOMIT",7,3,"kept first varname per exam, dropped G05AVOMIT,H05AVOMIT,I05AVOMIT",within_exam_dedup
+WALK_HIKE_PAST_YEAR,F,f1f18r,F18RJ1WL,11,1,"kept first varname per exam, dropped F18RJ1WL",within_exam_dedup
 WEIGHT_DISCRIMINATED_AT_HOME,I,i1f44,I44WHOMF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 WEIGHT_DISCRIMINATED_AT_SCHOOL,I,i1f44,I44WSCHF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
 WEIGHT_DISCRIMINATED_AT_WORK,I,i1f44,I44WWRKF,3283,997,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
@@ -683,4 +978,3 @@ WEIGHT_DISCRIMINATION_STRESS,I,i1f44,I44WTSTR,3283,997,"20229, 21227, 30345, 106
 WEIGHT_LOSS_SURGERY,J,j1f31,J31SURGWLM,NA,NA,,varname_not_found_anywhere
 WEIGHT_LOSS_SURGERY_INPATIENT_STATUS,J,j1f31,J31WLSOUTPM,NA,NA,,varname_not_found_anywhere
 WEIGHT_PROTOCOL_MODIFIED,I,i1f20,I20WTMOD,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail
-WEIGHT_PROTOCOL_REASON,I,i1f20,I20WTRESN,3354,1018,"20229, 21227, 30345, 10600, 40575",Short_ID_map_fail

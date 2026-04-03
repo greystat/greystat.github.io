@@ -1,1 +1,1 @@
-window.__DXA_DISCRETION_OF_PERSONNEL_EXAM_G={"concept_id":"DXA_DISCRETION_OF_PERSONNEL","exam":"G","n":2866,"missing":57,"n_levels":3,"mode_level":"\"No\""};
+window.__DXA_DISCRETION_OF_PERSONNEL_EXAM_G={"concept_id":"DXA_DISCRETION_OF_PERSONNEL","exam":"G","n":2866,"missing":57,"n_levels":3,"mode_level":"No"};

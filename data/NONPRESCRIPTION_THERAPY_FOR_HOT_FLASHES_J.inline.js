@@ -1,1 +1,1 @@
-window.__NONPRESCRIPTION_THERAPY_FOR_HOT_FLASHES_EXAM_J={"concept_id":"NONPRESCRIPTION_THERAPY_FOR_HOT_FLASHES","exam":"J","n":1421,"missing":24,"n_levels":3,"mode_level":"\"No\""};
+window.__NONPRESCRIPTION_THERAPY_FOR_HOT_FLASHES_EXAM_J={"concept_id":"NONPRESCRIPTION_THERAPY_FOR_HOT_FLASHES","exam":"J","n":1421,"missing":24,"n_levels":3,"mode_level":"No"};

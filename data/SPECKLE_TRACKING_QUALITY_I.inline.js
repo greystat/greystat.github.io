@@ -1,0 +1,1 @@
+window.__SPECKLE_TRACKING_QUALITY_EXAM_I={"concept_id":"SPECKLE_TRACKING_QUALITY","exam":"I","n":3184,"missing":2,"mean":2.0069,"sd":0.809,"p50":2,"p99":3};

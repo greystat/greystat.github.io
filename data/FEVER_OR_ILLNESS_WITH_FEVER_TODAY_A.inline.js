@@ -1,1 +1,1 @@
-window.__FEVER_OR_ILLNESS_WITH_FEVER_TODAY_EXAM_A={"concept_id":"FEVER_OR_ILLNESS_WITH_FEVER_TODAY","exam":"A","n":5114,"missing":24,"n_levels":3,"mode_level":"\"No\""};
+window.__FEVER_OR_ILLNESS_WITH_FEVER_TODAY_EXAM_A={"concept_id":"FEVER_OR_ILLNESS_WITH_FEVER_TODAY","exam":"A","n":5114,"missing":24,"n_levels":3,"mode_level":"No"};

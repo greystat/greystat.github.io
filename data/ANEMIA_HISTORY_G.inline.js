@@ -1,1 +1,1 @@
-window.__ANEMIA_HISTORY_EXAM_G={"concept_id":"ANEMIA_HISTORY","exam":"G","n":3467,"missing":6,"n_levels":3,"mode_level":"\"No\""};
+window.__ANEMIA_HISTORY_EXAM_G={"concept_id":"ANEMIA_HISTORY","exam":"G","n":3467,"missing":6,"n_levels":3,"mode_level":"No"};

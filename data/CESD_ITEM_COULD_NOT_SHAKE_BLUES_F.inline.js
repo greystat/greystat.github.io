@@ -1,1 +1,1 @@
-window.__CESD_ITEM_COULD_NOT_SHAKE_BLUES_EXAM_F={"concept_id":"CESD_ITEM_COULD_NOT_SHAKE_BLUES","exam":"F","n":3671,"missing":16,"n_levels":5,"mode_level":"\"Rarely or none of the time\""};
+window.__CESD_ITEM_COULD_NOT_SHAKE_BLUES_EXAM_F={"concept_id":"CESD_ITEM_COULD_NOT_SHAKE_BLUES","exam":"F","n":3671,"missing":16,"n_levels":5,"mode_level":"Rarely or none of the time"};

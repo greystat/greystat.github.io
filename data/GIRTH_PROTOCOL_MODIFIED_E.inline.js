@@ -1,1 +1,1 @@
-window.__GIRTH_PROTOCOL_MODIFIED_EXAM_E={"concept_id":"GIRTH_PROTOCOL_MODIFIED","exam":"E","n":3949,"missing":63,"n_levels":3,"mode_level":"\"No\""};
+window.__GIRTH_PROTOCOL_MODIFIED_EXAM_E={"concept_id":"GIRTH_PROTOCOL_MODIFIED","exam":"E","n":3949,"missing":63,"n_levels":3,"mode_level":"No"};

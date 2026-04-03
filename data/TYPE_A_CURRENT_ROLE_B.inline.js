@@ -1,1 +1,1 @@
-window.__TYPE_A_CURRENT_ROLE_EXAM_B={"concept_id":"TYPE_A_CURRENT_ROLE","exam":"B","n":4623,"missing":47,"n_levels":6,"mode_level":"\"Working\""};
+window.__TYPE_A_CURRENT_ROLE_EXAM_B={"concept_id":"TYPE_A_CURRENT_ROLE","exam":"B","n":4623,"missing":47,"n_levels":6,"mode_level":"Working"};

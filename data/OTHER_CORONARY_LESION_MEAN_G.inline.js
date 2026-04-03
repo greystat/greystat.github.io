@@ -1,1 +1,1 @@
-window.__OTHER_CORONARY_LESION_MEAN_EXAM_G={"concept_id":"OTHER_CORONARY_LESION_MEAN","exam":"G","n":3139,"missing":17,"mean":5.4798,"sd":36.0608,"p50":0,"p99":205.473};
+window.__OTHER_CORONARY_LESION_MEAN_EXAM_G={"concept_id":"OTHER_CORONARY_LESION_MEAN","exam":"G","n":3139,"missing":1,"mean":5.5052,"sd":37.7584,"p50":0,"p99":234.7624};

@@ -1,1 +1,1 @@
-window.__CESD_ITEM_FELT_DEPRESSED_EXAM_G={"concept_id":"CESD_ITEM_FELT_DEPRESSED","exam":"G","n":3530,"missing":6,"n_levels":5,"mode_level":"\"Rarely or none of the time\""};
+window.__CESD_ITEM_FELT_DEPRESSED_EXAM_G={"concept_id":"CESD_ITEM_FELT_DEPRESSED","exam":"G","n":3530,"missing":6,"n_levels":5,"mode_level":"Rarely or none of the time"};

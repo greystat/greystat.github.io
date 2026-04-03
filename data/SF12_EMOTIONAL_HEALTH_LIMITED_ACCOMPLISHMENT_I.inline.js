@@ -1,1 +1,1 @@
-window.__SF12_EMOTIONAL_HEALTH_LIMITED_ACCOMPLISHMENT_EXAM_I={"concept_id":"SF12_EMOTIONAL_HEALTH_LIMITED_ACCOMPLISHMENT","exam":"I","n":3296,"missing":1,"n_levels":3,"mode_level":"\"No\""};
+window.__SF12_EMOTIONAL_HEALTH_LIMITED_ACCOMPLISHMENT_EXAM_I={"concept_id":"SF12_EMOTIONAL_HEALTH_LIMITED_ACCOMPLISHMENT","exam":"I","n":3296,"missing":1,"n_levels":3,"mode_level":"No"};

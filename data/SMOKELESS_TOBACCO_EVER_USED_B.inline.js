@@ -1,1 +1,1 @@
-window.__SMOKELESS_TOBACCO_EVER_USED_EXAM_B={"concept_id":"SMOKELESS_TOBACCO_EVER_USED","exam":"B","n":4623,"missing":1870,"n_levels":3,"mode_level":"\"No\""};
+window.__SMOKELESS_TOBACCO_EVER_USED_EXAM_B={"concept_id":"SMOKELESS_TOBACCO_EVER_USED","exam":"B","n":4623,"missing":1870,"n_levels":3,"mode_level":"No"};

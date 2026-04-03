@@ -1,1 +1,1 @@
-window.__F08_GALL_EXAM_A={"concept_id":"F08_GALL","exam":"A","n":5114,"missing":1,"n_levels":4,"mode_level":"\"No\""};
+window.__F08_GALL_EXAM_A={"concept_id":"F08_GALL","exam":"A","n":5114,"missing":1,"n_levels":4,"mode_level":"No"};

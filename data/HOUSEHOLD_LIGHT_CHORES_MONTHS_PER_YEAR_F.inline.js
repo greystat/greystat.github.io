@@ -1,1 +1,1 @@
-window.__HOUSEHOLD_LIGHT_CHORES_MONTHS_PER_YEAR_EXAM_F={"concept_id":"HOUSEHOLD_LIGHT_CHORES_MONTHS_PER_YEAR","exam":"F","n":7342,"missing":356,"mean":11.4224,"sd":2.286,"p50":12,"p99":12};
+window.__HOUSEHOLD_LIGHT_CHORES_MONTHS_PER_YEAR_EXAM_F={"concept_id":"HOUSEHOLD_LIGHT_CHORES_MONTHS_PER_YEAR","exam":"F","n":3671,"missing":17,"mean":11.4825,"sd":2.1443,"p50":12,"p99":12};

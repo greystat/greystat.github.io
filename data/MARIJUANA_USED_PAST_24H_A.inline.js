@@ -1,1 +1,1 @@
-window.__MARIJUANA_USED_PAST_24H_EXAM_A={"concept_id":"MARIJUANA_USED_PAST_24H","exam":"A","n":5114,"missing":1086,"n_levels":4,"mode_level":"\"No\""};
+window.__MARIJUANA_USED_PAST_24H_EXAM_A={"concept_id":"MARIJUANA_USED_PAST_24H","exam":"A","n":5114,"missing":1086,"n_levels":4,"mode_level":"No"};

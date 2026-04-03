@@ -1,1 +1,1 @@
-window.__GENERAL_MED_PROBLEMS_EVER_EXAM_J={"concept_id":"GENERAL_MED_PROBLEMS_EVER","exam":"J","n":6227,"missing":71,"n_levels":3,"mode_level":"\"No\""};
+window.__GENERAL_MED_PROBLEMS_EVER_EXAM_J={"concept_id":"GENERAL_MED_PROBLEMS_EVER","exam":"J","n":6227,"missing":71,"n_levels":3,"mode_level":"No"};

@@ -1,8 +1,8 @@
 {
   "concept_id": "NUMBER_OF_DOCTOR_VISITS_PAST_YEAR",
-  "title": "Number of doctor/clinic visits in past year",
+  "title": "Number of Doctor or Clinic Visits in Past Year",
   "unit": {},
-  "chips": "numeric",
+  "chips": ["numeric", "Medical History"],
   "members": [
     {
       "concept_id": "NUMBER_OF_DOCTOR_VISITS_PAST_YEAR",

@@ -1,1 +1,1 @@
-window.__CARDIA_QC_PARTICIPANT_YN_EXAM_H={"concept_id":"CARDIA_QC_PARTICIPANT_YN","exam":"H","n":3493,"missing":66,"n_levels":3,"mode_level":"\"No\""};
+window.__CARDIA_QC_PARTICIPANT_YN_EXAM_H={"concept_id":"CARDIA_QC_PARTICIPANT_YN","exam":"H","n":3493,"missing":66,"n_levels":3,"mode_level":"No"};

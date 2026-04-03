@@ -1,1 +1,1 @@
-window.__F08_EMPH_EXAM_I={"concept_id":"F08_EMPH","exam":"I","n":3356,"missing":2,"n_levels":4,"mode_level":"\"No\""};
+window.__F08_EMPH_EXAM_I={"concept_id":"F08_EMPH","exam":"I","n":3356,"missing":2,"n_levels":4,"mode_level":"No"};

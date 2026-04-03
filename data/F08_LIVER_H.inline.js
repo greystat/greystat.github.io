@@ -1,1 +1,1 @@
-window.__F08_LIVER_EXAM_H={"concept_id":"F08_LIVER","exam":"H","n":3485,"missing":3,"n_levels":4,"mode_level":"\"No\""};
+window.__F08_LIVER_EXAM_H={"concept_id":"F08_LIVER","exam":"H","n":3485,"missing":3,"n_levels":4,"mode_level":"No"};

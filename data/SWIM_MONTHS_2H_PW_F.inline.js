@@ -1,1 +1,1 @@
-window.__SWIM_MONTHS_2H_PW_EXAM_F={"concept_id":"SWIM_MONTHS_2H_PW","exam":"F","n":7342,"missing":5755,"mean":2.9698,"sd":3.4486,"p50":2,"p99":12};
+window.__SWIM_MONTHS_2H_PW_EXAM_F={"concept_id":"SWIM_MONTHS_2H_PW","exam":"F","n":3671,"missing":2949,"mean":2.0457,"sd":2.9052,"p50":1,"p99":12};

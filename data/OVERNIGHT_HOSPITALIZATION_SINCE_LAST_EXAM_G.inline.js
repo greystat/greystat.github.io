@@ -1,1 +1,1 @@
-window.__OVERNIGHT_HOSPITALIZATION_SINCE_LAST_EXAM_EXAM_G={"concept_id":"OVERNIGHT_HOSPITALIZATION_SINCE_LAST_EXAM","exam":"G","n":184,"missing":2,"n_levels":3,"mode_level":"\"No\""};
+window.__OVERNIGHT_HOSPITALIZATION_SINCE_LAST_EXAM_EXAM_G={"concept_id":"OVERNIGHT_HOSPITALIZATION_SINCE_LAST_EXAM","exam":"G","n":184,"missing":2,"n_levels":3,"mode_level":"No"};

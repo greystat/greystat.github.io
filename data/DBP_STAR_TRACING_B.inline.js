@@ -1,1 +1,1 @@
-window.__DBP_STAR_TRACING_EXAM_B={"concept_id":"DBP_STAR_TRACING","exam":"B","n":4623,"missing":263,"mean":66.3858,"sd":11.448,"p50":65,"p99":92};
+window.__DBP_STAR_TRACING_EXAM_B={"concept_id":"DBP_STAR_TRACING","exam":"B","n":4623,"missing":213,"mean":75.1669,"sd":12.4978,"p50":75,"p99":105};

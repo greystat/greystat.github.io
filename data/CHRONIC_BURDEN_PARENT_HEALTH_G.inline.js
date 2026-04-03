@@ -1,1 +1,1 @@
-window.__CHRONIC_BURDEN_PARENT_HEALTH_EXAM_G={"concept_id":"CHRONIC_BURDEN_PARENT_HEALTH","exam":"G","n":3479,"missing":19,"n_levels":5,"mode_level":"\"No\""};
+window.__CHRONIC_BURDEN_PARENT_HEALTH_EXAM_G={"concept_id":"CHRONIC_BURDEN_PARENT_HEALTH","exam":"G","n":3479,"missing":19,"n_levels":5,"mode_level":"No"};

@@ -1,1 +1,1 @@
-window.__TOTAL_INTENSITY_SCORE_EXAM_F={"concept_id":"TOTAL_INTENSITY_SCORE","exam":"F","n":7342,"missing":55,"mean":431.3236,"sd":350.8805,"p50":347,"p99":1596.84};
+window.__TOTAL_INTENSITY_SCORE_EXAM_F={"concept_id":"TOTAL_INTENSITY_SCORE","exam":"F","n":3671,"missing":17,"mean":347.2332,"sd":283.5383,"p50":279,"p99":1262.94};

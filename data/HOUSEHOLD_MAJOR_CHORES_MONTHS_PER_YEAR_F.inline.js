@@ -1,1 +1,1 @@
-window.__HOUSEHOLD_MAJOR_CHORES_MONTHS_PER_YEAR_EXAM_F={"concept_id":"HOUSEHOLD_MAJOR_CHORES_MONTHS_PER_YEAR","exam":"F","n":7342,"missing":345,"mean":5.6488,"sd":5.0745,"p50":4,"p99":12};
+window.__HOUSEHOLD_MAJOR_CHORES_MONTHS_PER_YEAR_EXAM_F={"concept_id":"HOUSEHOLD_MAJOR_CHORES_MONTHS_PER_YEAR","exam":"F","n":3671,"missing":17,"mean":5.4406,"sd":4.9575,"p50":3,"p99":12};

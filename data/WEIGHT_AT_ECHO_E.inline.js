@@ -1,1 +1,1 @@
-window.__WEIGHT_AT_ECHO_EXAM_E={"concept_id":"WEIGHT_AT_ECHO","exam":"E","n":3153,"missing":4,"mean":170.7774,"sd":41.9406,"p50":165,"p99":300};
+window.__WEIGHT_AT_ECHO_EXAM_E={"concept_id":"WEIGHT_AT_ECHO","exam":"E","n":1536,"missing":2,"mean":165.7171,"sd":40.3714,"p50":160,"p99":289.67};

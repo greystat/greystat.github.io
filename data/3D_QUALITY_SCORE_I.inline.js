@@ -1,0 +1,1 @@
+window.__3D_QUALITY_SCORE_EXAM_I={"concept_id":"3D_QUALITY_SCORE","exam":"I","n":3184,"missing":2,"mean":2.637,"sd":2.4563,"p50":2,"p99":9};

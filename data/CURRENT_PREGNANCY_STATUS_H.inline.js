@@ -1,1 +1,1 @@
-window.__CURRENT_PREGNANCY_STATUS_EXAM_H={"concept_id":"CURRENT_PREGNANCY_STATUS","exam":"H","n":3416,"missing":1493,"n_levels":4,"mode_level":"\"No\""};
+window.__CURRENT_PREGNANCY_STATUS_EXAM_H={"concept_id":"CURRENT_PREGNANCY_STATUS","exam":"H","n":3416,"missing":1493,"n_levels":4,"mode_level":"No"};

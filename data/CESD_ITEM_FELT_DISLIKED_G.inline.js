@@ -1,1 +1,1 @@
-window.__CESD_ITEM_FELT_DISLIKED_EXAM_G={"concept_id":"CESD_ITEM_FELT_DISLIKED","exam":"G","n":3530,"missing":7,"n_levels":5,"mode_level":"\"Rarely or none of the time\""};
+window.__CESD_ITEM_FELT_DISLIKED_EXAM_G={"concept_id":"CESD_ITEM_FELT_DISLIKED","exam":"G","n":3530,"missing":7,"n_levels":5,"mode_level":"Rarely or none of the time"};

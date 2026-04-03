@@ -1,1 +1,1 @@
-window.__HISTORY_HEART_VALVE_DISORDER_EXAM_G={"concept_id":"HISTORY_HEART_VALVE_DISORDER","exam":"G","n":2986,"missing":6,"n_levels":3,"mode_level":"\"No\""};
+window.__HISTORY_HEART_VALVE_DISORDER_EXAM_G={"concept_id":"HISTORY_HEART_VALVE_DISORDER","exam":"G","n":2986,"missing":6,"n_levels":3,"mode_level":"No"};

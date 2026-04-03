@@ -1,1 +1,1 @@
-window.__CHRONIC_BURDEN_OTHERS_HEALTH_EXAM_H={"concept_id":"CHRONIC_BURDEN_OTHERS_HEALTH","exam":"H","n":3475,"missing":8,"n_levels":5,"mode_level":"\"No\""};
+window.__CHRONIC_BURDEN_OTHERS_HEALTH_EXAM_H={"concept_id":"CHRONIC_BURDEN_OTHERS_HEALTH","exam":"H","n":3475,"missing":8,"n_levels":5,"mode_level":"No"};

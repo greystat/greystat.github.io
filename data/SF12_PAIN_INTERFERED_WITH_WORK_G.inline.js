@@ -1,1 +1,1 @@
-window.__SF12_PAIN_INTERFERED_WITH_WORK_EXAM_G={"concept_id":"SF12_PAIN_INTERFERED_WITH_WORK","exam":"G","n":3504,"missing":21,"n_levels":6,"mode_level":"\"Not at all\""};
+window.__SF12_PAIN_INTERFERED_WITH_WORK_EXAM_G={"concept_id":"SF12_PAIN_INTERFERED_WITH_WORK","exam":"G","n":3504,"missing":21,"n_levels":6,"mode_level":"Not at all"};

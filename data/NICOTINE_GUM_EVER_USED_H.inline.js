@@ -1,1 +1,1 @@
-window.__NICOTINE_GUM_EVER_USED_EXAM_H={"concept_id":"NICOTINE_GUM_EVER_USED","exam":"H","n":3492,"missing":1474,"n_levels":3,"mode_level":"\"No\""};
+window.__NICOTINE_GUM_EVER_USED_EXAM_H={"concept_id":"NICOTINE_GUM_EVER_USED","exam":"H","n":3492,"missing":1474,"n_levels":3,"mode_level":"No"};

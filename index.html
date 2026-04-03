@@ -41,7 +41,7 @@ body{max-width:1100px;margin:0 auto}
 .inst-btn:hover{border-color:#d4a44a}
 .inst-btn .arrow{font-size:10px;margin-left:8px}
 .inst-drop{position:absolute;top:100%;left:0;right:0;max-height:280px;overflow-y:auto;
-  background:var(--bg-elevated);border:1px solid var(--border);border-radius:8px;z-index:100;
+  background:var(--bg-elevated);border:1px solid var(--border);border-radius:8px;z-index:160;
   margin-top:4px;display:none;padding:4px}
 .inst-drop.open{display:block}
 .inst-drop input{width:100%;padding:6px 10px;border:1px solid var(--border);border-radius:4px;
@@ -82,6 +82,8 @@ body{max-width:1100px;margin:0 auto}
 .concept-card h3 a{color:var(--ink);text-decoration:none}
 .concept-card h3 a:hover{text-decoration:underline}
 .concept-card .cid{font-size:11px;font-family:monospace;color:var(--muted);margin-bottom:7px}
+.concept-card .card-desc{font-size:12px;color:var(--muted);line-height:1.45;margin-bottom:8px;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .concept-card .card-chips{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px}
 .cc{display:inline-flex;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:500;border:1px solid transparent}
 .cc-type{color:#5ea3d4;border-color:#5ea3d433}
@@ -135,7 +137,7 @@ body{max-width:1100px;margin:0 auto}
     <label for="min-exams">Min. exams:</label>
     <select id="min-exams"><option value="0">Any</option></select>
     <label for="sort-sel">Sort:</label>
-    <select id="sort-sel"><option value="alpha">A &rarr; Z</option><option value="exams">Most exams</option></select>
+    <select id="sort-sel"><option value="exams">Most exams</option><option value="alpha">A &rarr; Z</option></select>
   </div>
 </div>
 <div class="result-bar" id="count"></div>
@@ -163,7 +165,8 @@ const KNOWN_GROUPS=new Set(["Administrative","Anthropometry","Brain & Cognitive"
   "Specimen Collection","Substance Use"]);
 const TYPES=new Set(["numeric","categorical"]);
 const SOURCES=new Set(["Lab","Imaging"]);
-const EXAM_LETTERS=["A","B","C","D","E","F","G","H","I","J"];
+function asArr(v){return Array.isArray(v)?v:v?[v]:[]}
+const EXAM_LETTERS=[...new Set(cat.flatMap(c=>asArr(c.exams)))].sort();
 
 function classify(ch){
   if(TYPES.has(ch))return"type";
@@ -184,12 +187,14 @@ buckets.form.forEach(f=>{formCounts[f]=cat.filter(c=>{const ch=Array.isArray(c.c
 
 /* Populate min-exams dropdown */
 const minExSel=document.getElementById("min-exams");
-for(var i=1;i<=10;i++){var o=document.createElement("option");o.value=i;o.textContent=i+"+";minExSel.appendChild(o)}
+const maxExams=Math.max(...cat.map(c=>asArr(c.exams).length));
+for(var i=1;i<maxExams;i++){var o=document.createElement("option");o.value=i;o.textContent=i+"+";minExSel.appendChild(o)}
+var oAll=document.createElement("option");oAll.value=maxExams;oAll.textContent="All";minExSel.appendChild(oAll);
 
 /* State */
 let aC=[];
 let aExams=[];
-let sortMode="alpha";
+let sortMode="exams";
 let minExams=0;
 
 /* DOM refs */
@@ -203,12 +208,18 @@ const params=new URLSearchParams(location.search);
 if(params.get("q"))sE.value=params.get("q");
 if(params.get("chip")){params.get("chip").split(",").forEach(function(c){if(allC.includes(c))aC.push(c)})}
 if(params.get("exam")){params.get("exam").split(",").forEach(function(e){if(EXAM_LETTERS.includes(e))aExams.push(e)})}
-if(params.get("sort")==="exams"){sortMode="exams";sortSel.value="exams"}
-if(params.get("minExams")){var me=parseInt(params.get("minExams"));if(me>=1&&me<=10){minExams=me;minExSel.value=me}}
+if(params.get("sort")==="alpha"){sortMode="alpha";sortSel.value="alpha"}
+if(params.get("minExams")){var me=parseInt(params.get("minExams"));if(me>=1&&me<=maxExams){minExams=me;minExSel.value=me}}
 
 let instOpen=false;
 
 function toggle(ch){aC=aC.includes(ch)?aC.filter(x=>x!==ch):[...aC,ch];render()}
+function toggleType(ch){
+  const wasOn=aC.includes(ch);
+  aC=aC.filter(x=>classify(x)!=="type");
+  if(!wasOn)aC.push(ch);
+  render();
+}
 function toggleExam(ex){aExams=aExams.includes(ex)?aExams.filter(x=>x!==ex):[...aExams,ex];render()}
 function toggleForm(ch){
   const wasOn=aC.includes(ch);
@@ -225,7 +236,7 @@ function renderFilters(){
   const p1=document.createElement("div");p1.className="filter-pills";
   buckets.type.forEach(ch=>{const s=document.createElement("span");
     s.className="fc type"+(aC.includes(ch)?" on":"");s.textContent=ch;
-    s.onclick=()=>toggle(ch);p1.appendChild(s)});
+    s.onclick=()=>toggleType(ch);p1.appendChild(s)});
   r1.appendChild(p1);fE.appendChild(r1);
 
   if(buckets.source.length){
@@ -311,8 +322,7 @@ function expandQuery(q){
 }
 
 const featured=cat.filter(c=>{
-  const ex=Array.isArray(c.exams)?c.exams:c.exams?[c.exams]:[];
-  return ex.length>=10;
+  return asArr(c.exams).length>=maxExams;
 }).sort((a,b)=>a.title.localeCompare(b.title)).slice(0,20);
 
 function isFiltering(){
@@ -337,7 +347,7 @@ function renderCards(list,total){
   list.forEach(c=>{
     const sl=c.concept_id.replace(/[^A-Za-z0-9]+/g,"_");
     const chips=Array.isArray(c.chips)?c.chips:c.chips?[c.chips]:[];
-    const exams=Array.isArray(c.exams)?c.exams:c.exams?[c.exams]:[];
+    const exams=asArr(c.exams);
     const d=document.createElement("div");d.className="concept-card";
     const chipHtml=chips.map(ch=>{
       const t=classify(ch);
@@ -345,8 +355,9 @@ function renderCards(list,total){
       return"<a class=\""+cardChipClass(ch)+"\" href=\"index.html?chip="+encodeURIComponent(ch)+"\">"+ch+"</a>"
     }).join(" ");
     const examHtml=exams.map(e=>"<span class=\"exam-dot\">"+e+"</span>").join("");
+    const descSnip=c.description?"<div class=\"card-desc\">"+c.description+"</div>":"";
     d.innerHTML="<h3><a href=\""+sl+".html\">"+c.title+"</a></h3>"+
-      "<div class=\"cid\">"+c.concept_id+"</div>"+
+      "<div class=\"cid\">"+c.concept_id+"</div>"+descSnip+
       "<div class=\"card-chips\">"+chipHtml+"</div>"+
       "<div class=\"exam-dots\">"+examHtml+"</div>";
     gE.appendChild(d);
@@ -364,7 +375,7 @@ function pushState(){
   if(q)p.set("q",q);
   if(aC.length)p.set("chip",aC.join(","));
   if(aExams.length)p.set("exam",aExams.join(","));
-  if(sortMode!=="alpha")p.set("sort",sortMode);
+  if(sortMode!=="exams")p.set("sort",sortMode);
   if(minExams>0)p.set("minExams",String(minExams));
   var qs=p.toString();
   history.replaceState(null,"",qs?("?"+qs):location.pathname);
@@ -377,16 +388,26 @@ function render(){
   minExams=parseInt(minExSel.value)||0;
   renderFilters();renderActive();
   pushState();
-  if(!isFiltering()){
-    cE.textContent="Showing "+featured.length+" featured concepts (all 10 exams) \u2014 search or filter to explore all "+cat.length;
+  if(!isFiltering()&&sortMode==="exams"){
+    sortList(featured);
+    cE.textContent="Showing "+featured.length+" featured concepts \u2014 search or filter to explore all "+cat.length;
     renderCards(featured,featured.length);
+    return;
+  }
+  if(!isFiltering()&&sortMode==="alpha"){
+    var allSorted=cat.slice();sortList(allSorted);
+    var total=allSorted.length;var shown=allSorted.slice(0,MAX_CARDS);
+    cE.textContent=total+" concepts"+(total>MAX_CARDS?" (showing first "+MAX_CARDS+")":"");
+    renderCards(shown,total);
     return;
   }
   const fl=cat.filter(c=>{
     const chips=Array.isArray(c.chips)?c.chips:c.chips?[c.chips]:[];
-    const exams=Array.isArray(c.exams)?c.exams:c.exams?[c.exams]:[];
+    const exams=asArr(c.exams);
     if(qTerms.length){
-      const hay=(c.title+" "+c.concept_id+" "+chips.join(" ")).toLowerCase();
+      const kw=Array.isArray(c.keywords)?c.keywords.join(" "):c.keywords||"";
+      const desc=c.description||"";
+      const hay=(c.title+" "+c.concept_id+" "+chips.join(" ")+" "+kw+" "+desc).toLowerCase();
       if(!qTerms.some(t=>hay.includes(t)))return false;
     }
     if(aC.length&&!aC.every(ch=>chips.includes(ch)))return false;

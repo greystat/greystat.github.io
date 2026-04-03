@@ -1,1 +1,1 @@
-window.__F08_HYSTR_EXAM_H={"concept_id":"F08_HYSTR","exam":"H","n":3485,"missing":1510,"n_levels":4,"mode_level":"\"No\""};
+window.__F08_HYSTR_EXAM_H={"concept_id":"F08_HYSTR","exam":"H","n":3485,"missing":1510,"n_levels":4,"mode_level":"No"};

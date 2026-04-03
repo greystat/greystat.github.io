@@ -1,1 +1,1 @@
-window.__SPEED_AMPHETAMINES_EVER_USED_EXAM_J={"concept_id":"SPEED_AMPHETAMINES_EVER_USED","exam":"J","n":2389,"missing":19,"n_levels":3,"mode_level":"\"No\""};
+window.__SPEED_AMPHETAMINES_EVER_USED_EXAM_J={"concept_id":"SPEED_AMPHETAMINES_EVER_USED","exam":"J","n":2389,"missing":19,"n_levels":3,"mode_level":"No"};

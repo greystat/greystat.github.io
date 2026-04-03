@@ -1,1 +1,1 @@
-window.__HAIR_COMBING_WEAKNESS_3MO_EXAM_G={"concept_id":"HAIR_COMBING_WEAKNESS_3MO","exam":"G","n":3467,"missing":7,"n_levels":3,"mode_level":"\"No\""};
+window.__HAIR_COMBING_WEAKNESS_3MO_EXAM_G={"concept_id":"HAIR_COMBING_WEAKNESS_3MO","exam":"G","n":3467,"missing":7,"n_levels":3,"mode_level":"No"};

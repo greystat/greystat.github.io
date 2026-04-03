@@ -1,1 +1,1 @@
-window.__VISIT_DOCTOR_FOR_HOT_FLASHES_EXAM_H={"concept_id":"VISIT_DOCTOR_FOR_HOT_FLASHES","exam":"H","n":1964,"missing":899,"n_levels":3,"mode_level":"\"No\""};
+window.__VISIT_DOCTOR_FOR_HOT_FLASHES_EXAM_H={"concept_id":"VISIT_DOCTOR_FOR_HOT_FLASHES","exam":"H","n":1964,"missing":899,"n_levels":3,"mode_level":"No"};

@@ -1,1 +1,1 @@
-window.__MOTION_STREAK_ARTIFACT_QC_EXAM_G={"concept_id":"MOTION_STREAK_ARTIFACT_QC","exam":"G","n":3139,"missing":17,"mean":2.9622,"sd":0.2425,"p50":3,"p99":3};
+window.__MOTION_STREAK_ARTIFACT_QC_EXAM_G={"concept_id":"MOTION_STREAK_ARTIFACT_QC","exam":"G","n":3139,"missing":1,"mean":2.9704,"sd":0.1892,"p50":3,"p99":3};

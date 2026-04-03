@@ -1,1 +1,1 @@
-window.__CORE_QC_PARTICIPANT_YN_EARLY_EXAM_G={"concept_id":"CORE_QC_PARTICIPANT_YN_EARLY","exam":"G","n":3537,"missing":74,"n_levels":3,"mode_level":"\"No\""};
+window.__CORE_QC_PARTICIPANT_YN_EARLY_EXAM_G={"concept_id":"CORE_QC_PARTICIPANT_YN_EARLY","exam":"G","n":3537,"missing":74,"n_levels":3,"mode_level":"No"};

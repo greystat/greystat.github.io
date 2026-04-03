@@ -1,1 +1,1 @@
-window.__VITAMIN_B6_NMOL_L_EXAM_F={"concept_id":"VITAMIN_B6_NMOL_L","exam":"F","n":5114,"missing":3519,"mean":78.2853,"sd":120.38,"p50":40.3,"p99":591.918};
+window.__VITAMIN_B6_NMOL_L_EXAM_F={"concept_id":"VITAMIN_B6_NMOL_L","exam":"F","n":5114,"missing":3519,"mean":61.8164,"sd":106.4926,"p50":31.4,"p99":561.664};

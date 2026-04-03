@@ -1,1 +1,1 @@
-window.__VOMIT_AFTER_GLUC_DRINK_EXAM_E={"concept_id":"VOMIT_AFTER_GLUC_DRINK","exam":"E","n":3949,"missing":1455,"n_levels":3,"mode_level":"\"No\""};
+window.__VOMIT_AFTER_GLUC_DRINK_EXAM_E={"concept_id":"VOMIT_AFTER_GLUC_DRINK","exam":"E","n":3949,"missing":1455,"n_levels":3,"mode_level":"No"};

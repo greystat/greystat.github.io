@@ -1,1 +1,0 @@
-window.__BINGE_EPISODE_MIN_SINCE_PREV_MEAL_EXAM_E={"concept_id":"BINGE_EPISODE_MIN_SINCE_PREV_MEAL","exam":"E","n":3949,"missing":3661,"mean":200.0139,"sd":194.131,"p50":135,"p99":911.7};

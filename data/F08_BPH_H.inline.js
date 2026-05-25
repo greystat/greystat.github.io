@@ -1,1 +1,0 @@
-window.__F08_BPH_EXAM_H={"concept_id":"F08_BPH","exam":"H","n":3485,"missing":1947,"n_levels":4,"mode_level":"(Missing)"};

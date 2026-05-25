@@ -1,1 +1,0 @@
-window.__EXAM1_AGE_EXAM_B={"concept_id":"EXAM1_AGE","exam":"B","n":5114,"missing":0,"mean":24.8477,"sd":3.6599,"p50":25,"p99":30};

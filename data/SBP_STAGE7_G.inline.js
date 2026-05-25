@@ -1,1 +1,0 @@
-window.__SBP_STAGE7_EXAM_G={"concept_id":"SBP_STAGE7","exam":"G","n":2890,"missing":2867,"mean":185.8261,"sd":20.3975,"p50":186,"p99":226.7};

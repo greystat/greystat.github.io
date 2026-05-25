@@ -1,1 +1,0 @@
-window.__MENOPAUSE_STATUS_EXAM_E={"concept_id":"MENOPAUSE_STATUS","exam":"E","n":2190,"missing":2043,"n_levels":3,"mode_level":"(Missing)"};

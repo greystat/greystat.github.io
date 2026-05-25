@@ -1,1 +1,0 @@
-window.__HEART_ATTACK_CAUSE_RESPONSES_EXAM_C={"concept_id":"HEART_ATTACK_CAUSE_RESPONSES","exam":"C","n":4351,"missing":35,"n_levels":19,"mode_level":"A"};

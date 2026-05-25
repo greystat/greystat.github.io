@@ -1,1 +1,0 @@
-window.__SPIROMETER_TOTAL_TRIALS_EXAM_C={"concept_id":"SPIROMETER_TOTAL_TRIALS","exam":"C","n":4351,"missing":83,"n_levels":9,"mode_level":"5"};

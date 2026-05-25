@@ -1,1 +1,0 @@
-window.__COOK_MEDLEY_TOTAL_SCORE_EXAM_C={"concept_id":"COOK_MEDLEY_TOTAL_SCORE","exam":"C","n":4351,"missing":152,"mean":17.0345,"sd":7.9668,"p50":16,"p99":36};

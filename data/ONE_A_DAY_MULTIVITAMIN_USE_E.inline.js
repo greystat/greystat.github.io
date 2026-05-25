@@ -1,1 +1,0 @@
-window.__ONE_A_DAY_MULTIVITAMIN_USE_EXAM_E={"concept_id":"ONE_A_DAY_MULTIVITAMIN_USE","exam":"E","n":3949,"missing":1691,"n_levels":3,"mode_level":"(Missing)"};

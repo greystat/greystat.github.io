@@ -1,1 +1,0 @@
-window.__RCA_LESION_VOLUME_EXAM_G={"concept_id":"RCA_LESION_VOLUME","exam":"G","n":3139,"missing":1,"mean":5.8475,"sd":73.3437,"p50":0,"p99":104.5205};

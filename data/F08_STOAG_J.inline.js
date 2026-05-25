@@ -1,1 +1,0 @@
-window.__F08_STOAG_EXAM_J={"concept_id":"F08_STOAG","exam":"J","n":2776,"missing":2776,"mean":"NA","sd":"NA","p50":"NA","p99":"NA"};

@@ -1,1 +1,0 @@
-window.__JOB_REQUIRES_HIGH_SKILL_LEVEL_EXAM_B={"concept_id":"JOB_REQUIRES_HIGH_SKILL_LEVEL","exam":"B","n":4623,"missing":383,"n_levels":5,"mode_level":"Agree"};

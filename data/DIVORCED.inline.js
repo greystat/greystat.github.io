@@ -1,1 +1,0 @@
-window.__DIVORCED_CONCEPT={"concept_id":"DIVORCED","title":"Got Divorced","chips":["categorical","Sociodemographic"],"members":[{"concept_id":"DIVORCED","exam":"A","exam_year":"","dataset":"aflwup1","dataset_stub":"aflwup1","varname":"FY012DIV","family":"FLWUP","form_label":"","n_labels":"","instrument":"FLWUP","notes":""}],"dictionary":{}};

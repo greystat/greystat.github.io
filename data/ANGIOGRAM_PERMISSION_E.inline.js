@@ -1,1 +1,0 @@
-window.__ANGIOGRAM_PERMISSION_EXAM_E={"concept_id":"ANGIOGRAM_PERMISSION","exam":"E","n":55,"missing":0,"n_levels":2,"mode_level":"2"};

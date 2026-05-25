@@ -1,1 +1,0 @@
-window.__F08_HEPAG_EXAM_D={"concept_id":"F08_HEPAG","exam":"D","n":4085,"missing":4027,"mean":21.4655,"sd":8.0027,"p50":21.5,"p99":35.43};

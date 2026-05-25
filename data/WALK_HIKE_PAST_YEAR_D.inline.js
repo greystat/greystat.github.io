@@ -1,1 +1,0 @@
-window.__WALK_HIKE_PAST_YEAR_EXAM_D={"concept_id":"WALK_HIKE_PAST_YEAR","exam":"D","n":4085,"missing":74,"n_levels":3,"mode_level":"Yes"};

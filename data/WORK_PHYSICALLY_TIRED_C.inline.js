@@ -1,1 +1,0 @@
-window.__WORK_PHYSICALLY_TIRED_EXAM_C={"concept_id":"WORK_PHYSICALLY_TIRED","exam":"C","n":4351,"missing":174,"n_levels":6,"mode_level":"Sometimes"};

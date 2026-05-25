@@ -1,1 +1,0 @@
-window.__TB_INTERVIEWER_ID_EXAM_G={"concept_id":"TB_INTERVIEWER_ID","exam":"G","n":136,"missing":2,"mean":277.0448,"sd":110.4578,"p50":241,"p99":426};

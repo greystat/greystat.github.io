@@ -1,1 +1,0 @@
-window.__F08_GDM_EXAM_H={"concept_id":"F08_GDM","exam":"H","n":3485,"missing":3252,"n_levels":3,"mode_level":"(Missing)"};

@@ -1,1 +1,0 @@
-window.__FATHER_KIDNEY_FAILURE_EVER_EXAM_H={"concept_id":"FATHER_KIDNEY_FAILURE_EVER","exam":"H","n":3488,"missing":1449,"n_levels":4,"mode_level":"No"};

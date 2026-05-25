@@ -1,1 +1,0 @@
-window.__GXT_PERIODS_COMPLETED_EXAM_D={"concept_id":"GXT_PERIODS_COMPLETED","exam":"D","n":2982,"missing":398,"n_levels":11,"mode_level":"4"};

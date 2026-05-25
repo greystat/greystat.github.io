@@ -1,1 +1,0 @@
-window.__BIRTH_CONTROL_NAME_SOURCE_EXAM_D={"concept_id":"BIRTH_CONTROL_NAME_SOURCE","exam":"D","n":448,"missing":5,"n_levels":3,"mode_level":"2"};

@@ -1,1 +1,0 @@
-window.__ALBUMIN_QC_SAMPLE_3ML_YN_EXAM_E={"concept_id":"ALBUMIN_QC_SAMPLE_3ML_YN","exam":"E","n":3949,"missing":3532,"n_levels":2,"mode_level":"(Missing)"};

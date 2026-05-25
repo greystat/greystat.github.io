@@ -1,1 +1,0 @@
-window.__RMSSD_MSEC_EXAM_F={"concept_id":"RMSSD_MSEC","exam":"F","n":757,"missing":26,"mean":36.1189,"sd":25.4777,"p50":30.19,"p99":116.873};

@@ -1,1 +1,0 @@
-window.__MITRAL_DECELERATION_TIME_EXAM_H={"concept_id":"MITRAL_DECELERATION_TIME","exam":"H","n":3474,"missing":71,"mean":178.1522,"sd":39.2912,"p50":181,"p99":275.98};

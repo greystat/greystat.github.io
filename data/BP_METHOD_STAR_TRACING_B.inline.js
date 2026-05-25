@@ -1,1 +1,0 @@
-window.__BP_METHOD_STAR_TRACING_EXAM_B={"concept_id":"BP_METHOD_STAR_TRACING","exam":"B","n":4623,"missing":208,"n_levels":3,"mode_level":"1"};

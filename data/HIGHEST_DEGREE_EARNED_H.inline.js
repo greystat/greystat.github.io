@@ -1,1 +1,0 @@
-window.__HIGHEST_DEGREE_EARNED_EXAM_H={"concept_id":"HIGHEST_DEGREE_EARNED","exam":"H","n":3484,"missing":0,"n_levels":9,"mode_level":"High school diploma or equivalency (GED)"};

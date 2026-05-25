@@ -1,1 +1,0 @@
-window.__CHEST_PAIN_RELIEF_TIME_EXAM_C={"concept_id":"CHEST_PAIN_RELIEF_TIME","exam":"C","n":11,"missing":10,"n_levels":2,"mode_level":"(Missing)"};

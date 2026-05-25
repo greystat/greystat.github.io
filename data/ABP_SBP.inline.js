@@ -1,1 +1,0 @@
-window.__ABP_SBP_CONCEPT={"concept_id":"ABP_SBP","title":"Systolic Blood Pressure, ABP Monitor","unit":{},"chips":["numeric","F42 · Audiology","Cardiovascular"],"members":[{"concept_id":"ABP_SBP","exam":"C","exam_year":"","dataset":"c1f42","dataset_stub":"c1f42","varname":"C42_SBP","family":"F42","form_label":"","units_std":"","units_class":"","instrument":"F42","notes":""}]};

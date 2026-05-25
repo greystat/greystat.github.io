@@ -1,1 +1,0 @@
-window.__CURRENTLY_TAKING_INSULIN_OR_ORAL_DRUGS_EXAM_I={"concept_id":"CURRENTLY_TAKING_INSULIN_OR_ORAL_DRUGS","exam":"I","n":3355,"missing":3339,"n_levels":3,"mode_level":"(Missing)"};

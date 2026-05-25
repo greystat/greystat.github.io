@@ -1,1 +1,0 @@
-window.__LMP_DATE_EXACT_FLAG_EXAM_C={"concept_id":"LMP_DATE_EXACT_FLAG","exam":"C","n":2393,"missing":24,"mean":3.3846,"sd":0.4866,"p50":3,"p99":4};

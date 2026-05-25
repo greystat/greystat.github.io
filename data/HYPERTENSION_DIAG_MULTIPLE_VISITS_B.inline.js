@@ -1,1 +1,0 @@
-window.__HYPERTENSION_DIAG_MULTIPLE_VISITS_EXAM_B={"concept_id":"HYPERTENSION_DIAG_MULTIPLE_VISITS","exam":"B","n":422,"missing":6,"n_levels":3,"mode_level":"Yes"};

@@ -1,1 +1,0 @@
-window.__REFERRAL_FOR_LIPIDS_CONCEPT={"concept_id":"REFERRAL_FOR_LIPIDS","title":"Referral for Lipids","chips":["categorical","Lipids"],"members":[{"concept_id":"REFERRAL_FOR_LIPIDS","exam":"D","exam_year":"","dataset":"dflwup1","dataset_stub":"dflwup1","varname":"FY096LPR","family":"FLWUP","form_label":"","n_labels":"","instrument":"FLWUP","notes":""}],"dictionary":{}};

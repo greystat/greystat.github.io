@@ -1,1 +1,0 @@
-window.__F08_NOINS_EXAM_G={"concept_id":"F08_NOINS","exam":"G","n":3548,"missing":3284,"n_levels":4,"mode_level":"(Missing)"};

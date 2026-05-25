@@ -1,1 +1,0 @@
-window.__RACE_DISCRIMINATION_AT_SCHOOL_EXAM_H={"concept_id":"RACE_DISCRIMINATION_AT_SCHOOL","exam":"H","n":3474,"missing":5,"n_levels":1,"mode_level":"Yes"};

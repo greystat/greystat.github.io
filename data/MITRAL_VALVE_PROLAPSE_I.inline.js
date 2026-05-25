@@ -1,1 +1,0 @@
-window.__MITRAL_VALVE_PROLAPSE_EXAM_I={"concept_id":"MITRAL_VALVE_PROLAPSE","exam":"I","n":3184,"missing":0,"mean":0.0179,"sd":0.1461,"p50":0,"p99":1};

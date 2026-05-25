@@ -1,1 +1,0 @@
-window.__OVARIAN_SURGERY_YEAR_EXAM_H={"concept_id":"OVARIAN_SURGERY_YEAR","exam":"H","n":273,"missing":7,"mean":1998.5602,"sd":8.6407,"p50":2000,"p99":2010};

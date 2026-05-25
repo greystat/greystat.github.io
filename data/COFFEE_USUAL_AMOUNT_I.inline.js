@@ -1,1 +1,0 @@
-window.__COFFEE_USUAL_AMOUNT_EXAM_I={"concept_id":"COFFEE_USUAL_AMOUNT","exam":"I","n":3278,"missing":743,"n_levels":4,"mode_level":"2"};

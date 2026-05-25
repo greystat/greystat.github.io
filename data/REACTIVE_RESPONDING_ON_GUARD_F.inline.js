@@ -1,1 +1,0 @@
-window.__REACTIVE_RESPONDING_ON_GUARD_EXAM_F={"concept_id":"REACTIVE_RESPONDING_ON_GUARD","exam":"F","n":3671,"missing":16,"n_levels":6,"mode_level":"Agree"};

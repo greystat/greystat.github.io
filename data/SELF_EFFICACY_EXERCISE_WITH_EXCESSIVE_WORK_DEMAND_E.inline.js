@@ -1,1 +1,0 @@
-window.__SELF_EFFICACY_EXERCISE_WITH_EXCESSIVE_WORK_DEMAND_EXAM_E={"concept_id":"SELF_EFFICACY_EXERCISE_WITH_EXCESSIVE_WORK_DEMAND","exam":"E","n":3949,"missing":46,"n_levels":7,"mode_level":"Maybe I can"};

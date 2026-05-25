@@ -1,1 +1,0 @@
-window.__F08_MSYR_EXAM_G={"concept_id":"F08_MSYR","exam":"G","n":3548,"missing":3532,"n_levels":3,"mode_level":"(Missing)"};

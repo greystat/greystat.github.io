@@ -1,1 +1,0 @@
-window.__LONGITUDINAL_PEAK_STRAIN_2CH3CH_EXAM_I={"concept_id":"LONGITUDINAL_PEAK_STRAIN_2CH3CH","exam":"I","n":3184,"missing":626,"mean":-14.6067,"sd":2.9629,"p50":-14.6203,"p99":-7.904};

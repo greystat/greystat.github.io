@@ -1,1 +1,0 @@
-window.__LV_MASS_EXAM_C={"concept_id":"LV_MASS","exam":"C","n":4351,"missing":241,"mean":149.5009,"sd":44.7005,"p50":143.8324,"p99":278.4147};

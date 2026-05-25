@@ -1,1 +1,0 @@
-window.__LF_POWER_MSEC2_EXAM_F={"concept_id":"LF_POWER_MSEC2","exam":"F","n":757,"missing":0,"mean":789.4399,"sd":1109.2182,"p50":434.6,"p99":5371.548};

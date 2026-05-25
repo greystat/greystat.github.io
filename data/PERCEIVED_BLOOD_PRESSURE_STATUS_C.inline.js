@@ -1,1 +1,0 @@
-window.__PERCEIVED_BLOOD_PRESSURE_STATUS_EXAM_C={"concept_id":"PERCEIVED_BLOOD_PRESSURE_STATUS","exam":"C","n":4351,"missing":35,"n_levels":5,"mode_level":"Normal"};

@@ -1,1 +1,0 @@
-window.__FIGURE_OFTEN_FEEL_EXAM_D={"concept_id":"FIGURE_OFTEN_FEEL","exam":"D","n":4085,"missing":61,"n_levels":10,"mode_level":"5"};

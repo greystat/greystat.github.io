@@ -1,1 +1,0 @@
-window.__RAVLT_INTERFERENCE_RANGER_EXAM_H={"concept_id":"RAVLT_INTERFERENCE_RANGER","exam":"H","n":3386,"missing":1634,"n_levels":2,"mode_level":"Ranger"};

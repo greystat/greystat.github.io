@@ -1,1 +1,0 @@
-window.__F08_INFCT_EXAM_H={"concept_id":"F08_INFCT","exam":"H","n":3485,"missing":3475,"n_levels":2,"mode_level":"(Missing)"};

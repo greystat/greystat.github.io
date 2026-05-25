@@ -1,1 +1,0 @@
-window.__F08_HOTAG_EXAM_D={"concept_id":"F08_HOTAG","exam":"D","n":4085,"missing":4032,"mean":23.434,"sd":8.9131,"p50":26,"p99":36};

@@ -1,1 +1,0 @@
-window.__FOLLOWUP_DATE_EXAM_D={"concept_id":"FOLLOWUP_DATE","exam":"D","n":5114,"missing":404,"mean":1992.8208,"sd":0.3939,"p50":1993,"p99":1993};

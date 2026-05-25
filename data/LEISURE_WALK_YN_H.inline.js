@@ -1,1 +1,0 @@
-window.__LEISURE_WALK_YN_EXAM_H={"concept_id":"LEISURE_WALK_YN","exam":"H","n":3466,"missing":0,"n_levels":5,"mode_level":"3"};

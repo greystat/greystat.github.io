@@ -1,1 +1,0 @@
-window.__TIME_BLOOD_DRAWN_AMPM_EXAM_J={"concept_id":"TIME_BLOOD_DRAWN_AMPM","exam":"J","n":2118,"missing":42,"n_levels":3,"mode_level":"AM"};

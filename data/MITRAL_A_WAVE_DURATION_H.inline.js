@@ -1,1 +1,0 @@
-window.__MITRAL_A_WAVE_DURATION_EXAM_H={"concept_id":"MITRAL_A_WAVE_DURATION","exam":"H","n":3474,"missing":71,"mean":178.1522,"sd":39.2912,"p50":181,"p99":275.98};

@@ -1,1 +1,0 @@
-window.__LV_EJECTION_FRACTION_EXAM_I={"concept_id":"LV_EJECTION_FRACTION","exam":"I","n":3184,"missing":453,"mean":63.7651,"sd":7.4748,"p50":63.954,"p99":80.2591};

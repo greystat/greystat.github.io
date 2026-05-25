@@ -1,1 +1,0 @@
-window.__ANGER_LET_PEOPLE_KNOW_ANNOYING_EXAM_F={"concept_id":"ANGER_LET_PEOPLE_KNOW_ANNOYING","exam":"F","n":3671,"missing":16,"n_levels":5,"mode_level":"Sometimes"};

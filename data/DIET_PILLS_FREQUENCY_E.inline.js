@@ -1,1 +1,0 @@
-window.__DIET_PILLS_FREQUENCY_EXAM_E={"concept_id":"DIET_PILLS_FREQUENCY","exam":"E","n":3949,"missing":3851,"n_levels":6,"mode_level":"(Missing)"};

@@ -1,1 +1,0 @@
-window.__NEIGHBORHOOD_SITDOWN_RESTAURANT_TRAVEL_PUBLIC_EXAM_G={"concept_id":"NEIGHBORHOOD_SITDOWN_RESTAURANT_TRAVEL_PUBLIC","exam":"G","n":2989,"missing":2732,"n_levels":3,"mode_level":"(Missing)"};

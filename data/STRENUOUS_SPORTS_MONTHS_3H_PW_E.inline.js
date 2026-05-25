@@ -1,1 +1,0 @@
-window.__STRENUOUS_SPORTS_MONTHS_3H_PW_EXAM_E={"concept_id":"STRENUOUS_SPORTS_MONTHS_3H_PW","exam":"E","n":3949,"missing":2727,"mean":3.3061,"sd":3.9432,"p50":2,"p99":12};

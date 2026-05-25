@@ -1,1 +1,0 @@
-window.__F08_MENYR_EXAM_E={"concept_id":"F08_MENYR","exam":"E","n":3949,"missing":3721,"n_levels":3,"mode_level":"(Missing)"};

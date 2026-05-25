@@ -1,1 +1,0 @@
-window.__PREGNANCY_TEST_DATE_EXAM_H={"concept_id":"PREGNANCY_TEST_DATE","exam":"H","n":3215,"missing":2149,"mean":2010.2739,"sd":2.7414,"p50":2010,"p99":2011};

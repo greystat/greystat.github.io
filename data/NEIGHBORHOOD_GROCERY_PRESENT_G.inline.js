@@ -1,1 +1,0 @@
-window.__NEIGHBORHOOD_GROCERY_PRESENT_EXAM_G={"concept_id":"NEIGHBORHOOD_GROCERY_PRESENT","exam":"G","n":2989,"missing":15,"n_levels":3,"mode_level":"2"};

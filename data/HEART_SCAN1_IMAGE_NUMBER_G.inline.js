@@ -1,1 +1,0 @@
-window.__HEART_SCAN1_IMAGE_NUMBER_EXAM_G={"concept_id":"HEART_SCAN1_IMAGE_NUMBER","exam":"G","n":3123,"missing":35,"mean":45.0253,"sd":6.765,"p50":45,"p99":64};

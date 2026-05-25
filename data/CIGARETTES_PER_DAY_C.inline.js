@@ -1,1 +1,0 @@
-window.__CIGARETTES_PER_DAY_EXAM_C={"concept_id":"CIGARETTES_PER_DAY","exam":"C","n":5114,"missing":816,"mean":3.5747,"sd":7.5181,"p50":0,"p99":30};

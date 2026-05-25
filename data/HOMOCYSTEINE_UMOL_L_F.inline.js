@@ -1,1 +1,0 @@
-window.__HOMOCYSTEINE_UMOL_L_EXAM_F={"concept_id":"HOMOCYSTEINE_UMOL_L","exam":"F","n":5114,"missing":3519,"mean":10.398,"sd":4.614,"p50":9.6,"p99":28.466};

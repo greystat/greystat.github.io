@@ -1,1 +1,0 @@
-window.__SPOUSE_ATTEND_TECH_SCHOOL_EXAM_A={"concept_id":"SPOUSE_ATTEND_TECH_SCHOOL","exam":"A","n":5114,"missing":17,"n_levels":6,"mode_level":"0"};

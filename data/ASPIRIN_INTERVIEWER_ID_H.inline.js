@@ -1,1 +1,0 @@
-window.__ASPIRIN_INTERVIEWER_ID_EXAM_H={"concept_id":"ASPIRIN_INTERVIEWER_ID","exam":"H","n":606,"missing":0,"mean":296.9521,"sd":129.4826,"p50":309,"p99":807};

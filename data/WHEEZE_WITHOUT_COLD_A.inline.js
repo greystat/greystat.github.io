@@ -1,1 +1,0 @@
-window.__WHEEZE_WITHOUT_COLD_EXAM_A={"concept_id":"WHEEZE_WITHOUT_COLD","exam":"A","n":5114,"missing":43,"n_levels":5,"mode_level":"No"};

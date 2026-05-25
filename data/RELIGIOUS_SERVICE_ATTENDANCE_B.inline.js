@@ -1,1 +1,0 @@
-window.__RELIGIOUS_SERVICE_ATTENDANCE_EXAM_B={"concept_id":"RELIGIOUS_SERVICE_ATTENDANCE","exam":"B","n":4623,"missing":55,"n_levels":8,"mode_level":"Less than once a month"};

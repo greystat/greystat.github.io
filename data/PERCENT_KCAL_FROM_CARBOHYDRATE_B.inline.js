@@ -1,1 +1,0 @@
-window.__PERCENT_KCAL_FROM_CARBOHYDRATE_EXAM_B={"concept_id":"PERCENT_KCAL_FROM_CARBOHYDRATE","exam":"B","n":4623,"missing":58,"mean":42.5519,"sd":8.4891,"p50":42.2,"p99":65.1};

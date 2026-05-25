@@ -1,1 +1,0 @@
-window.__HAS_USUAL_SOURCE_MEDICAL_CARE_EXAM_G={"concept_id":"HAS_USUAL_SOURCE_MEDICAL_CARE","exam":"G","n":3537,"missing":3,"n_levels":3,"mode_level":"Yes"};

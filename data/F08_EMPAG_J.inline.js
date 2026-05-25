@@ -1,1 +1,0 @@
-window.__F08_EMPAG_EXAM_J={"concept_id":"F08_EMPAG","exam":"J","n":2776,"missing":2752,"mean":46.375,"sd":15.7668,"p50":50,"p99":64.77};

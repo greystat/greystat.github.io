@@ -1,1 +1,0 @@
-window.__F08_VASEC_EXAM_G={"concept_id":"F08_VASEC","exam":"G","n":3548,"missing":2001,"n_levels":4,"mode_level":"(Missing)"};

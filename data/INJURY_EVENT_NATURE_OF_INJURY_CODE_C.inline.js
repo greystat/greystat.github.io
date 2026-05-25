@@ -1,1 +1,0 @@
-window.__INJURY_EVENT_NATURE_OF_INJURY_CODE_EXAM_C={"concept_id":"INJURY_EVENT_NATURE_OF_INJURY_CODE","exam":"C","n":1539,"missing":12,"mean":7.702,"sd":5.4599,"p50":6,"p99":22};

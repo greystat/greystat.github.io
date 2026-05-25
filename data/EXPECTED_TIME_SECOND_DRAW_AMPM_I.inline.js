@@ -1,1 +1,0 @@
-window.__EXPECTED_TIME_SECOND_DRAW_AMPM_EXAM_I={"concept_id":"EXPECTED_TIME_SECOND_DRAW_AMPM","exam":"I","n":3355,"missing":2401,"n_levels":3,"mode_level":"(Missing)"};

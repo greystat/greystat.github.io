@@ -1,1 +1,0 @@
-window.__FORM83_EXAM_DATE_EXAM_G={"concept_id":"FORM83_EXAM_DATE","exam":"G","n":184,"missing":0,"mean":2005.9891,"sd":0.1474,"p50":2006,"p99":2006};

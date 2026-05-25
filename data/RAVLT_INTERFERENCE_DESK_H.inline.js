@@ -1,1 +1,0 @@
-window.__RAVLT_INTERFERENCE_DESK_EXAM_H={"concept_id":"RAVLT_INTERFERENCE_DESK","exam":"H","n":3386,"missing":1640,"n_levels":2,"mode_level":"Desk"};

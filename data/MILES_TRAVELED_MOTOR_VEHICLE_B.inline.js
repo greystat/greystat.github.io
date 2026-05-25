@@ -1,1 +1,0 @@
-window.__MILES_TRAVELED_MOTOR_VEHICLE_EXAM_B={"concept_id":"MILES_TRAVELED_MOTOR_VEHICLE","exam":"B","n":4623,"missing":49,"mean":254.8456,"sd":390.1307,"p50":15,"p99":888};

@@ -1,1 +1,0 @@
-window.__SELF_INSURED_EXAM_J={"concept_id":"SELF_INSURED","exam":"J","n":2516,"missing":25,"n_levels":4,"mode_level":"No"};

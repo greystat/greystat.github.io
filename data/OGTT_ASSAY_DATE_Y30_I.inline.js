@@ -1,1 +1,0 @@
-window.__OGTT_ASSAY_DATE_Y30_EXAM_I={"concept_id":"OGTT_ASSAY_DATE_Y30","exam":"I","n":3312,"missing":2308,"mean":2015.5787,"sd":0.494,"p50":2016,"p99":2016};

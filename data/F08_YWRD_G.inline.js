@@ -1,1 +1,0 @@
-window.__F08_YWRD_EXAM_G={"concept_id":"F08_YWRD","exam":"G","n":3548,"missing":15,"n_levels":4,"mode_level":"No"};

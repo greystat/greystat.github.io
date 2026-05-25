@@ -1,1 +1,0 @@
-window.__YALTA_QC_PARTICIPANT_YN_EXAM_I={"concept_id":"YALTA_QC_PARTICIPANT_YN","exam":"I","n":3356,"missing":24,"n_levels":3,"mode_level":"\"No\""};

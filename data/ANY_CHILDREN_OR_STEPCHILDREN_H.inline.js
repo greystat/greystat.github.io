@@ -1,1 +1,0 @@
-window.__ANY_CHILDREN_OR_STEPCHILDREN_EXAM_H={"concept_id":"ANY_CHILDREN_OR_STEPCHILDREN","exam":"H","n":3484,"missing":0,"n_levels":2,"mode_level":"Yes"};

@@ -1,1 +1,0 @@
-window.__SPIROMETER_FEF75_TRIAL_VALUES_EXAM_B={"concept_id":"SPIROMETER_FEF75_TRIAL_VALUES","exam":"B","n":4623,"missing":164,"mean":1.6975,"sd":0.709,"p50":1.61,"p99":3.7484};

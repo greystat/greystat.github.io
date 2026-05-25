@@ -1,1 +1,0 @@
-window.__WEIGHT_INTENT_GAIN_LOSS_STABLE_EXAM_D={"concept_id":"WEIGHT_INTENT_GAIN_LOSS_STABLE","exam":"D","n":4085,"missing":308,"n_levels":4,"mode_level":"1"};

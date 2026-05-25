@@ -1,1 +1,0 @@
-window.__MODE_OF_RESPONSE_EXAM_E={"concept_id":"MODE_OF_RESPONSE","exam":"E","n":5114,"missing":401,"n_levels":5,"mode_level":"P"};

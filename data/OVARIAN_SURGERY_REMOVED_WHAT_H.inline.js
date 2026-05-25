@@ -1,1 +1,0 @@
-window.__OVARIAN_SURGERY_REMOVED_WHAT_EXAM_H={"concept_id":"OVARIAN_SURGERY_REMOVED_WHAT","exam":"H","n":273,"missing":8,"n_levels":6,"mode_level":"3"};

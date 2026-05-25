@@ -1,1 +1,0 @@
-window.__ANY_BOTTLES_USED_NOT_RETURNED_EXAM_C={"concept_id":"ANY_BOTTLES_USED_NOT_RETURNED","exam":"C","n":1105,"missing":1090,"n_levels":2,"mode_level":"(Missing)"};

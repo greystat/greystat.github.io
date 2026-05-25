@@ -1,1 +1,0 @@
-window.__TOTAL_URINE_VOLUME_DL_BY_COLLECTION_EXAM_C={"concept_id":"TOTAL_URINE_VOLUME_DL_BY_COLLECTION","exam":"C","n":1105,"missing":67,"mean":13.6039,"sd":7.2157,"p50":12.2049,"p99":36.9139};

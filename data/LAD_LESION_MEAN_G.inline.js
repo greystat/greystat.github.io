@@ -1,1 +1,0 @@
-window.__LAD_LESION_MEAN_EXAM_G={"concept_id":"LAD_LESION_MEAN","exam":"G","n":3139,"missing":1,"mean":33.3715,"sd":87.2458,"p50":0,"p99":350.0788};

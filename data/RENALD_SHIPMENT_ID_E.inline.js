@@ -1,1 +1,0 @@
-window.__RENALD_SHIPMENT_ID_EXAM_E={"concept_id":"RENALD_SHIPMENT_ID","exam":"E","n":232,"missing":0,"n_levels":4,"mode_level":"1"};

@@ -1,1 +1,0 @@
-window.__ICA_DOPPLER_DETECTABLE_LEFT_EXAM_G={"concept_id":"ICA_DOPPLER_DETECTABLE_LEFT","exam":"G","n":3252,"missing":70,"n_levels":3,"mode_level":"2"};

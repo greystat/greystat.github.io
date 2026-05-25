@@ -1,1 +1,0 @@
-window.__F08_MIGYR_EXAM_I={"concept_id":"F08_MIGYR","exam":"I","n":3356,"missing":2846,"n_levels":3,"mode_level":"(Missing)"};

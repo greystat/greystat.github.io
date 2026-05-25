@@ -1,1 +1,0 @@
-window.__VITAMIN_C_FREQUENCY_EXAM_E={"concept_id":"VITAMIN_C_FREQUENCY","exam":"E","n":3949,"missing":3295,"n_levels":4,"mode_level":"(Missing)"};

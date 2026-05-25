@@ -1,1 +1,0 @@
-window.__NONPRESCRIPTION_NONE_12MO_EXAM_F={"concept_id":"NONPRESCRIPTION_NONE_12MO","exam":"F","n":2051,"missing":400,"n_levels":2,"mode_level":"Did not take any of the above"};

@@ -1,1 +1,0 @@
-window.__URINE_COLLECTION_DAY_EXAM_C={"concept_id":"URINE_COLLECTION_DAY","exam":"C","n":600,"missing":0,"n_levels":3,"mode_level":"1"};

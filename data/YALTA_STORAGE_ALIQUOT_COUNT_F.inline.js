@@ -1,1 +1,0 @@
-window.__YALTA_STORAGE_ALIQUOT_COUNT_EXAM_F={"concept_id":"YALTA_STORAGE_ALIQUOT_COUNT","exam":"F","n":3671,"missing":398,"n_levels":5,"mode_level":"3"};

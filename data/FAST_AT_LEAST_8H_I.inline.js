@@ -1,1 +1,0 @@
-window.__FAST_AT_LEAST_8H_EXAM_I={"concept_id":"FAST_AT_LEAST_8H","exam":"I","n":3355,"missing":2389,"n_levels":3,"mode_level":"(Missing)"};

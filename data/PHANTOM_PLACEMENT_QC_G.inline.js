@@ -1,1 +1,0 @@
-window.__PHANTOM_PLACEMENT_QC_EXAM_G={"concept_id":"PHANTOM_PLACEMENT_QC","exam":"G","n":3139,"missing":1,"mean":2.9659,"sd":0.2296,"p50":3,"p99":3};

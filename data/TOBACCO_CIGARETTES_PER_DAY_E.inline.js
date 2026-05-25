@@ -1,1 +1,0 @@
-window.__TOBACCO_CIGARETTES_PER_DAY_EXAM_E={"concept_id":"TOBACCO_CIGARETTES_PER_DAY","exam":"E","n":2240,"missing":1233,"mean":12.9067,"sd":8.9094,"p50":10,"p99":40};

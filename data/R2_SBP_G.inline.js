@@ -1,1 +1,0 @@
-window.__R2_SBP_EXAM_G={"concept_id":"R2_SBP","exam":"G","n":3547,"missing":0,"mean":116.5216,"sd":15.418,"p50":115,"p99":165};

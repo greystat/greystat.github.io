@@ -1,1 +1,0 @@
-window.__WORKPLACE_SMOKING_POLICY_EXAM_J={"concept_id":"WORKPLACE_SMOKING_POLICY","exam":"J","n":2116,"missing":7,"n_levels":6,"mode_level":"Not applicable, do not work (full?time …"};

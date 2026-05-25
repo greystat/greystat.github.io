@@ -1,1 +1,0 @@
-window.__RV_TISSUE_DOPPLER_S_VELOCITY_EXAM_I={"concept_id":"RV_TISSUE_DOPPLER_S_VELOCITY","exam":"I","n":3184,"missing":157,"mean":13.4045,"sd":2.6575,"p50":13.154,"p99":21.2879};

@@ -1,1 +1,0 @@
-window.__INFERTILITY_TREATMENT_OTHER_PELVIC_SURGERY_EXAM_J={"concept_id":"INFERTILITY_TREATMENT_OTHER_PELVIC_SURGERY","exam":"J","n":1421,"missing":1413,"n_levels":2,"mode_level":"(Missing)"};

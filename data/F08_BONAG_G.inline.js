@@ -1,1 +1,0 @@
-window.__F08_BONAG_EXAM_G={"concept_id":"F08_BONAG","exam":"G","n":3548,"missing":3518,"mean":3.2667,"sd":8.7688,"p50":1,"p99":37.52};

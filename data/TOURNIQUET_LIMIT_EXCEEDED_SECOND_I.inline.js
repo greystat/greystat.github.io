@@ -1,1 +1,0 @@
-window.__TOURNIQUET_LIMIT_EXCEEDED_SECOND_EXAM_I={"concept_id":"TOURNIQUET_LIMIT_EXCEEDED_SECOND","exam":"I","n":3355,"missing":2405,"n_levels":3,"mode_level":"(Missing)"};

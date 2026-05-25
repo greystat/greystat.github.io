@@ -1,1 +1,0 @@
-window.__DBP_COLD_PRESSOR_EXAM_B={"concept_id":"DBP_COLD_PRESSOR","exam":"B","n":4623,"missing":988,"mean":93.4735,"sd":13.7706,"p50":94,"p99":127.32};

@@ -1,1 +1,0 @@
-window.__IVS_THICKNESS_SYSTOLE_EXAM_C={"concept_id":"IVS_THICKNESS_SYSTOLE","exam":"C","n":4351,"missing":244,"mean":1.3091,"sd":0.2197,"p50":1.3,"p99":1.88};

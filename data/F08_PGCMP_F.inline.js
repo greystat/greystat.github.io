@@ -1,1 +1,0 @@
-window.__F08_PGCMP_EXAM_F={"concept_id":"F08_PGCMP","exam":"F","n":3671,"missing":3666,"n_levels":2,"mode_level":"(Missing)"};

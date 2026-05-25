@@ -1,1 +1,0 @@
-window.__MASTERY_BEING_PUSHED_AROUND_EXAM_F={"concept_id":"MASTERY_BEING_PUSHED_AROUND","exam":"F","n":3671,"missing":17,"n_levels":6,"mode_level":"Disagree"};

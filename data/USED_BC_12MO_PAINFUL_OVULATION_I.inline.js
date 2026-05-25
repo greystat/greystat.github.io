@@ -1,1 +1,0 @@
-window.__USED_BC_12MO_PAINFUL_OVULATION_EXAM_I={"concept_id":"USED_BC_12MO_PAINFUL_OVULATION","exam":"I","n":1334,"missing":1334,"n_levels":1,"mode_level":"(Missing)"};

@@ -1,1 +1,0 @@
-window.__HR_STAR_TRACING_EXAM_B={"concept_id":"HR_STAR_TRACING","exam":"B","n":4623,"missing":240,"mean":76.3333,"sd":13.0638,"p50":75,"p99":117.18};

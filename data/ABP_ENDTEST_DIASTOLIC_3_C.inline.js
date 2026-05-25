@@ -1,1 +1,0 @@
-window.__ABP_ENDTEST_DIASTOLIC_3_EXAM_C={"concept_id":"ABP_ENDTEST_DIASTOLIC_3","exam":"C","n":316,"missing":11,"mean":70.4328,"sd":16.3553,"p50":69,"p99":128.68};

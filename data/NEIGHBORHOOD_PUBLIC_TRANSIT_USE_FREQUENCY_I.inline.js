@@ -1,1 +1,0 @@
-window.__NEIGHBORHOOD_PUBLIC_TRANSIT_USE_FREQUENCY_EXAM_I={"concept_id":"NEIGHBORHOOD_PUBLIC_TRANSIT_USE_FREQUENCY","exam":"I","n":3274,"missing":2399,"n_levels":5,"mode_level":"(Missing)"};

@@ -1,1 +1,0 @@
-window.__BABY_STATUS_AT_BIRTH_EXAM_F={"concept_id":"BABY_STATUS_AT_BIRTH","exam":"F","n":447,"missing":1,"n_levels":3,"mode_level":"Live birth"};

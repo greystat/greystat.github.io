@@ -1,1 +1,0 @@
-window.__URINE_INITIAL_PH_EXAM_E={"concept_id":"URINE_INITIAL_PH","exam":"E","n":3949,"missing":415,"mean":5.9803,"sd":0.6465,"p50":6,"p99":7.5};

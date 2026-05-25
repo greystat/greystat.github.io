@@ -1,1 +1,0 @@
-window.__VIGOROUS_JOB_MONTHS_5H_PW_EXAM_F={"concept_id":"VIGOROUS_JOB_MONTHS_5H_PW","exam":"F","n":3671,"missing":2275,"mean":5.9592,"sd":5.0163,"p50":5,"p99":12};

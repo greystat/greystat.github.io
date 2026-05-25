@@ -1,1 +1,0 @@
-window.__PREGNANCY_END_STATUS_EXAM_E={"concept_id":"PREGNANCY_END_STATUS","exam":"E","n":698,"missing":28,"n_levels":7,"mode_level":"Natural birth"};

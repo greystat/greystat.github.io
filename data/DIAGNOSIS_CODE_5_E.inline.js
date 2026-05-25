@@ -1,1 +1,0 @@
-window.__DIAGNOSIS_CODE_5_EXAM_E={"concept_id":"DIAGNOSIS_CODE_5","exam":"E","n":1536,"missing":1536,"n_levels":1,"mode_level":"(Missing)"};

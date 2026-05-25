@@ -1,1 +1,0 @@
-window.__RZ2_SBP_EXAM_F={"concept_id":"RZ2_SBP","exam":"F","n":3671,"missing":14,"mean":20.3022,"sd":5.8196,"p50":20,"p99":32};

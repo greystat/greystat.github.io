@@ -1,1 +1,0 @@
-window.__SPOUSE_HIGHEST_DEGREE_EXAM_B={"concept_id":"SPOUSE_HIGHEST_DEGREE","exam":"B","n":4623,"missing":48,"n_levels":10,"mode_level":"High school diploma or equivalency"};

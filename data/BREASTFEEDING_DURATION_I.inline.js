@@ -1,1 +1,0 @@
-window.__BREASTFEEDING_DURATION_EXAM_I={"concept_id":"BREASTFEEDING_DURATION","exam":"I","n":58,"missing":46,"n_levels":5,"mode_level":"(Missing)"};

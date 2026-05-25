@@ -1,1 +1,0 @@
-window.__SPIROMETER_AGE_EXAM_B={"concept_id":"SPIROMETER_AGE","exam":"B","n":4623,"missing":156,"mean":26.9555,"sd":3.6314,"p50":27,"p99":33};

@@ -1,1 +1,0 @@
-window.__RAVLT_INTERFERENCE_PENCIL_EXAM_H={"concept_id":"RAVLT_INTERFERENCE_PENCIL","exam":"H","n":3386,"missing":1621,"n_levels":2,"mode_level":"Pencil"};

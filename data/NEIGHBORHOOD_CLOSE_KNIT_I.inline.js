@@ -1,1 +1,0 @@
-window.__NEIGHBORHOOD_CLOSE_KNIT_EXAM_I={"concept_id":"NEIGHBORHOOD_CLOSE_KNIT","exam":"I","n":2278,"missing":0,"n_levels":5,"mode_level":"Neutral"};

@@ -1,1 +1,0 @@
-window.__MOOD_HAPPY_SAMPLE2_EXAM_F={"concept_id":"MOOD_HAPPY_SAMPLE2","exam":"F","n":814,"missing":9,"n_levels":5,"mode_level":"1"};

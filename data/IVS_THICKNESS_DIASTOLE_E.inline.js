@@ -1,1 +1,0 @@
-window.__IVS_THICKNESS_DIASTOLE_EXAM_E={"concept_id":"IVS_THICKNESS_DIASTOLE","exam":"E","n":1536,"missing":41,"mean":0.7978,"sd":0.1295,"p50":0.79,"p99":1.1606};

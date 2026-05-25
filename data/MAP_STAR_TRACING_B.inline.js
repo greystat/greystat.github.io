@@ -1,1 +1,0 @@
-window.__MAP_STAR_TRACING_EXAM_B={"concept_id":"MAP_STAR_TRACING","exam":"B","n":4623,"missing":213,"mean":90.4989,"sd":11.322,"p50":90,"p99":120.91};

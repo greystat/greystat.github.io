@@ -1,1 +1,0 @@
-window.__PNEUMONIA_EVER_EXAM_A={"concept_id":"PNEUMONIA_EVER","exam":"A","n":5114,"missing":18,"n_levels":3,"mode_level":"No"};

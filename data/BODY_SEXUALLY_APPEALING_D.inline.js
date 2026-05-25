@@ -1,1 +1,0 @@
-window.__BODY_SEXUALLY_APPEALING_EXAM_D={"concept_id":"BODY_SEXUALLY_APPEALING","exam":"D","n":4085,"missing":59,"n_levels":6,"mode_level":"Neither agree nor disagree"};

@@ -1,1 +1,0 @@
-window.__FOOD_LAST_HOUR_EXAM_C={"concept_id":"FOOD_LAST_HOUR","exam":"C","n":448,"missing":17,"n_levels":3,"mode_level":"No"};

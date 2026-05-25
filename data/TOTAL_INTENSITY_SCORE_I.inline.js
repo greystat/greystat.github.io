@@ -1,1 +1,0 @@
-window.__TOTAL_INTENSITY_SCORE_EXAM_I={"concept_id":"TOTAL_INTENSITY_SCORE","exam":"I","n":3271,"missing":0,"mean":321.5087,"sd":271.6328,"p50":258,"p99":1227};

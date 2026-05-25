@@ -1,1 +1,0 @@
-window.__RACKET_MONTHS_3H_PW_EXAM_F={"concept_id":"RACKET_MONTHS_3H_PW","exam":"F","n":3671,"missing":3303,"mean":2.587,"sd":3.7472,"p50":1,"p99":12};

@@ -1,1 +1,0 @@
-window.__HOME_OWNERSHIP_STATUS_EXAM_D={"concept_id":"HOME_OWNERSHIP_STATUS","exam":"D","n":4085,"missing":33,"n_levels":5,"mode_level":"Owned or being bought by you (or someon…"};

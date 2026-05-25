@@ -1,1 +1,0 @@
-window.__MRI_ANY_PARTICIPANT_ISSUES_DETAIL_EXAM_I={"concept_id":"MRI_ANY_PARTICIPANT_ISSUES_DETAIL","exam":"I","n":663,"missing":662,"n_levels":2,"mode_level":"(Missing)"};

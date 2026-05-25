@@ -1,1 +1,0 @@
-window.__ANTIOXIDANT_COMBINATION_NUMBER_EXAM_F={"concept_id":"ANTIOXIDANT_COMBINATION_NUMBER","exam":"F","n":3671,"missing":3585,"n_levels":7,"mode_level":"(Missing)"};

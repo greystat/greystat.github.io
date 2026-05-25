@@ -1,1 +1,0 @@
-window.__F08_OTDAG_EXAM_F={"concept_id":"F08_OTDAG","exam":"F","n":3671,"missing":3544,"mean":30.0945,"sd":9.765,"p50":33,"p99":43};

@@ -1,1 +1,0 @@
-window.__HOME_EXERCISE_MONTHS_3H_PW_EXAM_F={"concept_id":"HOME_EXERCISE_MONTHS_3H_PW","exam":"F","n":3671,"missing":2275,"mean":3.8195,"sd":4.23,"p50":2,"p99":12};

@@ -1,1 +1,0 @@
-window.__DIET_FRUIT_DRINK_FREQUENCY_EXAM_H={"concept_id":"DIET_FRUIT_DRINK_FREQUENCY","exam":"H","n":3475,"missing":2,"n_levels":11,"mode_level":"Never"};

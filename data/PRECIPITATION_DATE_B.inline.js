@@ -1,1 +1,0 @@
-window.__PRECIPITATION_DATE_EXAM_B={"concept_id":"PRECIPITATION_DATE","exam":"B","n":4623,"missing":752,"mean":1987.412,"sd":0.4923,"p50":1987,"p99":1988};

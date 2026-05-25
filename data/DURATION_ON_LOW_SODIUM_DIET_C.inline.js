@@ -1,1 +1,0 @@
-window.__DURATION_ON_LOW_SODIUM_DIET_EXAM_C={"concept_id":"DURATION_ON_LOW_SODIUM_DIET","exam":"C","n":1105,"missing":1060,"mean":21.3111,"sd":28.0323,"p50":12,"p99":99};

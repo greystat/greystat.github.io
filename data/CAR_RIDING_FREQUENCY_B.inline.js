@@ -1,1 +1,0 @@
-window.__CAR_RIDING_FREQUENCY_EXAM_B={"concept_id":"CAR_RIDING_FREQUENCY","exam":"B","n":4623,"missing":47,"n_levels":7,"mode_level":"Daily or almost daily"};

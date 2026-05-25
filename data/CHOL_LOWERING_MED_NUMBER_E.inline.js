@@ -1,1 +1,0 @@
-window.__CHOL_LOWERING_MED_NUMBER_EXAM_E={"concept_id":"CHOL_LOWERING_MED_NUMBER","exam":"E","n":19,"missing":0,"n_levels":2,"mode_level":"1"};

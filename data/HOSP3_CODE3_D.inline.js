@@ -1,1 +1,0 @@
-window.__HOSP3_CODE3_EXAM_D={"concept_id":"HOSP3_CODE3","exam":"D","n":5114,"missing":5114,"n_levels":0,"mode_level":"(Missing)"};

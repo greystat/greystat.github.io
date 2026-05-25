@@ -1,1 +1,0 @@
-window.__TOBACCO_QUIT_ATTEMPTS_COUNT_EXAM_J={"concept_id":"TOBACCO_QUIT_ATTEMPTS_COUNT","exam":"J","n":968,"missing":853,"n_levels":6,"mode_level":"(Missing)"};

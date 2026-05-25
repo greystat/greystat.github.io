@@ -1,1 +1,0 @@
-window.__UNEMPLOYED_OR_LAID_OFF_MAIN_ACTIVITY_EXAM_B={"concept_id":"UNEMPLOYED_OR_LAID_OFF_MAIN_ACTIVITY","exam":"B","n":4623,"missing":44,"n_levels":4,"mode_level":"No"};

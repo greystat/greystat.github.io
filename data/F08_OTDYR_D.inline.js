@@ -1,1 +1,0 @@
-window.__F08_OTDYR_EXAM_D={"concept_id":"F08_OTDYR","exam":"D","n":4085,"missing":3992,"n_levels":3,"mode_level":"(Missing)"};

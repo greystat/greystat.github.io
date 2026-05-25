@@ -1,1 +1,0 @@
-window.__LV_END_SYSTOLIC_VOLUME_EXAM_I={"concept_id":"LV_END_SYSTOLIC_VOLUME","exam":"I","n":3184,"missing":453,"mean":43.4283,"sd":17.1442,"p50":41.222,"p99":102.6571};

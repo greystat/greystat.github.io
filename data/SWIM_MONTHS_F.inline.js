@@ -1,1 +1,0 @@
-window.__SWIM_MONTHS_EXAM_F={"concept_id":"SWIM_MONTHS","exam":"F","n":3671,"missing":2948,"mean":3.5173,"sd":3.0641,"p50":3,"p99":12};

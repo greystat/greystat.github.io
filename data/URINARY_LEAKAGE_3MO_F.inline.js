@@ -1,1 +1,0 @@
-window.__URINARY_LEAKAGE_3MO_EXAM_F={"concept_id":"URINARY_LEAKAGE_3MO","exam":"F","n":2051,"missing":1662,"n_levels":2,"mode_level":"(Missing)"};

@@ -1,1 +1,0 @@
-window.__URINARY_CREATININE_24HR_BY_DAY_EXAM_C={"concept_id":"URINARY_CREATININE_24HR_BY_DAY","exam":"C","n":1105,"missing":71,"mean":1624.4528,"sd":826.2173,"p50":1469.1088,"p99":4180.6415};

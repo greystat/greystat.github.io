@@ -1,1 +1,0 @@
-window.__ASPIRIN_PURPOSE_EXAM_E={"concept_id":"ASPIRIN_PURPOSE","exam":"E","n":153,"missing":0,"n_levels":2,"mode_level":"Did not mention avoiding heart attack a…"};

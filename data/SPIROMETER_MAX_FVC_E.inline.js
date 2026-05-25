@@ -1,1 +1,0 @@
-window.__SPIROMETER_MAX_FVC_EXAM_E={"concept_id":"SPIROMETER_MAX_FVC","exam":"E","n":3949,"missing":196,"mean":4.2604,"sd":1.021,"p50":4.13,"p99":6.8744};

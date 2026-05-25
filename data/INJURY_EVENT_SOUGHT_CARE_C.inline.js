@@ -1,1 +1,0 @@
-window.__INJURY_EVENT_SOUGHT_CARE_EXAM_C={"concept_id":"INJURY_EVENT_SOUGHT_CARE","exam":"C","n":2272,"missing":8,"n_levels":3,"mode_level":"1"};

@@ -1,1 +1,0 @@
-window.__F08_COPDYR_EXAM_G={"concept_id":"F08_COPDYR","exam":"G","n":3548,"missing":3537,"n_levels":3,"mode_level":"(Missing)"};

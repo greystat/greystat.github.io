@@ -1,1 +1,0 @@
-window.__DO_NOT_DO_THINGS_TO_KEEP_FIT_EXAM_D={"concept_id":"DO_NOT_DO_THINGS_TO_KEEP_FIT","exam":"D","n":4085,"missing":56,"n_levels":6,"mode_level":"Mostly disagree"};

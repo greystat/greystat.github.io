@@ -1,1 +1,0 @@
-window.__NICOTINE_PATCH_EVER_USED_EXAM_I={"concept_id":"NICOTINE_PATCH_EVER_USED","exam":"I","n":3349,"missing":1576,"n_levels":3,"mode_level":"(Missing)"};

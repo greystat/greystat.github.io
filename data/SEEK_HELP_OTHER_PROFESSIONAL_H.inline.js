@@ -1,1 +1,0 @@
-window.__SEEK_HELP_OTHER_PROFESSIONAL_EXAM_H={"concept_id":"SEEK_HELP_OTHER_PROFESSIONAL","exam":"H","n":3460,"missing":3434,"n_levels":2,"mode_level":"(Missing)"};

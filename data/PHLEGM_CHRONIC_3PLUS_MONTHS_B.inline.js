@@ -1,1 +1,0 @@
-window.__PHLEGM_CHRONIC_3PLUS_MONTHS_EXAM_B={"concept_id":"PHLEGM_CHRONIC_3PLUS_MONTHS","exam":"B","n":4623,"missing":3939,"n_levels":3,"mode_level":"(Missing)"};

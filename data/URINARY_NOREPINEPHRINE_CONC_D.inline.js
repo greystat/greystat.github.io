@@ -1,1 +1,0 @@
-window.__URINARY_NOREPINEPHRINE_CONC_EXAM_D={"concept_id":"URINARY_NOREPINEPHRINE_CONC","exam":"D","n":222,"missing":1,"mean":242.6235,"sd":143.7123,"p50":217,"p99":676.024};

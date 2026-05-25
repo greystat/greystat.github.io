@@ -1,1 +1,0 @@
-window.__CRACK_ROUTE_SWALLOW_EXAM_E={"concept_id":"CRACK_ROUTE_SWALLOW","exam":"E","n":3949,"missing":3885,"n_levels":2,"mode_level":"(Missing)"};

@@ -1,1 +1,0 @@
-window.__F08_MENTL_EXAM_G={"concept_id":"F08_MENTL","exam":"G","n":3548,"missing":7,"n_levels":4,"mode_level":"No"};

@@ -1,1 +1,0 @@
-window.__ABP_COMMENT_CONCEPT={"concept_id":"ABP_COMMENT","title":"ABP Monitor Comment","chips":["categorical","F42 · Audiology","Cardiovascular"],"members":[{"concept_id":"ABP_COMMENT","exam":"C","exam_year":"","dataset":"c1f42","dataset_stub":"c1f42","varname":"C42_CMMT","family":"F42","form_label":"","n_labels":"","instrument":"F42","notes":""}],"dictionary":{}};

@@ -1,1 +1,0 @@
-window.__CONSENT_SIGNED_EXAM_E={"concept_id":"CONSENT_SIGNED","exam":"E","n":3949,"missing":3713,"n_levels":3,"mode_level":"(Missing)"};

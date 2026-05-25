@@ -1,1 +1,0 @@
-window.__HOUSEHOLD_ORGANIZATION_CHILDHOOD_EXAM_F={"concept_id":"HOUSEHOLD_ORGANIZATION_CHILDHOOD","exam":"F","n":3671,"missing":18,"n_levels":5,"mode_level":"Most or all of the time"};

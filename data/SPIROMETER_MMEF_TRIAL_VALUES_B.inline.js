@@ -1,1 +1,0 @@
-window.__SPIROMETER_MMEF_TRIAL_VALUES_EXAM_B={"concept_id":"SPIROMETER_MMEF_TRIAL_VALUES","exam":"B","n":4623,"missing":164,"mean":3.4043,"sd":1.0886,"p50":3.34,"p99":6.3242};

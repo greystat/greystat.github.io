@@ -1,1 +1,0 @@
-window.__HIP_QUESTIONNAIRE_COMPLETED_EXAM_E={"concept_id":"HIP_QUESTIONNAIRE_COMPLETED","exam":"E","n":2190,"missing":505,"n_levels":3,"mode_level":"2"};

@@ -1,1 +1,0 @@
-window.__YALTA_URINE_3ML_ALIQUOTS_EXAM_H={"concept_id":"YALTA_URINE_3ML_ALIQUOTS","exam":"H","n":3493,"missing":64,"n_levels":3,"mode_level":"3 mL urine aliquots, metabolic profile,…"};

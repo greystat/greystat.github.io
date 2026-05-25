@@ -1,1 +1,0 @@
-window.__FORM10_INTERVIEWER_ID_EXAM_I={"concept_id":"FORM10_INTERVIEWER_ID","exam":"I","n":3349,"missing":3349,"mean":"NA","sd":"NA","p50":"NA","p99":"NA"};

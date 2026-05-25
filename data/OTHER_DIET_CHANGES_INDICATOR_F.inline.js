@@ -1,1 +1,0 @@
-window.__OTHER_DIET_CHANGES_INDICATOR_EXAM_F={"concept_id":"OTHER_DIET_CHANGES_INDICATOR","exam":"F","n":3671,"missing":1820,"n_levels":3,"mode_level":"(Missing)"};

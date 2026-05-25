@@ -1,1 +1,0 @@
-window.__FORM10_EXAM_DATE_EXAM_G={"concept_id":"FORM10_EXAM_DATE","exam":"G","n":3547,"missing":2876,"mean":2005.4903,"sd":0.5003,"p50":2005,"p99":2006};

@@ -1,1 +1,0 @@
-window.__CUFF_SIZE_EXAM_C={"concept_id":"CUFF_SIZE","exam":"C","n":4351,"missing":2,"n_levels":5,"mode_level":"Regular ARM"};

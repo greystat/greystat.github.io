@@ -1,1 +1,0 @@
-window.__F08_BPHAG_EXAM_J={"concept_id":"F08_BPHAG","exam":"J","n":2776,"missing":2629,"mean":54.0884,"sd":7.8731,"p50":55,"p99":65};

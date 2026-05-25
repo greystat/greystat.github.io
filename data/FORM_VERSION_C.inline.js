@@ -1,1 +1,0 @@
-window.__FORM_VERSION_EXAM_C={"concept_id":"FORM_VERSION","exam":"C","n":5114,"missing":802,"n_levels":2,"mode_level":"2"};

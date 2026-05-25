@@ -1,1 +1,0 @@
-window.__RANDOM_ZERO_MACHINE_ID_EXAM_B={"concept_id":"RANDOM_ZERO_MACHINE_ID","exam":"B","n":4623,"missing":5,"mean":292.1514,"sd":119.543,"p50":380,"p99":402};

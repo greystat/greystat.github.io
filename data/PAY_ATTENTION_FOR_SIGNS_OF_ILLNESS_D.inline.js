@@ -1,1 +1,0 @@
-window.__PAY_ATTENTION_FOR_SIGNS_OF_ILLNESS_EXAM_D={"concept_id":"PAY_ATTENTION_FOR_SIGNS_OF_ILLNESS","exam":"D","n":4085,"missing":60,"n_levels":6,"mode_level":"Mostly agree"};

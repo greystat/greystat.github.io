@@ -1,1 +1,0 @@
-window.__OTHER_REFERRAL_CONCEPT={"concept_id":"OTHER_REFERRAL","title":"Other Referral","chips":["categorical","Medical History"],"members":[{"concept_id":"OTHER_REFERRAL","exam":"D","exam_year":"","dataset":"dflwup1","dataset_stub":"dflwup1","varname":"FY096RO","family":"FLWUP","form_label":"","n_labels":"","instrument":"FLWUP","notes":""}],"dictionary":{}};

@@ -1,1 +1,0 @@
-window.__CONFIDENCE_MODIFY_DIET_IMPROVE_HEALTH_EXAM_I={"concept_id":"CONFIDENCE_MODIFY_DIET_IMPROVE_HEALTH","exam":"I","n":3277,"missing":2,"n_levels":6,"mode_level":"5"};

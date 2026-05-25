@@ -1,1 +1,0 @@
-window.__LEFT_ATRIAL_VOLUME_2D_EXAM_H={"concept_id":"LEFT_ATRIAL_VOLUME_2D","exam":"H","n":3474,"missing":140,"mean":50.5234,"sd":15.2746,"p50":48.6355,"p99":93.0568};

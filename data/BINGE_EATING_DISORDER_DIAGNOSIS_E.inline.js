@@ -1,1 +1,0 @@
-window.__BINGE_EATING_DISORDER_DIAGNOSIS_EXAM_E={"concept_id":"BINGE_EATING_DISORDER_DIAGNOSIS","exam":"E","n":3949,"missing":37,"n_levels":3,"mode_level":"1"};

@@ -1,1 +1,0 @@
-window.__TYPE_A_UPSET_WAITING_EXAM_A={"concept_id":"TYPE_A_UPSET_WAITING","exam":"A","n":5114,"missing":57,"n_levels":3,"mode_level":"Very well"};

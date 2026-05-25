@@ -1,1 +1,0 @@
-window.__F08_MIGAG_EXAM_J={"concept_id":"F08_MIGAG","exam":"J","n":2776,"missing":2392,"mean":29.9167,"sd":14.3271,"p50":26.5,"p99":61.17};

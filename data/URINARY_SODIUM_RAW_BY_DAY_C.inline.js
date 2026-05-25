@@ -1,1 +1,0 @@
-window.__URINARY_SODIUM_RAW_BY_DAY_EXAM_C={"concept_id":"URINARY_SODIUM_RAW_BY_DAY","exam":"C","n":1105,"missing":62,"mean":14.3966,"sd":5.978,"p50":14.3,"p99":29.258};

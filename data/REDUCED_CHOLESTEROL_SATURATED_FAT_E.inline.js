@@ -1,1 +1,0 @@
-window.__REDUCED_CHOLESTEROL_SATURATED_FAT_EXAM_E={"concept_id":"REDUCED_CHOLESTEROL_SATURATED_FAT","exam":"E","n":3949,"missing":2232,"n_levels":3,"mode_level":"(Missing)"};

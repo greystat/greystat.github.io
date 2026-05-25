@@ -1,1 +1,0 @@
-window.__PREGNANT_EXAM_E={"concept_id":"PREGNANT","exam":"E","n":3949,"missing":1406,"n_levels":5,"mode_level":"(Missing)"};

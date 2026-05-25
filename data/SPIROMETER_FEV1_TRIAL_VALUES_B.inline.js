@@ -1,1 +1,0 @@
-window.__SPIROMETER_FEV1_TRIAL_VALUES_EXAM_B={"concept_id":"SPIROMETER_FEV1_TRIAL_VALUES","exam":"B","n":4623,"missing":160,"mean":3.2952,"sd":0.8486,"p50":3.23,"p99":5.3776};

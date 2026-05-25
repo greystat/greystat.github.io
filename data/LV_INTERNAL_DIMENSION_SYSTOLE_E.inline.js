@@ -1,1 +1,0 @@
-window.__LV_INTERNAL_DIMENSION_SYSTOLE_EXAM_E={"concept_id":"LV_INTERNAL_DIMENSION_SYSTOLE","exam":"E","n":1536,"missing":41,"mean":3.3019,"sd":0.4365,"p50":3.27,"p99":4.3518};

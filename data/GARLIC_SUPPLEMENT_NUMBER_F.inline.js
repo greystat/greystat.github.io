@@ -1,1 +1,0 @@
-window.__GARLIC_SUPPLEMENT_NUMBER_EXAM_F={"concept_id":"GARLIC_SUPPLEMENT_NUMBER","exam":"F","n":3671,"missing":3568,"n_levels":10,"mode_level":"(Missing)"};

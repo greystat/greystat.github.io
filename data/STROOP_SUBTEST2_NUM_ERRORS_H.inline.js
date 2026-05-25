@@ -1,1 +1,0 @@
-window.__STROOP_SUBTEST2_NUM_ERRORS_EXAM_H={"concept_id":"STROOP_SUBTEST2_NUM_ERRORS","exam":"H","n":3391,"missing":18,"mean":0.2001,"sd":1.4313,"p50":0,"p99":3};

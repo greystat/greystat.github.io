@@ -1,1 +1,0 @@
-window.__HYSTERECTOMY_HISTORY_EXAM_G={"concept_id":"HYSTERECTOMY_HISTORY","exam":"G","n":1990,"missing":1431,"n_levels":3,"mode_level":"(Missing)"};

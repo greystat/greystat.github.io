@@ -1,1 +1,0 @@
-window.__HAS_HEALTH_INSURANCE_THROUGH_EMPLOYER_EXAM_G={"concept_id":"HAS_HEALTH_INSURANCE_THROUGH_EMPLOYER","exam":"G","n":3537,"missing":1,"n_levels":4,"mode_level":"Yes"};

@@ -1,1 +1,0 @@
-window.__TYPE_A_EXCEL_NEED_EXAM_B={"concept_id":"TYPE_A_EXCEL_NEED","exam":"B","n":4623,"missing":47,"n_levels":5,"mode_level":"Fairly well"};

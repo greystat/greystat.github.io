@@ -1,1 +1,0 @@
-window.__SPIROMETER_MAX_FEV1_EXAM_E={"concept_id":"SPIROMETER_MAX_FEV1","exam":"E","n":3949,"missing":196,"mean":3.3923,"sd":0.7817,"p50":3.29,"p99":5.3648};

@@ -1,1 +1,0 @@
-window.__ASTHMA_MED_MONTHS_USE_EXAM_B={"concept_id":"ASTHMA_MED_MONTHS_USE","exam":"B","n":300,"missing":6,"mean":1.6973,"sd":2.5811,"p50":0,"p99":9.07};

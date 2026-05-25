@@ -1,1 +1,0 @@
-window.__F08_BRSFD_EXAM_H={"concept_id":"F08_BRSFD","exam":"H","n":3485,"missing":1841,"n_levels":3,"mode_level":"(Missing)"};

@@ -1,1 +1,0 @@
-window.__LOOKING_FOR_WORK_CURRENTLY_EXAM_G={"concept_id":"LOOKING_FOR_WORK_CURRENTLY","exam":"G","n":3537,"missing":1,"n_levels":4,"mode_level":"No"};

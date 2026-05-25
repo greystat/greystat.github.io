@@ -1,1 +1,0 @@
-window.__TYPE_A_HARD_DRIVING_COMPETITIVE_EXAM_B={"concept_id":"TYPE_A_HARD_DRIVING_COMPETITIVE","exam":"B","n":4623,"missing":47,"n_levels":5,"mode_level":"Somewhat"};

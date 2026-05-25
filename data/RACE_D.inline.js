@@ -1,1 +1,0 @@
-window.__RACE_EXAM_D={"concept_id":"RACE","exam":"D","n":5114,"missing":0,"n_levels":2,"mode_level":"4"};

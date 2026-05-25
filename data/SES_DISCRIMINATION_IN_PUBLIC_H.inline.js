@@ -1,1 +1,0 @@
-window.__SES_DISCRIMINATION_IN_PUBLIC_EXAM_H={"concept_id":"SES_DISCRIMINATION_IN_PUBLIC","exam":"H","n":3474,"missing":8,"n_levels":2,"mode_level":"Yes"};
